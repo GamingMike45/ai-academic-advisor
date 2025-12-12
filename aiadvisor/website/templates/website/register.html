@@ -1,0 +1,265 @@
+{% extends 'website/base.html' %} {% block title %}Sign Up - AI Academic
+Advisor{% endblock %} {% block extra_css %}
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+  body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #fafafa;
+  }
+
+  .auth-input {
+    height: 48px;
+    padding: 12px 14px;
+    font-size: 15px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    transition: all 0.15s ease;
+    background: white;
+  }
+
+  .auth-input:focus {
+    outline: none;
+    border: 2px solid #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+    padding: 12px 13px;
+  }
+
+  .auth-input.error {
+    border-color: #ef4444;
+  }
+
+  .auth-button {
+    height: 48px;
+    font-size: 16px;
+    font-weight: 600;
+    background: #3b82f6;
+    color: white;
+    border-radius: 8px;
+    transition: background 0.15s ease;
+    border: none;
+    cursor: pointer;
+  }
+
+  .auth-button:hover {
+    background: #2563eb;
+  }
+
+  .auth-button:active {
+    background: #1d4ed8;
+  }
+
+  .password-strength {
+    height: 3px;
+    background: #e5e7eb;
+    border-radius: 2px;
+    overflow: hidden;
+    margin-top: 6px;
+  }
+
+  .password-strength-bar {
+    height: 100%;
+    transition: all 0.3s ease;
+  }
+
+  .fade-in {
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+</style>
+{% endblock %} {% block content %}
+<div class="min-h-screen flex flex-col items-center justify-center px-4 py-12" style="background: #fafafa">
+  <!-- Logo -->
+  <div class="mb-12 fade-in">
+    <a href="{% url 'home' %}" class="flex items-center justify-center space-x-2">
+      <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center">
+        <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z">
+          </path>
+        </svg>
+      </div>
+      <span class="text-xl font-bold text-gray-900">AI Advisor</span>
+    </a>
+  </div>
+
+  <!-- Form Card -->
+  <div class="w-full max-w-md bg-white rounded-2xl border border-gray-200 shadow-sm fade-in" style="padding: 48px 40px">
+    <!-- Heading -->
+    <div class="text-center mb-8">
+      <h1 class="text-3xl font-semibold text-gray-900 mb-2">Create account</h1>
+      <p class="text-base text-gray-500">Sign up to get started</p>
+    </div>
+
+    <!-- Form -->
+    <form method="post" action="{% url 'register' %}" class="space-y-5"
+      x-data="{ showPassword: false, showPassword2: false, passwordStrength: 0 }">
+      {% csrf_token %}
+
+      <!-- Django Messages -->
+      {% if messages %}
+      <div class="space-y-2">
+        {% for message in messages %}
+        <div
+          class="{% if message.tags == 'error' %}bg-red-50 border-red-200 text-red-600{% else %}bg-green-50 border-green-200 text-green-600{% endif %} border rounded-lg p-3">
+          <p class="text-sm">{{ message }}</p>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <!-- Error Messages -->
+      {% if form.non_field_errors %}
+      <div class="bg-red-50 border border-red-200 rounded-lg p-3">
+        <p class="text-sm text-red-600">{{ form.non_field_errors.0 }}</p>
+      </div>
+      {% endif %}
+
+      <!-- Username -->
+      <div>
+        <label for="id_username" class="block text-sm font-medium text-gray-700 mb-2">Username</label>
+        <input type="text" name="username" id="id_username"
+          class="auth-input w-full {% if form.username.errors %}error{% endif %}" placeholder="Choose a username"
+          required value="{{ form.username.value|default:'' }}" />
+        {% if form.username.errors %}
+        <p class="text-sm text-red-500 mt-1">{{ form.username.errors.0 }}</p>
+        {% endif %}
+      </div>
+
+      <!-- Email -->
+      <div>
+        <label for="id_email" class="block text-sm font-medium text-gray-700 mb-2">Email</label>
+        <input type="email" name="email" id="id_email"
+          class="auth-input w-full {% if form.email.errors %}error{% endif %}" placeholder="Enter your email" required
+          value="{{ form.email.value|default:'' }}" />
+        {% if form.email.errors %}
+        <p class="text-sm text-red-500 mt-1">{{ form.email.errors.0 }}</p>
+        {% endif %}
+      </div>
+
+      <!-- First Name -->
+      <div>
+        <label for="id_first_name" class="block text-sm font-medium text-gray-700 mb-2">First Name</label>
+        <input type="text" name="first_name" id="id_first_name"
+          class="auth-input w-full {% if form.first_name.errors %}error{% endif %}" placeholder="Enter your first name"
+          required value="{{ form.first_name.value|default:'' }}" />
+        {% if form.first_name.errors %}
+        <p class="text-sm text-red-500 mt-1">{{ form.first_name.errors.0 }}</p>
+        {% endif %}
+      </div>
+
+      <!-- Last Name -->
+      <div>
+        <label for="id_last_name" class="block text-sm font-medium text-gray-700 mb-2">Last Name</label>
+        <input type="text" name="last_name" id="id_last_name"
+          class="auth-input w-full {% if form.last_name.errors %}error{% endif %}" placeholder="Enter your last name"
+          required value="{{ form.last_name.value|default:'' }}" />
+        {% if form.last_name.errors %}
+        <p class="text-sm text-red-500 mt-1">{{ form.last_name.errors.0 }}</p>
+        {% endif %}
+      </div>
+
+      <!-- Password -->
+      <div>
+        <label for="id_password1" class="block text-sm font-medium text-gray-700 mb-2">Password</label>
+        <div class="relative">
+          <input :type="showPassword ? 'text' : 'password'" name="password1" id="id_password1"
+            class="auth-input w-full pr-12 {% if form.password1.errors %}error{% endif %}"
+            placeholder="Create a password" required
+            @input="passwordStrength = $event.target.value.length >= 8 ? ($event.target.value.length >= 12 ? 100 : 60) : 30" />
+          <button type="button" @click="showPassword = !showPassword"
+            class="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600 transition-colors">
+            <svg x-show="!showPassword" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z">
+              </path>
+            </svg>
+            <svg x-show="showPassword" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21">
+              </path>
+            </svg>
+          </button>
+        </div>
+        <div class="password-strength">
+          <div class="password-strength-bar"
+            :style="`width: ${passwordStrength}%; background: ${passwordStrength < 40 ? '#EF4444' : passwordStrength < 70 ? '#F59E0B' : '#10B981'}`">
+          </div>
+        </div>
+        {% if form.password1.errors %}
+        <p class="text-sm text-red-500 mt-1">{{ form.password1.errors.0 }}</p>
+        {% else %}
+        <div class="mt-2 space-y-1">
+          <p class="text-xs text-gray-600 font-medium">
+            Password must contain:
+          </p>
+          <ul class="text-xs text-gray-500 space-y-0.5 ml-1">
+            <li>• At least 8 characters</li>
+            <li>• Cannot be too similar to your other personal information</li>
+            <li>• Cannot be a commonly used password</li>
+            <li>• Cannot be entirely numeric</li>
+          </ul>
+        </div>
+        {% endif %}
+      </div>
+
+      <!-- Confirm Password -->
+      <div>
+        <label for="id_password2" class="block text-sm font-medium text-gray-700 mb-2">Confirm Password</label>
+        <div class="relative">
+          <input :type="showPassword2 ? 'text' : 'password'" name="password2" id="id_password2"
+            class="auth-input w-full pr-12 {% if form.password2.errors %}error{% endif %}"
+            placeholder="Confirm your password" required />
+          <button type="button" @click="showPassword2 = !showPassword2"
+            class="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600 transition-colors">
+            <svg x-show="!showPassword2" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z">
+              </path>
+            </svg>
+            <svg x-show="showPassword2" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21">
+              </path>
+            </svg>
+          </button>
+        </div>
+        {% if form.password2.errors %}
+        <p class="text-sm text-red-500 mt-1">{{ form.password2.errors.0 }}</p>
+        {% endif %}
+      </div>
+
+      <!-- Submit Button -->
+      <button type="submit" class="auth-button w-full mt-6">
+        Create account
+      </button>
+    </form>
+
+    <!-- Footer Link -->
+    <p class="text-center text-gray-600 mt-5 text-sm">
+      Already have an account?
+      <a href="{% url 'login' %}" class="text-blue-600 hover:text-blue-700 font-medium hover:underline">Sign in</a>
+    </p>
+
+    <!-- Terms -->
+    <p class="text-center text-gray-500 mt-4 text-xs">
+      By signing up, you agree to our
+      <a href="#" class="text-blue-600 hover:underline">Terms</a> and
+      <a href="#" class="text-blue-600 hover:underline">Privacy Policy</a>
+    </p>
+  </div>
+</div>
+{% endblock %}

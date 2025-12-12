@@ -1,0 +1,485 @@
+{% extends 'website/base.html' %} {% load static %} {% block title %}AI Chat -
+AI Academic Advisor{% endblock %} {% block extra_css %}
+<style>
+  #chat-box {
+    height: calc(100vh - 280px);
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  #chat-box .message {
+    margin-bottom: 1rem;
+    animation: slideUp 0.3s ease-out;
+  }
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Custom scrollbar */
+  #chat-box::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  #chat-box::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  #chat-box::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+  }
+
+  #chat-box::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+  }
+
+  /* Typing bubble animation */
+  .typing-bubble {
+    display: inline-flex;
+    gap: 4px;
+    align-items: center;
+    padding: 8px 12px;
+  }
+
+  .typing-bubble div {
+    width: 8px;
+    height: 8px;
+    background: #737373;
+    border-radius: 50%;
+    animation: blink 1.4s infinite both;
+  }
+
+  .typing-bubble div:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+
+  .typing-bubble div:nth-child(3) {
+    animation-delay: 0.4s;
+  }
+
+  @keyframes blink {
+    0% {
+      opacity: 0.2;
+    }
+
+    20% {
+      opacity: 1;
+    }
+
+    100% {
+      opacity: 0.2;
+    }
+  }
+
+  /* Message bubbles */
+  .message-bubble {
+    max-width: 85%;
+    padding: 12px 16px;
+    border-radius: 18px;
+    word-wrap: break-word;
+  }
+
+  .message-user .message-bubble {
+    background: #3b82f6;
+    color: white;
+  }
+
+  .message-ai .message-bubble {
+    background: #e5e7eb;
+    color: #1f2937;
+  }
+
+  /* Thinking logs styling */
+  .thinking-block {
+    margin-top: 8px;
+    padding: 8px 12px;
+    background: #f3f4f6;
+    border-radius: 8px;
+    border: 1px solid #d1d5db;
+  }
+
+  .thinking-block summary {
+    font-size: 0.875rem;
+    color: #6b7280;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .thinking-block summary:hover {
+    color: #374151;
+  }
+
+  .thinking-block pre {
+    margin-top: 8px;
+    font-size: 0.75rem;
+    color: #4b5563;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  /* Prose styling for markdown */
+  .prose {
+    max-width: none;
+  }
+
+  .prose p {
+    margin-bottom: 0.75rem;
+  }
+
+  .prose p:last-child {
+    margin-bottom: 0;
+  }
+
+  .prose ul,
+  .prose ol {
+    margin: 0.75rem 0;
+    padding-left: 1.5rem;
+  }
+
+  .prose li {
+    margin: 0.25rem 0;
+  }
+
+  .prose code {
+    background: #f3f4f6;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.875em;
+  }
+
+  .prose pre {
+    background: #1f2937;
+    color: #f9fafb;
+    padding: 12px;
+    border-radius: 8px;
+    overflow-x: auto;
+    margin: 0.75rem 0;
+  }
+
+  .prose pre code {
+    background: transparent;
+    padding: 0;
+    color: inherit;
+  }
+
+  .prose h1,
+  .prose h2,
+  .prose h3,
+  .prose h4 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  .prose h1 {
+    font-size: 1.5rem;
+  }
+
+  .prose h2 {
+    font-size: 1.25rem;
+  }
+
+  .prose h3 {
+    font-size: 1.125rem;
+  }
+
+  .prose h4 {
+    font-size: 1rem;
+  }
+</style>
+{% endblock %} {% block content %}
+<div class="min-h-screen bg-neutral-50 pt-20">
+  <!-- Header -->
+  <div class="bg-white border-b border-neutral-200 sticky top-16 z-10">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+      <div class="flex items-center justify-between">
+        <div class="flex items-center space-x-4">
+          <a href="{% url 'dashboard' %}" class="p-2 hover:bg-neutral-100 rounded-lg transition-colors duration-200">
+            <svg class="w-5 h-5 text-neutral-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18">
+              </path>
+            </svg>
+          </a>
+          <div>
+            <h1 class="text-xl font-bold text-neutral-900">
+              AI Academic Advisor
+            </h1>
+            <p class="text-sm text-neutral-500 font-light">
+              Ask me anything about your academics
+            </p>
+          </div>
+        </div>
+
+        <!-- Buttons (Download PDF + Clear Chat) -->
+        <div class="flex items-center gap-3">
+          <a href="{% url 'export_chat_pdf' %}" class="btn-ghost text-sm">
+            <svg class="w-4 h-4 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M12 3v12m0 0l4-4m-4 4l-4-4M4 15v4a2 2 0 002 2h12a2 2 0 002-2v-4">
+              </path>
+            </svg>
+            Download PDF
+          </a>
+
+          <a href="{% url 'clear_chat' %}" class="btn-ghost text-sm">
+            <svg class="w-4 h-4 inline-block mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16">
+              </path>
+            </svg>
+            Clear Chat
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chat Container -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+    <div class="max-w-4xl mx-auto">
+      <!-- Chat Box -->
+      <div id="chat-box" class="mb-6 space-y-4">
+        {% include 'website/message_partial.html' with messages=messages %}
+      </div>
+
+      <!-- Input -->
+      <div class="sticky bottom-0 bg-neutral-50 pt-4 pb-6">
+        <form id="chat-form" class="max-w-4xl mx-auto">
+          {% csrf_token %}
+          <div class="flex gap-3 items-end">
+            <div class="flex-1 relative">
+              <input type="text" name="message" id="message-input"
+                placeholder="Ask about courses, requirements, or your academic progress..." autocomplete="off"
+                class="w-full px-6 py-4 bg-white border border-neutral-300 rounded-2xl focus:outline-none focus:ring-2 focus:ring-primary-500 pr-12" />
+            </div>
+            <button type="submit" id="send-button"
+              class="btn-primary px-6 py-4 rounded-2xl flex items-center justify-center">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path>
+              </svg>
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %} {% block extra_js %}
+<script src="https://unpkg.com/htmx.org@2.0.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script>
+
+function cleanResponseText(text) {
+  // Remove all tags: [AI RESPONSE], [/AI RESPONSE], [THINKING], [/THINKING]
+  return text
+    .replace(/\[AI RESPONSE\]/g, "")
+    .replace(/\[\/AI RESPONSE\]/g, "")
+    .replace(/\[THINKING\][\s\S]*?\[\/THINKING\]/g, "")
+    .trim();
+}
+
+// Unified function to render markdown content
+function renderMarkdown(text) {
+  const cleanedText = cleanResponseText(text).trim();
+  const markdownHTML = marked.parse(cleanedText);
+  return `<div class="prose">${markdownHTML}</div>`;
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  const box = document.getElementById("chat-box");
+  box.scrollTop = box.scrollHeight;
+
+  // Configure marked options for better markdown rendering
+  marked.setOptions({
+    breaks: true,        // Convert \n to <br>
+    gfm: true,          // GitHub Flavored Markdown
+    headerIds: true,     // Add IDs to headers
+    mangle: false,       // Don't escape autolinked email addresses
+    pedantic: false      // Don't conform to obscure markdown quirks
+  });
+
+  // Render existing messages as markdown (on page load)
+  const messageContents = document.querySelectorAll('[id$="-msg-content"]');
+  messageContents.forEach((element) => {
+    const roleSpan = element.querySelector(".role");
+    const contentDiv = element.querySelector(".markdown-content");
+    
+    if (roleSpan && contentDiv) {
+      const textContent = contentDiv.textContent.trim();
+      contentDiv.innerHTML = renderMarkdown(textContent);
+    }
+  });
+});
+
+function appendMessage(role, isTyping = false) {
+  const message = document.createElement("div");
+  message.className = `message ${role === "User" ? "message-user" : "message-ai"} flex ${role === "User" ? "justify-end" : "justify-start"}`;
+
+  const bubble = document.createElement("div");
+  bubble.className = "message-bubble max-w-3xl";
+
+  if (isTyping) {
+    // Create typing indicator
+    bubble.innerHTML = `
+      <div class="typing-bubble">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    `;
+  } else {
+    // Create normal message structure matching the template
+    const content = document.createElement("div");
+    content.id = `${role}-dynamic-msg-content`;
+    content.innerHTML = `
+      <span class='role font-semibold block mb-1 text-sm opacity-75'>${role}</span>
+      <div class="markdown-content text-sm md:text-base"></div>
+    `;
+    bubble.appendChild(content);
+  }
+
+  message.appendChild(bubble);
+  document.getElementById("chat-box").appendChild(message);
+
+  const box = document.getElementById("chat-box");
+  box.scrollTop = box.scrollHeight;
+
+  if (isTyping) {
+    return message; // Return the message element for typing indicator
+  } else {
+    return bubble.querySelector(`#${role}-dynamic-msg-content`); // Return content div for normal messages
+  }
+}
+
+function scrollToBottom() {
+  const box = document.getElementById("chat-box");
+  box.scrollTop = box.scrollHeight;
+}
+
+document.getElementById("chat-form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+
+  const form = e.target;
+  const data = new FormData(form);
+  const messageText = data.get("message");
+  if (!messageText.trim()) return;
+
+  // Disable input and button during processing
+  const messageInput = document.getElementById("message-input");
+  const sendButton = document.getElementById("send-button");
+  messageInput.disabled = true;
+  sendButton.disabled = true;
+
+  // Append user message
+  const userContent = appendMessage("User");
+  const userMarkdownDiv = userContent.querySelector(".markdown-content");
+  userMarkdownDiv.innerHTML = renderMarkdown(messageText);
+  messageInput.value = "";
+  scrollToBottom();
+
+  // Show typing indicator
+  const typingIndicator = appendMessage("AI", true);
+
+  try {
+    // Send request
+    const res = await fetch("{% url 'send_message' %}", {
+      method: "POST",
+      body: data,
+    });
+
+    if (!res.ok) {
+      throw new Error(`HTTP error! status: ${res.status}`);
+    }
+
+    const reader = res.body.getReader();
+    const decoder = new TextDecoder("utf-8");
+
+    let buffer = "";
+    let aiContent = null;
+    let typingRemoved = false;
+
+    while (true) {
+      const { value, done } = await reader.read();
+      if (done) break;
+
+      // Decode the chunk
+      const chunk = decoder.decode(value, { stream: true });
+      buffer += chunk;
+
+      // Check if AI RESPONSE has started
+      const aiResponseMatch = buffer.match(/\[AI RESPONSE\]([\s\S]*?)$/);
+
+      if (aiResponseMatch) {
+        // Remove typing indicator on first chunk of AI response
+        if (!typingRemoved) {
+          typingIndicator.remove();
+          aiContent = appendMessage("AI");
+          typingRemoved = true;
+        }
+
+        // Extract the response text after [AI RESPONSE] and clean it
+        let responseText = aiResponseMatch[1];
+
+        // Remove closing tags if present
+        responseText = responseText.replace(/\[\/AI RESPONSE\][\s\S]*$/, "");
+
+        // Clean the response text
+        const cleanedText = cleanResponseText(responseText);
+
+        // Render markdown using unified function
+        const aiMarkdownDiv = aiContent.querySelector(".markdown-content");
+        aiMarkdownDiv.innerHTML = renderMarkdown(cleanedText);
+
+        // Scroll to bottom with each update
+        scrollToBottom();
+      }
+    }
+
+    // After streaming completes, extract and append THINKING logs if present
+    const thinkingMatches = [
+      ...buffer.matchAll(/\[THINKING\]([\s\S]*?)\[\/THINKING\]/g),
+    ];
+    const thinkingLogs = thinkingMatches.map((m) => m[1].trim()).join("\n\n");
+
+    if (thinkingLogs && aiContent) {
+      const thinkingHTML = `
+        <details class="thinking-block">
+          <summary>Show internal logs</summary>
+          <pre>${thinkingLogs}</pre>
+        </details>`;
+      aiContent.innerHTML += thinkingHTML;
+      scrollToBottom();
+    }
+  } catch (error) {
+    console.error("Error:", error);
+
+    // Remove typing indicator if there's an error
+    if (typingIndicator && typingIndicator.parentNode) {
+      typingIndicator.remove();
+    }
+
+    // Show error message
+    const errorContent = appendMessage("AI");
+    const errorMarkdownDiv = errorContent.querySelector(".markdown-content");
+    errorMarkdownDiv.innerHTML = `<div class="text-red-600">Sorry, there was an error processing your message. Please try again.</div>`;
+    scrollToBottom();
+  } finally {
+    // Re-enable input and button
+    messageInput.disabled = false;
+    sendButton.disabled = false;
+    messageInput.focus();
+  }
+});
+</script>
+{% endblock %}

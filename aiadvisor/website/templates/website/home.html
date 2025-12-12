@@ -1,0 +1,417 @@
+{% extends 'website/base.html' %} {% block title %}AI Academic Advisor
+{%endblock %} {% block extra_css %}
+<style>
+  /* Tesla Typography - Bold & Confident */
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+  * {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  }
+
+  body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background: #f8f8f8;
+  }
+
+  /* Hero Typography - Tesla Bold */
+  .hero-headline {
+    font-size: clamp(44px, 6vw, 64px);
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    color: #000000;
+    font-family: "Inter", sans-serif !important;
+  }
+
+  .hero-subline {
+    font-size: clamp(17px, 2vw, 20px);
+    font-weight: 400;
+    color: #5c5e62;
+    line-height: 1.5;
+    font-family: "Inter", sans-serif !important;
+  }
+
+  .section-headline {
+    font-size: clamp(32px, 4.5vw, 48px);
+    font-weight: 600;
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+    color: #000000;
+    font-family: "Inter", sans-serif !important;
+  }
+
+  .section-body {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #393c41;
+    font-family: "Inter", sans-serif !important;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .fade-in-up {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+      transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+
+  .fade-in-up.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .product-image {
+    filter: drop-shadow(0 15px 35px rgba(0, 0, 0, 0.1));
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .product-image:hover {
+    transform: scale(1.015);
+  }
+
+  .tesla-button {
+    display: inline-block;
+    padding: 12px 32px;
+    background: #3e6ae1;
+    color: white;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: background 0.2s ease-in-out;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-family: "Inter", sans-serif !important;
+  }
+
+  .tesla-button:hover {
+    background: #3457b8;
+    color: white;
+  }
+
+  .tesla-link {
+    color: #3e6ae1;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    font-family: "Inter", sans-serif !important;
+  }
+
+  .tesla-link:hover {
+    color: #3457b8;
+  }
+
+  .spec-item {
+    border: 1px solid #e8e8e8;
+    border-radius: 8px;
+    padding: 32px 28px;
+    transition: all 0.2s ease;
+    background: white;
+  }
+
+  .spec-item:hover {
+    border-color: #3e6ae1;
+    box-shadow: 0 4px 12px rgba(62, 106, 225, 0.1);
+  }
+
+  .chevron-down {
+    animation: float 2s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(8px);
+    }
+  }
+
+  nav {
+    background: transparent !important;
+    backdrop-filter: none !important;
+  }
+
+  nav.scrolled {
+    background: rgba(255, 255, 255, 0.95) !important;
+    backdrop-filter: blur(10px) !important;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  .stat-number {
+    font-size: clamp(48px, 8vw, 72px);
+    font-weight: 700;
+    color: #000000;
+    line-height: 1;
+    font-family: "Inter", sans-serif !important;
+  }
+
+  svg text {
+    font-family: "Inter", sans-serif !important;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<!-- Auth Bubble - Fixed Left Side -->
+{% if not user.is_authenticated %}
+<div class="fixed left-6 top-24 z-50 block" style="width: 192px;">
+  <div style="background: white; border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); border: 1px solid #e5e7eb; padding: 16px;">
+    <p style="font-size: 14px; font-weight: 500; color: #374151; margin-bottom: 12px;">Get Started</p>
+    <div style="display: flex; flex-direction: column; gap: 8px;">
+      <a
+        href="{% url 'login' %}"
+        style="display: block; width: 100%; text-align: center; padding: 8px 16px; background: #f3f4f6; color: #1f2937; border-radius: 8px; font-size: 14px; font-weight: 500; text-decoration: none; transition: background 0.2s;"
+        onmouseover="this.style.background='#e5e7eb'"
+        onmouseout="this.style.background='#f3f4f6'"
+      >
+        Log In
+      </a>
+      <a
+        href="{% url 'register' %}"
+        style="display: block; width: 100%; text-align: center; padding: 8px 16px; background: #2563eb; color: white; border-radius: 8px; font-size: 14px; font-weight: 500; text-decoration: none; transition: background 0.2s;"
+        onmouseover="this.style.background='#1d4ed8'"
+        onmouseout="this.style.background='#2563eb'"
+      >
+        Sign Up
+      </a>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Hero Section -->
+<section
+  class="relative flex flex-col items-center justify-start px-6 pt-24 pb-16"
+>
+  <div class="max-w-[1100px] mx-auto text-center w-full"></div>
+    <h1 class="hero-headline mb-4 fade-in-up">AI Academic Advisor</h1>
+    <p class="hero-subline mb-10 fade-in-up" style="transition-delay: 0.1s">
+      Personalized guidance. Instant insights. Your path to success.
+    </p>
+
+    <!-- Product Visual -->
+    <div class="mb-10 fade-in-up" style="transition-delay: 0.2s">
+      <div class="relative mx-auto" style="max-width: 900px">
+        <img
+          src="data:image/svg+xml,%3Csvg width='900' height='550' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='900' height='550' fill='%23F8F8F8' rx='12'/%3E%3Crect x='40' y='40' width='820' height='70' fill='white' rx='8'/%3E%3Crect x='60' y='55' width='180' height='40' fill='%233E6AE1' rx='4'/%3E%3Ctext x='150' y='82' font-family='Inter, sans-serif' font-size='14' font-weight='600' fill='white' text-anchor='middle'%3EAI ADVISOR%3C/text%3E%3Crect x='40' y='130' width='400' height='380' fill='white' rx='8'/%3E%3Crect x='60' y='155' width='140' height='30' fill='%23E8E8E8' rx='4'/%3E%3Ctext x='130' y='177' font-family='Inter, sans-serif' font-size='13' font-weight='600' fill='%23393C41' text-anchor='middle'%3ETranscript%3C/text%3E%3Crect x='60' y='200' width='340' height='16' fill='%23F0F0F0' rx='3'/%3E%3Crect x='60' y='226' width='320' height='16' fill='%23F0F0F0' rx='3'/%3E%3Crect x='60' y='252' width='300' height='16' fill='%23F0F0F0' rx='3'/%3E%3Crect x='60' y='285' width='120' height='30' fill='%233E6AE1' opacity='0.15' rx='4'/%3E%3Ctext x='120' y='307' font-family='Inter, sans-serif' font-size='12' font-weight='600' fill='%233E6AE1' text-anchor='middle'%3EGPA: 3.85%3C/text%3E%3Crect x='60' y='330' width='340' height='16' fill='%23F0F0F0' rx='3'/%3E%3Crect x='60' y='356' width='310' height='16' fill='%23F0F0F0' rx='3'/%3E%3Crect x='60' y='382' width='280' height='16' fill='%23F0F0F0' rx='3'/%3E%3Crect x='460' y='130' width='400' height='380' fill='white' rx='8'/%3E%3Crect x='480' y='155' width='160' height='35' fill='%23E8E8E8' rx='4'/%3E%3Ctext x='560' y='180' font-family='Inter, sans-serif' font-size='14' font-weight='600' fill='%23393C41' text-anchor='middle'%3EChat Interface%3C/text%3E%3Crect x='480' y='210' width='280' height='70' fill='%233E6AE1' opacity='0.08' rx='8'/%3E%3Crect x='500' y='230' width='240' height='12' fill='%233E6AE1' rx='3'/%3E%3Crect x='500' y='252' width='200' height='12' fill='%233E6AE1' rx='3'/%3E%3Crect x='480' y='300' width='300' height='60' fill='%23F8F8F8' rx='8'/%3E%3Crect x='500' y='320' width='180' height='10' fill='%23C0C0C0' rx='3'/%3E%3Crect x='500' y='340' width='160' height='10' fill='%23C0C0C0' rx='3'/%3E%3Crect x='480' y='380' width='340' height='50' fill='%23F8F8F8' rx='25'/%3E%3Ctext x='650' y='410' font-family='Inter, sans-serif' font-size='13' fill='%23999' text-anchor='middle'%3EAsk anything...%3C/text%3E%3C/svg%3E"
+          alt="AI Advisor Interface"
+          class="product-image w-full h-auto rounded-lg"
+        />
+      </div>
+    </div>
+
+    <!-- CTA Buttons -->
+    <div
+      class="flex items-center justify-center gap-6 fade-in-up"
+      style="transition-delay: 0.3s"
+    >
+      {% if user.is_authenticated %}
+      <a href="{% url 'dashboard' %}" class="tesla-button">Dashboard</a>
+      {% else %}
+      <a href="{% url 'register' %}" class="tesla-button">Get Started</a>
+      {% endif %}
+      <a href="#features" class="tesla-link">Learn More</a>
+    </div>
+  </div>
+
+  <!-- Scroll Indicator -->
+  <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2">
+    <svg
+      class="chevron-down w-6 h-6 text-gray-400"
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="2"
+        d="M19 9l-7 7-7-7"
+      ></path>
+    </svg>
+  </div>
+</section>
+
+<!-- Feature 1: Intelligence -->
+<section id="features" class="py-24 px-6" style="background: #ffffff"></section>
+    <div class="max-w-[1200px] mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div class="fade-in-up">
+                <h2 class="section-headline mb-5">
+                    Intelligence That Understands You
+                </h2>
+                <p class="section-body mb-3">
+                    Upload your transcript and watch AI analyze your entire academic journey in seconds. Get personalized insights and instant recommendations.
+                </p>
+                <p class="section-body" style="color: #5C5E62;">
+                    Analysis complete in under 30 seconds.
+                </p>
+            </div>
+            <div class="fade-in-up" style="transition-delay: 0.1s;">
+                <img src="data:image/svg+xml,%3Csvg width='600' height='420' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='600' height='420' fill='white' rx='8'/%3E%3Crect x='30' y='30' width='540' height='90' fill='%23F8F8F8' rx='8'/%3E%3Crect x='50' y='55' width='100' height='50' fill='%233E6AE1' rx='6'/%3E%3Ctext x='100' y='87' font-family='Inter, sans-serif' font-size='18' font-weight='700' fill='white' text-anchor='middle'%3EGPA%3C/text%3E%3Ctext x='200' y='70' font-family='Inter, sans-serif' font-size='40' font-weight='700' fill='%23000000'%3E3.85%3C/text%3E%3Crect x='30' y='140' width='540' height='90' fill='%23F8F8F8' rx='8'/%3E%3Crect x='50' y='165' width='120' height='50' fill='%2334C759' rx='6'/%3E%3Ctext x='110' y='197' font-family='Inter, sans-serif' font-size='16' font-weight='700' fill='white' text-anchor='middle'%3ECREDITS%3C/text%3E%3Ctext x='220' y='180' font-family='Inter, sans-serif' font-size='40' font-weight='700' fill='%23000000'%3E96%3C/text%3E%3Crect x='30' y='250' width='540' height='140' fill='%23F8F8F8' rx='8'/%3E%3Ctext x='50' y='285' font-family='Inter, sans-serif' font-size='20' font-weight='600' fill='%23000000'%3EMajor Progress%3C/text%3E%3Crect x='50' y='305' width='480' height='24' fill='%23E8E8E8' rx='12'/%3E%3Crect x='50' y='305' width='336' height='24' fill='%233E6AE1' rx='12'/%3E%3Ctext x='50' y='360' font-family='Inter, sans-serif' font-size='16' font-weight='600' fill='%23393C41'%3E70%25 Complete%3C/text%3E%3Ctext x='50' y='383' font-family='Inter, sans-serif' font-size='13' fill='%235C5E62'%3E24 credits remaining%3C/text%3E%3C/svg%3E" 
+                     alt="Transcript Analysis" 
+                     class="product-image w-full h-auto">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Feature 2: Guidance -->
+<section class="py-24 px-6" style="background: #F8F8F8;">
+    <div class="max-w-[1200px] mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div class="order-2 lg:order-1 fade-in-up">
+                <img src="data:image/svg+xml,%3Csvg width='600' height='480' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='600' height='480' fill='white' rx='8'/%3E%3Crect x='30' y='30' width='540' height='60' fill='%23F8F8F8' rx='8'/%3E%3Ctext x='300' y='67' font-family='Inter, sans-serif' font-size='18' font-weight='600' fill='%23000000' text-anchor='middle'%3EAI Academic Advisor%3C/text%3E%3Crect x='30' y='110' width='420' height='85' fill='%23E8E8E8' rx='12'/%3E%3Ctext x='50' y='135' font-family='Inter, sans-serif' font-size='12' font-weight='600' fill='%235C5E62'%3EYOU%3C/text%3E%3Ctext x='50' y='160' font-family='Inter, sans-serif' font-size='15' fill='%23000000'%3EWhat courses should I take%3C/text%3E%3Ctext x='50' y='180' font-family='Inter, sans-serif' font-size='15' fill='%23000000'%3Enext semester?%3C/text%3E%3Crect x='150' y='215' width='420' height='125' fill='%233E6AE1' rx='12'/%3E%3Ctext x='170' y='240' font-family='Inter, sans-serif' font-size='12' font-weight='600' fill='white' opacity='0.8'%3EAI ADVISOR%3C/text%3E%3Ctext x='170' y='265' font-family='Inter, sans-serif' font-size='15' fill='white'%3EBased on your transcript, I%3C/text%3E%3Ctext x='170' y='288' font-family='Inter, sans-serif' font-size='15' fill='white'%3Erecommend Advanced Algorithms%3C/text%3E%3Ctext x='170' y='311' font-family='Inter, sans-serif' font-size='15' fill='white'%3Eand Database Systems. Both align%3C/text%3E%3Ctext x='170' y='334' font-family='Inter, sans-serif' font-size='15' fill='white'%3Ewith your career goals.%3C/text%3E%3Crect x='30' y='360' width='540' height='50' fill='%23F8F8F8' rx='25'/%3E%3Ctext x='300' y='392' font-family='Inter, sans-serif' font-size='15' fill='%235C5E62' text-anchor='middle'%3EAsk anything...%3C/text%3E%3Ccircle cx='540' cy='385' r='18' fill='%233E6AE1'/%3E%3C/svg%3E" 
+                     alt="Chat Interface" 
+                     class="product-image w-full h-auto">
+            </div>
+            <div class="order-1 lg:order-2 fade-in-up" style="transition-delay: 0.1s;">
+                <h2 class="section-headline mb-5">
+                    24/7 AI Guidance
+                </h2>
+                <p class="section-body mb-3">
+                    Chat with an AI that knows your academic history and provides instant, personalized answers. No appointments, no waiting.
+                </p>
+                <p class="section-body" style="color: #5C5E62;">
+                    Always available. Always accurate.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Feature 3: Optimization -->
+<section class="py-24 px-6" style="background: #FFFFFF;">
+    <div class="max-w-[1200px] mx-auto">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            <div class="fade-in-up">
+                <h2 class="section-headline mb-5">
+                    Your Path, Optimized
+                </h2>
+                <p class="section-body mb-3">
+                    Visualize your entire degree plan. Track progress in real-time. Discover the optimal path to graduation.
+                </p>
+                <p class="section-body" style="color: #5C5E62;">
+                    Every decision backed by data.
+                </p>
+            </div>
+            <div class="fade-in-up" style="transition-delay: 0.1s;">
+                <img src="data:image/svg+xml,%3Csvg width='600' height='380' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='600' height='380' fill='white' rx='8'/%3E%3Ctext x='30' y='50' font-family='Inter, sans-serif' font-size='26' font-weight='600' fill='%23000000'%3ECourse Plan%3C/text%3E%3Crect x='30' y='80' width='260' height='65' fill='%233E6AE1' rx='6'/%3E%3Ctext x='160' y='110' font-family='Inter, sans-serif' font-size='16' font-weight='600' fill='white' text-anchor='middle'%3EFall 2025%3C/text%3E%3Ctext x='160' y='130' font-family='Inter, sans-serif' font-size='13' fill='white' opacity='0.8' text-anchor='middle'%3E4 courses • 16 credits%3C/text%3E%3Crect x='310' y='80' width='260' height='65' fill='%2334C759' rx='6'/%3E%3Ctext x='440' y='110' font-family='Inter, sans-serif' font-size='16' font-weight='600' fill='white' text-anchor='middle'%3ESpring 2026%3C/text%3E%3Ctext x='440' y='130' font-family='Inter, sans-serif' font-size='13' fill='white' opacity='0.8' text-anchor='middle'%3E4 courses • 15 credits%3C/text%3E%3Crect x='30' y='165' width='260' height='65' fill='%23E8E8E8' rx='6'/%3E%3Ctext x='160' y='195' font-family='Inter, sans-serif' font-size='16' font-weight='600' fill='%23000000' text-anchor='middle'%3EFall 2026%3C/text%3E%3Ctext x='160' y='215' font-family='Inter, sans-serif' font-size='13' fill='%235C5E62' text-anchor='middle'%3E4 courses • 16 credits%3C/text%3E%3Crect x='310' y='165' width='260' height='65' fill='%23E8E8E8' rx='6'/%3E%3Ctext x='440' y='195' font-family='Inter, sans-serif' font-size='16' font-weight='600' fill='%23000000' text-anchor='middle'%3ESpring 2027%3C/text%3E%3Ctext x='440' y='215' font-family='Inter, sans-serif' font-size='13' fill='%235C5E62' text-anchor='middle'%3E3 courses • 12 credits%3C/text%3E%3Crect x='30' y='250' width='540' height='100' fill='%23F8F8F8' rx='6'/%3E%3Ctext x='50' y='280' font-family='Inter, sans-serif' font-size='17' font-weight='600' fill='%23000000'%3ENext Steps%3C/text%3E%3Ctext x='50' y='305' font-family='Inter, sans-serif' font-size='14' fill='%235C5E62'%3E• Complete CS 301 prerequisite%3C/text%3E%3Ctext x='50' y='330' font-family='Inter, sans-serif' font-size='14' fill='%235C5E62'%3E• Apply for Summer 2026 internship%3C/text%3E%3C/svg%3E" 
+                     alt="Course Planning Dashboard" 
+                     class="product-image w-full h-auto">
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Specifications -->
+<section class="py-20 px-6" style="background: #F8F8F8;">
+    <div class="max-w-[1200px] mx-auto">
+        <h2 class="section-headline text-center mb-16 fade-in-up">Specifications</h2>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+            <div class="spec-item fade-in-up text-center">
+                <p class="text-5xl font-bold mb-2" style="color: #000000;">&lt;30s</p>
+                <h3 class="text-lg font-semibold mb-2" style="color: #000000;">Transcript Analysis</h3>
+                <p class="text-sm" style="color: #5C5E62;">Advanced ML processing</p>
+            </div>
+            
+            <div class="spec-item fade-in-up text-center" style="transition-delay: 0.1s;">
+                <p class="text-5xl font-bold mb-2" style="color: #000000;">24/7</p>
+                <h3 class="text-lg font-semibold mb-2" style="color: #000000;">AI Support</h3>
+                <p class="text-sm" style="color: #5C5E62;">Instant responses anytime</p>
+            </div>
+            
+            <div class="spec-item fade-in-up text-center" style="transition-delay: 0.2s;">
+                <p class="text-5xl font-bold mb-2" style="color: #000000;">100%</p>
+                <h3 class="text-lg font-semibold mb-2" style="color: #000000;">Personalized</h3>
+                <p class="text-sm" style="color: #5C5E62;">Tailored to your goals</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- How It Works -->
+<section class="py-20 px-6" style="background: #FFFFFF;">
+    <div class="max-w-[1000px] mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+            <div class="text-center fade-in-up">
+                <div class="w-16 h-16 mx-auto mb-4 rounded-lg bg-black flex items-center justify-center">
+                    <span class="text-white text-2xl font-bold">1</span>
+                </div>
+                <h3 class="text-xl font-semibold mb-2" style="color: #000000;">Upload</h3>
+                <p class="section-body" style="color: #5C5E62;">Share your transcript</p>
+            </div>
+            
+            <div class="text-center fade-in-up" style="transition-delay: 0.1s;">
+                <div class="w-16 h-16 mx-auto mb-4 rounded-lg bg-black flex items-center justify-center">
+                    <span class="text-white text-2xl font-bold">2</span>
+                </div>
+                <h3 class="text-xl font-semibold mb-2" style="color: #000000;">Analyze</h3>
+                <p class="section-body" style="color: #5C5E62;">AI processes your data</p>
+            </div>
+            
+            <div class="text-center fade-in-up" style="transition-delay: 0.2s;">
+                <div class="w-16 h-16 mx-auto mb-4 rounded-lg bg-black flex items-center justify-center">
+                    <span class="text-white text-2xl font-bold">3</span>
+                </div>
+                <h3 class="text-xl font-semibold mb-2" style="color: #000000;">Succeed</h3>
+                <p class="section-body" style="color: #5C5E62;">Get personalized guidance</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Social Proof -->
+<section class="py-20 px-6" style="background: #F8F8F8;">
+    <div class="max-w-[1000px] mx-auto text-center fade-in-up">
+        <p class="stat-number mb-3">10,000+</p>
+        <p class="section-body" style="color: #5C5E62;">Students guided to academic success</p>
+    </div>
+</section>
+
+<!-- Final CTA -->
+<section class="py-24 px-6" style="background: #FFFFFF;">
+    <div class="max-w-[1000px] mx-auto text-center fade-in-up">
+        <h2 class="text-5xl font-semibold mb-4" style="color: #000000;">Ready to Start?</h2>
+        <p class="section-body mb-10" style="color: #5C5E62;">Join thousands of students using AI to achieve their goals</p>
+        {% if user.is_authenticated %}
+            <a href="{% url 'dashboard' %}" class="tesla-button">Go to Dashboard</a>
+        {% else %}
+            <a href="{% url 'register' %}" class="tesla-button">Get Started</a>
+        {% endif %}
+        <p class="mt-6 text-sm" style="color: #5C5E62;">Free for students</p>
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const observerOptions = {
+            threshold: 0.2,
+            rootMargin: '0px 0px -80px 0px'
+        };
+        
+        const observer = new IntersectionObserver(function(entries) {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, observerOptions);
+        
+        document.querySelectorAll('.fade-in-up').forEach(el => {
+            observer.observe(el);
+        });
+    });
+</script>
+{% endblock %}

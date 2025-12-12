@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Viewer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', sans-serif;
+            background-color: #343541;
+            color: #ececf1;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 1px solid #444654;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .upload-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+            margin-top: 20px;
+        }
+
+        .upload-btn {
+            background-color: #10a37f;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 500;
+            transition: background-color 0.2s;
+        }
+
+        .upload-btn:hover {
+            background-color: #0d8a6a;
+        }
+
+        #file-input {
+            display: none;
+        }
+
+        .file-name {
+            color: #b4b4b4;
+            font-size: 14px;
+        }
+
+        .message {
+            display: flex;
+            padding: 24px 0;
+            border-bottom: 1px solid #444654;
+        }
+
+        .message.user {
+            background-color: #343541;
+        }
+
+        .message.assistant {
+            background-color: #444654;
+        }
+
+        .message-content {
+            flex: 1;
+            padding: 0 20px;
+        }
+
+        .role-label {
+            font-weight: 600;
+            margin-bottom: 8px;
+            font-size: 14px;
+            text-transform: capitalize;
+        }
+
+        .message.user .role-label {
+            color: #10a37f;
+        }
+
+        .message.assistant .role-label {
+            color: #19c37d;
+        }
+
+        .content {
+            color: #ececf1;
+            word-wrap: break-word;
+        }
+
+        .content p {
+            margin-bottom: 16px;
+        }
+
+        .content p:last-child {
+            margin-bottom: 0;
+        }
+
+        .content code {
+            background-color: #1a1b1e;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 0.9em;
+        }
+
+        .content pre {
+            background-color: #1a1b1e;
+            padding: 16px;
+            border-radius: 6px;
+            overflow-x: auto;
+            margin: 16px 0;
+        }
+
+        .content pre code {
+            background-color: transparent;
+            padding: 0;
+        }
+
+        .content ul, .content ol {
+            margin-left: 24px;
+            margin-bottom: 16px;
+        }
+
+        .content li {
+            margin-bottom: 8px;
+        }
+
+        .content blockquote {
+            border-left: 3px solid #10a37f;
+            padding-left: 16px;
+            margin: 16px 0;
+            color: #b4b4b4;
+        }
+
+        .content a {
+            color: #10a37f;
+            text-decoration: none;
+        }
+
+        .content a:hover {
+            text-decoration: underline;
+        }
+
+        .error {
+            background-color: #d93025;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #ececf1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Chat Messages</h1>
+            <div class="upload-section">
+                <button class="upload-btn" onclick="document.getElementById('file-input').click()">
+                    Upload messages.json
+                </button>
+                <input type="file" id="file-input" accept=".json" onchange="handleFileUpload(event)">
+                <div class="file-name" id="file-name"></div>
+            </div>
+        </div>
+        <div id="messages-container">
+            <div class="loading">Upload a messages.json file to view the chat</div>
+        </div>
+    </div>
+
+    <script>
+        // Configure marked options
+        marked.setOptions({
+            breaks: true,
+            gfm: true
+        });
+
+        // Decode HTML entities
+        function decodeHTML(html) {
+            const txt = document.createElement('textarea');
+            txt.innerHTML = html;
+            return txt.value;
+        }
+
+        // Handle file upload
+        function handleFileUpload(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const fileNameDiv = document.getElementById('file-name');
+            fileNameDiv.textContent = `Loaded: ${file.name}`;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const messages = JSON.parse(e.target.result);
+                    displayMessages(messages);
+                } catch (error) {
+                    const container = document.getElementById('messages-container');
+                    container.innerHTML = `
+                        <div class="error">
+                            Error parsing JSON file: ${error.message}<br>
+                            Please make sure the file is valid JSON.
+                        </div>
+                    `;
+                    console.error('Error parsing JSON:', error);
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        // Display messages
+        function displayMessages(messages) {
+            const container = document.getElementById('messages-container');
+            
+            container.innerHTML = '';
+            
+            if (!Array.isArray(messages) || messages.length === 0) {
+                container.innerHTML = '<div class="error">No messages found in the JSON file.</div>';
+                return;
+            }
+            
+            messages.forEach(msg => {
+                const messageDiv = document.createElement('div');
+                messageDiv.className = `message ${msg.role}`;
+                
+                // Decode HTML entities and unicode characters
+                const decodedContent = decodeHTML(msg.content || '');
+                
+                // Convert markdown to HTML
+                const htmlContent = marked.parse(decodedContent);
+                
+                messageDiv.innerHTML = `
+                    <div class="message-content">
+                        <div class="role-label">${msg.role}</div>
+                        <div class="content">${htmlContent}</div>
+                    </div>
+                `;
+                
+                container.appendChild(messageDiv);
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,663 @@
+{% extends 'website/base.html' %}
+{% load dashboard_filters %}
+{% block title %}Dashboard - AI Academic Advisor{% endblock %}
+{% block extra_css %}
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+
+  body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #f8fafc;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar {
+    position: fixed;
+    left: 0;
+    top: 64px;
+    width: 220px;
+    height: calc(100vh - 64px);
+    background: #fafafa;
+    border-right: 1px solid #e5e7eb;
+    z-index: 40;
+    overflow-y: auto;
+  }
+
+  .sidebar-nav-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    margin: 2px 12px;
+    border-radius: 8px;
+    color: #64748b;
+    font-weight: 500;
+    font-size: 14px;
+    transition: all 0.15s ease;
+    cursor: pointer;
+  }
+
+  .sidebar-nav-item:hover {
+    background: #f1f5f9;
+    color: #334155;
+  }
+
+  .sidebar-nav-item.active {
+    background: #eff6ff;
+    color: #3b82f6;
+    border-left: 3px solid #3b82f6;
+    padding-left: 17px;
+  }
+
+  .main-content {
+    margin-left: 220px;
+    margin-top: 64px;
+    padding: 24px;
+    min-height: calc(100vh - 64px);
+    max-width: calc(100vw - 220px);
+    width: calc(100vw - 220px);
+    box-sizing: border-box;
+  }
+
+  .top-bar {
+    background: white;
+    border-radius: 12px;
+    padding: 20px 24px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+    margin-bottom: 24px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .stat-card {
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+
+  .stat-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .semester-bubble {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+    border: 2px solid transparent;
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+
+  .semester-bubble:hover {
+    border-color: #3b82f6;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+    transform: translateY(-1px);
+  }
+
+  .semester-bubble.expanded {
+    border-color: #3b82f6;
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+  }
+
+  .course-card {
+    background: #f0f9ff;
+    border-radius: 10px;
+    padding: 16px;
+    border: 1px solid #dbeafe;
+    transition: all 0.2s ease;
+  }
+
+  .course-card:hover {
+    background: #e0f2fe;
+    transform: translateY(-1px);
+  }
+
+  .grade-badge {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+  }
+
+  .grade-a {
+    background: #10b981;
+  }
+
+  .grade-b {
+    background: #3b82f6;
+  }
+
+  .grade-c {
+    background: #f59e0b;
+  }
+
+  .grade-d,
+  .grade-f {
+    background: #ef4444;
+  }
+
+  .grade-w {
+    background: #1f2937;
+    color: white;
+  }
+
+  .grade-i {
+    background: #6b7280;
+    color: white;
+  }
+
+  .floating-chat-btn {
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 8px 24px rgba(59, 130, 246, 0.4);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    z-index: 50;
+  }
+
+  .floating-chat-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 12px 32px rgba(59, 130, 246, 0.5);
+  }
+
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    z-index: 60;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .modal-card {
+    background: white;
+    border-radius: 20px;
+    padding: 48px;
+    width: 580px;
+    max-width: 90vw;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+    animation: slideUp 0.3s ease-out;
+  }
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .upload-zone {
+    height: 220px;
+    background: #f0f9ff;
+    border: 2px dashed #3b82f6;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+
+  .upload-zone:hover {
+    border-style: solid;
+    background: #dbeafe;
+    transform: scale(1.01);
+  }
+
+  .btn-primary {
+    background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.15s ease;
+    border: none;
+    cursor: pointer;
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+  }
+
+  .btn-secondary {
+    background: white;
+    color: #3b82f6;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    border: 2px solid #3b82f6;
+    transition: all 0.15s ease;
+    cursor: pointer;
+  }
+
+  .btn-secondary:hover {
+    background: #eff6ff;
+  }
+
+  /* Additional utility classes for proper spacing */
+  .grid {
+    display: grid;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .grid-cols-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .grid-cols-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .gap-6 {
+    gap: 1.5rem;
+  }
+
+  .gap-4 {
+    gap: 1rem;
+  }
+
+  .space-y-5>*+* {
+    margin-top: 1.25rem;
+  }
+
+  .mb-8 {
+    margin-bottom: 2rem;
+  }
+
+  .mb-6 {
+    margin-bottom: 1.5rem;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .items-center {
+    align-items: center;
+  }
+
+  .justify-between {
+    justify-content: space-between;
+  }
+
+  .space-x-3>*+* {
+    margin-left: 0.75rem;
+  }
+
+  .space-x-4>*+* {
+    margin-left: 1rem;
+  }
+
+  /* Override footer to account for sidebar */
+  footer {
+    margin-left: 220px;
+  }
+</style>
+{% endblock %} {% block content %}
+<div x-data="{ 
+    showUploadModal: false, 
+    expandedSemester: null,
+    toggleSemester(id) {
+        this.expandedSemester = this.expandedSemester === id ? null : id;
+    }
+}">
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div style="padding: 40px 24px 24px">
+      <a href="{% url 'home' %}" class="flex items-center space-x-2">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500 to-blue-600 flex items-center justify-center">
+          <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z">
+            </path>
+          </svg>
+        </div>
+        <span class="text-lg font-bold text-gray-900">AI Advisor</span>
+      </a>
+    </div>
+
+    <nav style="padding: 0 8px">
+      <a href="{% url 'dashboard' %}" class="sidebar-nav-item active">
+        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6">
+          </path>
+        </svg>
+        Dashboard
+      </a>
+      <a href="{% url 'chat_page' %}" class="sidebar-nav-item">
+        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z">
+          </path>
+        </svg>
+        Chat with Advisor
+      </a>
+      <a href="{% url 'settings' %}" class="sidebar-nav-item">
+        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z">
+          </path>
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z">
+          </path>
+        </svg>
+        Settings
+      </a>
+      <a href="{% url 'logout' %}" class="sidebar-nav-item">
+        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"></path>
+        </svg>
+        Logout
+      </a>
+    </nav>
+
+    <div style="position: absolute; bottom: 24px; left: 24px; right: 24px">
+      <div style="background: #f1f5f9; border-radius: 12px; padding: 16px">
+        <div class="flex items-center space-x-3">
+          <div class="w-10 h-10 rounded-full bg-blue-500 flex items-center justify-center text-white font-semibold">
+            {{ first_name.0 }}{{ last_name.0 }}
+          </div>
+          <div>
+            <p class="text-sm font-semibold text-gray-900">
+              {{ first_name }} {{ last_name }}
+            </p>
+            <p class="text-xs text-gray-500">{{ username }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main-content">
+    <!-- Top Bar -->
+    <div class="top-bar">
+      <div class="flex items-center justify-between">
+        <div>
+          <h1 class="text-2xl font-semibold text-gray-900 mb-1">
+            Welcome back, {{ first_name }}!
+          </h1>
+          <p class="text-sm text-gray-500">Here's your academic overview</p>
+        </div>
+        <div class="flex items-center space-x-3">
+          {% if has_transcript %}
+          <button @click="showUploadModal = true" class="btn-secondary flex items-center">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path>
+            </svg>
+            Update Transcript
+          </button>
+          {% else %}
+          <button @click="showUploadModal = true" class="btn-primary flex items-center">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path>
+            </svg>
+            Upload Transcript
+          </button>
+          {% endif %}
+          <a href="{% url 'chat_page' %}" class="btn-primary flex items-center">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z">
+              </path>
+            </svg>
+            Go to Chat
+          </a>
+        </div>
+      </div>
+    </div>
+
+    {% if has_transcript %}
+    <!-- Quick Stats -->
+    <div class="grid grid-cols-4 gap-4 mb-6">
+      <div class="stat-card">
+        <svg class="w-7 h-7 text-blue-500 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z">
+          </path>
+        </svg>
+        <p class="text-3xl font-bold text-gray-900 mb-1">{{ gpa }}</p>
+        <p class="text-xs font-medium text-gray-500">Current GPA</p>
+      </div>
+
+      <div class="stat-card">
+        <svg class="w-7 h-7 text-green-500 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
+          </path>
+        </svg>
+        <p class="text-3xl font-bold text-gray-900 mb-1">{{ total_credits }}</p>
+        <p class="text-xs font-medium text-gray-500">Credits Earned</p>
+      </div>
+
+      <div class="stat-card">
+        <svg class="w-7 h-7 text-purple-500 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+        </svg>
+        <p class="text-3xl font-bold text-gray-900 mb-1">
+          {{ courses|length|floatformat:0 }}
+        </p>
+        <p class="text-xs font-medium text-gray-500">Courses Taken</p>
+      </div>
+
+      <div class="stat-card">
+        <svg class="w-7 h-7 text-orange-500 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6">
+          </path>
+        </svg>
+        <p class="text-xl font-bold text-gray-900 mb-1">{{ major }}</p>
+        <p class="text-xs font-medium text-gray-500">Major</p>
+      </div>
+    </div>
+
+    <!-- Academic Journey -->
+    <div class="mb-6">
+      <h2 class="text-2xl font-semibold text-gray-900 mb-2">
+        Academic Journey
+      </h2>
+      <p class="text-sm text-gray-500">
+        Click any semester to view course details
+      </p>
+    </div>
+
+    <!-- Semester Bubbles -->
+    <div class="space-y-5">
+      {% regroup courses by term as semester_list %} {% for semester in semester_list %}
+      <div class="semester-bubble" :class="{ 'expanded': expandedSemester === '{{ forloop.counter }}' }"
+        @click="toggleSemester('{{ forloop.counter }}')">
+        <!-- Collapsed Content -->
+        <div class="flex items-center justify-between mb-4">
+          <span class="inline-block px-4 py-2 bg-blue-100 text-blue-700 rounded-full text-sm font-semibold">
+            {{ semester.grouper }}
+          </span>
+          <svg class="w-6 h-6 text-gray-400 transition-transform duration-300"
+            :class="{ 'rotate-180': expandedSemester === '{{ forloop.counter }}' }" fill="none" stroke="currentColor"
+            viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+          </svg>
+        </div>
+
+        <div class="flex items-center justify-between">
+          <div>
+            <p class="text-sm text-gray-500 mb-1">Semester GPA</p>
+            <p class="text-3xl font-bold text-gray-900">
+              {% if semester.grouper == 'Transfer Credit' %}
+              N/A
+              {% else %}
+              {{ semester_stats|get_item:semester.grouper|get_item:'gpa'|default:'N/A' }}
+              {% endif %}
+            </p>
+          </div>
+          <div class="flex items-center space-x-4 text-sm text-gray-600">
+            <span>{{ semester.list|length }} Courses</span>
+            {% if semester.grouper != 'Transfer Credit' %}
+            <span class="text-gray-300">•</span>
+            <span>
+              {{ semester_stats|get_item:semester.grouper|get_item:'total_credits'|floatformat:0 }} Credits
+            </span>
+            {% endif %}
+          </div>
+        </div>
+
+        <!-- Expanded Content -->
+        <div x-show="expandedSemester === '{{ forloop.counter }}'" x-transition:enter="transition ease-out duration-300"
+          x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-cloak>
+          <div class="border-t border-gray-200 my-6"></div>
+          <div class="grid grid-cols-2 gap-4">
+            {% for course in semester.list %}
+            <div class="course-card">
+              <div class="flex items-start justify-between mb-2">
+                <div>
+                  <p class="text-base font-semibold text-gray-900">
+                    {{ course.title }}
+                  </p>
+                  <p class="text-sm text-gray-600 mt-1">{{ course.level }}</p>
+                </div>
+                <span class="grade-badge grade-{{ course.letter_grade|slice:':1'|lower }}">
+                  {{ course.letter_grade }}
+                </span>
+              </div>
+              {% if course.term != 'Transfer Credit' %}
+              <p class="text-xs text-gray-500">
+                {{ course.credit_hours }} credits
+              </p>
+              {% else %}
+              <p class="text-xs text-gray-500">
+                Transfer Credit
+              </p>
+              {% endif %}
+            </div>
+            {% empty %}
+            <!-- Empty State for Courses -->
+            <div class="course-card text-center py-8">
+              <p class="text-sm text-gray-500">No courses in this semester</p>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      {% else %}
+      <!-- Empty State -->
+      <div class="flex items-center justify-center" style="min-height: 400px">
+        <div class="text-center max-w-md">
+          <svg class="w-24 h-24 mx-auto mb-6 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+              d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
+          </svg>
+          <h3 class="text-2xl font-semibold text-gray-900 mb-3">
+            No transcript uploaded yet
+          </h3>
+          <p class="text-base text-gray-500 mb-6">
+            Upload your transcript to see your academic journey and get
+            personalized AI guidance
+          </p>
+          <button @click="showUploadModal = true" class="btn-primary">
+            Upload Transcript
+          </button>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+
+    <!-- Floating Chat Button -->
+    <a href="{% url 'chat_page' %}" class="floating-chat-btn">
+      <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z">
+        </path>
+      </svg>
+    </a>
+
+    <!-- Upload Modal -->
+    <div x-show="showUploadModal" x-transition:enter="transition ease-out duration-200"
+      x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" class="modal-overlay"
+      @click.self="showUploadModal = false" style="display: none">
+      <div class="modal-card">
+        <div class="flex items-center justify-between mb-6">
+          <h2 class="text-3xl font-semibold text-gray-900">
+            Upload Your Transcript
+          </h2>
+          <button @click="showUploadModal = false" class="text-gray-400 hover:text-gray-600">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+          </button>
+        </div>
+
+        <p class="text-base text-gray-500 mb-8">
+          We'll analyze your courses and provide personalized academic advice
+        </p>
+
+        <form method="post" action="{% url 'upload_transcript' %}" enctype="multipart/form-data" x-data="{ 
+              fileName: '', 
+              isDragging: false,
+              handleFiles(files) {
+                if (files.length > 0) {
+                  this.fileName = files[0].name;
+                  this.$refs.fileInput.files = files;
+                }
+              }
+            }">
+          {% csrf_token %}
+          <div class="upload-zone mb-4" :class="{ 'border-solid bg-blue-100': isDragging }"
+            @click="$refs.fileInput.click()" @dragover.prevent="isDragging = true"
+            @dragleave.prevent="isDragging = false"
+            @drop.prevent="isDragging = false; handleFiles($event.dataTransfer.files)">
+            <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
+            </svg>
+            <p class="text-base font-medium text-gray-700 mb-1" x-show="!fileName">
+              Drag and drop your transcript here
+            </p>
+            <p class="text-base font-medium text-blue-600 mb-1" x-show="fileName" x-text="fileName"></p>
+            <p class="text-sm text-gray-500">or click to browse</p>
+            <input type="file" name="transcript_pdf" accept=".pdf" required x-ref="fileInput"
+              @change="fileName = $event.target.files[0]?.name || ''" style="display: none;" />
+          </div>
+
+          <p class="text-xs text-gray-500 mb-6">Supports PDF (Max 10MB)</p>
+
+          <button type="submit" class="btn-primary w-full" style="height: 52px; font-size: 16px">
+            Analyze Transcript
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+  {% endblock %}
+</div>
+</div>

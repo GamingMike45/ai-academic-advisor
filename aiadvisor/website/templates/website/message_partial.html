@@ -1,0 +1,12 @@
+{% for msg in messages %}
+<div class="message {% if msg.role == 'User' %}message-user{% else %}message-ai{% endif %} flex {% if msg.role == 'User' %}justify-end{% else %}justify-start{% endif %}">
+  <div class="message-bubble max-w-3xl">
+    <div id="{{ msg.role }}-{{ forloop.counter0 }}-msg-content">
+      <span class="role font-semibold block mb-1 text-sm opacity-75">
+        {{ msg.role }}
+      </span>
+      <div class="markdown-content text-sm md:text-base">{{ msg.content }}</div>
+    </div>
+  </div>
+</div>
+{% endfor %}
