@@ -1,0 +1,73 @@
+{
+    "name": "Minor in Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7029&returnto=1028",
+    "content": {
+        "Minor in Education": [
+            "Minor in Education The major goals of the Minor in Education are three-fold: Create an avenue for students at Rowan who have an interest in Education but do not want to complete a full BA in Education. This work will be noted on their transcripts as a Minor. Create an avenue for Internal/External Transfer Candidates (for P-3, K-6, and P-12 Subject-Matter) to complete a Minor rather than spending a minimum of 4 additional semesters to complete the Major in Education. Candidates who are not currently Education majors but who are interested in becoming Early Childhood (P-3), Elementary (K-6) or Subject-Matter (P-12) Education majors via the internal transfer process; Create an avenue for students who leave the program having completed most, if not all, of the courses in the proposed major including all required courses for the minor, to have an official designation for their work in Education."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required courses for Minor in Education": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPED",
+                            "course_number": "08130",
+                            "title": "Disability as Diversity (Gen Ed)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02210",
+                            "title": "Principles and Pedagogies in the Inclusive Classroom (or equivalent)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30319",
+                            "title": "Teaching Reading and Writing in the Content Area (Subject Matter Education)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "33220",
+                            "title": "Educational Technology",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "FNDS",
+                            "course_number": "21150",
+                            "title": "History of American Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09209",
+                            "title": "Child and Adolescent Development",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses for Minor in Education"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Alexandria Daniels Funkhouser Program Advisor Herman D. James Hall 856.256.5183 daniels@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

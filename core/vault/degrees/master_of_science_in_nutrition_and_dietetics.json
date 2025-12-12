@@ -1,0 +1,73 @@
+{
+    "name": "Master of Science in Nutrition & Dietetics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7569&returnto=1028",
+    "content": {
+        "Master of Science in Nutrition & Dietetics": [
+            "Master of Science in Nutrition & Dietetics The M.S. in Nutrition & Dietetics is part of the accelerated Coordinated Program in Dietetics [CPD Program] at Rowan University. This CPD Program is an Accreditation Council for Education for Nutrition & Dietetics [ACEND] approved program of study that prepares graduates to be eligible to take the national exam towards earning the Registered Dietitian/Nutritionist (RDN) credential. This CDP Program has a unique admission process that takes place in the second semester of the second year of undergraduate coursework towards earning the Nutrition B.S. degree. Graduates of the program provide nutrition education and consultation, evaluate patients/clients and provide dietary assessments and recommendations in hospital, education and community settings. Program students take their graduate level dietetic courses online via Canvas as a cohort. Supervised practice hours are scheduled at several affiliated learning facilities. Student placements at affiliated facilities are based on availability of appropriate facility preceptors. Supervised practice consists of onsite learning at healthcare, community health, schools and food service organizations. Each scheduled rotation has learning goals and objectives as well as tools to assess learning experiences toward required industry competencies. Graduate students are given the opportunity to participate in learning activities in a specialty area of practice location based on availability and receipt of necessary approvals."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NUT",
+                            "course_number": "00518",
+                            "title": "Nutrition and Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00520",
+                            "title": "Supervised Practice",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00530",
+                            "title": "Medical Nutrition Therapy Supervised Practice",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00541",
+                            "title": "Wellness Coaching and Behavior Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00500",
+                            "title": "Advanced Nutritional Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00511",
+                            "title": "Advanced Nutrition Therapy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00540",
+                            "title": "Metabolic Basis of Disease",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 30 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses Must be admitted into the Coordinated Program in Dietetics (CDP) as an undergraduate. Graduation/Exit, Benchmark, and/or Thesis Requirements 1000 supervised practice hours All ACEND competencies fulfilled Minimum Required Grades and Cumulative GPA The Master of Science in Nutrition & Dietetics is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator Dr. Maureen A. Reidenauer Herman D. James Hall-1038 856.256.4500, ext. 53740 reidenauer@rowan.edu Program Advisor Laurie Dwyer 856.256.4785 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Minor in Supply Chain & Logistics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7427&returnto=1028",
+    "content": {
+        "Minor in Supply Chain & Logistics": [
+            "Minor in Supply Chain & Logistics The minor in Supply Chain and Logistics (SCL) is designed for students who are majoring in non-SCL subjects. This minor will provide the non-SCL students an understanding about how a supply chain works and the integration process of a supply chain with other functional areas of an organization. Having this minor will help students because many non-SCL jobs have close interactions with SCL topics. Must have a minimum of 12 letter-graded credits completed at Rowan University (transfer credits are not applicable) Must have no more than 90 earned credits (senior status) on Rowan University record Must have a College of Business major declared at Rowan University (except SCL major) Must have a minimum 2.500 cumulative GPA Must contact a Rohrer College of Business Academic Advisor to declare minor Contact your current assigned academic advisor to officially declare the minor"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09375",
+                            "title": "Business Logistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01320",
+                            "title": "Principles of Transportation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09406",
+                            "title": "Strategic Supply Chain Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01382",
+                            "title": "Supply Chain Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SCL",
+                            "course_number": "01330",
+                            "title": "Warehousing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01350",
+                            "title": "Procurement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01360",
+                            "title": "Lean Six Sigma for Supply Chain Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Choose one course from the following.",
+                "SCL 01390 - Selected Topics in Supply Chain Management Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Students must meet all prerequisites and corequisites for courses. Please refer to Banner for course prerequisites and corequisites. Ensure that courses are taken in the appropriate sequence Have questions about your progress in the minor or general questions about the requirements?  Contact your assigned academic advisor listed in Banner.",
+                "Notes:"
+            ]
+        }
+    }
+}

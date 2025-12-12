@@ -1,0 +1,94 @@
+{
+    "name": "Minor in Japanese",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7151&returnto=1028",
+    "content": {
+        "Minor in Japanese": {
+            "requirements": [],
+            "notes": [
+                "Minor in Japanese The Japanese Minor may be declared in the Department of World Languages, Oak Hall 107 or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). This program recognizes students’ completion of 18 s.h. in Japanese language. In addition to gaining linguistic competence, as they progress through the program, students will develop their communicative competence in Japanese and broaden their knowledge of Japanese culture and society. Students will also find that the program encourages their growth and development as global citizens, especially because studying Japanese language and culture provides vastly different perspectives and viewpoints. This academic background will set students apart as they search for employment in a wide variety of career fields, such as foreign and public services, international sales and business, humanitarian work, government, politics, and international law. Students with existing proficiency in Japanese should contact Chie Matsumura Dusk (dusk@rowan.edu) for a placement interview. It is possible for students to earn credits for the courses that they skip via the Authorization for Credit by Examination process. Contact Chie Matsumura Dusk (dusk@rowan.edu) for more details about this option. Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, study abroad, and credits obtained through Advanced Placement (up to 12 s.h. in place of “Elementary Japanese I,” “Elementary Japanese II,” “Intermediate Japanese I,” and “Intermediate Japanese II”). Credits obtained from higher level coursework in Japanese may also be transferred in to substitute for any of the courses listed above. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students planning to study abroad must meet with Chie Matsumura Dusk (dusk@rowan.edu), Coordinator for Japanese, in order to determine course equivalents."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Five required courses (3 s.h. each):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08101",
+                            "title": "Elementary Japanese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08102",
+                            "title": "Elementary Japanese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08201",
+                            "title": "Intermediate Japanese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08211",
+                            "title": "Intermediate Japanese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08212",
+                            "title": "Intermediate Japanese III",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Five required courses (3 s.h. each):"
+            ]
+        },
+        "Elective option - Choose one of the following (3 s.h. each):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08305",
+                            "title": "Oral Japanese",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08320",
+                            "title": "Japanese Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective option - Choose one of the following (3 s.h. each):"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Chie Matsumura Dusk Program Mentor Oak Hall, Room 105 856.256.5848 dusk@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

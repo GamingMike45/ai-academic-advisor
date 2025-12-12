@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Transportation Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7057&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Transportation Engineering": [
+            "Certificate of Undergraduate Study in Transportation Engineering The Certificate of Undergraduate Study (CUGS) in Transportation Engineering will allow students to increase the depth and breadth of knowledge in transportation engineering fundamentals during their undergraduate studies. This will allow students to graduate from Rowan University better prepared for a career specifically in Transportation Engineering than they would with just the BS degree, and provide them with an additional credential beyond the BS, yet prior to earning a MS degree."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following four courses:"
+        ],
+        "Choose two Courses from the Following List:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16307",
+                            "title": "Transportation Planning and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16360",
+                            "title": "Applications of Geographic Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31280",
+                            "title": "Introduction to City Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two Courses from the Following List:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Note: CEE 08361 Transportation Engineering and GEOG 16160 Digital Earth: Mapping and Geographic Information Science are prerequisites for admission into the CUGS. CEE 08361 Transportation Engineering is a prerequisite for all of the CEE courses listed below. GEOG 16160 is a prerequisite for GEOG 16260 Fundamentals of Geographic Information Systems (GIS) which in turn is a prerequisite for GEOG 16360 Applications of Geographic Information Systems. Gilson R. Lomboy Advisor Rowan Hall Room 136 lomboy@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

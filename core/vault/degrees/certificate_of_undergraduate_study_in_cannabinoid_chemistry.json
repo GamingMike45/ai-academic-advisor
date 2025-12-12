@@ -1,0 +1,112 @@
+{
+    "name": "Certificate of Undergraduate Study in Cannabinoid Chemistry",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7203&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Cannabinoid Chemistry": [
+            "Certificate of Undergraduate Study in Cannabinoid Chemistry The Certificate of Undergraduate Study (CUGS) in Cannabinoid Chemistry is focused on cannabinoids, which are a major class of pharmacologically active molecules found in cannabis. With increased nationwide trends toward legalization and prescription of medical marijuana, development of cannabis-related therapies, and legalization of recreational marijuana (including in the State of NJ), there is a pressing need for scientists trained in the analysis of cannabinoid-containing materials. This program will train students in the fundamental and underlying science necessary for the analysis of marijuana, cannabinoids, and related materials. This training would be useful to careers in health professions, food science, pharmaceuticals, and biotechnology."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09322",
+                            "title": "Bioanalytical Chemistry",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07388",
+                            "title": "Natural Products Chemistry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required"
+            ]
+        },
+        "Elective courses: 6-7 s.h.": [
+            "Elective courses: 6-7 s.h."
+        ],
+        "Select 2 from the following elective course options:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05350",
+                            "title": "Forensic Chemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07357",
+                            "title": "Chemical Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07410",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07464",
+                            "title": "Advanced Organic Chemistry I- WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07470",
+                            "title": "Organic Spectroscopic Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07490",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07492",
+                            "title": "Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09330",
+                            "title": "Chemical Analysis of Cannabinoids",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09410",
+                            "title": "Instrumental Methods",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Select 2 from the following elective course options:"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. To be awarded the CUGS in Cannabinoid Chemistry, students must complete all courses required for the CUGS in Cannabinoid Chemistry with at least a 2.0 average. The primary pre-requisites for the courses described above include CHEM 09249/CHEM 09250 and CHEM 07201/CHEM 07202/CHEM 07203. DeLithea Davis Advisor James Hall 856.256.5819 davisde@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

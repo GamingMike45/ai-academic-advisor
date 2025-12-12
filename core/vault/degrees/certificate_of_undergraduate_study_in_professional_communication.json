@@ -1,0 +1,94 @@
+{
+    "name": "Certificate of Undergraduate Study in Professional Communication",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7019&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Professional Communication": [
+            "Certificate of Undergraduate Study in Professional Communication This 12-hour certificate allows students to study theories and techniques of workplace and leadership communication. Using organizational and leadership communication theories, students will critically reflect on practices of workplace and leadership communication, while also learning to communicate complex information to lay audiences within various professional and technical genres, including reports, proposals, instructions, and educational materials. Towards this end, students will gain skills in audience analysis, business presentation, and interviewing strategies, organizational culture analysis, document design, style and editing, and research. Students will become more aware of theories and strategies of oral and written communication through close analysis of organizations and professional and technical exemplary texts."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": [
+            "Required Courses: 12 s.h. Students must take the two courses in the Writing Bank and their choice of two courses from the Communication Bank to fulfill the 12 credit requirement for the CUGS."
+        ],
+        "Writing Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01322",
+                            "title": "Writing for the Workplace-WI (COMP 01112 and 45 credits)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI (COMP 01112 and 45 credits)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01408",
+                            "title": "Writing as Managers (Restricted to management majors; COMP 01112 and 45 credits)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01326",
+                            "title": "Writing for Nonprofits-WI (COMP 01112 and 60 credits)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Writing Bank: 6 s.h. All courses are 3 credit hours. Prerequisites are in parentheses."
+            ]
+        },
+        "Communication Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04220",
+                            "title": "Interpersonal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04208",
+                            "title": "Business and Professional Communication (CMS 04205)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04318",
+                            "title": "Leadership Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04260",
+                            "title": "Organizational Communication (COMP 01112 or ENGR 01201)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Communication Bank: 6 s.h. All courses are 3 credit hours. Prerequisites are in parentheses."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Professional Communication, students must complete all courses required for the CUGS in Professional Communication with at least a 2.0 average. Clara Popa & Amy Woodworth Advisors Victoria Hall, 260 Victoria Ave 856.256.4348 (Clara Popa), 856.256.4847 (Amy Woodworth) popa@rowan.edu, woodworth@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

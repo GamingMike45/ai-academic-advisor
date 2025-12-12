@@ -1,0 +1,519 @@
+{
+    "name": "Bachelor of Science in Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6966&returnto=1028",
+    "content": {
+        "Bachelor of Science in Management": [
+            "Bachelor of Science in Management The Bachelor of Science in Management prepares students for meaningful entry level positions in management, and a foundation for future career growth. The program is designed to provide a strong foundation in both traditional and innovative management techniques, blending theory and practice by requiring classroom instruction, internships, and interaction with management practitioners. Students enrolled in the management program are expected to: Learn important management concepts, skills and techniques focused on managing and supervising other workers Think critically Analyze and solve organizational problems Improve their oral and written communication skills, and Build their team skills The program emphasizes the management of the new, diverse workforce; a concern for the increasing level of legal, and ethical and social responsibilities for workplace organizations; the importance of information technology in business decision making; understanding and being able to utilize essential quantitative tools for managerial decision-making in order to maintain a competitive advantage; and the globalization of the business environment. Students working toward a Bachelor of Science in Management must maintain a 2.00 cumulative grade point average and a 2.50 grade point average in all business courses completed at Rowan."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses 17-18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications (Satisfies Quantitative Literacy (QNTL) requirement)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01488",
+                            "title": "Business Career Planning and Development",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses 17-18 s.h. (may be included in General Education)",
+                "ECON 04101 - An Introduction to Economics-A Macroeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "ECON 04102 - An Introduction to Economics-A Microeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 4",
+                "STAT 02260 - Statistics I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "CS XXXXX **"
+            ]
+        },
+        "Note:": [
+            "Note: **One course from the list of approved General Education computing courses having a course identification number of CS 0xxxx"
+        ],
+        "Business Foundational Courses 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03211",
+                            "title": "Principles of Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06402",
+                            "title": "Business Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Foundational Courses 27 s.h."
+            ]
+        },
+        "Management Required Courses 18 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06310",
+                            "title": "Leadership and Supervision for Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06311",
+                            "title": "Foundations of Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01408",
+                            "title": "Writing as Managers (Satisfies Writing Intensive Attribute (WI))",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06405",
+                            "title": "Business Management Simulation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06361",
+                            "title": "Supervised Internship",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Management Required Courses 18 s.h",
+                "MGT 06330 - Managing International Business (Satisfies Global Literacy (GLBL) requirement) Credits: 3"
+            ]
+        },
+        "Skills Banks": [
+            "Skills Banks"
+        ],
+        "Analytics Skills Bank 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03326",
+                            "title": "Strategic Cost Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02370",
+                            "title": "Introduction to Information Visualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04210",
+                            "title": "Environmental Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04302",
+                            "title": "Intermediate Microeconomics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06426",
+                            "title": "New Venture Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04422",
+                            "title": "Financial Management I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06350",
+                            "title": "Analytics for Quality Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06406",
+                            "title": "Improving Business Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06407",
+                            "title": "Business Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06408",
+                            "title": "Visual Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09384",
+                            "title": "Research Methods in Marketing-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Analytics Skills Bank 3 s.h."
+            ]
+        },
+        "Qualitative Skills Bank 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01444",
+                            "title": "Business Consultancy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04208",
+                            "title": "Business and Professional Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04260",
+                            "title": "Organizational Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04318",
+                            "title": "Leadership Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04360",
+                            "title": "Intercultural Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00101",
+                            "title": "Introduction to Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00410",
+                            "title": "Public Leadership in Crisis Management & Communications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06327",
+                            "title": "Small and Family Business Venturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06342",
+                            "title": "Financing and Legal Aspects of Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06450",
+                            "title": "Technology Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06302",
+                            "title": "Management of Human Resources",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "98337",
+                            "title": "Legal Aspects of Human Resource Management (WI)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "16401",
+                            "title": "Labor and Employee Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06420",
+                            "title": "Principles of Training and Training Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02363",
+                            "title": "Data Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06222",
+                            "title": "Introduction to Sports Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06304",
+                            "title": "Organizational Change and Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06361",
+                            "title": "Supervised Internship (Must complete 6-hour course in summer)",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02325",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09350",
+                            "title": "Management of Advertising and Promotion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09360",
+                            "title": "Services Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09372",
+                            "title": "Retailing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09376",
+                            "title": "Consumer Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09382",
+                            "title": "Sales Force Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05320",
+                            "title": "Crisis Communication Survival Skills",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01326",
+                            "title": "Writing for Nonprofits-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Qualitative Skills Bank 3 s.h.",
+                "HRM 06315 - Recruitment and Selection Credits: 3",
+                "MGT 06312 - Selected Topics in Management I Credits: 3"
+            ]
+        },
+        "Sustainability Skills Bank: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43395",
+                            "title": "Emergency Operations and Business Continuity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94201",
+                            "title": "Sustainability Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06346",
+                            "title": "Social Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16301",
+                            "title": "Natural Resources, Capitalism, and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06381",
+                            "title": "Sustainable Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09218",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01335",
+                            "title": "Environmental Writing and Rhetoric-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Sustainability Skills Bank: 3 s.h."
+            ]
+        },
+        "Additional Management Electives 6 s.h": [
+            "Additional Management Electives 6 s.h Choose two unused Management electives from the Analytics Skills, Qualitative Skills, or Sustainability Skills Banks."
+        ],
+        "Free Electives 33-34 s.h": {
+            "requirements": [],
+            "notes": [
+                "Free Electives 33-34 s.h",
+                "BUS 01100 - How to Succeed in Business School (Satisfies Rowan Seminar (RS) requirement) Credits: 0 to 3"
+            ]
+        },
+        "Optional Concentration:": [
+            "Optional Concentration: Undergraduate Concentration in Crisis Management Undergraduate Concentration in Managerial Communication Undergraduate Concentration in Sustainability Management"
+        ],
+        "Total Credits for Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

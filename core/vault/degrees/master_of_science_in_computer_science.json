@@ -1,0 +1,419 @@
+{
+    "name": "Master of Science in Computer Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7533&returnto=1028",
+    "content": {
+        "Master of Science in Computer Science": [
+            "Master of Science in Computer Science The Master of Science in Computer Science will provide individuals with the opportunity to acquire an excellent graduate level education in Computer Science that prepares them to work in a variety of computer related fields, including education, industry, research, business, and government. The M.S. in Computer Science is designed for individuals with a B.S. in Computer Science who are looking to expand their knowledge and opportunities. Students with a bachelor’s degree in another discipline may also apply for the M.S. in Computer Science after meeting certain eligibility criteria. This degree can be completed as a full-time or part-time student. Most classes are offered in the evening to enable students to complete their degree while working. Rowan University undergraduates majoring in the Bachelor of Science in Computer Science program may apply to the Accelerated Dual Degree (ADD) program which allows them to earn both the Bachelor of Science and Master of Science degrees in five years instead of six. The M.S. in Computer Science is a 31 credit-hour program with an optional thesis track. Ten distinct courses must be taken to fulfill the Master’s Degree. Any course taken that belongs in multiple categories cannot double count. Up to two courses may be taken from other, appropriate graduate programs subject to advisor approval, provided all requirements for this M.S. degree are fulfilled. Tracks The program includes two tracks - a thesis track and a non-thesis track. Non-Thesis Track: Students choosing the non-thesis track take 31 credits of traditional (non-thesis) courses. Thesis Track: Students choosing the thesis track will also take 31 credits, but they will substitute between 6 to 9 credits of thesis courses for traditional (non-thesis) courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "00500",
+                            "title": "Computer Science Graduate Seminar",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07540",
+                            "title": "Advanced Design and Analysis of Algorithms",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 3 s.h."
+            ]
+        },
+        "Core Courses: 9 s.h.": [
+            "Core Courses: 9 s.h. Students are required to complete at least one course from any three Common Core areas listed below."
+        ],
+        "Algorithms & Theory": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "07510",
+                            "title": "Mathematical Foundations of Computer Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07556",
+                            "title": "Machine Learning I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07559",
+                            "title": "Advanced Models of Deep Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07622",
+                            "title": "Advanced Theory of Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07650",
+                            "title": "Concepts in Artificial Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07652",
+                            "title": "Cryptographic Algorithms *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07656",
+                            "title": "Machine Learning II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Algorithms & Theory"
+            ]
+        },
+        "Software Design": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04515",
+                            "title": "Embedded Systems Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04524",
+                            "title": "Agile Software Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04563",
+                            "title": "Parallel and Concurrent Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04580",
+                            "title": "Human Centered Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04623",
+                            "title": "Advanced Software Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04670",
+                            "title": "Advanced Object Oriented Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Software Design"
+            ]
+        },
+        "Cybersecurity": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03551",
+                            "title": "Advanced Cyber Security: Principles and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03552",
+                            "title": "Graduate Digital Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03570",
+                            "title": "Cyber Defense of Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03580",
+                            "title": "Cloud Computing and the Internet of Things *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07652",
+                            "title": "Cryptographic Algorithms *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09612",
+                            "title": "Network Security *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Cybersecurity"
+            ]
+        },
+        "Data Management & Analytics": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02505",
+                            "title": "Data Mining I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02530",
+                            "title": "Advanced Database Systems: Theory and Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02605",
+                            "title": "Data Mining II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02620",
+                            "title": "Data Warehousing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02625",
+                            "title": "Data Quality and Web/Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02630",
+                            "title": "Advanced Topics in Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "02510",
+                            "title": "Visual Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Data Management & Analytics"
+            ]
+        },
+        "Computer Networks": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03580",
+                            "title": "Cloud Computing and the Internet of Things *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09510",
+                            "title": "Computer Networks",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09605",
+                            "title": "Wireless Networks and Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09612",
+                            "title": "Network Security *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09675",
+                            "title": "TCP/IP and Internet Protocols and Technologies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Computer Networks"
+            ]
+        },
+        "*Please Note:": [
+            "*Please Note: Course may count for one of two core areas, but cannot count for both core areas."
+        ],
+        "Advanced Electives: 9 s.h.": [
+            "Advanced Electives: 9 s.h. In addition to the 9 s.h. in the Core Courses areas above, students must complete three 600-level courses. These courses can be selected from the Core Courses areas above, or the Non-These Track Electives below."
+        ],
+        "Thesis Track Courses: 6 - 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "07530",
+                            "title": "Computer Science Thesis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07631",
+                            "title": "Computer Science Thesis II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis Track Courses: 6 - 9 s.h. Thesis Track students may take either six credits of thesis and one additional elective, or they may take nine credits of thesis.",
+                "CS 07632 - Computer Science Thesis III (optional) Credits: 3"
+            ]
+        },
+        "Non-Thesis Track Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01541",
+                            "title": "Bioinformatics - Advanced Computational Aspects",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02570",
+                            "title": "Information Visualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04548",
+                            "title": "Programming Languages: Theory, Implementation and Application",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04564",
+                            "title": "Compiler Design Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04565",
+                            "title": "Systems Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04590",
+                            "title": "Computer Game Design and Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04605",
+                            "title": "Advanced Web Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06560",
+                            "title": "Design/Implement Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07565",
+                            "title": "Computer Vision",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07645",
+                            "title": "Advanced Robotics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07655",
+                            "title": "Natural Language Processing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07695",
+                            "title": "Advanced Topics in Computer Science",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "08560",
+                            "title": "Computer Graphics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "08680",
+                            "title": "Computer Animation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Thesis Track Electives: 9 s.h. Non-Thesis Track students must take nine credits of additional electives; they may not take any thesis courses. These additional electives can be chosen from the list below or the Common Core areas above."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses Students accepted into the program are expected to be well versed in programming, discrete mathematics, computer organization/architecture, direct interactions with operating systems, data structures, and algorithmic thinking either through undergraduate course work or work experience. At the discretion of the Program Coordinator, students not meeting all of these criteria may be accepted into this master’s program but will be required to complete one or two computer science bridge courses before enrolling into other computer science graduate courses. These courses are: CS 01501 - Essentials of Computer Science I* CS 01502 - Essentials of Computer Science II* *CS 01501 and CS 01502 will not count toward the 31 graduate credits needed for degree completion. Graduation/Exit, Benchmark, and/or Thesis Requirements If thesis track is chosen, students must successfully complete and defend Master’s Thesis. Minimum Required Grades and Cumulative GPA The Master of Science in Computer Science is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Shen-Shyang Ho Robinson Hall, Room 328Q 856.256.4805 hos@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

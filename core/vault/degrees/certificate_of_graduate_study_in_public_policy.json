@@ -1,0 +1,121 @@
+{
+    "name": "Certificate of Graduate Study in Public Policy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7591&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Public Policy": [
+            "Certificate of Graduate Study in Public Policy The Certificate of Graduate Study (COGS) in Public Policy will provide students with a fundamental understanding of critical tools of effective policy analysis, including formal program evaluation, benefit-cost analysis, and an introduction to policy-relevant statistics. The program combines knowledge of essential administrative functions with the skills necessary to interpret and conduct actual studies, including assessment of the need for government intervention and how to use research on behalf of the public at large. The certificate will be valued by government and corporate employers, as well as nonprofit agencies and international organizations."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02510",
+                            "title": "Introduction to Policy Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses 3 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CSSR",
+                            "course_number": "99501",
+                            "title": "Data Literacy for Civil/Public Service",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CSSR",
+                            "course_number": "99502",
+                            "title": "Data Analysis for Civil/Public Service",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CSSR",
+                            "course_number": "99503",
+                            "title": "Policy Agendas Project New Jersey",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "07520",
+                            "title": "Colloquium in Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02512",
+                            "title": "Quantitative Methods in Public Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02514",
+                            "title": "Essentials of Economics for Public Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02516",
+                            "title": "State and Local Politics in Policy Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02518",
+                            "title": "Public Finance and Cost-Benefit Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02520",
+                            "title": "Social Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02530",
+                            "title": "Health Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02540",
+                            "title": "Environmental Economic Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07530",
+                            "title": "Colloquium in Political Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose two (2) courses from the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Completion of all required coursework in accordance with University requirements for good standing. Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Public Policy is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Elaine Zundl Robinson Hall zundl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Certificate of Undergraduate Study in Psychology of Sport & Exercise",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7301&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Psychology of Sport & Exercise": [
+            "Certificate of Undergraduate Study in Psychology of Sport & Exercise The Psychology of Sport & Exercise CUGS will provide students with a sequence of courses to enhance knowledge in the field of psychology and performance in the sport and exercise environment. Achieving this certificate will enhance awareness of general information regarding sports psychology, performance and exercise by focusing on theories, models, and processes. This CUGS will be of value to students interested in working in health profession fields in positions such as a strength and conditioning coach, athletic trainer, occupational and physical therapist, educator, health behavior coach, etc. Having an understanding of sport and exercise psychology when working with potential clients, patients, students and athletes are critical to providing care utilizing a whole-body approach. Although students will not be receiving a degree in Sports Psychology, this CUGS can prepare those that are interested in obtaining a graduate degree in psychology, a doctoral degree in Sports Psychology and even those with future professional goals of becoming a certified consultant for the Association of Applied Sport Psychology after receiving their terminal degree with theoretical framework of this field. Since Rowan University does not have a minor in sport psychology, this CUGS will provide the first experience in this field for students to obtain a certificate of specialization."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00370",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05320",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00371",
+                            "title": "Social Psychology of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "00371",
+                            "title": "Social Psychology of Sport",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ATR",
+                            "course_number": "00477",
+                            "title": "Psychosocial Aspects of Physical Activity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Psychology of Sport & Exercise, students must complete all courses required for the CUGS in Psychology of Sport & Exercise. JoAnne Bullard Coordinator Herman D. James Hall 856.256.3709 bullardj@rowan.edu Laurie Dwyer Advisor Herman D. James Hall 856.256.5835 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

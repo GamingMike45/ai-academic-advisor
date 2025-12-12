@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in German",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7158&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in German": [
+            "Certificate of Undergraduate Study in German The Certificate of Undergraduate Study (CUGS) in German may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). This program recognizes students’ completion of 12 s.h. in German, which corresponds to Intermediate-level proficiency in the language. Intermediate-level proficiency in a world language is a valuable credential, as it represents the ability to live independently in a foreign country with a substantial degree of success. In general, according to the American Council on the Teaching of Foreign Languages (ACTFL), Intermediate-level speakers are able to create with the language, combining and recombining learned material to provide personal information, speak in sentences on a variety of familiar topics, ask questions, initiate, sustain and conclude a simple social or transactional task. For more information visit our website, Department of World Languages or contact the Department for the latest details."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GERM",
+                            "course_number": "03101",
+                            "title": "Elementary German I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03102",
+                            "title": "Elementary German II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03201",
+                            "title": "Intermediate German I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03211",
+                            "title": "Intermediate German II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four, 3 s.h. courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, study abroad, credits obtained through the College-Level Examination Program (CLEP) (up to 9 s.h. are accepted at Rowan in place of “Elementary German I”, “Elementary German II” and “Intermediate German I”- contact the Testing Center, testingservices@rowan.edu, credits obtained through Advanced Placement (up to 9 s.h. are accepted at Rowan in place of “Elementary German I”, “Elementary German II” and “Intermediate German I”), and by substituting other 200-400 level German courses. A placement interview is strongly recommended for students with existing proficiency in German. For placement interview information, please contact Dr. Edward Smith at smithe@rowan.edu; students may earn the credits for any courses skipped via the Authorization for Credit by Examination Process. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students planning to study abroad must meet with the Program Mentor in order to determine course equivalents. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in German. Edward C. Smith III, Ph.D. Program Mentor Oak Hall, Room 207 856.256.5848 smithe@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

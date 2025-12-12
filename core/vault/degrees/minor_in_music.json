@@ -1,0 +1,163 @@
+{
+    "name": "Minor in Music",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7079&returnto=1028",
+    "content": {
+        "Minor in Music": [
+            "Minor in Music"
+        ],
+        "Music Minor (for Non-Music Majors): 20 s.h.": [
+            "Music Minor (for Non-Music Majors): 20 s.h."
+        ],
+        "Core Requirements: 13 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02105",
+                            "title": "Secondary Applied Instrument (4 semesters, 4 credits total)",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "02106",
+                            "title": "Secondary Applied Voice (4 semesters, 4 credits total)",
+                            "credits": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "01050",
+                            "title": "Student Recitals (2 semesters)",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04118",
+                            "title": "Music Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04110",
+                            "title": "Sight Singing and Ear Training",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Requirements: 13 s.h.",
+                "Ensembles assigned by audition (4 semesters, 4 credits total)"
+            ]
+        },
+        "Electives: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02105",
+                            "title": "Secondary Applied Instrument (up to 3 additional semesters)",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "02106",
+                            "title": "Secondary Applied Voice (up to 3 additional semesters)",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "08100",
+                            "title": "Wind Ensemble",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04103",
+                            "title": "Music Theory I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40121",
+                            "title": "Audio Recording I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40122",
+                            "title": "Computer Technology and Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06102",
+                            "title": "General Music History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06115",
+                            "title": "Growth and Development of Jazz",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06214",
+                            "title": "History and Literature of Western Music Repertories I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06215",
+                            "title": "History and Literature of Western Music Repertories II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06335",
+                            "title": "History and Literature of Western Music Repertories III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06447",
+                            "title": "Music in World Cultures: Asia & Oceania",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06448",
+                            "title": "Music in World Cultures: Africa, India, Near and Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "97100",
+                            "title": "Piano Class I",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 7 s.h. Ensemble (up to 3 credits, assigned by audition)"
+            ]
+        },
+        "Total Required Credits for the Program: 20 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 20 s.h. Alexandria Funkhouser, MA Senior Academic Advisor Wilson Hall 141 856.256.5183 daniels@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Principal Preparation",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7658&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Principal Preparation": [
+            "Certificate of Advanced Graduate Study in Principal Preparation The Certificate of Advanced Graduate Study (CAGS) in Principal Preparation program meets the requirements specified by the New Jersey Department of Education for state certification, including a 300 hour internship and is designed to serve the person who has already earned a master’s degree, has five years of full-time experience, and who wants to qualify as a principal in the public schools."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 36 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDAM",
+                            "course_number": "27510",
+                            "title": "Change for School Improvement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDAM",
+                            "course_number": "27521",
+                            "title": "Introduction to the Principalship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDAM",
+                            "course_number": "27535",
+                            "title": "School Finance and Records",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDAM",
+                            "course_number": "27559",
+                            "title": "Law and Ethics for School Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28522",
+                            "title": "Instructional Leadership and Supervision",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28523",
+                            "title": "Building Organizational Capacity *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDAM",
+                            "course_number": "27600",
+                            "title": "Practicum/Seminar in Administration/Supervision I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDAM",
+                            "course_number": "27601",
+                            "title": "Practicum/Seminar in Administration/Supervision II *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 36 s.h."
+            ]
+        },
+        "Note:": [
+            "Note: *These three courses should be the final three courses of the program and taken sequentially."
+        ],
+        "Total Required Credits for the Program: 36 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 36 s.h. Foundation Courses The program allows students to transfer 12 credits into the program provided that a grade of “B” or better was earned. If students cannot transfer 12 credits, they can register for courses from the M.A. in School Administration program to reach the required 36 credits. Graduation/Exit, Benchmark, and/or Thesis Requirements Benchmarks: Successful completion of all benchmarks is required for continuation in and graduation from the program. Details regarding benchmarks’ timing and assessments will be shared with the student throughout the program by the Academic Advisor. Benchmark I: Timing: Occurs after the completion of 12 prescribed credits Requirements: Candidates must achieve a passing score on the School Leader Licensure Assessment and have an approved tentative plan for the Practicum and Seminar in Administration and Supervision courses (internship). Discuss details with the Academic Advisor. Options: If the student does not successfully pass the benchmark, then the student is able to re-take Assessment Exam or any incomplete coursework, until such time as benchmark is passed or student is made inactive. Minimum Required Grades and Cumulative GPA The Certificate of Advanced Graduate Study in Principal Preparation is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator Contact Information David T. Lindenmuth, Ed.D. Herman D. James Hall 856.256.4705 lindenmuth@rowan.edu Program Advisor Contact Information Miguel Greenup Herman D. James Hall 856.256.4500, ext.53637 greenup@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

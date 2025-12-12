@@ -1,0 +1,154 @@
+{
+    "name": "Master of Arts in STEM Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7625&returnto=1028",
+    "content": {
+        "Master of Arts in STEM Education": [
+            "Master of Arts in STEM Education The need for teachers in high-need disciplines continues to grow. This program addresses these needs by selecting exceptionally able college seniors and career changers with science, technology, engineering, or mathematics backgrounds from across the country and supporting them to develop successful careers as highly skilled math, science, and technology teachers. The Master of Arts in STEM Education (M.A. STEM) offers the unique opportunity for students who have undergraduate degrees in the mathematics, engineering, or the sciences to pursue an initial New Jersey teaching certificate in mathematics and/or one of the sciences and a master’s degree simultaneously. This program is carefully designed such that all coursework has a STEM (Science, Technology, Engineering, Mathematics) focus that provides the ideal pedagogical preparation for prospective Mathematics or Science teachers in the P-12 setting. This 13-month program includes an early field experience, face-to-face, online, and hybrid courses, and a year-long teacher residency. The culminating experience is a seminar in which students transition from teacher candidate to teacher by planning for leading their own classrooms. Concentrations within the Master of Arts in STEM Education: Mathematics Science"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STEM",
+                            "course_number": "60501",
+                            "title": "STEM: Teaching and Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60510",
+                            "title": "Teaching STEM in Diverse Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60504",
+                            "title": "Professional Seminar for STEM Educators",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60512",
+                            "title": "STEM: Clinical Practice I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60513",
+                            "title": "STEM: Clinical Practice II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "60576",
+                            "title": "Inclusive Instruction in STEM Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60524",
+                            "title": "STEM Teaching and Research Clinical Seminar I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60525",
+                            "title": "Teaching and Research Clinical Seminar II",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 24 s.h."
+            ]
+        },
+        "Concentration Courses: 9 s.h.": [
+            "Concentration Courses: 9 s.h."
+        ],
+        "Mathematics Concentration Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STEM",
+                            "course_number": "60502",
+                            "title": "STEM: Teaching and Research Methods II: Mathematics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60503",
+                            "title": "STEM: Teaching and Research Methods III: Mathematics",
+                            "credits": 5
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mathematics Concentration Courses"
+            ]
+        },
+        "Science Concentration Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STEM",
+                            "course_number": "60522",
+                            "title": "STEM: Teaching and Research Methods II: Science",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60523",
+                            "title": "STEM: Teaching and Research Methods III: Science",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33700",
+                            "title": "Teaching and Research Methods II: Computer Science (ONLY for Computer Science majors)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "60600",
+                            "title": "STEM Teaching and Research Methods III: Computer Science (ONLY for Computer Science majors)",
+                            "credits": 5
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Science Concentration Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 33 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33 s.h. Foundation Courses Students in this program are required to meet admission course requirements in either P-12 Biology, Chemistry, Computer Science, Mathematics, Physical Science, Earth Science, or Physics NJ state certification subject areas. Please consult the Academic Advisor for information. One psychology-based course in the following area: Adolescent Development. One course on either Health & Wellness, Biology, or Nutrition. Graduation/Exit/Thesis Requirements Passing scores on relevant Praxis II exams before graduation from the MA STEM program Exit Portfolio required. Minimum Required Grades and Cumulative GPA The Master of Arts in STEM Education is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Issam Abi-El-Mona Herman D. James Hall 856.256.4500, ext.4736 abi-el-mona@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "name": "Certificate of Undergraduate Study in Computer Programming",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7220&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Computer Programming": [
+            "Certificate of Undergraduate Study in Computer Programming The Certificate of Undergraduate Study (CUGS) in Computer Programming is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level."
+        ],
+        "Program Requirements": [
+            "Program Requirements Students seeking this CUGS will be required to complete a total of 4 courses. One course from each domain must be completed. This CUGS is not available to Computer Science majors or Computing and Informatics majors."
+        ],
+        "Required Courses: 12 s.h.": [
+            "Required Courses: 12 s.h."
+        ],
+        "Domain #1": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #1"
+            ]
+        },
+        "Domain #2": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04215",
+                            "title": "Computer Laboratory Techniques",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #2"
+            ]
+        },
+        "Domain #3": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04210",
+                            "title": "Advanced Programming Workshop",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #3"
+            ]
+        },
+        "Domain #4": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04225",
+                            "title": "Principles of Data Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10344",
+                            "title": "Concepts of Computing Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10271",
+                            "title": "Introduction to Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10275",
+                            "title": "Introduction to iOS Application Programming",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #4"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Chia Chien Coordinator Robinson Hall 856.256.4805 chien@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

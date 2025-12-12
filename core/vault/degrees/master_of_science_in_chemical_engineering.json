@@ -1,0 +1,187 @@
+{
+    "name": "Master of Science in Chemical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7605&returnto=1028",
+    "content": {
+        "Master of Science in Chemical Engineering": [
+            "Master of Science in Chemical Engineering The Master of Science in Chemical Engineering program emphasizes advanced chemical engineering skills, project management skills, engineering design, and fundamental and applied research, all of which prepares students and working engineers for successful careers in advanced technical fields. This program includes the following focus areas: additive manufacturing; artificial intelligence; bioengineering; bio-based processing; catalysis; crystallization; experimental design and data analysis; machine learning; pharmaceutical engineering; polymers and composites; process design and optimization; reaction engineering; renewable energy; sustainability; and tissue engineering Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined below. Thesis Track : The thesis option requires the completion of 30 semester hours, 6-9 of which are in thesis research/engineering project. Non-Thesis Track : The non-thesis option requires the completion of 30 semester hours of coursework."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06514",
+                            "title": "Transport Phenomena for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06515",
+                            "title": "Advanced Reactor Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06586",
+                            "title": "Advanced Engineering Thermodynamics.",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Required Business course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06510",
+                            "title": "Strategic Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Business course: 3 s.h. Choose one course from among the following (or an approved equivalent):"
+            ]
+        },
+        "Required Math Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06587",
+                            "title": "Process Optimization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Math Course: 3 s.h."
+            ]
+        },
+        "Graduate Technical Electives: 6-15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06502",
+                            "title": "Special Topics in Chemical Engineering",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06510",
+                            "title": "Biochemical Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06512",
+                            "title": "Safety in the Process Industries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06518",
+                            "title": "Polymer Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06530",
+                            "title": "Experimental Methods in Chemical Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06575",
+                            "title": "Biopharmaceutical and Industrial Fluid Mixing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06577",
+                            "title": "Advanced Engineering Process Analysis and Experimental Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06578",
+                            "title": "Tissue Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06587",
+                            "title": "Process Optimization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Graduate Technical Electives: 6-15 s.h. For Non-Thesis Track : student must fulfill 15 credits of graduate-level elective courses. For Thesis Track : student must fulfill 6 credits of graduate-level elective courses. Choose from approved graduate-level electives offered by the Chemical Engineering program. The eligible courses include, but are not limited to the following:"
+            ]
+        },
+        "Master’s Thesis Project: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01599",
+                            "title": "Master’s Research and Thesis",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Master’s Thesis Project: 9 s.h. For Thesis Track only : In lieu of 9 credits of technical electives, student must register for Master’s Research and Thesis totaling 9 credits, and pursue and complete a Master’s thesis project."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements For Thesis Track: Student must register for Master’s Research and Thesis totaling 9 credits, and successfully defend their thesis. Minimum Required Grades and Cumulative GPA The Master of Science in Chemical Engineering is a Category 2 program. Under this program, the student must earn no grades lower than a B- and must achieve a cumulative grade point average (GPA) of at least 3.0 out of 4.0. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Graduate Program Chair Kirti Yenkie Henry M. Rowan Hall 856.256.5375 yenkie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

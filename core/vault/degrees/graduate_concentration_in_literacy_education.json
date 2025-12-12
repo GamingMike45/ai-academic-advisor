@@ -1,0 +1,61 @@
+{
+    "name": "Graduate Concentration in Literacy Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10860&returnto=1028",
+    "content": {
+        "Graduate Concentration in Literacy Education": [
+            "Graduate Concentration in Literacy Education The Literacy Education Ph.D. concentration prepares individuals for roles in research, policy, and teaching in higher education. The courses examine influential theories and research that address the developmental, cognitive, motivational, multimodal, literary, linguistic, sociocultural, and sociopolitical foundations of language and literacy. The program is strongly framed by a critical stance emphasizing language and literacy’s transformative potential. Candidates for the literacy education doctorate conduct research examining major issues around the interaction of theory, research, and practice in their role in promoting access, equity and success across a range of educational contexts."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90840",
+                            "title": "Theoretical Perspectives in the Study of Literacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90842",
+                            "title": "Multicultural and Multilingual Issues in Literacy Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90843",
+                            "title": "Literacy as Practice In and Outside of School",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90845",
+                            "title": "The Pedagogy of Literature for Children and Adolescents",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90846",
+                            "title": "Sociolinguistics and Discourse Analysis in Literacy Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

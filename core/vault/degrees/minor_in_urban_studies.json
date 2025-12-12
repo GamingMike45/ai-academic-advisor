@@ -1,0 +1,196 @@
+{
+    "name": "Minor in Urban Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7185&returnto=1028",
+    "content": {
+        "Minor in Urban Studies": [
+            "Minor in Urban Studies New Jersey, the nation’s most urban and most densely populated state, provides a compelling laboratory for the study of urbanism, urban places and associated problems such as sprawl, segregation, income disparity, poverty, crime, health and other issues. The Urban Studies minor provides a format for students to engage in a systematic, yet wide ranging, study of urbanism on a local, national and global scale. The Urban Studies minor is interdisciplinary and available to students from all majors. Students are required to complete at least 21 credits (seven courses). Of these, at least 9 credits (three courses) must be taken in the Urban Studies Core. Among these Core courses, students must take courses in three of the following five subject areas: Economics, Geography, History, Political Science, and Sociology. An additional 12 credits (four courses) must be completed from either the remaining Urban Studies Core classes, from the related disciplinary clusters detailed below, or from the list of eligible elective courses following the cluster listing. Students may take up to, but not more than, three of these additional courses from a single Department. Thus, no student can count more than four courses from one department toward their Urban Studies Minor (one of the Core classes and up to three additional courses). The minor may be pursued in conjunction with a major program; it can also be integrated with general education requirements."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Economics Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04360",
+                            "title": "Urban Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04210",
+                            "title": "Environmental Economics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Economics Courses"
+            ]
+        },
+        "Geography Course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Geography Course"
+            ]
+        },
+        "History Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05334",
+                            "title": "US Urban History",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "History Courses"
+            ]
+        },
+        "Political Science": [
+            "Political Science TBA"
+        ],
+        "Sociology Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08320",
+                            "title": "Urban Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08431",
+                            "title": "Social Psychology of City Life",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Sociology Courses"
+            ]
+        },
+        "Recommended Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31383",
+                            "title": "Metropolitan/Regional Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07220",
+                            "title": "State and Local Government",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07324",
+                            "title": "The Politics of Race in American Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08422",
+                            "title": "Social Determinants of Health: Theory, Method and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08405",
+                            "title": "Applied Community Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08441",
+                            "title": "Sociology of Migration: Contemporary Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08442",
+                            "title": "Environmental Justice: Race, Class, and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08450",
+                            "title": "Sociology of Ethnicity and Politics",
+                            "credits": null
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08488",
+                            "title": "Critical Race Theory: Social Justice, Advocacy and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08490",
+                            "title": "Social Dynamics of Political Violence, Insurgency and Civil Unrest",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Recommended Courses"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Emily Blanck Advisor Oak Hall 303N blanck@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "name": "Post-Baccalaureate Certificate in English Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7584&returnto=1028",
+    "content": {
+        "Post-Baccalaureate Certificate in English Education": [
+            "Post-Baccalaureate Certificate in English Education"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "05301",
+                            "title": "American English Grammar",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "One genre course from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02234",
+                            "title": "Genre Studies: Drama",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02235",
+                            "title": "Genre Studies: Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02228",
+                            "title": "Genre Studies: Short Fiction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02270",
+                            "title": "The English Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02285",
+                            "title": "The American Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02424",
+                            "title": "American Drama",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One genre course from the following list:"
+            ]
+        },
+        "One English elective designated Diversity & Inclusion (D/I) from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02218",
+                            "title": "Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02231",
+                            "title": "World Mythologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02360",
+                            "title": "Asian American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02362",
+                            "title": "Native American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02470",
+                            "title": "Special Topics in Multiethnic Literatures of the United States",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One English elective designated Diversity & Inclusion (D/I) from the following list:",
+                "ENGL 02223 - Selected Topics in Multiethnic Literatures of the US Credits: 3"
+            ]
+        },
+        "And": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02445",
+                            "title": "Shakespeare II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": []
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

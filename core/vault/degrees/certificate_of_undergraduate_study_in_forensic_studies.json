@@ -1,0 +1,58 @@
+{
+    "name": "Certificate of Undergraduate Study in Forensic Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6951&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Forensic Studies": [
+            "Certificate of Undergraduate Study in Forensic Studies The CUGS in Forensic Studies is an interdisciplinary program that provides a sequence of courses that combines forensic topics (such as forensic anthropology, forensic law, forensic science, and computer forensics) with law-justice topics (such as criminal procedures, criminal investigation, criminal justice) enabling students to pursue post graduate certification or higher degree training in the area of forensics (forensic studies, forensic science, or related fields). The CUGS in Forensic Studies may also fulfill interest for personal enrichment and satisfaction of intellectual curiosity among those students with a non-professional interest in forensic studies and forensic science."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9-10 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02315",
+                            "title": "Forensic Anthropology (lab course)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05290",
+                            "title": "Forensic Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03252",
+                            "title": "Foundations of Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05249",
+                            "title": "Introduction to Forensic Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9-10 s.h. The CUGS in Forensic Studies requires at least 3 Forensic courses for 9-10 s.h. from the following:"
+            ]
+        },
+        "Additional Courses": [
+            "Additional Courses Students will take an additional course, from the Electives Bank, to fulfill the minimum 12 sh."
+        ],
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Forensic Studies, students must complete all courses required with at least a 1.7 average. For students pursuing post graduate certification or higher degree training in the area of Forensics it is recommended to take additional courses from the Electives Bank. Maria Rosado Advisor Campbell Library 528 856.256.4586 rosado@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

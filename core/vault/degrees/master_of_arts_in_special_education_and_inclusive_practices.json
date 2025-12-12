@@ -1,0 +1,75 @@
+{
+    "name": "Master of Arts in Special Education & Inclusive Practices",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7661&returnto=1028",
+    "content": {
+        "Master of Arts in Special Education & Inclusive Practices": [
+            "Master of Arts in Special Education & Inclusive Practices This advanced program is designed for individuals who possess an instructional certificate and want to pursue a Master of Arts in Special Education & Inclusive Practices. Students must be employed full-time in a P-12 class setting to complete field-related assignments throughout this program. The purpose of the program is to provide advanced studies focusing on the educational, psychological, and sociological needs of children and youth with disabilities. The course work and related field experiences are designed to foster an understanding of students with a range of suspected and diagnosed disabilities combined with pedagogical skills to support individual strengths and needs and provide appropriate curriculum accommodations and modifications when necessary. Upon completing the program, candidates earn a Master of Arts in Special Education & Inclusive Practices. Track Information All students in this MA in Special Education must successfully complete six core courses. In addition, each student must select from and successfully complete course work in one of four track options in this program. The total number of required credits varies from 33-36 depending upon the track selected during the application process. Track I: Graduate Endorsement is designed for those who wish to qualify for State of New Jersey Teacher of Students with Disabilities Certification while simultaneously earning their Master’s degree. This is the only track that leads to a state-approved Special Education certification. Track II: Learning Disabilities is designed for teachers who are looking to broaden their knowledge and skills to better serve students with exceptional learning needs. This track is for advanced content knowledge only and does not lead to any certification or endorsement. Track III: Early Childhood Special Education is designed for education professionals who are looking to broaden their knowledge and skills to better serve young children at risk for and with diagnosed disabilities and their families across diverse birth-to-five (5) settings. This track is for advanced content knowledge only and does not lead to any certification or endorsement. Track IV: English as a Second Language (ESL) is designed to use multifaceted understandings of the unique needs, challenges, and experiences of ESL students to advocate for their academic, social, and emotional success; plan for instruction, create curriculum, and develop assessments that use research-based practices and that integrate language and content for ESL students at various levels of English proficiency; and support ESL students’ acquisition of social and academic language and impact their learning. This track does lead to a NJ K-12 certificate in English as a Second Language, contingent on also passing the OPI (or OPIc) and WPT to demonstrate English proficiency."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECSE",
+                            "course_number": "10500",
+                            "title": "Characteristics of Young Children with Disabilities (birth-5) and Their Families",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "10578",
+                            "title": "Special Education Policy, Advocacy, and Teacher Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "10585",
+                            "title": "Educational Assessment in Special Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "10610",
+                            "title": "Inquiry in Special Education Settings *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "10611",
+                            "title": "Practicum: Inquiry in Special Education Settings *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Required Courses: 18 s.h.",
+                "SELN 10582 - Communication Skills for Students with Disabilities Credits: 3",
+                "*Note: After completing all other core/track courses, must be taken in the same semester with the same instructor. Consult the program coordinator early in the preceding semester to be added to the wait list."
+            ]
+        },
+        "Graduate Endorsement Track: 21 s.h.": [
+            "Graduate Endorsement Track: 21 s.h. Graduate Endorsement in Teacher of Students with Disabilities"
+        ],
+        "Learning Disabilities Track: 15 s.h.": [
+            "Learning Disabilities Track: 15 s.h. Certificate of Graduate Study in Learning Disabilities"
+        ],
+        "Early Childhood Special Education Track: 15 s.h.": [
+            "Early Childhood Special Education Track: 15 s.h. Certificate of Graduate Study in Early Childhood Special Education"
+        ],
+        "English as a Second Language Track: 15 s.h.": [
+            "English as a Second Language Track: 15 s.h. Certificate of Graduate Study in English as a Second Language Education"
+        ],
+        "Total Required Credits for the Program: 33-36 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33-36 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Students must successfully complete all required courses including the two-course capstone. Minimum Required Grades and Cumulative GPA The Master of Arts in Special Education & Inclusive Practices is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Nicole M. Edwards, Ph.D. Herman D. James Hall 856.256.4500, ext.53797 edwardsn@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "name": "Certificate of Undergraduate Study in Social Justice & Social Change",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7444&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Social Justice & Social Change": [
+            "Certificate of Undergraduate Study in Social Justice & Social Change The primary goal of social justice is to ensure all groups have the opportunity to receive resources equitably. The Certificate of Undergraduate Study (CUGS) in Social Justice & Social Change provides a sequence of courses designed for those seeking careers in a variety of settings geared toward community development such as non-profit organizations, business, governmental agencies, non-governmental organizations, research and advocacy groups, faith-based institutions, and educational institutions. The program’s focus on inequity and oppression will enhance students’ understanding of diversity in organizations. The certificate (for current students or professionals in the field seeking more knowledge in this area of study) is aimed at human rights educators, advocates, activists, legal practitioners, law enforcement officers, gender activists, research officers, managers and staff of human rights institutions, volunteers, development actors, trainers, students, inter­ governmental organizations, academics and other interested parties."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08493",
+                            "title": "Seminar on Gender Roles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08281",
+                            "title": "Sexuality and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08370",
+                            "title": "Sociology of Women In Society",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08221",
+                            "title": "Social Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08330",
+                            "title": "Social Stratification",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08230",
+                            "title": "Sociology of Minority Groups",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08488",
+                            "title": "Critical Race Theory: Social Justice, Advocacy and Intervention",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h. Students must complete the following five, three credit courses for a total of fifteen (15) credits to receive the certificate:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Students who intend to complete the certificate must secure a Declaration Change of Major form to declare their intent. This form can be obtained in the University Advising Center located on the 3rd floor of Savitz Hall.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "name": "Certificate of Undergraduate Study in Soft Robotics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7071&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Soft Robotics": [
+            "Certificate of Undergraduate Study in Soft Robotics The CUGS in Soft Robotics offers students an opportunity to learn the concepts, principles, systems, and applications of soft robotics. Soft robotics, a fast-growing subfield under robotics, focuses on robots made of soft materials. Many innovations in soft robotics have been inspired by elements and systems in nature, especially animals’ soft structures. In comparison to the traditional rigid-body robots, soft robots can better adapt to unpredictable environments to perform challenging tasks due to their inherent flexibility. This CUGS allows students to take additional specialized coursework related to the field of Soft Robotics."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10466",
+                            "title": "Introduction to Soft Robotics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required course: 3 s.h."
+            ]
+        },
+        "Choose two courses from the following list 6-7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10345",
+                            "title": "Dynamic Systems and Control",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10442",
+                            "title": "Mechatronics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09321",
+                            "title": "Systems and Control I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09342",
+                            "title": "Introduction to Embedded Systems *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two courses from the following list 6-7 s.h."
+            ]
+        },
+        "Choose one course from the following list: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10456",
+                            "title": "Introduction to Special Topics in Mechatronics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10470",
+                            "title": "Introduction to Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07310",
+                            "title": "Robotics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09455",
+                            "title": "Introduction to Machine Learning *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09456",
+                            "title": "Embedded Software Design *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09473",
+                            "title": "Smart Sensors *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09486",
+                            "title": "Introduction ot Portable Platform Development *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one course from the following list: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. * These courses are primarily for students pursuing the ECE major. Students may need to take additional courses to satisfy pre-requisite requirements of these courses. ** No more than two courses can be double-counted towards a degree or another certificate. Program Coordinator/Advisor Contact Information Mitja Trkov Associate Professor & CUGS Advisor Rowan Hall 856.256.5308 trkov@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

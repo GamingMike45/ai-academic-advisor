@@ -1,0 +1,128 @@
+{
+    "name": "Minor in Foundations of Biomedical Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7419&returnto=1028",
+    "content": {
+        "Minor in Foundations of Biomedical Sciences": [
+            "Minor in Foundations of Biomedical Sciences This minor provides general required prerequisites and tracks with electives specific to health profession schools.  It is intended for non-STEM majors who will not acquire these courses through their own major but may be a useful tool for all students to understand the common prerequisites of each health professional school they plan to continue to.  Examples of health profession schools include but are not limited to medical, dental, podiatry, physical therapy, physician assistant, accelerated  - nursing, and optometry programs.  We strongly suggest working with an advisor from the Office of Pre-Health Programs in addition to your academic advisor to plan your minor coursework in a way that allows timely application to professional school, including preparation of admission testing.  The Pre-Health advisor can also help you set experiential learning goals outside of academics in order to develop a competitive application. Note : For most health professional schools, required coursework will go beyond the 29 semester hours of this minor and thus additional courses suggested have been provided below. Restrictions : majors whose required coursework overlaps with the majority of this minor are not able to enroll.  These majors are Biochemistry, Bioengineering, Bioinformatics, Biological Sciences (BS or BA), Biophysics, Chemistry, Environmental Science, Exercise Science, Molecular & Cellular Biology, Neuroscience, Nutrition with a Dietician Concentration, Physics, and Translational Biomedical Sciences. Students in these majors can consult with the Office of Pre-Health Programs to select an appropriate minor."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 23-24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "UNIV",
+                            "course_number": "01111",
+                            "title": "Introduction to Health Professions",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 23-24 s.h.",
+                "MCB L1101 - Foundations in Biology for Biomedical Sciences I Laboratory Credits: 0",
+                "MCB L1102 - Foundations in Biology for Biomedical Sciences II Laboratory Credits: 0",
+                "PSY 01108 - Essentials of Psychology for Pre-Health Students Credits: 3"
+            ]
+        },
+        "One statistics course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07301",
+                            "title": "Statistics in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02331",
+                            "title": "Applied Statistical Analysis in Healthcare Professions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One statistics course (choose one of the following): 3-4 s.h."
+            ]
+        },
+        "Elective Courses": [
+            "Elective Courses Choose at least two electives from the options below.  These options have been grouped into Professional School “tracks” based on common prerequisites (bolded) as well as common or helpful elective courses, to better prepare you for that professional school. Students should work with their minor advisor from the Office of Pre-Health Programs to select which electives are best suited for their career planning."
+        ],
+        "Track Options": [
+            "Track Options Tracks (see link): Dental School (DDS or DMD) School Track (Foundational) Medical School (MD or DO) Track (Foundational) Nursing (BSN - Accelerated Pathway) Track ** Occupational Therapy School Track Optometry School (OD) Track (Foundational) Pharmacy (PharmD) School Track (Foundational) Physician Assistant (PA) School Track (Foundational) Physical Therapy (DPT) School Track (Foundational) Podiatry (PDM) School Track (Foundational) Veterinary Medicine (DVM) School Track (Foundational)"
+        ],
+        "Total Required Credits for the Program: 29-32": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 29-32 Advisor: Keyona Gonzalez-Walker, Director of Pre-Health Programs Savitz Hall 856-256-4787 walkerk@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Minor in Law & Justice Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7100&returnto=1028",
+    "content": {
+        "Minor in Law & Justice Studies": [
+            "Minor in Law & Justice Studies"
+        ],
+        "Program Requirements": [
+            "Program Requirements A minor consisting of 21 s.h. in Law & Justice Studies is available to all students. Students minoring in Law & Justices Studies must take the following classes:"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05175",
+                            "title": "Survey of Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05369",
+                            "title": "Theories of Crime and Criminality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05255",
+                            "title": "Criminal Law",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Additional Requirements: 12 s.h.": [
+            "Additional Requirements: 12 s.h. In addition, students must take any four additional Law & Justice Studies courses. Students must earn a C- or better in all courses for the minor."
+        ],
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. To declare a minor, go to the University Advising Center, Room 323, Savitz Hall 856-256-4459.",
+                "Notes:"
+            ]
+        }
+    }
+}

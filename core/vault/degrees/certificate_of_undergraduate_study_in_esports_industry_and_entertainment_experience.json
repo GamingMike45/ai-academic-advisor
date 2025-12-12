@@ -1,0 +1,79 @@
+{
+    "name": "Certificate of Undergraduate Study in Esports Industry & Entertainment Experience",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6999&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Esports Industry & Entertainment Experience": [
+            "Certificate of Undergraduate Study in Esports Industry & Entertainment Experience The Certificate of Undergraduate Study (CUGS) in Esports Industry & Entertainment Experience is an interdisciplinary certificate that trains students in the critical communication, sports management, digital production, problem solving, and leadership skills necessary for successful careers in esports and beyond."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following courses:"
+        ],
+        "Required courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09201",
+                            "title": "Foundations of Esports",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses: 3 s.h."
+            ]
+        },
+        "Elective Courses: 9 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09315",
+                            "title": "Esports Characters and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09316",
+                            "title": "Esports Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09317",
+                            "title": "Esports Streaming and Social Platforms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09318",
+                            "title": "Esports Coverage: Shoutcasting and In-Game Observing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09319",
+                            "title": "Evolution of Esports",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 9 s.h Choose three of the following electives"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. The CUGS in Esports Industry & Entertainment Experience is available to all non-matriculated and matriculated students. Students majoring in Sports Communication & Media can only count two of the CUGS courses toward their major requirements. Students must complete all courses required for the CUGS in Esports Industry & Entertainment Experience with at least a 2.0 GPA. Dr. Emil Steiner Coordinator 6 East High Street, Glassboro, NJ 856.256.4049 steiner@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

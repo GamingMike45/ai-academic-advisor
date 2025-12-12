@@ -1,0 +1,115 @@
+{
+    "name": "Master of Science in Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7601&returnto=1028",
+    "content": {
+        "Master of Science in Engineering": [
+            "Master of Science in Engineering The Henry M. Rowan College of Engineering general Master of Science in Engineering program at Rowan University effectively prepares individuals to respond to the changing needs of today’s engineers. This program provides students with the necessary knowledge, skill set, and training to effectively contribute to the engineering workforce. Students have access to higher level courses leading to a graduate degree and are involved in professional development opportunities which increase the breadth of understanding and application of engineering principles. The Master of Science in Engineering program allows students an opportunity to expand their skill sets in advanced topics of interest, with content that can span across all engineering disciplines and that is tailored to the student’s specific professional goals. Students can choose between a thesis track and a coursework track. Students may also work on a project, which may be counted toward a coursework track degree. Most full-time students work on funded research projects, leading to a thesis. Most part-time students select the coursework track. In order to be eligible for a Research Assistantship, students must select the thesis track. Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined below. Thesis Track: The thesis option requires the completion of 30 semester hours, 6-9 of which are in thesis research/engineering project. Non-Thesis Track: The non-thesis option requires the completion of 30 semester hours of coursework. Programs Students in the M.S. program may select from the following areas: Biomedical Engineering Chemical Engineering Civil & Environmental Engineering Electrical & Computer Engineering Materials Science & Engineering Mechanical Engineering Note: Students may also choose to pursue a tailored Master of Science in Engineering program under the direction of a faculty advisor."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis (or equivalent determined in consultation with Academic Advisor)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Business Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06506",
+                            "title": "Corporate Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01501",
+                            "title": "Engineering Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01511",
+                            "title": "Strategic Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01512",
+                            "title": "Quality in Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01541",
+                            "title": "Engineering Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06510",
+                            "title": "Strategic Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02526",
+                            "title": "Project Management for Engineers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Course: 3 s.h. Choose one course from among the following:"
+            ]
+        },
+        "Engineering Computation Course": [
+            "Engineering Computation Course Approved computation courses are indicated in the respective disciplinary concentrations to follow with an asterisk. Choose one course from among these or select a computation intensive Computer Science course with Academic Advisor approval. Note: This course will be taken in addition to the 12-21 s.h. of Specialized Program Coursework."
+        ],
+        "Required Specialized Courses: 21 s.h.": [
+            "Required Specialized Courses: 21 s.h. A student may take any graduate level course offered in the Henry M. Rowan College Engineering, at Rowan University, or elsewhere subject to his/her advisor’s and home department head’s/chair’s approval."
+        ],
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements Thesis Track: The thesis option requires the completion of 30 semester hours, 6-9 of which are in thesis research/engineering project. Non-Thesis Track: The non-thesis option requires the completion of 30 semester hours of coursework. Minimum Required Grades and Cumulative GPA The Master of Science in Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Peter A. Galie, Ph.D. Engineering Hall 856.256.5780 galie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

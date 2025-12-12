@@ -1,0 +1,421 @@
+{
+    "name": "Bachelor of Arts in Journalism",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6993&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Journalism": [
+            "Bachelor of Arts in Journalism The Bachelor of Arts in Journalism prepares students for a variety of journalism career opportunities in writing, broadcast, multimedia and editing/publishing."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Major Requirements": [
+            "Major Requirements"
+        ],
+        "Required (Foundational) Courses for Major: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02205",
+                            "title": "Journalism Principles And Practices",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02310",
+                            "title": "News Reporting I-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02311",
+                            "title": "News Reporting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02420",
+                            "title": "South Jersey News Service",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02321",
+                            "title": "Digital Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02325",
+                            "title": "Digital Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02335",
+                            "title": "Media Law",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required (Foundational) Courses for Major: 27 s.h.",
+                "JRN 02410 - Journalism Senior Seminar-WI (Fulfills Writing Intensive (WI) Requirement) Credits: 3"
+            ]
+        },
+        "Journalism Electives: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02363",
+                            "title": "Data Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02324",
+                            "title": "Health Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06354",
+                            "title": "News Trends and Media Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02356",
+                            "title": "Journalism Internship Fall",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02313",
+                            "title": "Magazine Article Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics crosslisted",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06324",
+                            "title": "Social Media Management and Metrics crosslisted",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02314",
+                            "title": "Photojournalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02318",
+                            "title": "Investigative Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02326",
+                            "title": "Sports Broadcasting I crosslisted",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03396",
+                            "title": "Sports Broadcasting I crosslisted",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02327",
+                            "title": "Sports Broadcasting II crosslisted",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03397",
+                            "title": "Sports Broadcasting II crosslisted",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02361",
+                            "title": "Sports Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02362",
+                            "title": "Sports Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02341",
+                            "title": "Broadcast News Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02307",
+                            "title": "On-Camera Field Reporting FALL ONLY",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02305",
+                            "title": "TV Newscast SPRING ONLY",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02312",
+                            "title": "Feature Writing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Journalism Electives: 12 s.h. (Each student must complete 12 s.h. from the following list.)",
+                "JRN 02101 - News Media Literacy (Fulfills Humanistic Literacy (HUML) core requirement) Credits: 3",
+                "JRN 01407 - Special Topics in Journalism Vary by semester. Students may take as many as they wish. Credits: 3"
+            ]
+        },
+        "Free Electives: 54 s.h.": [
+            "Free Electives: 54 s.h. It is highly recommended that all Journalism Majors take at least one semester of Journalism Internship as part of their Free Electives. Students can use other Free Electives to earn another Major, Minor or Certificate of Undergraduate Study."
+        ],
+        "Recommended Journalism Focus Areas": [
+            "Recommended Journalism Focus Areas It is recommended that students use their four Journalism Electives to build an area of expertise."
+        ],
+        "Reporting and Writing": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02312",
+                            "title": "Feature Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02313",
+                            "title": "Magazine Article Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02356",
+                            "title": "Journalism Internship Fall",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02341",
+                            "title": "Broadcast News Writing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Reporting and Writing"
+            ]
+        },
+        "Digital and Interactive": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02363",
+                            "title": "Data Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02356",
+                            "title": "Journalism Internship Fall",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Digital and Interactive"
+            ]
+        },
+        "Broadcast & Multimedia": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02341",
+                            "title": "Broadcast News Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02307",
+                            "title": "On-Camera Field Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02305",
+                            "title": "TV Newscast",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02314",
+                            "title": "Photojournalism",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Broadcast & Multimedia"
+            ]
+        },
+        "Sports Journalism": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02361",
+                            "title": "Sports Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02362",
+                            "title": "Sports Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02363",
+                            "title": "Data Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02314",
+                            "title": "Photojournalism",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Sports Journalism"
+            ]
+        },
+        "Sports Broadcasting": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02326",
+                            "title": "Sports Broadcasting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02341",
+                            "title": "Broadcast News Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02307",
+                            "title": "On-Camera Field Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02327",
+                            "title": "Sports Broadcasting II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Sports Broadcasting"
+            ]
+        },
+        "Total Hours Required for Graduation: 120 s.h.": [
+            "Total Hours Required for Graduation: 120 s.h. Students must earn a grade of at least a C minus in each course under Core Requirements and Sequences. C minus or above is required in all prerequisites to other courses. Students must maintain a 2.0 GPA in their 39 credits of the major, and a 2.0 overall GPA to graduate with a Bachelor of Arts in Journalism. Transfer courses of 300 level or above that correlate with Rowan’s courses will be accepted in the major. Students may earn up to 9 credits in internships. Any other internships can be taken on their own, but not for credit.",
+            "Notes:"
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "name": "Certificate of Graduate Study in Critical Infrastructure Protection & Cyber Resilience",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10913&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Critical Infrastructure Protection & Cyber Resilience": [
+            "Certificate of Graduate Study in Critical Infrastructure Protection & Cyber Resilience The program employs an interdisciplinary all-hazards approach to teach how to develop infrastructures that can withstand multiple threats and hazards as well as build capabilities for detection, protection, prevention, mitigation, and response. This graduate certificate program prepares those who complete it to meet the demand for highly skilled professionals to upgrade, secure, and manage the nation’s critical infrastructure in government and private industry positions. The certificate provides the necessary knowledge, skills, and training to enter the field of critical infrastructure protection with critical Infrastructure policy, cyber risk management, operations, and planning. Those completing this certificate will be able to apply the latest techniques, including cybersecurity technology, to devise plans and policies that promote a culture of awareness and response to each sector of critical infrastructure. To maintain Minimum Satisfactory Academic Progress : Earn no grades lower than a “C+” Earn an official cumulative GPA (according to matriculation level) of at least 3.000 on Rowan’s 4.000 scale in the courses listed below."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00531",
+                            "title": "Cyber Security Risk Analysis in Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00572",
+                            "title": "Cyberthreat Intelligence and Response Operations",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03570",
+                            "title": "Cyber Defense of Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00617",
+                            "title": "Critical Infrastructure and Cyberdefense",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00679",
+                            "title": "Critical Infrastructure Protection and National Security (required)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Select three courses:"
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00652",
+                            "title": "Continuity of Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03506",
+                            "title": "Cybersecurity Management, Policy, and Risk",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00616",
+                            "title": "Cyberwarfare and Cyber Defense",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00618",
+                            "title": "National Security Issues in Cybersecurity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02510",
+                            "title": "Introduction to Policy Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Select one course:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

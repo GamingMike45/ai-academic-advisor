@@ -1,0 +1,415 @@
+{
+    "name": "Master of Business Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7608&returnto=1028",
+    "content": {
+        "Master of Business Administration": [
+            "Master of Business Administration The Master of Business Administration (MBA) program at Rowan University consists of 14 graduate classes (36 s.h.) with eight required (18 s.h.) and six elective (18 s.h.) courses. Students have the flexibility to hone skills in specific areas of business - or explore building knowledge across sectors - to expand insights and stand out from the competition. Students can choose two related Concentrations to build significant depth, two distinct Concentrations to build breadth, or even choose one concentration and three elective courses across disciplines to gain a wide view from varying perspectives. Pursuing your MBA prepares you for a changing business environment. You will develop, refine, and utilize your business acumen to adapt to changes across industries and markets while expanding your opportunities for career growth. With the most customizable AACSB-Accredited M.B.A. curriculum in the region, you’ll have the ability to hone your skills in specific areas of business - or explore building knowledge across sectors - to expand your insights and set yourself apart from the competition. MBA concentration options include: Accounting, Cannabis Commercialization, Data Analytics, Entrepreneurship, Finance, HR Management, Management, Management Information Systems (MIS), Marketing, Organizational Leadership, Supply Chain & Logistical Systems, and Sustainable Business. The program is academically challenging, relevant to trends in business and industry, and flexible to accommodate the needs and interests of students. Rowan’s MBA program is designed to accommodate both full-time and part-time study."
+        ],
+        "Foundation Courses": [
+            "Foundation Courses In order to ensure all students are equipped with key baseline and foundational business knowledge for graduate-level coursework in business, Rowan requires all students to satisfy a set of foundation requirements in the following content areas: Calculus Statistics Accounting (Financial & Managerial) Economics (Micro & Macro) Marketing Finance Operations Management Typically, students with an undergraduate degree in business will have satisfied many of these course requirements.  Student ban being in the MBA program prior to satisfying all foundation requirements. However, these requirements must be satisfied early in the program to maintain forward momentum towards degree completion. There are many ways that students can satisfy foundation requirements: equivalent courses from their undergraduate studies, affordable online modules, non-credit tests, online or face-to-face courses at your local community college or 4-year institution, and of course online or face-to-face at Rowan University."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03500",
+                            "title": "Financial and Managerial Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04500",
+                            "title": "Financial Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06515",
+                            "title": "Employee Engagement and Performance Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06567",
+                            "title": "Responsible Leadership: Aligning the Interests of Stakeholders, Profit, and Planet Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06629",
+                            "title": "Managing Organizational Strategy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07550",
+                            "title": "Operations Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02501",
+                            "title": "Information Systems for Managers Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09511",
+                            "title": "Marketing Management Fundamentals Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "MBA Concentrations": [
+            "MBA Concentrations The MBA program offers the degree with the following concentration options. All students must select at least one concentration. Students have the option to complete two areas of concentration, or one area of concentration and three general electives. Graduate Concentration in Accounting Graduate Concentration in Cannabis Commercialization Graduate Concentration in Data Analytics Graduate Concentration in Entrepreneurship Graduate Concentration in Finance Graduate Concentration in Human Resource Management Graduate Concentration in Management Graduate Concentration in Management Information Systems Graduate Concentration in Marketing Graduate Concentration in Organizational Leadership Graduate Concentration in Supply Chain & Logistical Systems Graduate Concentration in Sustainable Business"
+        ],
+        "Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03507",
+                            "title": "Government and Not-For-Profit Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03510",
+                            "title": "Financial Statement Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03511",
+                            "title": "Introduction to Federal Taxation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03512",
+                            "title": "Advanced Accounting Information Systems and Business Process Controls",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03516",
+                            "title": "Innovation and Analytics in Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BUS",
+                            "course_number": "01505",
+                            "title": "MBA Supervised Internship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BUS",
+                            "course_number": "01600",
+                            "title": "Special Topics in Business Administration",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06505",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06506",
+                            "title": "Corporate Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06520",
+                            "title": "Evolution of the Cannabis Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06521",
+                            "title": "Business Model Innovation Cannabis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06555",
+                            "title": "Driving Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06599",
+                            "title": "Special Topics in Entrepreneurship",
+                            "credits": "0 to 6"
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04505",
+                            "title": "Advanced Financial Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04511",
+                            "title": "Quantitative Methods in Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04512",
+                            "title": "Capital Budgeting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04518",
+                            "title": "Derivative Securities and Financial Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04520",
+                            "title": "Financial Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04530",
+                            "title": "Multinational Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04540",
+                            "title": "Financial Institutions Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04560",
+                            "title": "Fixed Income Securities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04600",
+                            "title": "Investment Analysis and Portfolio Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06605",
+                            "title": "Strategic Human Resource Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06677",
+                            "title": "People Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06699",
+                            "title": "Talent Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "01510",
+                            "title": "Professional, Legal and Managerial Responsibilities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06500",
+                            "title": "Designing, Developing, and Leading High Performance Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06502",
+                            "title": "International Business and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06503",
+                            "title": "Organization Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06520",
+                            "title": "Global Leadership and Organization Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06521",
+                            "title": "Leadership Theory and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06530",
+                            "title": "Sustainable Commerce",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06531",
+                            "title": "Sustainability Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06532",
+                            "title": "Topics in Sustainability Innovation and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06555",
+                            "title": "Personal Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06599",
+                            "title": "Special Topics in Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06601",
+                            "title": "Strategic Planning for Operating Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06603",
+                            "title": "Process Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07510",
+                            "title": "Quality Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07600",
+                            "title": "Predictive Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02515",
+                            "title": "Electronic Commerce",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02522",
+                            "title": "Systems Analysis and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02525",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02538",
+                            "title": "Database Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02540",
+                            "title": "Data Warehousing and Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02599",
+                            "title": "Special Topics in Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09575",
+                            "title": "Introduction to Logistics and Supply Chain Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09501",
+                            "title": "Consumer Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09502",
+                            "title": "Marketing Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09503",
+                            "title": "Marketing Communication and Promotion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09600",
+                            "title": "International Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09605",
+                            "title": "Supply Chain Strategy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01620",
+                            "title": "Analytics for Supply Chain Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses Students can choose any combination of three electives (not used towards the first Area of Concentration) of the below-listed courses for electives if they do not want to pursue a second Area of Concentration."
+            ]
+        },
+        "Total Required Credits for the Program: 36 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 36 s.h. Graduation/Exit, Benchmark & Thesis Requirements None Minimum Required Grades and Cumulative GPA The MBA is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in School Emergency Preparedness & Response Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7723&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in School Emergency Preparedness & Response Leadership": [
+            "Certificate of Graduate Study in School Emergency Preparedness & Response Leadership Rowan University’s Certificate of Graduate Study (COGS) in School Emergency Preparedness & Response Leadership will be at the forefront filling gaps between all services commissioned to protect academic institutions by offering unique courses that detail preparedness and prevention in school settings. This program is not designed to teach school administrators specific first responder tasks, but rather to help teachers, school administrators, and education officials build a culture of school preparedness and safety in the event of natural disasters (hurricanes, floods, or earthquakes), technological disasters (nuclear power plant emergencies or hazardous materials spills), or hostage situations."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00522",
+                            "title": "Emergency Preparedness, Prevention, and Community Partnerships",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00619",
+                            "title": "Violent Intruder and Mass Casualty in School Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00622",
+                            "title": "School-Based Threat Assessment and Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. To be awarded the Certificate of Graduate Study in School Emergency Preparedness & Response Leadership, students must complete all courses required for the COGS in School Emergency Preparedness & Response Leadership with at least a 2.0 average. Program Advisor DeMond Miller Campbell Library 5th Floor 856.256.4500 ext 53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

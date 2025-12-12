@@ -1,0 +1,334 @@
+{
+    "name": "Master of Science in Emergency & Threat Response Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7592&returnto=1028",
+    "content": {
+        "Master of Science in Emergency & Threat Response Management": [
+            "Master of Science in Emergency & Threat Response Management The MS in Emergency & Threat Assessment Management meets the pressing need to fill state and regional leadership gaps that exist while understanding the growing necessity to build resilience and recognizing that the whole community approach to a variety of threats and their management is becoming a reality. The curriculum covers operations management, planning, response, and terrorism, and is designed to provide students with a global outlook, interpersonal skills, and emergency management knowledge and skills. Students will be prepared for management positions in emergency management in government and industry. The M.S. in Emergency & Threat Response Management is a full-time or part-time program offered in a face-to-face format at our Camden campus, with several courses offered in an online format. It requires the completion of 30 graduate semester hours (10 courses). The program has a thesis and non-thesis option."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00500",
+                            "title": "Complex Organizational Theory in Emergency Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00550",
+                            "title": "Disaster Policy and Legal Environment in Emergency Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00528",
+                            "title": "Research Methods and Statistics in Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00600",
+                            "title": "Public Budgeting and Finance for Emergency Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00645",
+                            "title": "Advanced Incident Command: Leadership and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00655",
+                            "title": "Threat Assessment in Homeland Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 18 s.h."
+            ]
+        },
+        "Choose one from the following: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00610",
+                            "title": "Advanced Exercise Design and Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00633",
+                            "title": "Global Crisis Monitoring, Conflict Analysis and Early Warning Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00652",
+                            "title": "Continuity of Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00605",
+                            "title": "Disaster Public Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00531",
+                            "title": "Cyber Security Risk Analysis in Homeland Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one from the following: 3 s.h."
+            ]
+        },
+        "Thesis and Non-Thesis Option: 3-6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00689",
+                            "title": "Thesis: Emergency and Threat Response Management I * (thesis option)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00699",
+                            "title": "Thesis: Emergency and Threat Response Management II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis and Non-Thesis Option: 3-6 s.h.",
+                "DPEM 00680 - Capstone Experience in Emergency and Threat Response Management (non-thesis option) Credits: 3"
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Students electing the Thesis option will take DPEM 00689 and DPEM 00699 - Thesis: Emergency and Threat Response Management II. DPEM 00699  becomes one of the electives."
+            ]
+        },
+        "Elective Courses: 3-6 s.h.": [
+            "Elective Courses: 3-6 s.h. Enrolling in electives outside the MS in Emergency & Threat Response Management will require meeting any additional prerequisites, approval from the program coordinator, and the departmental approval offering the course. Additional elective options may be approved by the program director. For non-thesis option students must take 6 s.h., for thesis option, students must take 3 s.h."
+        ],
+        "Choose from the following:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03507",
+                            "title": "Government and Not-For-Profit Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00542",
+                            "title": "Public Health Emergency Preparedness and Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00544",
+                            "title": "Emerging Health Threats: Risks, Surveillance, and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00605",
+                            "title": "Disaster Public Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00615",
+                            "title": "Management of First Responder Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00631",
+                            "title": "Security, Securitization, and Migration in Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00633",
+                            "title": "Global Crisis Monitoring, Conflict Analysis and Early Warning Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00651",
+                            "title": "Foundations of Global Threats, Risks and Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00652",
+                            "title": "Continuity of Operations (if not taken for as a Required Course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00691",
+                            "title": "Administrative Public Policy and Law for Public Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22511",
+                            "title": "Organizational Decision Making and Strategic Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22512",
+                            "title": "Complex Organization Dynamics: Leadership and Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22513",
+                            "title": "Personnel Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22514",
+                            "title": "Non-Profit Organization Development and Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08599",
+                            "title": "Urban Environmental Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00639",
+                            "title": "Post-Disaster Sustainable Recovery and Community Resilience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08591",
+                            "title": "Social Dynamics of Political Violence, Insurgency and Civil Unrest",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00505",
+                            "title": "All-Hazards Threat Response Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00522",
+                            "title": "Emergency Preparedness, Prevention, and Community Partnerships",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00531",
+                            "title": "Cyber Security Risk Analysis in Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00610",
+                            "title": "Advanced Exercise Design and Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00619",
+                            "title": "Violent Intruder and Mass Casualty in School Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00622",
+                            "title": "School-Based Threat Assessment and Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00528",
+                            "title": "Research Methods and Statistics in Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00603",
+                            "title": "Disaster, Risk, and Vulnerability Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00632",
+                            "title": "Disaster Recovery Strategies and Planning for Emergency Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00635",
+                            "title": "Urban Emergency Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00670",
+                            "title": "Fire Services Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00692",
+                            "title": "Labor Relations and Collective Bargaining",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose from the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Satisfy all course requirements as dictated by the academic department. Minimum Required Grades and Cumulative GPA The Master of Science in Emergency & Threat Response Management is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information DeMond Miller 856.256.4500, ext. 53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

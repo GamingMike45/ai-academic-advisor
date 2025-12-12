@@ -1,0 +1,249 @@
+{
+    "name": "Minor in Geology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7420&returnto=1028",
+    "content": {
+        "Minor in Geology": [
+            "Minor in Geology The minor in Geology offers students interested in the subject either the opportunity to enhance their degree and career goals, or simply follow a passion through maximum flexibility in curriculum by taking a minimum of 22 credits within the discipline. The minor in Geology will provide a framework of Geology with the ability to specialize in an area of interest through selecting 4-5 courses beyond two gateway-foundation courses of interest or that would best support their current degree goals."
+        ],
+        "Program Requirements: 22 s.h.": [
+            "Program Requirements: 22 s.h."
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01101",
+                            "title": "Physical Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01102",
+                            "title": "Earth Through Time",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h.",
+                "Plus any two, 200 level courses."
+            ]
+        },
+        "Additional Elective Requirements: 10 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01112",
+                            "title": "Motion of Life",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01110",
+                            "title": "Dinosaurs and Their World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01111",
+                            "title": "Edelman Fossil Park Experience",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01120",
+                            "title": "Earthquakes and Volcanoes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01131",
+                            "title": "Earth in Transition: The Science of Global Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01133",
+                            "title": "Climate, Catastrophes, Civilizations and Collapses",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01136",
+                            "title": "Water Planet: Exploring the Hydrosphere",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01150",
+                            "title": "Voyager: The Exploration of Space",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01201",
+                            "title": "Mineralogy and Petrology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01210",
+                            "title": "Invertebrate Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01230",
+                            "title": "Paleoclimatology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01240",
+                            "title": "Introduction to Field Methods in Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01250",
+                            "title": "Ocean-Atmosphere Interactions",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01303",
+                            "title": "Advanced Topics in Geology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01310",
+                            "title": "Geological Laboratory Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01311",
+                            "title": "Vertebrate Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01312",
+                            "title": "Dinosaur Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01313",
+                            "title": "Breathing Life into Fossils: The Science of Paleoart",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01320",
+                            "title": "Sedimentology and Stratigraphy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01321",
+                            "title": "Basin Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01331",
+                            "title": "Climate Change and the Cryosphere",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01350",
+                            "title": "Advanced Petrology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01353",
+                            "title": "Geochemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01410",
+                            "title": "Taphonomy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01411",
+                            "title": "Paleoecology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01412",
+                            "title": "Macroevolution in the Fossil Record",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01413",
+                            "title": "Paleobiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01421",
+                            "title": "Hydrogeology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01430",
+                            "title": "Climate Variability and Diagnostics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01435",
+                            "title": "The Ice Ages and Quaternary Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01455",
+                            "title": "Cosmochemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01470",
+                            "title": "Research Experience in Geology",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Elective Requirements: 10 s.h. The remaining needed credits for the minor are taken as electives from any course offered in the bank below.",
+                "GEOL 01105 - Selected Topics in Geology Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 22 s.h. Contact Department of Geology for Information",
+                "Notes:"
+            ]
+        }
+    }
+}

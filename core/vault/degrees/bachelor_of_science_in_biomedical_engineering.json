@@ -1,0 +1,267 @@
+{
+    "name": "Bachelor of Science in Biomedical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7037&returnto=1028",
+    "content": {
+        "Bachelor of Science in Biomedical Engineering": [
+            "Bachelor of Science in Biomedical Engineering"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 37 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 37 s.h. Courses in this section cannot be in the Major department.",
+                "CHEM 06100 - Chemistry I (Satisfies Scientific Literacy (SCIL) Requirement) Credits: 4",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 4",
+                "Any course that satisfies the ARTL Literacy: 3 s.h. Any course that satisfies the GLBL Literacy: 3 s.h. Any course that satisfies the HUML Literacy: 3 s.h."
+            ]
+        },
+        "Foundational Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01101",
+                            "title": "First-Year Engineering Clinic I-RS",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01102",
+                            "title": "First-Year Engineering Clinic II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11100",
+                            "title": "Biomedical Engineering Seminar",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01203",
+                            "title": "Sophomore Engineering Clinic Project (Required if alternative Sophomore Clinic Sequence [Comp 2 + Public Speaking] taken)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11101",
+                            "title": "BME First Year Seminar",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 9 s.h."
+            ]
+        },
+        "Mid-Level Courses: 20 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01235",
+                            "title": "Mathematics for Engineering Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11201",
+                            "title": "Chemical Foundations in Biomedical Engineering",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-Level Courses: 20 s.h."
+            ]
+        },
+        "Upper Level Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BME",
+                            "course_number": "11301",
+                            "title": "Physiological Foundations in Biomedical Engineering",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11302",
+                            "title": "Electrical Foundations in Biomedical Engineering",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11303",
+                            "title": "Mechanical Foundations in Biomedical Engineering",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01303",
+                            "title": "Junior Engineering Clinic (Must take twice for a total of 4 s.h.)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11411",
+                            "title": "Modeling and Simulation for Analysis and Design in Biomedical Engineering",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI (Must take twice for a total of 4 s.h.)",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper Level Courses: 24 s.h."
+            ]
+        },
+        "Advanced Science Elective: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10210",
+                            "title": "Human Anatomy and Physiology I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10212",
+                            "title": "Human Anatomy and Physiology II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Science Elective: 4 s.h. Choose one course from the following:"
+            ]
+        },
+        "Biomedical Engineering Core Competency Focus Electives: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Biomedical Engineering Core Competency Focus Electives: 15 s.h. Choose 5 CCF courses. Four must be in-discipline (BME 114xx, excluding BME 11411), up to 1 may be from a list of approved out-of-discipline CCF courses."
+            ]
+        },
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Mary M. Staehle Department Head Engineering Hall 856.256.5338 staehle@rowan.edu Gabriel Garcia Advisor Engineering Hall 856.256.4815 garciage@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

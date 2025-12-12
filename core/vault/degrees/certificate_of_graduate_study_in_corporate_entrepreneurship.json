@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Graduate Study in Corporate Entrepreneurship",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7576&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Corporate Entrepreneurship": [
+            "Certificate of Graduate Study in Corporate Entrepreneurship The Corporate Entrepreneurship Certificate of Graduate Study (COGS) provides students with an overview of the potential for innovation and entrepreneurial opportunities of new ventures within a corporate environment. It prepares the entrepreneurs for strategic planning, and acquaints students with advanced statistical forecasting techniques. The Corporate Entrepreneurship COGS is a valuable stand-alone credential for those seeking to refresh skills in their current roles. The Corporate Entrepreneurship COGS program also serves as a micro-credential on the way toward earning a degree that allows students to sample content before being formally admitted into Rowan’s Master of Business Administration (MBA) with an Entrepreneurship Area of Concentration."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Corporate Entrepreneurship Certificate of Graduate Study at Rowan University requires the completion of nine (9) graduate semester hours (s.h.) made up of three (3) courses."
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06505",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06506",
+                            "title": "Corporate Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06555",
+                            "title": "Driving Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06601",
+                            "title": "Strategic Planning for Operating Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07600",
+                            "title": "Predictive Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Choose three (3) from the following options."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Corporate Entrepreneurship is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

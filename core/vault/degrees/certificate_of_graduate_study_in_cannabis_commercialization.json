@@ -1,0 +1,169 @@
+{
+    "name": "Certificate of Graduate Study in Cannabis Commercialization",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7575&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Cannabis Commercialization": [
+            "Certificate of Graduate Study in Cannabis Commercialization The rapidly evolving cannabis industry is anticipated to become a multi-billion dollar economic driver across the USA - and beyond. Career opportunities related to cannabis are vast, and cross-over talent is in high demand. Plant-touching verticals such as cultivation, extraction, manufacturing and/or retail need experts from other industries to adapt, extend, and expand best practices into the highly regulated cannabis market. There is strong and growing demand for ancillary businesses complementing and serving the cannabis industry, with potential career pathways in far ranging categories such as accessory manufacturers, tech start-ups, as well as services and solutions in accounting and tax, finance and banking, data analysis, marketing and branding, supply chain, and healthcare. Whether you are drawn to Plant Touching or Ancillary Cannabis Business career pathways - or want to explore options in both categories - you can tailor the Cannabis Commercialization COGS to support your career goals."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06520",
+                            "title": "Evolution of the Cannabis Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06521",
+                            "title": "Business Model Innovation Cannabis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Options - Cannabis-Focused": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CANN",
+                            "course_number": "03501",
+                            "title": "Cannabis Legislation, Regulations, and Policy Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CANN",
+                            "course_number": "03502",
+                            "title": "Marijuana Legalization and Decriminalization in Work, Leisure and Other Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CANN",
+                            "course_number": "03503",
+                            "title": "Cannabis Research, Program Evaluation, and Policy Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09530",
+                            "title": "Advanced Chemical Analysis of Cannabinoids",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Options - Cannabis-Focused"
+            ]
+        },
+        "Elective Options - Complementary Coursework": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CJ",
+                            "course_number": "09529",
+                            "title": "Community Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09532",
+                            "title": "Race, Ethnicity, Class and Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "02510",
+                            "title": "Visual Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DI",
+                            "course_number": "68501",
+                            "title": "Introduction to Diversity and Inclusion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06505",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04512",
+                            "title": "Capital Budgeting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05519",
+                            "title": "Political and Social Movements in the U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06530",
+                            "title": "Sustainable Commerce",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06531",
+                            "title": "Sustainability Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06532",
+                            "title": "Topics in Sustainability Innovation and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06601",
+                            "title": "Strategic Planning for Operating Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07600",
+                            "title": "Predictive Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09575",
+                            "title": "Introduction to Logistics and Supply Chain Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Options - Complementary Coursework The following courses are included in the Cannabis Commercialization COGS but are not Cannabis-focused. These topics and disciplines are vital to cannabis studies."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Cannabis Commercialization is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

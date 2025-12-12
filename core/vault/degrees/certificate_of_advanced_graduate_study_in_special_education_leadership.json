@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Special Education Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10911&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Special Education Leadership": [
+            "Certificate of Advanced Graduate Study in Special Education Leadership This program is designed for professionals who already hold a graduate degree and seek to expand their expertise in special education leadership. This program prepares educators to advocate for and implement equitable policies that support students with disabilities. Through coursework focused on legal and ethical considerations, instructional leadership, special education administration, inclusive practices, and research-based interventions, graduates will develop the skills to analyze challenges, collaborate with stakeholders, and foster inclusive school environments. This program equips professionals with the knowledge to drive meaningful change in special education at the school, district, and policy levels, ensuring that all students receive high-quality, inclusive education."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90534",
+                            "title": "Disability Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "90853",
+                            "title": "Leadership, Policy, and Ethics in Special Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "90854",
+                            "title": "Operational Leadership in Special Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90859",
+                            "title": "Special Topics in Special Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Select four courses from the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Minimum Grade and Cumulative GPA Requirements All matriculated and graduate students are expected to maintain satisfactory academic progress each term of enrollment. To maintain satisfactory academic progress and to successfully complete the program, students must: Earn no grades lower than “B-“; and, Earn an official cumulative GPA ( according to matriculation level) of at least 3.000 on Rowan’s 4.000 scale. Admission Requirements Completed Post-baccalaureate/Graduate/Doctoral Application Form (www.rowanu.com/graduate/apply) $ 65 (U.S.) non-refundable application fee Master’s degree (or its equivalent) from an accredited institution of higher learning Official transcripts from all colleges attended (regardless of the number of credits earned) Recommended GPA of 3.0 (on a 4.0 scale)",
+                "Notes:"
+            ]
+        }
+    }
+}

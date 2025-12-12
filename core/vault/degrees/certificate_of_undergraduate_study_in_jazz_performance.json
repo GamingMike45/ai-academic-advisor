@@ -1,0 +1,95 @@
+{
+    "name": "Certificate of Undergraduate Study in Jazz Performance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7080&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Jazz Performance": [
+            "Certificate of Undergraduate Study in Jazz Performance The Certificate of Undergraduate Study (CUGS) in Jazz Performance consists of applied lessons in jazz performance and improvisation, ensembles, and courses in jazz history and music theory. The program is available to both music majors and non-majors. The CUGS is intended to provide an opportunity for music majors studying performance in the European art music tradition to gain experience in jazz practices and styles, as well as to allow non-majors who played jazz in high school ensembles to continue their study of jazz performance. Students interested in the CUGS must audition with an applied music instructor before beginning applied lessons."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Take all of the following:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02105",
+                            "title": "Secondary Applied Instrument (4 semesters, 4 credits total)",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "02106",
+                            "title": "Secondary Applied Voice (4 semesters, 4 credits total)",
+                            "credits": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "08124",
+                            "title": "Jazz Band",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04409",
+                            "title": "Small Group Jazz Ensemble (3 semesters, 3 credits total)",
+                            "credits": "0 to 1"
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06115",
+                            "title": "Growth and Development of Jazz",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Take all of the following:"
+            ]
+        },
+        "Take one of the following classes:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04118",
+                            "title": "Music Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04103",
+                            "title": "Music Theory I",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Take one of the following classes:"
+            ]
+        },
+        "Total Required Credits for the Program: 13-14 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 13-14 s.h. To be awarded the CUGS in Jazz Performance, students must complete all required coursework in accordance with University requirements for good standing. Students may double-count up to 6 credits of this CUGS with their major program. Alexandria Funkhauser, MA Senior Academic Advisor Wilson Hall 141 856.256.5183 daniels@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "name": "Master of Science in Mechanical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7624&returnto=1028",
+    "content": {
+        "Master of Science in Mechanical Engineering": [
+            "Master of Science in Mechanical Engineering The Master of Science in Mechanical Engineering program at Rowan University effectively prepares individuals to respond to the changing needs of today’s engineers. This program provides students with the necessary knowledge, skill sets, and training to successfully contribute to the engineering workforce. Students have access to higher level courses leading to a graduate degree and are involved in professional development opportunities which increase their breadth of understanding and application of engineering principles. Students can choose between a thesis track and a coursework track. Students may also work on a project, which may be counted toward a coursework track degree. Full-time students work on funded research projects leading to a thesis or select the coursework track. Most part-time students select the coursework track. In order to be eligible for a Research Assistantship, students must select the thesis track. Both tracks of the MS in Mechanical Engineering program permit students to deeply explore engineering design and analysis, and for some students, also provide an opportunity for practical training that can further complement these explorations. The interdisciplinary nature of this program provides students with an opportunity to take coursework in and/or conduct research on exciting research areas at the leading edge of Mechanical Engineering technology. This program includes focus areas in Bioengineering, Mechanics, Materials, Thermal and Fluid Sciences, Nanotechnology, Manufacturing, Robotics, Devices, and Systems Engineering. Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined below. Thesis Track: The thesis option requires the completion of 30 semester hours, 6-9 of which involve pursuit of a thesis research/engineering project. Non-Thesis Track: The non-thesis option requires the completion of 30 semester hours of coursework."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": [
+            "Required Courses: 9 s.h."
+        ],
+        "Applied Mathematics Course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10561",
+                            "title": "Engineering Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01502",
+                            "title": "Linear Algebra and Matrix Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01529",
+                            "title": "Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Applied Mathematics Course Choose one course from among the following or equivalent determined in consultation with Academic Advisor."
+            ]
+        },
+        "Business course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06506",
+                            "title": "Corporate Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01501",
+                            "title": "Engineering Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01511",
+                            "title": "Strategic Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01541",
+                            "title": "Engineering Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01543",
+                            "title": "Systems for Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "01510",
+                            "title": "Professional, Legal and Managerial Responsibilities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02526",
+                            "title": "Project Management for Engineers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business course Choose one course from among the following or equivalent determined in consultation with Academic Advisor.",
+                "Note : Only one (1) Business course is allowed to count toward the MS ME degree requirements."
+            ]
+        },
+        "Engineering Computation Course": [
+            "Engineering Computation Course Approved computation courses are indicated below with an asterisk. Choose one course from among these or equivalent determined in consultation with Academic Advisor. Note: This course will be taken in addition to the 12-21 s.h. of Specialized Program Coursework."
+        ],
+        "Required Thesis/Project Courses if thesis track is selected: 6-9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01599",
+                            "title": "Master’s Research and Thesis",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Thesis/Project Courses if thesis track is selected: 6-9 s.h."
+            ]
+        },
+        "Required Specialized Program Courses: 12-21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01510",
+                            "title": "Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10501",
+                            "title": "Computer Integrated Manufacturing and Automation *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10505",
+                            "title": "Special Topics in Mechanical Engineering",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10522",
+                            "title": "Computational Fluid Dynamics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10540",
+                            "title": "Advanced Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10542",
+                            "title": "Advanced Mechatronics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10543",
+                            "title": "Advanced Design for X",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10544",
+                            "title": "Automotive Engineering: Elements of Internal Combustion Engines",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10550",
+                            "title": "Advanced Solid Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10552",
+                            "title": "Structural Acoustics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10553",
+                            "title": "Analytical Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10554",
+                            "title": "Elastic Stability of Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10560",
+                            "title": "Composite Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10561",
+                            "title": "Engineering Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10562",
+                            "title": "FEA with ANSYS *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10570",
+                            "title": "Principles in Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10580",
+                            "title": "Aerospace Vehicles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10582",
+                            "title": "Flight Dynmaics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Specialized Program Courses: 12-21 s.h. Eligible Required Specialized Program courses include, but are not limited to, those listed below. This list is not exhaustive, and (prospective) students are encouraged to contact the Program Advisor to discuss a customized plan of study."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses The following undergraduate courses or their substantial equivalents must be successfully completed at an accredited institution: Chemistry I; Physics I; Calculus I, II, and III; Linear Algebra; and Differential Equations. Additional foundation courses may be required as conditions of program admission. Students with out-of-discipline/non-ME background are required to take two foundational undergraduate courses (ENGR 01273 Strength of Materials and ME 10310 Introduction to Thermal-Fluid Sciences) and are encouraged to contact the Program Advisor for any additional information or requirements prior to enrolling in the MS ME program. Graduation/Exit, Benchmark, and Thesis Requirements If thesis track is selected, students will register for 6-9 s.h. of Master’s Research and must successfully complete and defend the Master’s Thesis. Minimum Required Grades and Cumulative GPA The Master of Science in Mechanical Engineering is a Category 2 program. Under this program, students must earn no grades lower than a B- and must achieve a cumulative grade point average (GPA) of at least 3.0 out of 4.0. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Mitja Trkov Associate Professor & Graduate Program Chair Rowan Hall 856.256.5308 trkov@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

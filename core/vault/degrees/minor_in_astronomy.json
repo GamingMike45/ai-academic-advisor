@@ -1,0 +1,91 @@
+{
+    "name": "Minor in Astronomy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7245&returnto=1028",
+    "content": {
+        "Minor in Astronomy": [
+            "Minor in Astronomy An Astronomy Minor is available to any student desiring a more advanced study in astronomy and astrophysics with the requisite quantitative skills and background. This minor is especially useful for physics majors who are contemplating graduate work in astronomy or astrophysics, or motivated students who want an in-depth survey of the subject."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Requirements: 22 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ASTR",
+                            "course_number": "11200",
+                            "title": "Introductory Astronomy: Solar System and Exoplanets",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASTR",
+                            "course_number": "11230",
+                            "title": "Introductory Astrophysics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ASTR",
+                            "course_number": "11240",
+                            "title": "Observational Astronomy",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Requirements: 22 s.h."
+            ]
+        },
+        "Choice of one of the following:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ASTR",
+                            "course_number": "11301",
+                            "title": "Planetary Astronomy",
+                            "credits": null
+                        },
+                        {
+                            "subject": "ASTR",
+                            "course_number": "11302",
+                            "title": "Stellar Astrophysics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASTR",
+                            "course_number": "11303",
+                            "title": "Galactic Astronomy and Cosmology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choice of one of the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 22 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

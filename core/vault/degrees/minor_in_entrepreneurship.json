@@ -1,0 +1,163 @@
+{
+    "name": "Minor in Entrepreneurship",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6960&returnto=1028",
+    "content": {
+        "Minor in Entrepreneurship": [
+            "Minor in Entrepreneurship Entrepreneurship is an inherently interdisciplinary field of study, with students from all majors and minors benefitting in cultivating entrepreneurial mindsets and strengthening their entrepreneurial skillsets. Thus, the Entrepreneurship Minor was built to accommodate students from majors all across the Rowan campus as they learn entrepreneurial knowledge and skills by enrolling and completing entrepreneurship courses. To earn the minor students must hold a minimum GPA of 2.5 and complete a total of 18 s.h. consistent with the requirements and electives listed below."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Requirements: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06426",
+                            "title": "New Venture Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06342",
+                            "title": "Financing and Legal Aspects of Entrepreneurship",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Requirements: 9 s.h."
+            ]
+        },
+        "Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09150",
+                            "title": "Introduction to Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09218",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40111",
+                            "title": "Business of Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40113",
+                            "title": "Business of Music II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40315",
+                            "title": "Entrepreneurship in the Music Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09378",
+                            "title": "Product, Price, New Venture Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10443",
+                            "title": "Design For X",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07210",
+                            "title": "Foundations of Computer Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01496",
+                            "title": "New Product Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09315",
+                            "title": "Personal Selling",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 9 s.h. Select three (9 s.h.) courses from the list below:",
+                "ENT XXXXX - Any Entrepreneurship Course"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Susana Santos Minor Coordinator Business Hall 209 856.256.5528 santossc@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

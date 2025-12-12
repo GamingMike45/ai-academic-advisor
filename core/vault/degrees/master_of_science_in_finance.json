@@ -1,0 +1,94 @@
+{
+    "name": "Master of Science in Finance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7503&returnto=1028",
+    "content": {
+        "Master of Science in Finance": [
+            "Master of Science in Finance The Rowan University Online Master of Science in Finance is a rigorous program that combines quantitative techniques with practical experience. This program is designed to prepare students for financial analyst and financial planner positions in corporations and financial institutions. Rowan’s M.S. in Finance program will help prepare students for the Chartered Financial Analyst (CFA) and Certified Financial Planner (CFP) exams, the premier certifications in the finance field."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Master of Science in Finance requires a total of 30 semester hours of graduate coursework for program completion."
+        ],
+        "Required Courses: 30 s.h.": [
+            "Required Courses: 30 s.h."
+        ],
+        "Master of Science in Finance Core": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03510",
+                            "title": "Financial Statement Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04500",
+                            "title": "Financial Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04505",
+                            "title": "Advanced Financial Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04511",
+                            "title": "Quantitative Methods in Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04518",
+                            "title": "Derivative Securities and Financial Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04520",
+                            "title": "Financial Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04530",
+                            "title": "Multinational Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04540",
+                            "title": "Financial Institutions Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04560",
+                            "title": "Fixed Income Securities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04600",
+                            "title": "Investment Analysis and Portfolio Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Master of Science in Finance Core"
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses Eligible applicants must have successfully completed the following undergraduate foundation courses at an accredited institution with a minimum grade of “C”: FC-1. Foundations of Accounting OR Principles of Accounting I & II FC-2. Principles of Economics: A Survey OR Macroeconomics and Microeconomics FC-3. Statistics I FC-4. Calculus I OR Calculus Techniques and Applications FC-5. Principles of Finance Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The Master of Science in Finance is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Jia Wang Program Coordinator/Advisor Business Hall 856.256.4205 wangji@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

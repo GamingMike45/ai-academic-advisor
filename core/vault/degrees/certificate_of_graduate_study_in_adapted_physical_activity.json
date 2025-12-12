@@ -1,0 +1,74 @@
+{
+    "name": "Certificate of Graduate Study in Adapted Physical Activity",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7628&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Adapted Physical Activity": [
+            "Certificate of Graduate Study in Adapted Physical Activity The Certificate of Graduate Study in Adapted Physical Activity is a 12-credit program that academically and experientially prepare students to be eligible for national certification exams across three professional bodies. Coursework emphasizes mastery of content knowledge specific to Adapted Physical Education National Standards (APENS); American College of Sports Medicine/ National Center on Health, Physical Activity and Disability Inclusive Fitness Trainer standards; and Blaze Sports Adaptive Recreation & Sports Specialist standards."
+        ],
+        "Program Requirements": [
+            "Program Requirements Total semester hours required graduate work for program completion: 12 semester hours (s. h.)"
+        ],
+        "Required Foundational Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPE",
+                            "course_number": "00552",
+                            "title": "Curriculum and Assessment in Adapting Physical Activity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00553",
+                            "title": "Community-Based Adapted Physical Activity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00554",
+                            "title": "Pathology of Disability for the Adapted Physical Activity Specialist",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Foundational Courses: 9 s.h."
+            ]
+        },
+        "Interdisciplinary Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPED",
+                            "course_number": "08308",
+                            "title": "Assistive Technology and Transition Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00580",
+                            "title": "Obesity and Diabetes Prevention and Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Interdisciplinary Courses: 3 s.h. Select one.",
+                "SPED 08540 - Technology For Students With Disabilities Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Adapted Physical Activity is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Maria Lepore-Stevens Herman D. James Hall leporestevens@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

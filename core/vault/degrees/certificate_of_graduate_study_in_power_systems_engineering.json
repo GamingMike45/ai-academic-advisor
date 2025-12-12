@@ -1,0 +1,142 @@
+{
+    "name": "Certificate of Graduate Study in Power Systems Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7620&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Power Systems Engineering": [
+            "Certificate of Graduate Study in Power Systems Engineering The Certificate of Graduate Study (COGS) in Power Systems Engineering is designed to provide a breadth and depth to ECE graduate students who want to specialize in Power Systems engineering and prepare them for a career in the power and energy area. A unique aspect of this COGS is that it will develop ECE graduates with a technical foundation in electric power systems focused on the operation of emerging systems. Through this four-class sequence, students will be able to articulate the core concepts of conventional system analysis, different renewable system analysis, electricity market and different smart grid enabling techniques. The completion of this COGS will provide students with the necessary skill sets to start a career in the power and energy industry or pursue more advanced education in power system engineering."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09504",
+                            "title": "Special Topics in Electrical and Computer Engineering",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09510",
+                            "title": "Advanced Alternate Energy Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Elective Courses": [
+            "Elective Courses Choose either 6 s.h. (strongly recommended) from Knowledge Area 1 OR choose 3 s.h. from Knowledge Area 1 and 3 s.h. from Knowledge Area 2."
+        ],
+        "Knowledge Area 1": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09572",
+                            "title": "Advanced Smart Grid",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09573",
+                            "title": "Advanced Smart Sensors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09515",
+                            "title": "Emerging Electricity Market",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Knowledge Area 1"
+            ]
+        },
+        "Knowledge Area 2": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09585",
+                            "title": "Advanced Engineering Cyber Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01501",
+                            "title": "Engineering Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09655",
+                            "title": "Advanced Computational Intelligence and Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09521",
+                            "title": "Fundamentals of Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01598",
+                            "title": "Master’s Thesis Continuation",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01599",
+                            "title": "Master’s Research and Thesis",
+                            "credits": "1 to 9"
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01798",
+                            "title": "Doctoral Dissertation Continuation",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01799",
+                            "title": "Doctoral Research and Dissertation",
+                            "credits": "1 to 9"
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10561",
+                            "title": "Engineering Optimization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Knowledge Area 2"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses Please contact the program coordinator for additional details. Graduation/Exit, Benchmark, and Thesis Requirements Complete the minimum 12 credits from the appropriate categories listed above. Minimum Required Grades and Cumulative GPA The COGS in Power Systems Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Jie Li, Ph.D. Engineering Hall 856.256.5345 lijie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

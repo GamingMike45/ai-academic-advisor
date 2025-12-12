@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Public Health Preparedness & Emergency Medical Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7596&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Public Health Preparedness & Emergency Medical Management": [
+            "Certificate of Graduate Study in Public Health Preparedness & Emergency Medical Management The need to address health-related issues in the wake of disasters in the form of public health, medical preparedness, and emergency management to prepare for, respond to, and recover from natural disasters, terrorism, pandemics or other emerging health threats has become a cornerstone of 21st-century emergency management. The Certificate of Graduate Study (COGS) in Public Health Preparedness & Emergency Medical Management provides specialized training in the management of public health crisis related to disasters, crisis, and emergency management to meet the increasing need. Focusing on how emergency management, medical, public health, and government officials can work to address medical needs during times of crisis. This certificate will strengthen one’s knowledge in disease surveillance, infection control, and the planning for and response to public health crisis from a wide variety of concerns at the regional, national and global contexts relative to diversity, globalization, migration, social inequalities, economic inequalities, and contemporary realities of a more complex diverse society."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00542",
+                            "title": "Public Health Emergency Preparedness and Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00544",
+                            "title": "Emerging Health Threats: Risks, Surveillance, and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00605",
+                            "title": "Disaster Public Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00615",
+                            "title": "Management of First Responder Organizations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Public Health Preparedness & Emergency Medical Management is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information DeMond Miller Campbell Library 856.256.4500, ext.53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

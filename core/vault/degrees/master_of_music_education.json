@@ -1,0 +1,204 @@
+{
+    "name": "Master of Music Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7563&returnto=1028",
+    "content": {
+        "Master of Music Education": [
+            "Master of Music Education The Master of Music Education (M.M.Ed.) degree is designed for music educators to refine and advance their philosophical and pedagogical approach(es) to teaching music in a culturally diverse and technologically advanced society. With an emphasis on diversity, equity, inclusion, and access, the Master of Music Education will prepare music educators to be school-based change makers who think critically, engage in responsive teaching, and connect theory to practice. By taking courses in philosophy, curricular innovation, research, and various aspects of musicianship, students will explore current trends in the field of music education and hone their skills as musicians and educators. Specifically, it will encourage students to: Think critically in the areas of music psychology, curriculum, philosophy, research, and pedagogy Develop and implement strategies for teaching music in a pluralistic and ever-changing society. Continue their growth and development in musicianship. The Master of Music Education is designed as an online program, with most course offerings delivered online through Rowan Online and requiring only one on-campus summer residency. The program will facilitate connections between outside institutions by inviting other music education scholars to guest-teach various classes based on their expertise. This structure will allow practicing music educators to take courses from around the country while maintaining their employment. With both a thesis and non-thesis option, students can select a format that best suits their needs, whether preparing for a doctoral program or advancing their current practice in the classroom. The Master of Music Education program will be accredited by the National Association for Schools of Music (NASM)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 33 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "50610",
+                            "title": "Master’s Final Presentation and Project",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50621",
+                            "title": "Master’s Thesis in Music Education",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "50510",
+                            "title": "Special Topics Seminars in Music Education *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50511",
+                            "title": "Research Methods in Music Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50540",
+                            "title": "Social and Psychological Environments of Music Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50630",
+                            "title": "Equity, Access, and Music Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50650",
+                            "title": "Philosophy of Music Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50660",
+                            "title": "Innovation in Curriculum and Instruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50670",
+                            "title": "Global Musics in Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 33 s.h."
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Students will take MUS 50510 - Special Topics Seminars in Music Education twice, for a total of 6 s.h. Seminars are synchronous during the Summer Intensive session; topics will rotate and change based on current trends."
+            ]
+        },
+        "Supporting Music Studies Elective Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04560",
+                            "title": "Form and Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "05547",
+                            "title": "Music and the Related Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04565",
+                            "title": "Seminar in Band Conducting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04570",
+                            "title": "20th Century Literature and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10509",
+                            "title": "Graduate Applied Instrument I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10510",
+                            "title": "Graduate Applied Instrument II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10513",
+                            "title": "Graduate Applied Voice I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10514",
+                            "title": "Graduate Applied Voice II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10529",
+                            "title": "Graduate Conducting I",
+                            "credits": "2 to 4"
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10530",
+                            "title": "Graduate Conducting II",
+                            "credits": "2 to 4"
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10537",
+                            "title": "Graduate Ensemble: Concert Choir",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10541",
+                            "title": "Graduate Ensemble: Jazz Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10545",
+                            "title": "Graduate Ensemble: Lab Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10549",
+                            "title": "Graduate Ensemble: Orchestra",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10553",
+                            "title": "Graduate Ensemble: Wind Ensemble",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "50509",
+                            "title": "Music Education Workshop",
+                            "credits": "2 to 3"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Supporting Music Studies Elective Bank: 6 s.h. Choose 6 s.h. from the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 33 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements MUS 50610 - Master’s Final Presentation and Project or MUS 50621 - Master’s Thesis in Music Education Minimum Required Grades and Cumulative GPA The Master of Music Education is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Vanessa Bond Wilson Hall, Room 225 856.256.4500, ext.53532 bondv@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

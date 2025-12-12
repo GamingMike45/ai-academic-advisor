@@ -1,0 +1,157 @@
+{
+    "name": "Minor in Italian Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7150&returnto=1028",
+    "content": {
+        "Minor in Italian Studies": [
+            "Minor in Italian Studies The Italian Studies Minor may be declared in the Department of World Languages, Oak Hall 107 or by contacting the University Advising Center, Savitz Hall, Suite 323 (856.256.4459 / advise@rowan.edu). This program allows students to add to their linguistic proficiency in Italian as well as their cultural, social and historical competence, which will benefit them on the job market, especially considering the strong presence of Italian companies, business activities, and institutions in our territory (i.e. foreign and public service, international sales and business, humanitarian work, government, politics, international law). The program will also support students’ growth and development as global citizens and will prepare them to interact with a different population and culture with greater cultural awareness and sensitivity, in accordance with the mission of the Department of World Languages. This 18 s.h. minor is open to all students. A placement interview is strongly recommended for students with previous knowledge of Italian so that they may begin their Italian language study at the appropriate level. For placement interview information, please contact Dr. Alessandra Mirra at mirra@rowan.edu. Students may earn the credits for any skipped courses via the Authorization for Credit by Examination process and these credits are counted in fulfillment of minor requirements. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students  may transfer credits into the Italian Studies Minor, including from study abroad; student splanning to study abroad must meet with their Advisor in order to determine course equivalents. The Minor in Italian Studies consists of 6 courses (18 credits). Students must receive a grade of at least “C-” in all courses for the program. Each of the courses listed below is worth 3 credits."
+        ],
+        "Program Requirements": [
+            "Program Requirements Students are required to take the following four courses within the language component of the program (or receive credits via a placement interview and Authorization for Credit by Examination - contact Dr. Alessandra Mirra for more details at mirra@rowan.edu):"
+        ],
+        "Italian Language Core:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04101",
+                            "title": "Elementary Italian I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04102",
+                            "title": "Elementary Italian II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04201",
+                            "title": "Intermediate Italian I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04211",
+                            "title": "Intermediate Italian II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Italian Language Core:"
+            ]
+        },
+        "Interdisciplinary Electives Group 1:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04140",
+                            "title": "Italian Topics in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04150",
+                            "title": "Italian Food and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04160",
+                            "title": "Italian American Heritage in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04212",
+                            "title": "Italian Reading and Composition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04320",
+                            "title": "Italian Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04100",
+                            "title": "Masterpieces of Italian Literature in English Translation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ITAL",
+                            "course_number": "04440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05307",
+                            "title": "Ancient Mediterranean World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05311",
+                            "title": "Renaissance and Reformation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Interdisciplinary Electives Group 1: Students must also select at least one of the following elective courses (courses taught in English can be taken at any time, before, after or concurrently with Italian language courses):"
+            ]
+        },
+        "Interdisciplinary Electives Group 2:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03103",
+                            "title": "Art History Survey I: Prehistory to Medieval",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03104",
+                            "title": "Art History Survey II: Renaissance to Modern",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06102",
+                            "title": "General Music History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05315",
+                            "title": "Twentieth Century Europe to 1945",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Interdisciplinary Electives Group 2: For their 6th course, students may choose another course from Interdisciplinary Electives Group 1 above OR one of the courses below:"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Alessandra Mirra, Ph.D. Program Mentor Oak Hall, Room 206 856.256.5848 mirra@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

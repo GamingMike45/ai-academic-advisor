@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Supporting Mental Health & Social Emotional Learning in Educational Settings",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7667&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Supporting Mental Health & Social Emotional Learning in Educational Settings": [
+            "Certificate of Advanced Graduate Study in Supporting Mental Health & Social Emotional Learning in Educational Settings The Certificate of Advanced Graduate Study (CAGS) in Supporting Mental Health and Social Emotional Learning is designed to educate, provide awareness, and give specific academic and social emotional strategies that educators and professionals can implement and assist in helping all students succeed."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COUN",
+                            "course_number": "26650",
+                            "title": "Mental Health Awareness and (Emotional) Crisis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26651",
+                            "title": "Trauma Informed Practices for Social Emotional Development in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26652",
+                            "title": "Neurodiverse Learning and Social Emotional Development in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26653",
+                            "title": "Promoting Self-Care and Wellness in Educational and Professional Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The CAGS in Supporting Mental Health & Social Emotional Learning in Educational Settings is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Kara Ieva Herman D. James Hall 856.256.4305 ieva@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

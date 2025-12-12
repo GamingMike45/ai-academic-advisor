@@ -1,0 +1,157 @@
+{
+    "name": "Certificate of Undergraduate Study in World Religions",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7109&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in World Religions": [
+            "Certificate of Undergraduate Study in World Religions The Certificate of Undergraduate Study (CUGS) in World Religions is designed to complement and enrich a student’s major program, as well as to prepare students for graduate studies and professional careers. A certificate in World Religions will appeal to students who are interested in learning about diverse religions and the role they play in world events. It will help students to gain knowledge and critical training in the area of religion studies and acquire the in-depth understanding and appreciation of core aspects of religion’s impact upon culture. It will enable students to readily take those jobs that increasingly require the knowledge of religions in the areas such as media, the arts, education, government, health care, communication, public relations, and international affairs. The Certificate of Undergraduate Study in World Religions may be declared either in the Philosophy & World Religions Department in Bunce Hall (856-256-4075), Third Floor or with Christine Larsen-Britt (larsen-britt@rowan.edu) of the College of Humanities & Social Sciences Dean’s Office."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Foundational Requirement: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10100",
+                            "title": "World Religions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Requirement: 3 s.h."
+            ]
+        },
+        "Elective Requirement: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10150",
+                            "title": "Religion on Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10210",
+                            "title": "Religion in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10214",
+                            "title": "Religions of the Western World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10219",
+                            "title": "Approaches to Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10240",
+                            "title": "Introduction to the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10301",
+                            "title": "Judaism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10320",
+                            "title": "Christianity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10325",
+                            "title": "Islam",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10331",
+                            "title": "Spirituality and Nature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10335",
+                            "title": "Sex and the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10340",
+                            "title": "Topics in World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11269",
+                            "title": "Introduction to Queer Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11361",
+                            "title": "Ethics In and Out of Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11440",
+                            "title": "Topics in Philosophy and World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11469",
+                            "title": "Topics in Queer Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Requirement: 9 s.h. No courses may be taken P/NC."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Christine Larsen-Britt Advisor 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

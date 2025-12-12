@@ -1,0 +1,195 @@
+{
+    "name": "Bachelor of Arts in Early Childhood Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7462&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Early Childhood Education": [
+            "Bachelor of Arts in Early Childhood Education The Bachelor of Arts in Education with a Concentration in Early Childhood Education (P-3) prepares candidates for certification to teach preschool through third grade. The program is structured around four key areas of study: 1) General Education courses, 2) Rowan Experience courses, 3) the Professional Concentration Sequence specific to early childhood education, and 4) either a dual major or a set of free electives to complement the degree. The dual major or free elective requirements allow candidates to either choose to complete major requirements in one of the following four areas: American Studies, Liberal Studies: Humanities/Social Sciences, Liberal Studies: Literacy Studies, Writing Arts, OR to use free electives to fulfill the credit requirement. Students who opt to use free electives can collaborate with their advisor to complete additional endorsements or certifications based on their interests. Students accepted into the Concentration are expected to adhere to the prescribed sequence of courses and to consult with their advisors in Education at least once a semester."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 46 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "22215",
+                            "title": "Educational Psychology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00103",
+                            "title": "Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01204",
+                            "title": "Structures of Mathematics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09209",
+                            "title": "Child and Adolescent Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08110",
+                            "title": "Introduction to Special Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 46 s.h. Courses in this section cannot be in the major department.",
+                "MATH 01201 - Structures of Mathematics I (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 3",
+                "MUSG 06218 - Music and The Child (Satisfies Artistic (ARTL) Literacy Requirement) Credits: 3",
+                "SPED 08130 - Disability as Diversity Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "FNDS 21150 - History of American Education Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "Any Sociology Course (Sociology of the Family recommended and Satisfies Global Literacy) - Credits: 3 Any Biological or Physical Science Lab course that satisfies the Scientific Literacy - Credits: 3 Any Biological or Physical Science non-lab science - Credits: 3 Any History course - Credits: 3 Any Literature course - Credits: 3 Any Geography Course - Credits: 3"
+            ]
+        },
+        "Early Childhood Education Courses: 42 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INCL",
+                            "course_number": "02210",
+                            "title": "Principles and Pedagogies in the Inclusive Classroom",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23211",
+                            "title": "Seminar: Principles and Pedagogies in the Inclusive Classroom",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "33220",
+                            "title": "Educational Technology",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23220",
+                            "title": "Contemporary Child in the Family and Community",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23320",
+                            "title": "Building Brains: Competency and Resiliency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30311",
+                            "title": "Literacy Pedagogy I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30351",
+                            "title": "Literacy Pedagogy II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30421",
+                            "title": "Supervised Practicum in Literacy I-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23321",
+                            "title": "Effective Learning Environments for Diverse Children",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23322",
+                            "title": "Planning, Integrating, and Adapting Curriculum: Math and Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23430",
+                            "title": "Observation, Assessment, and Evaluation of Diverse Learners",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23431",
+                            "title": "Planning, Integrating and Adapting Curriculum Across Content Areas",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23432",
+                            "title": "Clinical Practice I in Early Childhood Education",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23446",
+                            "title": "Clinical Practice II in Early Childhood Education",
+                            "credits": 10
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23447",
+                            "title": "Early Childhood Education Clinical Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Early Childhood Education Courses: 42 s.h.",
+                "SECD 03350 - Teaching Students of Linguistic and Cultural Diversity Credits: 1"
+            ]
+        },
+        "Electives": [
+            "Electives There are 30 elective credits for this program as well as dual major options. Interested student may pursue a Certificate of Undergraduate Study in various programs by consulting with their advisor. Dual majors include: Bachelor of Arts in American Studies Bachelor of Arts in Liberal Studies Bachelor of Arts in Literacy Studies Bachelor of Arts in Writing Arts"
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Program Coordinator Johari Sykes-Ratliff Herman D. James Hall 856.256.4500 ext. 53855 sykes-ratliff@rowan.edu Advisor Heather Hasson Herman D. James Hall 856.256.4761 dolbow@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

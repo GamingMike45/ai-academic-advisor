@@ -1,0 +1,127 @@
+{
+    "name": "Certificate of Undergraduate Study in Global Climate Change",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7266&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Global Climate Change": [
+            "Certificate of Undergraduate Study in Global Climate Change The Earth’s climate is dynamic, complex, and changing at an alarming pace. The Certificate of Undergraduate Study (CUGS) in Global Climate Change is an introduction to climate science and the fundamentals of the climate system. In this series of courses, students learn how climate change is affecting the world today, what the science says about future climate impacts, and the geological context for climate change both past and future. The CUGS in Global Climate Change is open to any matriculated or non-matriculated student with an interest in the science of Global Climate Change from any degree program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01131",
+                            "title": "Earth in Transition: The Science of Global Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01220",
+                            "title": "Global Climate Crisis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Students must take ONE of the following courses: 3-4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01230",
+                            "title": "Paleoclimatology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01133",
+                            "title": "Climate, Catastrophes, Civilizations and Collapses",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take ONE of the following courses: 3-4 s.h."
+            ]
+        },
+        "One Course from the Following List: 3-4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01120",
+                            "title": "Oceans in Crisis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01122",
+                            "title": "Future of Food",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01250",
+                            "title": "Ocean-Atmosphere Interactions",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01381",
+                            "title": "Sea-Level Change: Past, Present, and Future",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01430",
+                            "title": "Climate Variability and Diagnostics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01435",
+                            "title": "The Ice Ages and Quaternary Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01382",
+                            "title": "Understanding and Analyzing Climate Change Impacts",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01432",
+                            "title": "Tectonic Scale Climate Change",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One Course from the Following List: 3-4 s.h. Students must take one course from the following list, and they must have completed at least 13 total credit hours from the listed CUGS courses. Note: this requires taking at least one 4-credit course, either from above or below:"
+            ]
+        },
+        "Total Required Credits for the Program: 13-14 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 13-14 s.h. The CUGS in Global Climate Change is for non-Geology and/or non-Environmental Science majors who are matriculated students at Rowan University interested in the science of global climate change. Dr. Harold Connolly Advisor Discovery Hall 226 856.256.5261 connollyh@rowan.edu Dr. Gerald Rustic Faculty Contact Discovery Hall 324 856.256.5277 rustic@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

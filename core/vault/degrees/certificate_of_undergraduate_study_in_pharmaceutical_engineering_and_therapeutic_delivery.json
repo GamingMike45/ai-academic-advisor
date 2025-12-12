@@ -1,0 +1,80 @@
+{
+    "name": "Certificate of Undergraduate Study in Pharmaceutical Engineering & Therapeutic Delivery",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7043&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Pharmaceutical Engineering & Therapeutic Delivery": [
+            "Certificate of Undergraduate Study in Pharmaceutical Engineering & Therapeutic Delivery The Certificate of Undergraduate Study (CUGS) in Pharmaceutical Engineering & Therapeutic Delivery provides a sequence of courses that combines expertise and concepts from various disciplines. This CUGS will provide directed, upper-level coursework in the topical area of Pharmaceutical Engineering & Therapeutic Delivery."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BME",
+                            "course_number": "11474",
+                            "title": "Fundamentals of Controlled Release",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11450",
+                            "title": "Biocompatibility and Immunoengineering",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h. For admittance into the CUGS, students must have completed CHEM 07200 Organic Chemistry I, (4 s.h.) The requirements include four courses:"
+            ]
+        },
+        "Electives: 6-8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07492",
+                            "title": "Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07410",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "22450",
+                            "title": "Molecular Genetics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 6-8 s.h.",
+                "Additional electives may be approved by the advisor"
+            ]
+        },
+        "Total Required Credits for the Program: 12-14 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-14 s.h. To be awarded the CUGS in Pharmaceutical Engineering & Therapeutic Delivery, students must complete all courses required for the CUGS in Pharmaceutical Engineering & Therapeutic Delivery. Mary Staehle, Ph.D. Advisor Engineering Hall 856.256.5338 staehle@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Minor in Access, Success, & Equity in Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7413&returnto=1028",
+    "content": {
+        "Minor in Access, Success, & Equity in Education": [
+            "Minor in Access, Success, & Equity in Education This minor develops knowledge, skills, and dispositions that foster excellence in practice within education organizations and other related institutions. Participants in the minor complete their coursework with an understanding of the history of American education and the current educational system, the teaching and learning process, the development and administration of educationally related organizations, the nature of inequity in education, the power of education to change individual trajectories and communities, and the leadership skills needed to work effectively in multiple contexts. These students will develop their effectiveness in working in educational organizations and community agencies to improve outcomes for all learners."
+        ],
+        "Program Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "FNDS",
+                            "course_number": "21150",
+                            "title": "History of American Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28110",
+                            "title": "Leading Among Diverse Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28210",
+                            "title": "Educational Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28211",
+                            "title": "Access, Success, and Equity in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28212",
+                            "title": "Education and Empowerment for Social Change",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Requirements"
+            ]
+        },
+        "Total Required Courses for the Program: 18 s.h.": [
+            "Total Required Courses for the Program: 18 s.h. MaryBeth Walpole Advisor James Hall 856.256.4706 walpole@rowan.edu",
+            "Notes:"
+        ]
+    }
+}

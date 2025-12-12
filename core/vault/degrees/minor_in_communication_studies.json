@@ -1,0 +1,286 @@
+{
+    "name": "Minor in Communication Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6991&returnto=1028",
+    "content": {
+        "Minor in Communication Studies": [
+            "Minor in Communication Studies"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04200",
+                            "title": "Introduction to Communication Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04250",
+                            "title": "Communication Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core: 6 s.h. All Communication Studies minors should complete the following two courses (with grades no lower than a C-):"
+            ]
+        },
+        "Communication Studies Bank Selections: 12 s.h.": [
+            "Communication Studies Bank Selections: 12 s.h. Each student will complete 4 courses within the banks, with at least one course in each bank (with grades no lower than a C-):"
+        ],
+        "Rhetoric/Cultural Criticism Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04210",
+                            "title": "Mass Media and Their Influences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04223",
+                            "title": "Sports Communication, Culture and Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04270",
+                            "title": "Persuasion and Social Influence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04290",
+                            "title": "Rhetorical Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04310",
+                            "title": "Images of Gender in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04313",
+                            "title": "Environmental Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04314",
+                            "title": "Social Impact of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04315",
+                            "title": "Digital Media Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04317",
+                            "title": "Social Media Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04323",
+                            "title": "Images of Athletes in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04327",
+                            "title": "Women and Nonbinary Identities in Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04330",
+                            "title": "International Media Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04370",
+                            "title": "Political Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04375",
+                            "title": "Special Topics in Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04382",
+                            "title": "Communication in Health Campaigns and Interventions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04385",
+                            "title": "Constructing Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04390",
+                            "title": "Rhetorical Criticism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04393",
+                            "title": "Rhetoric of Science, Technology, and Medicine-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04395",
+                            "title": "Rhetoric of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04440",
+                            "title": "Rhetoric of Reality Television",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSC",
+                            "course_number": "08100",
+                            "title": "Introduction to Health and Science Communication",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Rhetoric/Cultural Criticism Bank"
+            ]
+        },
+        "Interpersonal/Organizational Communication Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04208",
+                            "title": "Business and Professional Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04220",
+                            "title": "Interpersonal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04240",
+                            "title": "Small Group Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04255",
+                            "title": "Nonverbal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04260",
+                            "title": "Organizational Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04316",
+                            "title": "Mediated Interpersonal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04318",
+                            "title": "Leadership Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04319",
+                            "title": "Organizational Communication in Sports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04320",
+                            "title": "Communicating Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04340",
+                            "title": "Family Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04360",
+                            "title": "Intercultural Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04375",
+                            "title": "Special Topics in Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04380",
+                            "title": "Health Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04385",
+                            "title": "Constructing Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSC",
+                            "course_number": "08100",
+                            "title": "Introduction to Health and Science Communication",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Interpersonal/Organizational Communication Bank"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Contact Information Alicia Groatman Advisor groatman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Minor in Advanced Pre-Health Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7414&returnto=1028",
+    "content": {
+        "Minor in Advanced Pre-Health Studies": {
+            "requirements": [],
+            "notes": [
+                "Minor in Advanced Pre-Health Studies This minor provides mostly mid-level required courses and mid- to upper-level electives related to preparing for health professional school curricula. Only individuals who have completed the prerequisite courses below are eligible and we highly suggest all interested students first meet with an advisor from The Office of Pre-Health Programs before enrolling.  This minor helps develop advanced scientific coursework, however diversifying academic preparation outside of the sciences can be even more well received by professional schools and thus a discussion with a Pre-Health advisor will help in determining the best academic option. The tracks below represent common electives specific to health profession schools including but not limited to medical, dental, podiatry, physical therapy, physician assistant, accelerated  - nursing, optometry, and veterinary programs. To enroll, first schedule a meeting with an advisor from the Office of Pre-Health Programs and your academic advisor to plan your minor coursework. Prerequisites : Students are only eligible if the following courses have been completed or are included in the student’ s major program of study: Two semesters of Biology with lab Two semesters of General Chemistry with lab MATH 01122 - Precalculus Mathematics (or placement exam equivalency) Students must complete a minimum of 23 s.h. from the required and elective courses listed in the appropriate track(s) below - students do not need to complete all electives listed in a track to earn the minor. These tracks are provided for guidance in recommended courses for professional school preparation. Note : Students who have completed the prerequisites through their major or the Minor in Foundations of Biomedical Sciences are eligible for this minor but must select electives so that the minor coursework does not overlap more than 12 s.h. between programs of study."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12-13 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": null,
+                            "course_number": null,
+                            "title": "Non-Physics majors must take",
+                            "credits": null
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07301",
+                            "title": "Statistics in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02331",
+                            "title": "Applied Statistical Analysis in Healthcare Professions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02320",
+                            "title": "Concepts in Statistical Data Analysis",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "UNIV",
+                            "course_number": "01111",
+                            "title": "Introduction to Health Professions",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00210",
+                            "title": "Physics I without Calculus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12-13 s.h.",
+                "Physics majors must take",
+                "PHYS L0220 - Introductory Mechanics Laboratory Credits: 0",
+                "PHYS L0210 - Physics I Without Calculus Laboratory Credits: 0",
+                "CHEM L7200 - Organic Chemistry I Laboratory Credits: 0"
+            ]
+        },
+        "Elective Courses: 12 s.h.": [
+            "Elective Courses: 12 s.h. Choose at least 12 s.h. worth of electives from the appropriate track below. Special topics courses relevant to the professional track may be approved at the discretion of the minor director. *Pre-requisites vary by schools, but the most common are shown in bold within each track. Dental (DDS or DMD) School Track Medical (MD or DO) School Track Nursing (BSN - Accelerated Pathway) Track Occupational Therapy School Track Optometry (OD) School Track Pharmacy (PharmD) School Track Physical Therapy (DPT) School Track Physician Assistant (PA) School Track Podiatry (DPM) School Track Veterinary Medicine (DVM) School Track"
+        ],
+        "Total Required Credits for the Program: 24-25 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 24-25 s.h. Interested students should contact The Office of Pre-Health Studies to schedule a meeting with an academic advisor.",
+                "Notes:"
+            ]
+        }
+    }
+}

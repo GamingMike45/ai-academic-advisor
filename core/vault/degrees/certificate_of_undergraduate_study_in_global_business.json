@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Undergraduate Study in Global Business",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7434&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Global Business": [
+            "Certificate of Undergraduate Study in Global Business The Certificate of Undergraduate Study (CUGS) in Global Business will provide students with a broader understanding of the impact of a global economic environment on business functions. Students will have a thorough understanding of the interdependencies between the functional/skill area of business when working in a global market. This CUGS is open to matriculated College of Business students only. Students must be in good academic standing and have at least junior standing to declare the CUGS."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03425",
+                            "title": "International Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04435",
+                            "title": "International Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06330",
+                            "title": "Managing International Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09379",
+                            "title": "International Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01380",
+                            "title": "Global Supply Chain",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Choose four courses from the following list."
+            ]
+        },
+        "Total Credits Required for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits Required for the Program: 12 s.h. Important Note: Students may only double count two courses from another single major, minor, or other certificate of an undergraduate program they are concurrently completing to fulfill the requirements for a Certificate of Undergraduate Study. This CUGS is open to College of Business majors only.  To declare the CUGS, business majors should contact their assigned advisor.",
+                "Notes:"
+            ]
+        }
+    }
+}

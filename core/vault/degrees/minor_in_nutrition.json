@@ -1,0 +1,106 @@
+{
+    "name": "Minor in Nutrition",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7295&returnto=1028",
+    "content": {
+        "Minor in Nutrition": {
+            "requirements": [],
+            "notes": [
+                "Minor in Nutrition Having a foundational level of knowledge in nutrition is valuable to professionals who work with individual patients/clients or with community groups to improve their quality of life. Undergraduate students who aspire to be Physicians, Nurses, Physical Therapists, Occupational Therapists, Exercise Physiologists, Public Health Educators, or other healthcare professionals will find the minor in nutrition to be an asset to their professional preparation. Likewise, students interested in sustainable food systems and public health will find a foundational knowledge base in nutrition to be of benefit as they pursue careers related to the creation of food products. This minor is designed with one required course NUT 00200 Basic Nutrition and five elective courses drawn from a bank. The provision of a large number of electives will allow students from different academic majors to tailor the program to their specific career interests. This minor will also ensure a path that does not require students to take additional prerequisite courses beyond those already completed for their major."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Students must take the below course first to progress further into the minor: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NUT",
+                            "course_number": "00200",
+                            "title": "Basic Nutrition",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take the below course first to progress further into the minor: 3 s.h."
+            ]
+        },
+        "Students must select 5 of the following course options: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02240",
+                            "title": "Food and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00230",
+                            "title": "Introduction to Nutrition Professions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00300",
+                            "title": "Lifecycle Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00310",
+                            "title": "Management of Food and Nutrition Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00350",
+                            "title": "Community Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00415",
+                            "title": "Nutrition for Fitness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00420",
+                            "title": "Contemporary Issues in Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00490",
+                            "title": "Macronutrient Metabolism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00495",
+                            "title": "Micronutrient Metabolism",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must select 5 of the following course options: 15 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Maureen Reidenauer Nutrition and Dietetics Program Director Herman D. James Hall reidenauer@rowan.edu Laurie Dwyer Academic Advisor Herman D. James Hall 856.256.5835 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

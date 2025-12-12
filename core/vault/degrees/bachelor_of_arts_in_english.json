@@ -1,0 +1,355 @@
+{
+    "name": "Bachelor of Arts in English",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7089&returnto=1028",
+    "content": {
+        "Bachelor of Arts in English": [
+            "Bachelor of Arts in English"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Requirements: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05100",
+                            "title": "The West in the World to 1600",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05150",
+                            "title": "United States to 1865",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05101",
+                            "title": "The West in the World since 1600",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05151",
+                            "title": "United States since 1865",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Requirements: 18 s.h. Courses in this section must not be in the major department. Courses in this section may satisfy Rowan Core Requirements.",
+                "or A World Language Course - Credits: 3 s.h.",
+                "or A World Language course - Credits: 3 s.h."
+            ]
+        },
+        "Experiential Learning Requirement (ELR): 0-6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23320",
+                            "title": "Building Brains: Competency and Resiliency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02310",
+                            "title": "STREAM I: Social Studies, ELA, and the Arts",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "SA",
+                            "course_number": "01470",
+                            "title": "Semester Abroad",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20390",
+                            "title": "Interdisciplinary Case Studies in the Liberal Arts",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20395",
+                            "title": "Experiential Learning in the Humanities and Social Sciences",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "40450",
+                            "title": "Schools & Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Experiential Learning Requirement (ELR): 0-6 s.h. Choose one course from the following bank of experiential learning courses:"
+            ]
+        },
+        "Major Requirements: 36 s.h.": [
+            "Major Requirements: 36 s.h."
+        ],
+        "Required English Major Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02101",
+                            "title": "Critical Methods I for English Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02202",
+                            "title": "Critical Methods II for English Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02309",
+                            "title": "British Literature I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02311",
+                            "title": "British Literature II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02313",
+                            "title": "US Literature I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02315",
+                            "title": "US Literature II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02345",
+                            "title": "Shakespeare I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02499",
+                            "title": "Senior Seminar - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required English Major Courses"
+            ]
+        },
+        "And Four English electives, at least two of which must be at the 300-level or above: 12 s.h.": [
+            "And Four English electives, at least two of which must be at the 300-level or above: 12 s.h."
+        ],
+        "* All Students must take at least one course from each of the below course banks ( minimum 2 courses total) :": [
+            "* All Students must take at least one course from each of the below course banks ( minimum 2 courses total) :"
+        ],
+        "Diversity and Inclusion (D/I) Course Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02218",
+                            "title": "Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02269",
+                            "title": "Queer Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02231",
+                            "title": "World Mythologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02360",
+                            "title": "Asian American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02362",
+                            "title": "Native American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02380",
+                            "title": "African American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02470",
+                            "title": "Special Topics in Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02473",
+                            "title": "Global Modernisms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02475",
+                            "title": "Special Topics in Global Literatures in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02530",
+                            "title": "Diversity, Equity, and Inclusion in U.S. Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Diversity and Inclusion (D/I) Course Bank",
+                "ENGL 02223 - Selected Topics in Multiethnic Literatures of the US Credits: 3"
+            ]
+        },
+        "Multiethnic Literatures of the United States (MELUS) course bank:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02218",
+                            "title": "Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02360",
+                            "title": "Asian American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02362",
+                            "title": "Native American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02380",
+                            "title": "African American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02470",
+                            "title": "Special Topics in Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02530",
+                            "title": "Diversity, Equity, and Inclusion in U.S. Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Multiethnic Literatures of the United States (MELUS) course bank:",
+                "ENGL 02223 - Selected Topics in Multiethnic Literatures of the US Credits: 3"
+            ]
+        },
+        "Optional Concentrations Available:": [
+            "Optional Concentrations Available: Students who declare one of the concentrations and complete the 12 s.h. from the courses required will have this concentration appear on their transcript. Undergraduate Concentration in English for Future Educators Undergraduate Concentration in Global Literatures in English Undergraduate Concentration in Multiethnic American Literatures Undergraduate Concentration in Shakespeare Studies"
+        ],
+        "Free Electives: 57 s.h.": [
+            "Free Electives: 57 s.h."
+        ],
+        "Total Credits in Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits in Program: 120 s.h. C- is the minimum grade for each English course The minimum overall GPA within the major is 2.0",
+                "Notes:"
+            ]
+        }
+    }
+}

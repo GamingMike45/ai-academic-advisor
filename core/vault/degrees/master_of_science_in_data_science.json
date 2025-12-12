@@ -1,0 +1,376 @@
+{
+    "name": "Master of Science in Data Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7535&returnto=1028",
+    "content": {
+        "Master of Science in Data Science": [
+            "Master of Science in Data Science The Master of Science in Data Science is designed for individuals with a Bachelor’s degree in a STEM related field who are looking to expand their knowledge and opportunities in Data Science. The program has a strong background in Data Mining, Modeling, Statistical and Machine learning. Students will be prepared to use algorithms, statistics, and technology to make informed decisions from massive amounts of data, to manage streamed data or data stored in massive data warehouses, and to visually analyze and present information. Courses are designed to provide expertise in the data sciences and train students to solve problems with complex sets of structured and unstructured data commonly found in any industry. Students may either take a thesis track or non-thesis track. Rowan University undergraduates majoring in the Bachelor of Science in Computer Science program may apply to the Accelerated Dual Degree (ADD) program which allows them to earn both the Bachelor of Science in Computer Science and the Master of Science in Data Science degrees in five years instead of six."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "00500",
+                            "title": "Computer Science Graduate Seminar",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02505",
+                            "title": "Data Mining I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02515",
+                            "title": "Applied Multivariate Data Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Core Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02516",
+                            "title": "Big Data Tools and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02620",
+                            "title": "Data Warehousing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07556",
+                            "title": "Machine Learning I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "02510",
+                            "title": "Visual Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09555",
+                            "title": "Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02509",
+                            "title": "Probability and Statistics for Data Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 9 s.h. Choose three of the following courses:"
+            ]
+        },
+        "Elective Courses/Thesis: 15 s.h.": [
+            "Elective Courses/Thesis: 15 s.h. Thesis students must take 6 - 9 s.h. of Thesis Research courses. Students may also use core courses as electives, if not counting for the Core Course requirements above."
+        ],
+        "Bank One": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BINF",
+                            "course_number": "05555",
+                            "title": "Bioinformatics: Advanced Biological Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01541",
+                            "title": "Bioinformatics - Advanced Computational Aspects",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02530",
+                            "title": "Advanced Database Systems: Theory and Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02570",
+                            "title": "Information Visualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02605",
+                            "title": "Data Mining II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02625",
+                            "title": "Data Quality and Web/Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02630",
+                            "title": "Advanced Topics in Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07540",
+                            "title": "Advanced Design and Analysis of Algorithms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07559",
+                            "title": "Advanced Models of Deep Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07650",
+                            "title": "Concepts in Artificial Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07656",
+                            "title": "Machine Learning II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "01505",
+                            "title": "Data Analytics Capstone Practicum",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "03510",
+                            "title": "Patient Data Understanding",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "03511",
+                            "title": "Patient Data Privacy and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DHUM",
+                            "course_number": "52500",
+                            "title": "Digital Humanities Debates and Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09558",
+                            "title": "Reinforcement Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09566",
+                            "title": "Advanced Topics in Systems, Devices, and Algorithms in Bioinformatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09568",
+                            "title": "Discrete Event Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09585",
+                            "title": "Advanced Engineering Cyber Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09595",
+                            "title": "Advanced Emerging Topics in Computational Intelligence, Machine Learning and Data Mining",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09655",
+                            "title": "Advanced Computational Intelligence and Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01506",
+                            "title": "Probability and Mathematical Statistics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02511",
+                            "title": "Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02514",
+                            "title": "Decision Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02530",
+                            "title": "Applied Survival Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02585",
+                            "title": "Introduction to Bayesian Statistical Methods",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank One Select up to 5 courses from these data science offerings."
+            ]
+        },
+        "Bank Two": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03552",
+                            "title": "Graduate Digital Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DHUM",
+                            "course_number": "52500",
+                            "title": "Digital Humanities Debates and Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16560",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06603",
+                            "title": "Process Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07510",
+                            "title": "Quality Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07550",
+                            "title": "Operations Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07600",
+                            "title": "Predictive Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank Two Select no more than 2 courses form these data analytics offerings."
+            ]
+        },
+        "Thesis Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DS",
+                            "course_number": "03650",
+                            "title": "Thesis I in Data Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "03651",
+                            "title": "Thesis II in Data Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "03652",
+                            "title": "Thesis III in Data Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis Courses Thesis students should take Thesis I, Thesis II, and optionally Thesis III"
+            ]
+        },
+        "Total Require Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Require Credits for the Program: 30 s.h. Foundation Courses Applicants must have successfully completed the following courses (or their equivalents) at an accredited institution: Calculus II, Probability & Statistical Inference for Computing Systems, Linear Algebra, Introduction to Object-Oriented Programming or Computer Science & Programming, and Data Structurces & Algorithms or Principles of Data Structures. Graduation/Exit, Benchmark, and/or Thesis Requirements A four (4) credit Capstone Practicum is required as part of the coursework. Minimum Required Grades and Cumulative GPA The Master of Science in Data Science is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Anthony Breitzman breitzman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

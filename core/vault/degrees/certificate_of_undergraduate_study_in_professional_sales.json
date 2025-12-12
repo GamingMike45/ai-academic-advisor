@@ -1,0 +1,79 @@
+{
+    "name": "Certificate of Undergraduate Study in Professional Sales",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7727&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Professional Sales": [
+            "Certificate of Undergraduate Study in Professional Sales The Certificate in Undergraduate Study (CUGS) in Professional Sales targets business majors who are considering sales as a career path.  The CUGS requires the two sales courses offered by the Marketing and BIS Department as well as two courses offered by Communication Studies.  The goal is for students to have a full understanding of the sales function within modern organizations as well as have a better understanding of communication as it applies to the one-on-one communication that occurs in sales interactions. This CUGS requires a total of 12 semester hours of credit with 2 required courses and 2 courses chosen from a list:"
+        ],
+        "Program Requirements: 12 s.h.": [
+            "Program Requirements: 12 s.h."
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09315",
+                            "title": "Personal Selling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09382",
+                            "title": "Sales Force Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "And choose 2 of the following four : 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04270",
+                            "title": "Persuasion and Social Influence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04220",
+                            "title": "Interpersonal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04255",
+                            "title": "Nonverbal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09391",
+                            "title": "Business to Business Marketing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose 2 of the following four : 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program electives through coursework completed at Rowan University or transfer credits obtained from comparable coursework at other institutions. Note: Marketing majors cannot take Business-to-Business Marketing as an elective for the CUGS. Contact information: Philip Lewis Business Hall 856.256.4298 lewisph@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

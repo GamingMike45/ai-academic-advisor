@@ -1,0 +1,152 @@
+{
+    "name": "Minor in Cybersecurity",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10848&returnto=1028",
+    "content": {
+        "Minor in Cybersecurity": [
+            "Minor in Cybersecurity This minor course of study in cybersecurity provides students with foundational knowledge and skills in understanding, analyzing, and addressing various aspects of digital security. Through a combination of theoretical concepts and practical applications, students delve into topics such as network security, cryptography, ethical hacking, and risk management. They learn to identify vulnerabilities in systems, develop strategies to protect against cyber threats, and implement security measures to safeguard data and information assets. This minor equips students in any area major with valuable expertise in an increasingly critical field, preparing them for careers in cybersecurity or complementing their primary areas of study with essential skills in digital defense.  The minor is especially complimentary with technology, law enforcement, or management programs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "03201",
+                            "title": "Security+",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03351",
+                            "title": "Cyber Security: Fundamentals, Principles and Applications",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "03215",
+                            "title": "Penetration Testing Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03218",
+                            "title": "Ethical Hacking Fundamentals",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "09210",
+                            "title": "Introduction to Computer Networks and Data Communications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09410",
+                            "title": "Data Communications and Networking",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03355",
+                            "title": "Cybersecurity Management, Policy and Risk",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02318",
+                            "title": "Information Systems Risk Management",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "03410",
+                            "title": "Cyber Defense",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 18 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "03252",
+                            "title": "Foundations of Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03270",
+                            "title": "Introduction to Intrusion Detection",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06220",
+                            "title": "Linux/Unix Essentials",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Must take one from the following list:"
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

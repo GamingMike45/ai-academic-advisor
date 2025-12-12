@@ -1,0 +1,501 @@
+{
+    "name": "Bachelor of Science in Computer Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7210&returnto=1028",
+    "content": {
+        "Bachelor of Science in Computer Science": [
+            "Bachelor of Science in Computer Science This program focuses on developing flexible professionals who are equipped to learn new technologies and principles that are essential for success in such a rapidly evolving field. Students will learn how to apply advanced scientific and industrial methodologies, knowledge of mathematics, algorithmic principles, and computer science theory to develop computing solutions and demonstrate these skills through presentations, written work, and projects. The Bachelor of Science in Computer Science contains several optional concentrations and a wide range of advanced electives. This degree prepares graduates for jobs in business and industry, as well as further study at the graduate level. The Computer Science major requires courses in mathematics and applied and theoretical computer science. Students, in consultation with faculty advisors, can construct flexible and comprehensive programs. The program prepares students for graduate study in computer science or such related fields as business, operations research, and information sciences. Graduates also find careers in business, industry, government, and education, where they work as applications programmers, scientific programmers, systems programmers, systems analysts, and software engineers. It is recommended that the students who are entering the program have several years of high school mathematics and programming courses. Advanced placement credit is accepted for incoming freshmen students. A grade of C- or better in the following courses is required for graduation: Calculus I, Discrete Structures, Introduction to Object-Oriented Programming, Object-Oriented Programming and Data Abstraction, Computer Organization, and Data Structures and Algorithms, whether they are taken locally or are transferred."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01104",
+                            "title": "Introduction to Evolution and Scientific Inquiry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01265",
+                            "title": "Computers and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h.",
+                "Authorized Lab Science Courses for Computer Science Majors Credits: 4"
+            ]
+        },
+        "Foundational Courses: 36-37 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04111",
+                            "title": "Intensive Introduction to Object Oriented Programming",
+                            "credits": 5
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04114",
+                            "title": "Object Oriented Programming and Data Abstraction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04215",
+                            "title": "Computer Laboratory Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04222",
+                            "title": "Data Structures and Algorithms",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06205",
+                            "title": "Computer Organization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06210",
+                            "title": "Advanced Computing Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07210",
+                            "title": "Foundations of Computer Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01210",
+                            "title": "Linear Algebra",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03150",
+                            "title": "Discrete Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02290",
+                            "title": "Probability and Statistical Inference for Computing Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 36-37 s.h."
+            ]
+        },
+        "Upper-Level and Capstone Courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04315",
+                            "title": "Programming Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04321",
+                            "title": "Software Engineering I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04400",
+                            "title": "Computer Science - Senior Project",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06395",
+                            "title": "Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07340",
+                            "title": "Design and Analysis of Algorithms",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-Level and Capstone Courses: 16 s.h."
+            ]
+        },
+        "Computer Science Restricted Electives: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01303",
+                            "title": "Bioinformatics - Computational Aspects",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01395",
+                            "title": "Topics in Computer Science",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01400",
+                            "title": "Independent Study",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02370",
+                            "title": "Introduction to Information Visualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02421",
+                            "title": "Big Data Tools and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02440",
+                            "title": "Data Warehousing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02480",
+                            "title": "Introduction to Data Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02485",
+                            "title": "Web and Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03351",
+                            "title": "Cyber Security: Fundamentals, Principles and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03353",
+                            "title": "Security of Mobile Devices",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03440",
+                            "title": "Cloud Computing and the Internet of Things",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03470",
+                            "title": "Cyber Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04305",
+                            "title": "Web Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04323",
+                            "title": "Modern Software Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04350",
+                            "title": "Blockchain Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04372",
+                            "title": "Advanced Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04376",
+                            "title": "Advanced iOS Application Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04380",
+                            "title": "Object Oriented Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04391",
+                            "title": "Parallel and Concurrent Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04394",
+                            "title": "Distributed Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04401",
+                            "title": "Compiler Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04444",
+                            "title": "Human-Computer Interaction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04471",
+                            "title": "Topics in Mobile Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06310",
+                            "title": "Principles of Digital Computers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06390",
+                            "title": "Introduction to Systems Simulation and Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06420",
+                            "title": "Embedded Systems Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06447",
+                            "title": "Introduction to IoT Upper Stack",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07310",
+                            "title": "Robotics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07350",
+                            "title": "Computer Cryptography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07422",
+                            "title": "Theory of Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07450",
+                            "title": "Artificial Intelligence (AI)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07455",
+                            "title": "Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07459",
+                            "title": "Models of Deep Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07460",
+                            "title": "Computer Vision",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "08360",
+                            "title": "Introduction to Computer Graphics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "08380",
+                            "title": "Introduction to Computer Animation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "08390",
+                            "title": "Introduction to Computer Game Design and Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09410",
+                            "title": "Data Communications and Networking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09415",
+                            "title": "Wireless Networks, Protocols and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09416",
+                            "title": "Tcp/Ip and Internet Protocols and Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09427",
+                            "title": "Principles of Network Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "99300",
+                            "title": "Computer Field Experience",
+                            "credits": "3 to 12"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "99310",
+                            "title": "Advanced Learning Assistant Seminar in Computer Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "99490",
+                            "title": "Computer Science Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "02395",
+                            "title": "Topics in Data Science",
+                            "credits": "1 to 3"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Computer Science Restricted Electives: 12 s.h. Choose 12 s.h. from the following courses."
+            ]
+        },
+        "Free Electives: 28 s.h.": [
+            "Free Electives: 28 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Concentrations: In order to give Computer Science majors the opportunity to concentrate, optional concentrations have been added to the Computer Science major at Rowan University. A concentration is composed of four or more specified courses (12 s.h. or more) in Computer Science and other related disciplines that provide a solid foundation in some fundamental area of computer science. The areas of concentration are: Undergraduate Concentration in Artificial Intelligence Certificate of Undergraduate Study in Blockchain Technologies & Cryptocurrencies Undergraduate Concentration in Cybersecurity Defense (BS) Undergraduate Concentration in Data Science Undergraduate Concentration in Graphics, Visualization & Gaming Technology Certificate of Undergraduate Study in Mobile Application Development Undergraduate Concentration in Networking Systems Undergraduate Concentration in Software Engineering Note: For comprehensive information on the individual computer science concentrations, students should request from the Department of Computer Science the appropriate curriculum guide which details each concentration and see their Computer Science advisor. 856.256.4805 computerscience@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

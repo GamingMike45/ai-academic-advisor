@@ -1,0 +1,154 @@
+{
+    "name": "Certificate of Undergraduate Study in Fundamental Computing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7226&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Fundamental Computing": [
+            "Certificate of Undergraduate Study in Fundamental Computing The Certificate of Undergraduate Study (CUGS) in Fundamental Computing is designed to increase student marketability while helping to contend with and meet the challenges of students’ current and future careers by providing a broad overview of key computing skills which are applicable and may be extended to almost every industry in the world today. The educational goals of this CUGS are to provide students with a general understanding of the domains of computing and expose students to the diverse areas of computing that can supplement their individual discipline and field."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": [
+            "Required Courses: 12 s.h. Students seeking this CUGS will be required to complete a total of 4 courses with 1 course from each of the 4 domains of computing. This CUGS is not available to Computer Science majors or Computing and Informatics majors."
+        ],
+        "Domain #1: Programming": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01102",
+                            "title": "Introduction to Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #1: Programming"
+            ]
+        },
+        "Domain #2: Mobile Applications": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "10271",
+                            "title": "Introduction to Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10275",
+                            "title": "Introduction to iOS Application Programming",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #2: Mobile Applications"
+            ]
+        },
+        "Domain #3: Applied Computing Technologies": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01105",
+                            "title": "Web Literacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01101",
+                            "title": "Computer Science Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01110",
+                            "title": "Computing Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01190",
+                            "title": "Introduction to Computer Game Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02305",
+                            "title": "Business Applications of Blockchain",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #3: Applied Computing Technologies"
+            ]
+        },
+        "Domain #4: Networks and Security": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "09210",
+                            "title": "Introduction to Computer Networks and Data Communications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02327",
+                            "title": "Network Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #4: Networks and Security"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Chia Chien Coordinator Robinson Hall 856.256.4805 chien@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

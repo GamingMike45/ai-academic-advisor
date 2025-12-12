@@ -1,0 +1,132 @@
+{
+    "name": "Bachelor of Arts in Esports",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7698&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Esports": [
+            "Bachelor of Arts in Esports The Bachelor of Arts in Esports is composed of foundation courses in esports; a required internship and senior clinic; and concentrations in communication, business, or computing. The program is designed to prepare students to immediately enter positions in esports and related industries."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements:": [
+            "Program Requirements:"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the Major Department."
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09301",
+                            "title": "Internship in Sports Communication and Media I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09302",
+                            "title": "Internship in Sports Communication Media II",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09303",
+                            "title": "Internship in Sports Communication and Media III",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09201",
+                            "title": "Foundations of Esports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09315",
+                            "title": "Esports Characters and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09319",
+                            "title": "Evolution of Esports",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h."
+            ]
+        },
+        "And take any two of these Core Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03250",
+                            "title": "Esports Operations and Strategy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03280",
+                            "title": "Esports Funding and Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03301",
+                            "title": "Esports Business Development and Sponsorships",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03350",
+                            "title": "Esports Metrics and Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And take any two of these Core Courses: 6 s.h."
+            ]
+        },
+        "Choose a Concentration": {
+            "requirements": [],
+            "notes": [
+                "Choose a Concentration Students must take a minimum of 24 credits in one of the following concentrations: Undergraduate Concentration in Esports Communication If choosing the Esports Communication Concentration, also select one of the following programs : Certificate of Undergraduate Study in Advertising & Graphic Design Certificate of Undergraduate Study in Game Media Design Minor in Journalism Minor in Social Media Content & Strategies Minor in Special Events Communication Undergraduate Concentration in Communication Studies & Sports Undergraduate Concentration in Sports Journalism Undergraduate Concentration in Sports Public Relations & Advertising Undergraduate Concentration in Radio, Televeison & Film Sports Production​ Undergraduate Concentration in Esports Business Must take the two remaining ESBN courses not taken in Core: ESBN 03250 ESBN 03250 - Esports Operations and Strategy ESBN 03280 ESBN 03280 - Esports Funding and Financial Management ESBN 03301 ESBN 03301 - Esports Business Development and Sponsorships ESBN 03350 ESBN 03350 - Esports Metrics and Analytics If choosing the Esports Business concentration, also select one of the following programs : Minor in Marketing Certificate of Undergraduate Study in Business Analytics +Any 2 Esports Communication Courses Certificate of Undergraduate Study in Management & Leadership +Any 2 Esports Communication Courses Certificate of Undergraduate Study in The Internet of Things +Any 2 Esports Communication Courses Certificate of Undergraduate Study in Sport Management +Any 1 Esports Communication Courses Undergraduate Concentration in Esports Computing (Must complete at least two of these programs) Certificate of Undergraduate Study in Game Media Design Certificate of Undergraduate Study in Fundamental Computing Certificate of Undergraduate Study in Mobile Application Development"
+            ]
+        },
+        "Recommended Electives: 39-48 s.h.": [
+            "Recommended Electives: 39-48 s.h. Students can use free electives to build an area of expertise or earn a double Major, Minor or Certificate of Undergraduate Study."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Students must earn a grade of at least a C minus in each course under Core Requirements and Sequences. C minus or above is required in all prerequisites to other courses. Students must maintain a 2.0 GPA in their credits of the major, and a 2.0 overall GPA to graduate with a B.A. in Esports. Transfer courses of 300 level or above that correlate with Rowan’s courses will be accepted in the major.",
+                "Notes:"
+            ]
+        }
+    }
+}

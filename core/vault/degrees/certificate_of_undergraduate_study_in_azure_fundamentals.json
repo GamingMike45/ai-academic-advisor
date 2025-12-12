@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Azure Fundamentals",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7218&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Azure Fundamentals": [
+            "Certificate of Undergraduate Study in Azure Fundamentals The Certificate of Undergraduate Study (CUGS) in Azure Fundamentals is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: Microsoft AZ-900"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "02110",
+                            "title": "Implementations of SQL I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06340",
+                            "title": "Introduction to Azure Cloud Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06343",
+                            "title": "Azure Management Tools and Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06440",
+                            "title": "Azure Security, Compliance, and Identity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students seeking this CUGS are required to successfully complete (grade of D- or better) the four courses in the order listed below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Advisor Patrick McKee Robinson Hall 328G 856.256.4805 mckeep82@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

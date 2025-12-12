@@ -1,0 +1,52 @@
+{
+    "name": "Certificate of Graduate Study in Learning Disabilities",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7665&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Learning Disabilities": [
+            "Certificate of Graduate Study in Learning Disabilities The Certificate of Graduate Study (COGS) in Learning Disabilities Program (COGS in LD) is designed for teachers who are looking to broaden their knowledge and skills to better serve students with learning difficulties. The goals and objectives for the program include the further development of educational leaders in supporting students, parents, and colleagues in the field. Graduate students complete the Certificate of Graduate Study in Learning Disabilities with knowledge and skills in the current research on learning disabilities and methods so as to more effectively serve individuals with learning disabilities; and, in this program they are trained to be educational collaborators and leaders, to be change agents in their classrooms, and school districts. Courses in this program may be used to satisfy some of the course requirements in Rowan University’s Master of Arts in Special Education program or Learning Disabilities Teacher Consultant Certification program. For more information, please visit https://global.rowan.edu/programs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LDTC",
+                            "course_number": "18503",
+                            "title": "Foundations of Learning Disabilities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LDTC",
+                            "course_number": "18510",
+                            "title": "Applied Theories of Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LDTC",
+                            "course_number": "18520",
+                            "title": "Neurological Bases of Educational Disorders",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h.",
+                "SPED 08555 -  Education and Psychology of Students with Disabilities Credits: 3",
+                "(first course)",
+                "READ 30530 - Teaching Literacy to Students with Disabilities Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Learning Disabilities is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Maureen Rutter Herman D. James Hall, Room 3078 rutterm@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

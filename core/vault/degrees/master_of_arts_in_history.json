@@ -1,0 +1,217 @@
+{
+    "name": "Master of Arts in History",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7585&returnto=1028",
+    "content": {
+        "Master of Arts in History": [
+            "Master of Arts in History The Master of Arts in History at Rowan is designed mainly for students who desire increased competence in historical studies preparatory or supplementary for teaching in that field on the high school or community college level. It is also appropriate for students who seek qualification for admission to a doctoral program at another institution and for students who wish to pursue a liberal education at an advanced level for intellectual challenge and personal self-fulfillment. Our program is set in the tradition of a Liberal Arts education. Courses offer an opportunity for students to extend their knowledge and enhance their competence in historical studies through direct, face-to-face, and virtual interaction with Rowan’s award-winning, full-time faculty members. Total graduate semester hours required for program completion is 30. Students are encouraged to devote at least 12 credits of their electives to pursuing an area of concentration in American, European, or global history, but they must take at least one course in another area. Up to 6 credits may be taken as independent study, and students may take one elective graduate course outside of the History Program, chosen in consultation with the graduate advisor. Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined in the chart. Thesis Track: The Master of Arts Thesis Track is designed for those who are interested in pursuing original research and is strongly recommended for those who are planning to do doctoral work in history. Students pursuing the thesis track will complete the 6 required credits, 18 elective graduate credits in history, and 6 credits of Master’s Thesis. Non-Thesis Track: Students may choose to complete the degree by pursuing coursework without a thesis. This track may be appropriate for those seeking professional development or broader content knowledge. Students pursuing the non-thesis track will complete the 6 required credits and 24 elective graduate credits in history. Rowan University undergraduates majoring in the Bachelor of Arts in History program can apply to the accelerated B.A./M.A. dual degree program allowing them to earn both the Bachelor of Arts and Master of Arts degrees in five years."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05510",
+                            "title": "Readings and Research in Global History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05512",
+                            "title": "Readings and Research In History II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 18-24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05511",
+                            "title": "Colloquium in American History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05514",
+                            "title": "Colloquium in American History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05516",
+                            "title": "Colloquium in American History III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05522",
+                            "title": "Colloquium in European History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05523",
+                            "title": "Colloquium in European History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05531",
+                            "title": "Colloquium in Global History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05533",
+                            "title": "Colloquium in Global History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05535",
+                            "title": "Colloquium in Global History III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05544",
+                            "title": "NJ in American History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05545",
+                            "title": "History of Crime",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05551",
+                            "title": "Graduate Independent Study",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05561",
+                            "title": "Early American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05562",
+                            "title": "Nineteenth Century American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05563",
+                            "title": "Twentieth Century American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05571",
+                            "title": "Ancient Mediterranean History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05572",
+                            "title": "Medieval and Early Modern European History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05573",
+                            "title": "Modern European History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05581",
+                            "title": "African History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05582",
+                            "title": "Middle Eastern History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05583",
+                            "title": "Russian History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05584",
+                            "title": "Latin American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05585",
+                            "title": "East Asian History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05586",
+                            "title": "South and Southeast Asian History Seminar",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 18-24 s.h. Choose 24 s.h. (non-thesis track) or 18 s.h. (thesis-track) of approved electives in consultation with the Academic Advisor."
+            ]
+        },
+        "Required Thesis Courses (if thesis track is selected): 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05601",
+                            "title": "Master’s Thesis in History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05602",
+                            "title": "Master’s Thesis in History II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Thesis Courses (if thesis track is selected): 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses Students without an undergraduate degree in History are required to take HIST 05506, Research Methods in History, unless they receive an exemption from the graduate advisor based on submitted written work and/or a personal interview. Graduation/Exit, Benchmark, and/or Thesis Requirements Students must successfully complete and defend a Master’s Thesis. If the thesis track is chosen, students must seek the approval of the Department after the completion of Readings and Research I-II, and the permission of a thesis advisor. Students must successfully complete and defend a Master’s Thesis. Minimum Required Grades and Cumulative GPA The Master of Arts in History is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Stephen Hague Robinson Hall 856.256.4500x53988 hague@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

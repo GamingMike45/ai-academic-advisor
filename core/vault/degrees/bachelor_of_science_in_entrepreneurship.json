@@ -1,0 +1,241 @@
+{
+    "name": "Bachelor of Science in Entrepreneurship",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6959&returnto=1028",
+    "content": {
+        "Bachelor of Science in Entrepreneurship": [
+            "Bachelor of Science in Entrepreneurship The theory and practice of entrepreneurship is becoming increasingly important for solving economic and social challenges. We develop the ability of our students to identify, determine feasibility and act upon entrepreneurial opportunities. Student learning is infused with an emphasis on innovation, entrepreneurial thinking and venture effectiveness using entrepreneurial problems, cases, and project-based learning. These exposures provide students with the foundation to initiate new enterprises, create socially responsible non-profit entities, extend family ventures or craft corporate extensions. Students working toward a Bachelor of Science in Entrepreneurship must maintain a 2.00 grade point average overall and a 2.50 grade point average in all business courses taken."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 20-21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications (Satisfies Quantitative Literacy (QNTL) requirement)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01488",
+                            "title": "Business Career Planning and Development",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 20-21 s.h. Courses in this section must not be in the Major Department",
+                "ECON 04101 - An Introduction to Economics-A Macroeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "ECON 04102 - An Introduction to Economics-A Microeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 4",
+                "STAT 02260 - Statistics I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "CS xxxx ** - Any approved General Education Computer Science Course Credits: 3",
+                "MGT 06123 - Introductory Management Perspectives for the 21st Century (Satisfies Rowan Seminar (RS) requirement) Credits: 3"
+            ]
+        },
+        "Business Foundational Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03211",
+                            "title": "Principles of Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06402",
+                            "title": "Business Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Foundational Courses: 27 s.h."
+            ]
+        },
+        "Entrepreneurship Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06342",
+                            "title": "Financing and Legal Aspects of Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06346",
+                            "title": "Social Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06450",
+                            "title": "Technology Entrepreneurship",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06426",
+                            "title": "New Venture Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06415",
+                            "title": "Entrepreneurship Capstone",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Entrepreneurship Required Courses: 18 s.h.",
+                "ENT 06344 - Global Entrepreneurship Growth Strategies (Satisfies Global Literacy (GLBL) requirement) Credits: 3"
+            ]
+        },
+        "Entrepreneurship Electives: 6 s.h.": [
+            "Entrepreneurship Electives: 6 s.h. Choose any two courses from the bank of upper-level Entrepreneurship Electives."
+        ],
+        "Business Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40111",
+                            "title": "Business of Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40113",
+                            "title": "Business of Music II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40315",
+                            "title": "Entrepreneurship in the Music Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Electives: 9 s.h. Choose three courses from the following bank of courses.",
+                "Or a choice of an Entrepreneurship Course or a non-required upper-level Business course"
+            ]
+        },
+        "Free Electives: 30-31 s.h.": [
+            "Free Electives: 30-31 s.h."
+        ],
+        "Total Credits for Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for Program: 120 s.h. **One course from the list of approved General Education computing courses having a course identification number of CS0x.xxx",
+                "Notes:"
+            ]
+        }
+    }
+}

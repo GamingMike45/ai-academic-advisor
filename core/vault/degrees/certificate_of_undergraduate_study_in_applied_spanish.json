@@ -1,0 +1,133 @@
+{
+    "name": "Certificate of Undergraduate Study in Applied Spanish",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7163&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Applied Spanish": [
+            "Certificate of Undergraduate Study in Applied Spanish The Certificate of Undergraduate Study (CUGS) in Applied Spanish may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). This program recognizes students’ completion of 12 s.h. in Applied Spanish courses at the 200, 300 and 400 levels. This Certificate will enhance the profile of all job applicants across all fields of study, as it represents the ability to apply one’s knowledge of Spanish to a variety of career fields, including business, medicine, translation, and education."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05212",
+                            "title": "Spanish Reading and Composition",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course"
+            ]
+        },
+        "Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05300",
+                            "title": "Spanish Phonetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05302",
+                            "title": "Introduction to Hispanic Linguistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05305",
+                            "title": "Oral Spanish",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05312",
+                            "title": "Spanish for Business A",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05313",
+                            "title": "Spanish for Medical Personnel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05314",
+                            "title": "Spanish for Business B",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05315",
+                            "title": "Spanish for Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05316",
+                            "title": "Spanish for Medical Emergencies and Disaster Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05340",
+                            "title": "Introduction to Spanish Translation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05350",
+                            "title": "Introduction to Spanish Interpretation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05400",
+                            "title": "History of The Spanish Language",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05441",
+                            "title": "Advanced Spanish Translation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish (Applied)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses Choose three of the following"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, and study abroad. For more information visit our website, Department of World Languages or contact the Department for the latest details. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in Applied Spanish. Program Mentor Marilyn S. Manley, Ph.D. Oak Hall, Room 110 856.256.4044 manley@rowan.edu Advisor Harold Thompson thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

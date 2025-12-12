@@ -1,0 +1,162 @@
+{
+    "name": "Bachelor of Arts in Writing Arts",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7011&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Writing Arts": [
+            "Bachelor of Arts in Writing Arts The Writing Arts major provides broad-based study and practice in written communication, drawing on the disciplinary strengths of the Ric Edelman College of Communication, Humanities & Social Sciences, and from departments across the University. Writing Arts offers students intensive experience in a variety of writing forms, creative and expository, personal and public. Students learn how writers compose in print and new media forms and how audiences respond to their writing. In classroom workshops and peer response groups, through interactive lecture and discussion, and by creating and composing multiple drafts and revisions, students develop sensitivity to rhetorical considerations of audience, purpose, and genre. Through these diverse experiences, students are prepared for success in a wide variety of settings beyond the University."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Major Requirements: 19 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01201",
+                            "title": "How Writers Read",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01250",
+                            "title": "Tutoring Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04250",
+                            "title": "Communication Theory",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "07290",
+                            "title": "Creative Writing I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01200",
+                            "title": "Introduction to Writing Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01300",
+                            "title": "The Writer’s Mind - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01445",
+                            "title": "Senior Seminar: Methods of Analysis and Evaluation of Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01450",
+                            "title": "Writing Arts Portfolio Seminar [1 credit]",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Major Requirements: 19 s.h."
+            ]
+        },
+        "Elements of Language: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01350",
+                            "title": "Rhetorics of Style-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01355",
+                            "title": "Editing for Publication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "05301",
+                            "title": "American English Grammar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02250",
+                            "title": "Introduction to Anthropological Linguistics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elements of Language: 3 s.h. Choose one course from the following bank.",
+                "or Completion of second semester of 200-level foreign language"
+            ]
+        },
+        "Note:": [
+            "Note: NOTE: Languages that offer this level course: Arabic, Chinese, French, German, Italian, Japanese, Russian, and Spanish. Also, while the requirement is 3 credits, other courses prior to this second semester 200-level course will likely be necessary."
+        ],
+        "Writing Concentration: 12 s.h.": [
+            "Writing Concentration: 12 s.h. You must choose 12 s.h. from any of the courses listed below. If you choose all 12 s.h. from one of the three concentrations, you may request to have that concentration appear on your transcript. If you complete more than one concentration, you must take at least nine separate credits in each concentration. See www.rowan.edu/wa for advice on shaping the concentration . Available Concentrations Undergraduate Concentration in Creative Writing Undergraduate Concentration in Publishing & Writing for the Public Undergraduate Concentration in Technical & Professional Writing"
+        ],
+        "Free Electives: 59 s.h.": [
+            "Free Electives: 59 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

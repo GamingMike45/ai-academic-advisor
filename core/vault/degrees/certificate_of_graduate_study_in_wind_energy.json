@@ -1,0 +1,127 @@
+{
+    "name": "Certificate of Graduate Study in Wind Energy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7621&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Wind Energy": [
+            "Certificate of Graduate Study in Wind Energy The Certificate of Graduate Study (COGS) in Wind Energy is a collaboration between Electrical & Computer Engineering program and Mechanical Engineering. This COGS is designed to provide a breadth and depth to students who want to specialize in wind energy systems and prepare them for a career in the wind energy industry. A unique aspect of this COGS is that it will develop graduates with a technical foundation in both electrical and mechanical side of the wind energy systems. Through this four-class sequence, students will be able to articulate the core concepts of wind energy, as well as different technical aspects associated with the operation of single turbines, and the entire wind farm. The completion of this COGS will provide students with the necessary skill sets to start a career in wind energy industry or continue their education through graduate programs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09517",
+                            "title": "Technologies Towards Green Energy Future",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10535",
+                            "title": "Wind Energy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09518",
+                            "title": "Wind Energy System Planning and Operation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09510",
+                            "title": "Advanced Alternate Energy Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09515",
+                            "title": "Emerging Electricity Market",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09572",
+                            "title": "Advanced Smart Grid",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09573",
+                            "title": "Advanced Smart Sensors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09521",
+                            "title": "Fundamentals of Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10581",
+                            "title": "Aerodynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10522",
+                            "title": "Computational Fluid Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10530",
+                            "title": "Reliability Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10550",
+                            "title": "Advanced Solid Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10460",
+                            "title": "Introduction to Composite Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10462",
+                            "title": "Intro to FEA with ANSYS",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose two of the following"
+            ]
+        },
+        "Total Required Credits: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits: 12 s.h. Foundation Courses Please contact the program coordinator for additional details. Graduation/Exit, Benchmark, and Thesis Requirements Complete the minimum 12 credits from the appropriate categories listed above. Minimum Required Grades and Cumulative GPA As these are graduate level courses, the student must obtain a 3.0 (B) GPA over these courses to complete the certificate program. This COGS in Wind Energy is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Double counting policy: ECE 09504 Special Topics in ECE class may be counted towards both the COGS (for which it is approved) and an ECE graduate degree program, however, the same specific ECE 09504 Special Topics in ECE class cannot be counted towards a different COGS. Hence, any given specific ECE 09504 Special Topics in ECE class - when taken as a relevant and preapproved class for a given COGS - may only be counted towards that COGS. Students in non-ECE graduate degree majors who pursue this COGS should follow the course double-counting policies of the department in which their major resides. Program Coordinator/Advisor Contact Information Jie Li, Ph.D. Engineering Hall 856.256.5345 lijie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Undergraduate Study in Applied Machine Learning in Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7062&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Applied Machine Learning in Engineering": [
+            "Certificate of Undergraduate Study in Applied Machine Learning in Engineering Machine learning has been one of the fastest growing fields in all sciences and engineering. Not a day goes by that we hear another story that talks about how machine learning has become part of our lives. The number of applications where machine learning systems make automated decisions in place of humans have grown exponentially. There is a significant demand in this area for qualified professionals, and these professionals have some of the highest starting salary of any profession. The Certificate of Undergraduate Study (CUGS) in Applied Machine Learning in Engineering will be offered by the Henry M. Rowan College of Engineering, Department of Electrical & Computer Engineering and will consist of four (4) undergraduate-level courses as described below. A unique aspect of this CUGS is the practical hands-on experience option it provides: the CUGS in Applied Machine Learning in Engineering features four classes all of which featuring their own major project components. This CUGS also provides unique access for non-engineering students to Rowan Engineering’s signature hallmark, the Senior Engineering Clinic, where students work in multidisciplinary teams on real-world unsolved problems. If taken twice across two consecutive semesters (2 credits each, for a total of 4 credits), Senior Engineering Clinic will provide a yearlong experience, which can then be used to count towards one of the electives in the CUGS. To qualify, students will need to take one of several specific sections of Senior Engineering Clinic that focuses on machine learning related projects. Hence, through this four-class sequence, the Applied Machine Learning in Engineering CUGS will provide breadth and depth in theoretical foundations of machine learning, as well as practical hands-on real-world project experience. As a result of this broad fundamental and practical experience we expect our students to be particularly marketable, attracting high paying salaries."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09455",
+                            "title": "Introduction to Machine Learning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h"
+            ]
+        },
+        "Choose one of the following two courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09458",
+                            "title": "Introduction to Reinforcement Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09495",
+                            "title": "Emerging Topics in Computational Intelligence, Machine Learning and Data Mining",
+                            "credits": "1 to 3"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one of the following two courses:"
+            ]
+        },
+        "Elective Courses: 6-7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09495",
+                            "title": "Emerging Topics in Computational Intelligence, Machine Learning and Data Mining *",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09458",
+                            "title": "Introduction to Reinforcement Learning *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09466",
+                            "title": "Systems, Devices, and Algorithms in Bioinformatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10461",
+                            "title": "Introduction to Engineering Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI (must be taken twice, 2 credits each)**",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6-7 s.h. Choose any two of the following"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. * This course can be used as an elective, if not already taken as one of the required courses. ** In order to count towards one elective, Senior Engineering Clinic must be taken twice, in consecutive semesters. Only specific sections of Senior Engineering Clinic that focuses on machine learning topics will qualify. Please contact ECE Department Head for advising / information. Double counting policy: For all CUGS offered by the ECE Department, at most two courses can be double counted to satisfy the CUGS and the B.S. in ECE degree requirements. Therefore, ECE students pursuing this or any other CUGS must take at least two courses above and beyond their BS in ECE degree requirements. Clinics may not be used to satisfy the elective requirements of more than one CUGS. Non-ECE students who pursue this CUGS should follow the course double-counting policies of the department in which their major resides. Graduation/Exit, Benchmark, and Thesis Requirements Students must complete all required courses with at least a 2.0 grade point average. For details regarding satisfactory academic progress and graduation requirements, please visit Policies Program Coordinator/Advisor Contact Information Robi Polikar Department Head, Electrical and Computer Engineering Engineering Hall 856.256.5372 polikar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

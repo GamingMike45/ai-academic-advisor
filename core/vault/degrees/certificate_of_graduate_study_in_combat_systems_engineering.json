@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Combat Systems Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7617&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Combat Systems Engineering": [
+            "Certificate of Graduate Study in Combat Systems Engineering The Certificate of Graduate Study (COGS) in Combat Systems Engineering (CSE) is truly a one-of-a-kind program that is developed in close coordination with defense industry partners such as Lockheed Martin, and is only available at Rowan University. The primary goal of this unique program is to help develop the growing workforce needs of the area’s prominent and rapidly growing defense industry. This program equips students with skills and knowledge needed for analysis, design, evaluation, and validation of combat systems that are essential for all systems engineering jobs in the defense industry. All courses in this COGS are taught by exceptionally well qualified industry professionals with many years of experience in the defense industry. The program is ideal for: 1. Students who are pursuing or have completed B.S. degree in Electrical, Computer, Systems or related engineering fields, who would like to focus on the combat systems engineering for employment in the defense industry, but not necessarily interested in completing a Master of Science degree program and/or 2. Current employees in the defense industry, possibly newly hired, who may need the additional knowledge and skills set in combat systems engineering. A specific additional benefit of the program is for those students who may now or later wish to pursue a Master of Science in Electrical & Computer Engineering, or M.S. in Systems Engineering, as these student can have all of the courses in this COGS apply towards either of these two M.S. program. Furthermore, under a new agreement between Henry M. Rowan College of Engineering and Rohrer College of Business, all of the courses in this COGS may also be used towards the electives for Master of Business Administration at Rohrer College of Business, greatly reducing the time to completion of your MBA degree."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09523",
+                            "title": "Advanced Radar Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09524",
+                            "title": "Advanced War Gaming and C4ISR",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09525",
+                            "title": "Advanced Command and Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09526",
+                            "title": "Advanced Weapon Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses The COGS in Combat Systems Engineering consists of four courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses No additional courses is needed for anyone with bachelor degree in electrical, computer, or systems engineering or related field. Graduation/Exit, Benchmark, and/or Thesis Requirements Successful completion of all four courses Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Combat Systems Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Robi Polikar 346 B Engineering Hall 856.256.5372 polikar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

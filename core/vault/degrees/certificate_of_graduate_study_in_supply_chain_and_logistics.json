@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in Supply Chain & Logistics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7600&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Supply Chain & Logistics": [
+            "Certificate of Graduate Study in Supply Chain & Logistics There is great demand from industry for supply chain and logistics talent - both for immediate jobs, and also for career paths and opportunities that offer longevity, growth, and lucrative salaries. Demand across industries and sectors for professionals with supply chain and logistics talent has been growing over the past decade, but demand for supply chain and logistics has surged as the world collectively experienced the Covid-19 pandemic - during which supply chain problems became a common household conversation. The growing field of supply chain and analytics touches nearly every industry and sector, crosses corporate and government and non-profit realms, and supports many types of units within organizations."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09575",
+                            "title": "Introduction to Logistics and Supply Chain Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09605",
+                            "title": "Supply Chain Strategy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01620",
+                            "title": "Analytics for Supply Chain Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Supply Chain and Logistical Systems is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

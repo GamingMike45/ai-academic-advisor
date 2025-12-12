@@ -1,0 +1,289 @@
+{
+    "name": "Bachelor of Science in Surveying Engineering Technology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7058&returnto=1028",
+    "content": {
+        "Bachelor of Science in Surveying Engineering Technology": [
+            "Bachelor of Science in Surveying Engineering Technology The Bachelor of Science in Surveying Engineering Technology is a program designed to prepare students for the land surveying profession. The Bachelor of Science in Surveying Technology degree is offered as a joint program with Rowan College of South Jersey with all or most of the courses offered at the Sewell campus."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses: 69 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01210",
+                            "title": "Linear Algebra",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01103",
+                            "title": "CADD I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16131",
+                            "title": "Principles of Earth Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01108",
+                            "title": "Introduction to Surveying",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01206",
+                            "title": "Evidence and Procedures for Boundary Location",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01208",
+                            "title": "Route and Construction Surveying",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01209",
+                            "title": "Map Projections and Coordinate Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01302",
+                            "title": "Adjustment Computations",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01303",
+                            "title": "Boundaries and Adjacent Properties",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01305",
+                            "title": "Boundary Line Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01306",
+                            "title": "Large Scale Topographic Surveying",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01307",
+                            "title": "Photogrammetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01308",
+                            "title": "Surveying from Unmanned Aerial Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01401",
+                            "title": "Geodetic Control Surveying",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01402",
+                            "title": "Professional Practice in Surveying",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01490",
+                            "title": "Surveying Engineering Technology Capstone Course",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01403",
+                            "title": "Fundamentals of Geodesy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01404",
+                            "title": "Terrestrial Laser Scanning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01405",
+                            "title": "Precise Positioning and Data Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 69 s.h."
+            ]
+        },
+        "Elective (Select one from): 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SET",
+                            "course_number": "01201",
+                            "title": "Codes, Contracts and Specifications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01207",
+                            "title": "Hydraulics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01203",
+                            "title": "3-D Modeling",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective (Select one from): 3 s.h."
+            ]
+        },
+        "Geospatial Elective (select one): 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16261",
+                            "title": "Cartography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16361",
+                            "title": "Geovisualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16365",
+                            "title": "Geospatial Measurement and Environmental Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01406",
+                            "title": "Parcel-Based Information Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Geospatial Elective (select one): 3 s.h."
+            ]
+        },
+        "Non-Program Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01122",
+                            "title": "Precalculus Mathematics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01102",
+                            "title": "Introduction to Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09150",
+                            "title": "Introduction to Ethics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 21 s.h."
+            ]
+        },
+        "Free Electives/Rowan Core: 24 s.h.": [
+            "Free Electives/Rowan Core: 24 s.h."
+        ],
+        "Total Hours Required for Graduation (with Gen Ed Courses): 120 s.h.": [
+            "Total Hours Required for Graduation (with Gen Ed Courses): 120 s.h. Frank Derby Advisor Engineering Hall 856.256.5383 derby@rowan.edu",
+            "Notes:"
+        ]
+    }
+}

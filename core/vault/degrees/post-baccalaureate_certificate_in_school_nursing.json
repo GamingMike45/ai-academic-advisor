@@ -1,0 +1,79 @@
+{
+    "name": "Post-Baccalaureate Certificate in School Nursing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7671&returnto=1028",
+    "content": {
+        "Post-Baccalaureate Certificate in School Nursing": [
+            "Post-Baccalaureate Certificate in School Nursing The Post-Baccalaureate School Nursing Certification Program is designed to build upon the baccalaureate prepared registered nurse’s varied educational and experiential foundation of previously acquired knowledge, skills, and attitudes for the enhancement of the nurse’s professional performance in the school setting. A dual preparation in health and education best qualifies school nurses for participation in the intraprofessional and interdisciplinary aspects of school health. The Post-Baccalaureate School Nursing Certification Program reflects a curriculum that requires students to matriculate into the program, have a baccalaureate degree from an accredited college or university, a current New Jersey professional registered nurse (RN) license issued by the New Jersey Board of Nursing and current certificates in cardiopulmonary resuscitation (CPR) and automated external defibrillators (AED). The curriculum permits students to become eligible for the New Jersey Standard Educational Services Certificate with a School Nurse Endorsement. It is a non-degree post-baccalaureate certification program designed to prepare registered nurses with the course requirements to meet the mandates of the New Jersey Administrative Code (NJAC 6A: 9-13.3) and with the NASN Standards of Professional School Nursing Practice and Standards of Care."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "03303",
+                            "title": "Comprehensive Health Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03401",
+                            "title": "Community Health Nursing",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "SNUR",
+                            "course_number": "92407",
+                            "title": "School and Family Issues for Children with Ongoing Health Care Needs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SNUR",
+                            "course_number": "92430",
+                            "title": "Methods and Materials in Health Teaching for School Nurses",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SNUR",
+                            "course_number": "92444",
+                            "title": "Practicum in School Nursing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SNUR",
+                            "course_number": "92445",
+                            "title": "Internship in Health Teaching for School Nursing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SNUR",
+                            "course_number": "92466",
+                            "title": "School Health Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08130",
+                            "title": "Disability as Diversity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 27 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 27 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 27 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Post-Baccalaureate in School Nursing Certification is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Nanci Paparo 856-256-4500  ext. 53883 paparo@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

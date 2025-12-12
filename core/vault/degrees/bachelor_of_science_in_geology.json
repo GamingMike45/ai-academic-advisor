@@ -1,0 +1,385 @@
+{
+    "name": "Bachelor of Science in Geology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7264&returnto=1028",
+    "content": {
+        "Bachelor of Science in Geology": [
+            "Bachelor of Science in Geology The Bachelor of Science in Geology is a physical science major composed of foundation courses in biology, chemistry, physics, and mathematics; core courses in geology; and electives in geology, applied geology, or paleontology. The program is designed to prepare students to immediately enter positions in the geoscience workforce in consulting firms or government agencies; pursue professional studies; or undertake graduate studies in geoscience disciplines. The curriculum is designed around the diverse expertise of our faculty. As such, nearly all of our courses are taught by full-time members of the department including professors actively conducting research. This provides our students with hands-on experience from experts in techniques, scientific methodologies, and critical thinking. The expertise of our faculty instills into our students the necessary, diverse perspectives along with a wide knowledge base of many sub-disciplines of geology to successfully continue on to careers that solve the integrated issues facing our state, country, and planet."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 32 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00210",
+                            "title": "Physics I without Calculus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00211",
+                            "title": "Physics II without Calculus (Satisfies Scientific Literacy (SCIL) requirement)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 32 s.h. Courses in this section cannot be in the major department.",
+                "STAT 02260 - Statistics I (Satisfies Quantitative Literacy (QUTL) requirement) Credits: 3",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QUTL) requirement) Credits: 4",
+                "BIOL 01104 - Introduction to Evolution and Scientific Inquiry (Satisfies Scientific Literacy (SCIL) requirement) Credits: 4",
+                "Any Course that satisfies Artistic Literacy (ARTL) Requirement - Credits: 3 Any Course that satisfies Global Literacy (GLBL) Requirement - Credits: 3 Any Course that satisfies Humanistic Literacy (HUML) Requirement - Credits: 3"
+            ]
+        },
+        "Required Courses: 41 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01101",
+                            "title": "Physical Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01102",
+                            "title": "Earth Through Time",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01201",
+                            "title": "Mineralogy and Petrology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01210",
+                            "title": "Invertebrate Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01230",
+                            "title": "Paleoclimatology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01240",
+                            "title": "Introduction to Field Methods in Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01320",
+                            "title": "Sedimentology and Stratigraphy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01340",
+                            "title": "Tectonics and Structural Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01400",
+                            "title": "Practical Experience in Geology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01450",
+                            "title": "Senior Seminar in Geology",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01460",
+                            "title": "Current Research in Geology",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01470",
+                            "title": "Research Experience in Geology",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 41 s.h."
+            ]
+        },
+        "Required Geology Bank Course: 9-12 s.h.": [
+            "Required Geology Bank Course: 9-12 s.h. Students select one 200-level or above course from each of the following each bank below."
+        ],
+        "Global Climate Change": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01430",
+                            "title": "Climate Variability and Diagnostics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01435",
+                            "title": "The Ice Ages and Quaternary Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01331",
+                            "title": "Climate Change and the Cryosphere",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01250",
+                            "title": "Ocean-Atmosphere Interactions",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01131",
+                            "title": "Earth in Transition: The Science of Global Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01133",
+                            "title": "Climate, Catastrophes, Civilizations and Collapses",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01136",
+                            "title": "Water Planet: Exploring the Hydrosphere",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Global Climate Change"
+            ]
+        },
+        "Palentology": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01411",
+                            "title": "Paleoecology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01412",
+                            "title": "Macroevolution in the Fossil Record",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01413",
+                            "title": "Paleobiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01312",
+                            "title": "Dinosaur Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01313",
+                            "title": "Breathing Life into Fossils: The Science of Paleoart",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01410",
+                            "title": "Taphonomy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01310",
+                            "title": "Geological Laboratory Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01311",
+                            "title": "Vertebrate Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01110",
+                            "title": "Dinosaurs and Their World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01111",
+                            "title": "Edelman Fossil Park Experience",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01112",
+                            "title": "Motion of Life",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Palentology"
+            ]
+        },
+        "General Geology": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01455",
+                            "title": "Cosmochemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01421",
+                            "title": "Hydrogeology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01432",
+                            "title": "Tectonic Scale Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01440",
+                            "title": "Geochronology and Thermochronology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01445",
+                            "title": "Glacial Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01321",
+                            "title": "Basin Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01350",
+                            "title": "Advanced Petrology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01353",
+                            "title": "Geochemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01150",
+                            "title": "Voyager: The Exploration of Space",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01301",
+                            "title": "Advanced Field Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01310",
+                            "title": "Geological Laboratory Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01120",
+                            "title": "Earthquakes and Volcanoes",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "General Geology"
+            ]
+        },
+        "Geology Concentration Electives: 12-17 s.h.": [
+            "Geology Concentration Electives: 12-17 s.h. Students select 3-4 courses from one of the following Concentration Areas: Undergraduate Concentration in General Geoscience Undergraduate Concentration in Paleontology Undergraduate Concentration in Global Climate Change: A Geologic Perspective"
+        ],
+        "Free Electives: 9-12 s.h.": [
+            "Free Electives: 9-12 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

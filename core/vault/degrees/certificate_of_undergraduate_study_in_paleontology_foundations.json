@@ -1,0 +1,139 @@
+{
+    "name": "Certificate of Undergraduate Study in Paleontology Foundations",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7267&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Paleontology Foundations": [
+            "Certificate of Undergraduate Study in Paleontology Foundations The Certificate in Undergraduate Study (CUGS) in Paleontology Foundations offers an introduction to Earth history and evolution from the wide array of paleontology courses taught by full-time faculty paleontologists from the Department of Geology. Our program balances practical skills with current theory while emphasizing the importance of field research. Students are immersed in popular science, debates, and new research frontiers. Current and future citizen scientists, geoscience educators and researchers, and career paleontologists will gain a solid foundation in paleontology. Students can explore their passion for paleontology, the Earth, and deep time as preserved in the rock record within our unique program and wide range of course offerings. The range of offerings and options offers flexibility to ensure this CUGS is interesting and useful to students from diverse backgrounds and with varied career goals. This CUGS is open to any matriculated or non-matriculated student with an interest in paleontology from any degree program, including Geology."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required course: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01102",
+                            "title": "Earth Through Time",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required course: 4 s.h."
+            ]
+        },
+        "Students must take ONE of the following courses: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01210",
+                            "title": "Invertebrate Paleontology (with concurrent enrollment allowed)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01311",
+                            "title": "Vertebrate Paleontology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take ONE of the following courses: 4 s.h."
+            ]
+        },
+        "Paleontology Elective Bank: 7-8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01110",
+                            "title": "Dinosaurs and Their World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01111",
+                            "title": "Edelman Fossil Park Experience",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01112",
+                            "title": "Motion of Life",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01210",
+                            "title": "Invertebrate Paleontology (with concurrent enrollment allowed)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01310",
+                            "title": "Geological Laboratory Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01311",
+                            "title": "Vertebrate Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01312",
+                            "title": "Dinosaur Paleontology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01410",
+                            "title": "Taphonomy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01411",
+                            "title": "Paleoecology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01412",
+                            "title": "Macroevolution in the Fossil Record",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01413",
+                            "title": "Paleobiology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Paleontology Elective Bank: 7-8 s.h. Students take two courses from the following Paleontology Elective Bank, with a limit of one 100 level course:"
+            ]
+        },
+        "Total Required Credits for the Program: 15-16 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15-16 s.h. Dr. Harold Connolly Advisor Discovery Hall 226 856.256.5261 connollyh@rowan.edu Dr. Paul Ullmann Faculty Contact Discovery Hall 318 856.256.5247 ullmann@rowan.edu Dr. Kristyn Voegele Discovery Hall 326 856.256.5276 voegele@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

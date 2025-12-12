@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Community College Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7655&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Community College Leadership": [
+            "Certificate of Advanced Graduate Study in Community College Leadership"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27850",
+                            "title": "History and Context of American Community Colleges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27851",
+                            "title": "Community College Governance and Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27852",
+                            "title": "Legal and Administrative Issues in Community Colleges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27853",
+                            "title": "Leadership and Advocacy for Community College Student Success",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The CAGS in Community College Leadership is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information James Coaxum 856.256.4779 coaxum@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

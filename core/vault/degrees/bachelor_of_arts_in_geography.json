@@ -1,0 +1,96 @@
+{
+    "name": "Bachelor of Arts in Geography",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7269&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Geography": [
+            "Bachelor of Arts in Geography The discipline of geography focuses on understanding the world across scales from local to global. It is an integrative science that explores the spatial relationships and functional systems of the natural and human world. The geography major at Rowan maximizes flexibility so that students can design a program of study that meets individual interests and career goals. Geography students complete a common core of 22 s.h. worth of courses and then complete an additional 18+ s.h. of course credit within a specialty area (one of the minors offered in the department)."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Introductory Courses: 6 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Introductory Courses: 6 s.h. Take two of the following courses:",
+                "GEOG 16100 - Earth, People, and the Environment (Satisfies Global Literacy (GLBL) Requirement & Rowan Sem Requirement) Credits: 3",
+                "GEOG 16110 - Cultural Geography (Satisfies Global Literacy (GLBL) Requirement) Credits: 3",
+                "GEOG 16140 - World Regional Geography (Satisfies Global Literacy (GLBL) Requirement) Credits: 3"
+            ]
+        },
+        "Foundational Courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16290",
+                            "title": "History and Methods of Modern Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16390",
+                            "title": "Geography Research Clinic/Studio",
+                            "credits": "1 to 6"
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16490",
+                            "title": "Undergraduate Research Seminar in Geography (Senior Seminar) - WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 16 s.h.",
+                "GEOG 16160 - Digital Earth: Mapping and Geographic Information Science (Satisfies Artistic (ARTL) Literacy Requirement) Credits: 3",
+                "GEOG 16130 - Earth Sciences Laboratory I (Satisfies Scientific Literacy (SCIL) Requirement) Credits: 4"
+            ]
+        },
+        "Geography Program Electives: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16333",
+                            "title": "Suburbia: People, Place, and Politics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Geography Program Electives: 18 s.h. Majors must take 6 additional courses offered within the department selected in consultation with the program coordinator. It is highly recommended that these 6 courses are chosen to fulfill one of the minors in the department."
+            ]
+        },
+        "Free Electives: 53 s.h.": [
+            "Free Electives: 53 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. For information related to this major or minor, please contact: Charles McGlynn, Ph.D. 865.256.4811 mcglynn@rowan.edu Note: Coordinate Education-Geography dual majors must use their 18 s.h. of geography program electives to fulfill the requirements for the Minor in Applied Geographic Knowledge and Skills (see below). Also, Coordinate Education-Geography dual majors can use their student teaching experience in place of GEOG 16390 - Geography Research Clinic/Studio.",
+                "Notes:"
+            ]
+        }
+    }
+}

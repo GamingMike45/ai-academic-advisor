@@ -1,0 +1,199 @@
+{
+    "name": "Minor in Sports Communication & Media",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6997&returnto=1028",
+    "content": {
+        "Minor in Sports Communication & Media": [
+            "Minor in Sports Communication & Media The Minor in Sports Communication & Media provides students with sports-specific training in a variety of fields, including media relations, broadcasting, public relations, journalism, social media, new media, photography, advertising, radio, television, & film. It is an interdisciplinary program within the Ric Edelman College of Communication, Humanities, & Social Sciences. The Minor complements all of the majors within the college and many others across the university."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04223",
+                            "title": "Sports Communication, Culture and Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02210",
+                            "title": "Journalistic Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05350",
+                            "title": "Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03275",
+                            "title": "Introduction to Media Aesthetics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Elective Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04319",
+                            "title": "Organizational Communication in Sports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04395",
+                            "title": "Rhetoric of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04323",
+                            "title": "Images of Athletes in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04333",
+                            "title": "Special Topics in Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02361",
+                            "title": "Sports Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02362",
+                            "title": "Sports Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06306",
+                            "title": "Social Media and Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06307",
+                            "title": "Sports and Entertainment Event Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06308",
+                            "title": "Reputation Management and Crisis in Sports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06309",
+                            "title": "Sports Branding and Fan Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03345",
+                            "title": "Live Event TV and Video Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "01402",
+                            "title": "Special Topics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03396",
+                            "title": "Sports Broadcasting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02326",
+                            "title": "Sports Broadcasting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03397",
+                            "title": "Sports Broadcasting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02327",
+                            "title": "Sports Broadcasting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09201",
+                            "title": "Foundations of Esports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09315",
+                            "title": "Esports Characters and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09316",
+                            "title": "Esports Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09317",
+                            "title": "Esports Streaming and Social Platforms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09318",
+                            "title": "Esports Coverage: Shoutcasting and In-Game Observing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09319",
+                            "title": "Evolution of Esports",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 9 s.h. Choose any three of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. *Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the Banner Course Catalog. To find the catalog entry for the course that you are interested in taking, just click the link. Dr. Emil Steiner Coordinator 6 High Street, Glassboro, NJ 856.256.4049 steiner@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

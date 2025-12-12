@@ -1,0 +1,143 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in English, Master of Science in Teaching",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7469&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in English, Master of Science in Teaching": [
+            "Accelerated Dual Degree: Bachelor of Arts in English, Master of Science in Teaching The Accelerated Dual Degree program in Subject Matter Education for English, Social Studies, Spanish, and Theatre majors offers the unique opportunity for undergraduate Rowan students who desire to pursue a program of study combining a bachelor’s degree (BA) in their discipline, a Master of Science Degree in Teaching (MST), and an initial New Jersey teacher certification. The ADD Program is offered as a full-time, five-year program. Undergraduate students who qualify for admission into the ADD Program may take up to three graduate courses (9 credit hours) that count toward both their BA degree and their MST degree. ADD students pay undergraduate tuition rates for these graduate courses.  In their final year, students will transition to graduate students and take education courses that lead to New Jersey teacher certification and the Master’s degree.  A full-year (fall-spring semesters) of clinical internship (student teaching) is included in the MST year, as required by the State of New Jersey’s Department of Education.  All subject-specific coursework (English, Social Studies, Spanish, or Theatre) and state-mandated prerequisites must be taken prior to admission into the +1 year. Content Area B.A. Requirements Students must major in English to meet the B.A. requirement of this program. Requirements for the Bachelor of Arts in English can be obtained by contacting the program advisors in the College of Humanities and Social Sciences."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in English Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (9 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MST Courses taken as an undergraduate Student: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60552",
+                            "title": "Teaching Content in Diverse Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60553",
+                            "title": "Humanities Teaching Methods I: Creating Supportive Learning Environments",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MST Courses taken as an undergraduate Student: 9 s.h."
+            ]
+        },
+        "Required MST Courses taken as a Graduate Student: 27": [
+            "Required MST Courses taken as a Graduate Student: 27 The Remaining Courses for the Master’s degree are as shown in below"
+        ],
+        "Master of Science in Teaching Requirements: 36 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60560",
+                            "title": "Humanities Teaching Methods II [English, Social Studies or Theatre]",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40512",
+                            "title": "Linguistics and Second Language Acquisition for Teaching Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40515",
+                            "title": "Understanding Immigrant-Origin Students: Language, Culture, and Mobility",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40510",
+                            "title": "Issues of Language and Cultural Diversity in ESL/Bilingual Programs",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60552",
+                            "title": "Teaching Content in Diverse Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60553",
+                            "title": "Humanities Teaching Methods I: Creating Supportive Learning Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60562",
+                            "title": "Clinical Practice I (Fall Field Placement)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "60577",
+                            "title": "Effective Inclusive Instruction in English, Social Studies, Theatre, and World Language Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60561",
+                            "title": "Humanities Teaching Methods III [English, Social Studies, and Theatre]",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60563",
+                            "title": "Clinical Practice II (Spring Field Placement)",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Master of Science in Teaching Requirements: 36 s.h.",
+                "READ 30520 - Adolescent Literacies (for English, Social Studies, and Theatre students) Credits: 3",
+                "SPED 08555 -  Education and Psychology of Students with Disabilities Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 147 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 147 s.h. Graduation/Exit, Benchmark, and/or Thesis Requirements No thesis is required. Contact the Program Coordinator for graduation/exit and benchmark requirements. Minimum Required Grades and Cumulative GPA The Master of Science in Teaching is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Coordinator/Advisor Contact Information Andrea Hawkman, PhD Herman D. James Hall 2068 856-256-4500 x4831 hawkman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

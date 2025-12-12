@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Editing & Publishing for Writers",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7683&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Editing & Publishing for Writers": [
+            "Certificate of Graduate Study in Editing & Publishing for Writers Due to recent changes in the publishing industry (corporate mergers, ever-advancing publishing technologies, radical alterations in traditional book distribution and bookselling) writers are now compelled to be excellent editors and marketers of their own work. Utilizing a curriculum that combines advanced editing and revision of works of the student’s own choice (nonfiction book, YA novel, poetry, articles and essays), along with the hands-on opportunities in classes, students will acquire a necessary understanding of contemporary editing and publishing procedures in a variety of print and digital environments, including periodicals, and digital and book publishing, as well as the discipline and organizational strategies necessary to prepare and submit a variety of types of work for publication."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01557",
+                            "title": "Writing Freelance Features",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01566",
+                            "title": "Editing the Literary Journal",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01567",
+                            "title": "Professions in Publishing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "03520",
+                            "title": "Master of Arts in Writing Internship Credits: 0.5 to 3",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Editing & Publishing for Writers is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Katie Budris Department of Writing Arts Victoria Hall, Room 405 856.256.4858 budris@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

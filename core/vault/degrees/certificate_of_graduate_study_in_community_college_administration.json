@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in Community College Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7652&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Community College Administration": [
+            "Certificate of Graduate Study in Community College Administration The Certificate of Graduate Study (COGS) in Community College Administration is intended for those individuals who wish to increase their knowledge and skills, as well as, those who seek a position specifically within a community college setting. This COGS may be applied toward graduate degree completion (such as the M.A. in Higher Education), but that coursework does not necessarily need to fulfill any specific degree requirements."
+        ],
+        "Program Requirements": [
+            "Program Requirements Earned Bachelor’s degree (or its equivalent) from an accredited institution of higher learning. Minimum undergraduate GPA of 2.75 (on a 4.0 scale). Official transcripts from all colleges attended (regardless of number of credits earned)."
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27851",
+                            "title": "Community College Governance and Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27853",
+                            "title": "Leadership and Advocacy for Community College Student Success",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06626",
+                            "title": "Crisis Management in Higher Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. The Community College Administration Certificate of Graduate Study is a 9-semester hour program. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA All matriculated and graduate students are expected to maintain satisfactory academic progress each term of enrollment. To maintain satisfactory academic progress and to successfully complete this Certificate, students must: Earn no more than two total “C” grades; Must repeat any course in which the grade received is lower than “C”; and, Earn an official cumulative GPA (according to matriculation level) of at least 3.000 on Rowan’s 4.000 scale. In accordance with university policies, courses can only be repeated once without special permission from the department chair. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Tyrone W. McCombs, Ph.D. James Hall 3019 856.256.4500 x 53666 mccombst@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

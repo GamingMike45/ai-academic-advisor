@@ -1,0 +1,269 @@
+{
+    "name": "Master of Science in Pharmaceutical Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7529&returnto=1028",
+    "content": {
+        "Master of Science in Pharmaceutical Sciences": [
+            "Master of Science in Pharmaceutical Sciences Pharmaceutical Sciences is a highly interdisciplinary field that involves the integration of concepts from organic chemistry, biochemistry, physiology, pharmacology, and molecular biology for the design and synthesis of drugs as well as for understanding the mechanism of drug action. Some of the primary goals of pharmaceutical sciences involve the discovery and development of novel drugs, efficient use of existing drugs, and lowering the cost of therapy employing cheaper protocols for manufacturing the drugs. The Master of Science (M.S.) in Pharmaceutical Sciences will provide the students with a solid foundation in basic chemistry and its applications in pharmaceutical sciences especially in the areas of research and development. Students will graduate with the necessary knowledge, skill sets, and training to effectively contribute to the development and characterization of new therapies for human disease and will be prepared for a career in pharmaceutical or biomedical research. Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined below. Thesis Track: The thesis track is for students who desire to perform research as part of their graduate education. Thesis Track students enroll in 25 s.h. of core courses (including 9 s.h. of research) and 6 s.h. of restricted electives. These students must enroll full-time. This track is a Fellows-Eligible program and the students are considered for a Graduate Fellowship award. Non-Thesis Track: Non-Thesis Track students enroll in 16 s.h. of core courses and 15 s.h. of restricted electives. These students may enroll either part-time or full-time."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Thesis Track": [
+            "Thesis Track"
+        ],
+        "Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07564",
+                            "title": "Advanced Organic Synthesis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07560",
+                            "title": "Advanced Biochemistry Lecture",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08510",
+                            "title": "Advanced Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09522",
+                            "title": "Advanced Bioanalytical Chemistry",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07592",
+                            "title": "Advanced Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07590",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 12 s.h."
+            ]
+        },
+        "Laboratory/Research Courses: 19 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09592",
+                            "title": "Pharmaceutical Techniques I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09596",
+                            "title": "MS Thesis Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05550",
+                            "title": "Advanced Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Laboratory/Research Courses: 19 s.h. Students will take a combined 18 s.h. of both CHEM 09592 - Pharmaceutical Techniques I and CHEM 09596 - MS Thesis Research I."
+            ]
+        },
+        "Non-Thesis Track": [
+            "Non-Thesis Track"
+        ],
+        "Core Courses: 13 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07592",
+                            "title": "Advanced Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07590",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07564",
+                            "title": "Advanced Organic Synthesis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07560",
+                            "title": "Advanced Biochemistry Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05550",
+                            "title": "Advanced Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 13 s.h."
+            ]
+        },
+        "Restricted Electives: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06500",
+                            "title": "Modern Inorganic Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06501",
+                            "title": "Modern Inorganic Chemistry Laboratory",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07557",
+                            "title": "Chemical Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07561",
+                            "title": "Advanced Biochemistry Laboratory",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07568",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07570",
+                            "title": "Organic Spectroscopy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07565",
+                            "title": "Organic Reactions And Mechanisms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07572",
+                            "title": "Advanced Organometallic Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07593",
+                            "title": "Regulatory Affairs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07512",
+                            "title": "Antibiotics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07594",
+                            "title": "Good Laboratory Practice (GLP)/Good Manufacturing Practice (GMP) Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08510",
+                            "title": "Advanced Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09520",
+                            "title": "Advanced Supramolecular Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09592",
+                            "title": "Pharmaceutical Techniques I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "06502",
+                            "title": "Responsible Conduct, Rigor, and Reproducibility in Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05530",
+                            "title": "Special Topics in Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07531",
+                            "title": "Special Topics in Biochemistry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 18 s.h. Choose 18 s.h. from the following list, chosen in consulation with the research advisor."
+            ]
+        },
+        "Total Required Credits for the Program: 31 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 31 s.h. Foundation Courses Applicants must have successfully completed the following courses at an accredited institution prior to enrolling: 2 semesters of General Chemistry, and 2 semesters of Organic Chemistry. Additionally, it is recommended that students have taken as part of their undergraduate coursework: Physical Chemistry, Inorganic Chemistry, Analytical Chemistry, and Biochemistry. Graduation/Exit, Benchmark, and/or Thesis Requirements If thesis track is chosen, students must successfully complete and defend a Master’s Thesis based on the original research performed under the guidance of their Graduate Research Advisor. Minimum Required Grades and Cumulative GPA The Master of Science in Pharmaceutical Sciences is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Contact Information Subash Jonnalagadda 856.256.5452 mspharma@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

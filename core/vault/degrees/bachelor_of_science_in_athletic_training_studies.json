@@ -1,0 +1,220 @@
+{
+    "name": "Bachelor of Science in Athletic Training Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7290&returnto=1028",
+    "content": {
+        "Bachelor of Science in Athletic Training Studies": [
+            "Bachelor of Science in Athletic Training Studies The Bachelor of Science in Athletic Training Studies (BSATS) is designed for a dual purpose: 1) to enable students to successfully complete the Master of Science in Athletic Training; 2) allow students to apply to another allied healthcare professional school (i.e., PT, OT, etc.) or athletic training program within or outside the state should they either choose not to, or cannot complete the MSAT requirements. Hence, students who choose not to finish or cannot complete the MSAT requirement will be able to graduate within their original graduation timeline. This degree will also be awarded en route to completing the MSAT for students successfully completing all academic requirements. The BSATS will not be available to incoming freshmen . Freshman students will apply to the Pre-Athletic Training Curriculum when applying to Rowan University. The first three years of the BS in Athletic Training Studies will match up with the Pre-Athletic Training Curriculum. In the spring of the 3rd year, eligible students can apply to the Athletic Training Program. Those who are accepted will begin taking graduate-level courses in the summer after their junior year. Those not accepted to the Athletic Training Program will need to either change their major to Exercise Science or reapply to the Athletic Training Program one year later during the scheduled application cycle. The BSATS will only be available to those students who are unable to continue in the Athletic Training Program or choose not to continue in the Athletic Training program once they have been accepted. Please see the Master of Science in Athletic Training course sequence for more information. Students must earn a grade of at least a C in each course under Non-program and Program requirements to be eligible to apply to the Master of Science in Athletic Training. Students must also maintain a 3.0 overall and major GPA to be eligible to apply to the MSAT. Students not accepted into the MSAT are required to maintain a 2.0 overall GPA to graduate with a BS in Athletic Training Studies."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Requirement (29 s.h.)": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00150",
+                            "title": "Physics of Everyday Life",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00210",
+                            "title": "Physics I without Calculus",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10210",
+                            "title": "Human Anatomy and Physiology I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10212",
+                            "title": "Human Anatomy and Physiology II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Requirement (29 s.h.)",
+                "Writing Intensive Course/Choice"
+            ]
+        },
+        "Required Courses (34 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ATR",
+                            "course_number": "00105",
+                            "title": "Introduction to Healthcare in Sports Medicine",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ATR",
+                            "course_number": "00210",
+                            "title": "Foundations in Sports Medicine I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ATR",
+                            "course_number": "00339",
+                            "title": "Foundations in Sports Medicine II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ATR",
+                            "course_number": "00340",
+                            "title": "Foundations in Sports Medicine III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00349",
+                            "title": "Exercise Physiology for the Health Care Professions",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00401",
+                            "title": "Exercise Prescription",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00346",
+                            "title": "Introduction to Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ATR",
+                            "course_number": "00347",
+                            "title": "Applied Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00200",
+                            "title": "Basic Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00415",
+                            "title": "Nutrition for Fitness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02331",
+                            "title": "Applied Statistical Analysis in Healthcare Professions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses (34 s.h.)"
+            ]
+        },
+        "BSATS required courses for students not continuing to MSAT (15 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HES",
+                            "course_number": "00348",
+                            "title": "Human Disease and Epidemiology in Health and Exercise Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00370",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00355",
+                            "title": "Research Methods in Health Professions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00371",
+                            "title": "Social Psychology of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00412",
+                            "title": "Exercise for Special Populations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "BSATS required courses for students not continuing to MSAT (15 s.h.) Students who are not accepted into the Master of Science in Athletic Training (MSAT) Program will be advised to change their major to Exercise Science. The BSATS degree is for those students who have been suspended from or have decided not to continue in the MSAT. For these students, the courses listed below must also be taken. For those continuing into the MSAT, the 4th-year graduate courses will fulfill the BS in Athletic Training Studies requirements."
+            ]
+        },
+        "Free Electives: 27 s.h.": [
+            "Free Electives: 27 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Robert L. Sterner Program Director Herman D. James Hall 856.256.4500 ext. 53767 sterner@rowan.edu Laurie Dwyer Advisor Herman D. James Hall 856.256.5835 dwyer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "name": "Educational Specialist in School Psychology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7662&returnto=1028",
+    "content": {
+        "Educational Specialist in School Psychology": [
+            "Educational Specialist in School Psychology The Educational Specialist is an advanced degree that enables the candidate to develop practitioner expertise in psychological, educational, professional and related areas. Candidates hone skills in assessment, consultation, counseling and intervention to prepare to work with children and adolescents, parents, guardians, teacher and other educational professionals in a school setting. To earn the Educational Specialist degree, a candidate must complete all courses, a school-based 300 hour practicum, and a school-based 1200-hour externship/internship. Upon completion of the Educational Specialist degree, candidates are eligible for New Jersey Department of Education certification as a school psychologist. Rowan University Educational Specialist graduates may also apply to become a Nationally Certified School Psychologist (NCSP). Rowan University’s School Psychology program is an approved program by the National Association of School Psychology (NASP)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 39 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SPSY",
+                            "course_number": "22623",
+                            "title": "Internship in School Psychology *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "22634",
+                            "title": "Internship in School Psychology *",
+                            "credits": 6
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "METL",
+                            "course_number": "50512",
+                            "title": "Curriculum Development for Teacher Leaders and Other School Professionals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28546",
+                            "title": "Educational Organizations and Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "06627",
+                            "title": "Cognitive Assessment and Data-Based Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "06628",
+                            "title": "Psychoeducational Assessment and Data-Based Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "06629",
+                            "title": "Behavioral-Social Assessment and Data-Based Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "06632",
+                            "title": "School Psychology: Consultation, Collaboration and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "08545",
+                            "title": "Home/School/Community Collaboration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "08547",
+                            "title": "Professional School Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPSY",
+                            "course_number": "22630",
+                            "title": "Practicum in School Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 39 s.h."
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Students should take two 6 s.h. SPSY 22623 - Internship In School Psychology courses or four 3 s.h. SPSY 22634 - Internship In School Psychology courses."
+            ]
+        },
+        "Total Required Credits for the Program: 39 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 39 s.h. Foundation Courses Those graduate students completing the Master of Arts in School Psychology at Rowan University do not need to complete the following when applying for the Educational Specialist in School Psychology: a) statement of personal objectives; b) letters of recommendation; c) interview; d) on-site writing sample or; e) pay the application fee. Graduation/Exit, Benchmark, and/or Thesis Requirements Practicum Portfolio and Internship Portfolio Minimum Required Grades and Cumulative GPA The Educational Specialist in School Psychology is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Barbara Bole Williams, Ph.D. Herman D. James Hall 856.256.4500, ext.53804 williamsb@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

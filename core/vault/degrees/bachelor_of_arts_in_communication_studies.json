@@ -1,0 +1,124 @@
+{
+    "name": "Bachelor of Arts in Communication Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6990&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Communication Studies": [
+            "Bachelor of Arts in Communication Studies"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 21 s.h.": [
+            "Non-Program Courses: 21 s.h. Courses in this section must not be major courses. Courses in this section may satisfy Rowan Core requirements. Any Psychology (PSY) Rowan Core course Any Sociology (SOC) Rowan Core course Any Economics (ECON) or Political Science (POSC) Rowan Core course Any History (HIST) Rowan Core course Any Philosophy (PHIL) Rowan Core course Any English (ENGL) Rowan Core course Any Scientific (SCIL) Rowan Core course"
+        ],
+        "Foundational Course Requirements: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04200",
+                            "title": "Introduction to Communication Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04250",
+                            "title": "Communication Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Course Requirements: 6 s.h. (Must be completed with grades no lower than a C-)"
+            ]
+        },
+        "Analytical Course Requirements: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04350",
+                            "title": "Communication Studies Research Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04390",
+                            "title": "Rhetorical Criticism",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Analytical Course Requirements: 7 s.h. (Must be completed with grades no lower than a C-)"
+            ]
+        },
+        "Application/Capstone Course Requirements: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04425",
+                            "title": "Ethical Issues in Human Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04450",
+                            "title": "Seminar in Communication Studies - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04455",
+                            "title": "Senior Transition",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Application/Capstone Course Requirements: 7 s.h. (Must be completed with grades no lower than a C-)"
+            ]
+        },
+        "Communication Studies Concentration: 12 s.h.": [
+            "Communication Studies Concentration: 12 s.h. Students must complete one of the following concentrations (12 s.h.). (Must be completed with grades no lower than a C-) Undergraduate Concentration in Rhetoric & Cultural Criticism Undergraduate Concentration in Interpersonal & Organizational Communication"
+        ],
+        "Cross-Concentrations Elective: 3 s.h.": [
+            "Cross-Concentrations Elective: 3 s.h. Each student will select and complete one course from the emphasis area in which they are NOT specializing in (with a grade no lower than a C-)."
+        ],
+        "Related Electives: 6 s.h.": [
+            "Related Electives: 6 s.h. Each student must select 2 courses related to the major. These can be any courses offered by the Department of Communication Studies (not counting those that have been used to fulfill the requirements listed above) or any relevant courses offered in the Ric Edelman College of Communication, Humanities, & Social Sciences, chosen in concert with the student’s academic advisor."
+        ],
+        "Free Electives: 49 s.h.": [
+            "Free Electives: 49 s.h. To graduate, students must have a C- or better in core, concentration and cross-concentration courses and a 2.0 overall."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

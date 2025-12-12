@@ -1,0 +1,273 @@
+{
+    "name": "Master of Science in Cybersecurity",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7534&returnto=1028",
+    "content": {
+        "Master of Science in Cybersecurity": [
+            "Master of Science in Cybersecurity The Master of Science in Cybersecurity will prepare students with the knowledge and skills needed to understand key issues along with present and emerging cyber threats to information systems, develop graduates with a sufficiently broad and strong technical foundation to understand and analyze cybersecurity vulnerabilities and protections and prepare students for specialized cybersecurity careers. Rowan University undergraduates majoring in the Bachelor of Arts in Computing & Informatics program may apply to the Accelerated Dual Degree (ADD) program, which allows them to earn both the Bachelor of Arts and Master of Science degrees in five years instead of six. The M.S. in Cybersecurity is a 31-credit-hour program. All students must complete 6 credits of foundation courses (2 courses) and 13 credits of core courses (5 courses). Students may complete this degree within 1 ½ to 2 years of study."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 30 s.h.": [
+            "Required Courses: 30 s.h."
+        ],
+        "Foundation Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01501",
+                            "title": "Essentials of Computer Science I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01502",
+                            "title": "Essentials of Computer Science II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundation Courses: 6 s.h."
+            ]
+        },
+        "Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "00500",
+                            "title": "Computer Science Graduate Seminar",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03500",
+                            "title": "Foundations of Cybersecurity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03506",
+                            "title": "Cybersecurity Management, Policy, and Risk",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03570",
+                            "title": "Cyber Defense of Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09510",
+                            "title": "Computer Networks",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 12 s.h."
+            ]
+        },
+        "Business Skills for IT Professionals: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01547",
+                            "title": "Graduate Strategic Writing",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00652",
+                            "title": "Continuity of Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01556",
+                            "title": "Organizational Public Relations Management and Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01559",
+                            "title": "Strategic Public Affairs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01561",
+                            "title": "Graduate Strategic Writing II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01568",
+                            "title": "Graduate Strategic Visual Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "06515",
+                            "title": "Online Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06521",
+                            "title": "Leadership Theory and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07600",
+                            "title": "Predictive Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02530",
+                            "title": "Information Security for Managers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Skills for IT Professionals: 6 s.h."
+            ]
+        },
+        "Cybersecurity Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03551",
+                            "title": "Advanced Cyber Security: Principles and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03552",
+                            "title": "Graduate Digital Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03580",
+                            "title": "Cloud Computing and the Internet of Things",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03695",
+                            "title": "Advanced Topics in Cybersecurity",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07652",
+                            "title": "Cryptographic Algorithms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09605",
+                            "title": "Wireless Networks and Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09612",
+                            "title": "Network Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09675",
+                            "title": "TCP/IP and Internet Protocols and Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00531",
+                            "title": "Cyber Security Risk Analysis in Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00572",
+                            "title": "Cyberthreat Intelligence and Response Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00617",
+                            "title": "Critical Infrastructure and Cyberdefense",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00651",
+                            "title": "Foundations of Global Threats, Risks and Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00652",
+                            "title": "Continuity of Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00655",
+                            "title": "Threat Assessment in Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09515",
+                            "title": "Law and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02530",
+                            "title": "Information Security for Managers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Cybersecurity Electives: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Note: Any graduate course taken outside of Rowan-CS must be approved prior to registration by the Cybersecurity Graduate Program Committee. Such an approval is on an individual basis. The interested student must submit in writing to the Cybersecurity Graduate Program Coordinator an explanation as to why they are interested in the course and how the course addresses one or more of the goals of the MS in Cybersecurity program. The student can expect a response from the Graduate Committee within 10 business days. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The Master of Science in Cybersecurity is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Fred Stinchcombe Robinson Hall, Room 328I stinchcombe@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

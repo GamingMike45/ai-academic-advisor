@@ -1,0 +1,622 @@
+{
+    "name": "Bachelor of Science in Psychological Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7251&returnto=1028",
+    "content": {
+        "Bachelor of Science in Psychological Science": [
+            "Bachelor of Science in Psychological Science"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09120",
+                            "title": "Introduction to Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09121",
+                            "title": "Introduction to Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09211",
+                            "title": "Ancient Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09213",
+                            "title": "Modern Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09368",
+                            "title": "Philosophy of Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09326",
+                            "title": "Philosophy of Mind",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01113",
+                            "title": "General Biology: Human Focus",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h.",
+                "Then take 12 more s.h. of Non-Program courses."
+            ]
+        },
+        "Foundational Courses: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01199",
+                            "title": "Navigating Psychology",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02300",
+                            "title": "Psychology as a Profession and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01499",
+                            "title": "Psychology Senior Capstone",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 8 s.h.",
+                "PSY 01107 - Essentials of Psychology (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3"
+            ]
+        },
+        "Research Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01301",
+                            "title": "Psychology of Scientific Thinking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07301",
+                            "title": "Statistics in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07400",
+                            "title": "Advanced Statistics in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07303",
+                            "title": "Research Methods in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01426",
+                            "title": "Research Experience in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01420",
+                            "title": "Advanced Research I-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01421",
+                            "title": "Advanced Research II-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Research Courses: 21 s.h."
+            ]
+        },
+        "Fundamental Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "09209",
+                            "title": "Child and Adolescent Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09218",
+                            "title": "Lifespan Development",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01230",
+                            "title": "Psychology of Personality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05206",
+                            "title": "Social Psychology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "03200",
+                            "title": "Psychological Disorders",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09305",
+                            "title": "Developmental Psychopathology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01105",
+                            "title": "The Psychology of Ethnic Identity and Community In America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01200",
+                            "title": "Psychology of Women and Cultural Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01235",
+                            "title": "African American Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01310",
+                            "title": "Psychology of Racism and Ethnocentrism: Causes, Development, Consequences, Solutions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01423",
+                            "title": "Seminar in Psychology: Topics (DEI Topic)",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01327",
+                            "title": "Cognitive Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02310",
+                            "title": "Learning and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01326",
+                            "title": "Perception",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10315",
+                            "title": "Physiological Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Fundamental Courses: 24 s.h."
+            ]
+        },
+        "Psychology Electives Bank: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Psychology Electives Bank: 12 s.h. Choose 12 s.h. from any Psychology course EXCEPT PSY 09210 Adolescent Development."
+            ]
+        },
+        "Specialized Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "00371",
+                            "title": "Social Psychology of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01105",
+                            "title": "The Psychology of Ethnic Identity and Community In America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01200",
+                            "title": "Psychology of Women and Cultural Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01230",
+                            "title": "Psychology of Personality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01235",
+                            "title": "African American Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01305",
+                            "title": "Psychology and Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01310",
+                            "title": "Psychology of Racism and Ethnocentrism: Causes, Development, Consequences, Solutions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01329",
+                            "title": "Health Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01331",
+                            "title": "Occupational Health Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01336",
+                            "title": "Positive Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01423",
+                            "title": "Seminar in Psychology: Topics",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01424",
+                            "title": "Professional Issues in Applied Behavior Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01429",
+                            "title": "History and Systems in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02200",
+                            "title": "Essential Skills for Behavior Technicians",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02305",
+                            "title": "Applied Behavior Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02320",
+                            "title": "Single-Subject Research Methodology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02325",
+                            "title": "Functional Behavior Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03200",
+                            "title": "Psychological Disorders",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03403",
+                            "title": "Introduction to Clinical Skills in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03320",
+                            "title": "Introduction to Clinical and Counseling Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03400",
+                            "title": "Motivational Interviewing Processes in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05205",
+                            "title": "Environmental Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05206",
+                            "title": "Social Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05310",
+                            "title": "Psychology of Human Sexuality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05320",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05402",
+                            "title": "Psychology of Conflict and Conflict Resolution",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05410",
+                            "title": "Community Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "06300",
+                            "title": "Psychological Tests and Measurements",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07300",
+                            "title": "Psychology Learning Assistant Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07400",
+                            "title": "Advanced Statistics in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "08215",
+                            "title": "Consumer Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "08220",
+                            "title": "Personnel Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "08310",
+                            "title": "Industrial/Organizational Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09209",
+                            "title": "Child and Adolescent Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09218",
+                            "title": "Lifespan Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09305",
+                            "title": "Developmental Psychopathology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09400",
+                            "title": "Introduction to Human Factors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10375",
+                            "title": "Drugs, the Brain, and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10385",
+                            "title": "European Research Methods in Neuroscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10415",
+                            "title": "Neuroplasticity and Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10425",
+                            "title": "Hormones, the Brain, and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10480",
+                            "title": "Cognitive Neuroscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "22215",
+                            "title": "Educational Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Specialized Courses"
+            ]
+        },
+        "Independent Study, Research, and Field Experience": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01419",
+                            "title": "Independent Study in Psychology Credits: .5 TO 6",
+                            "credits": null
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01422",
+                            "title": "Field Experiences in Psychology",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01425",
+                            "title": "Fieldwork in Applied Behavior Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01426",
+                            "title": "Research Experience in Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Independent Study, Research, and Field Experience"
+            ]
+        },
+        "Free Electives: 24 s.h.": [
+            "Free Electives: 24 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Available Concentrations": [
+            "Available Concentrations Undergraduate Concentration in Behavioral Neuroscience Undergraduate Concentration in Child Behavioral Services"
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Dr. Eve Sledjeski Undergraduate Program Director Department of Psychology Robinson Hall 856.256.4870 For general questions please contact psych@rowan.edu. For advising questions contact psychadvising@rowan.edu.",
+                "Notes:"
+            ]
+        }
+    }
+}

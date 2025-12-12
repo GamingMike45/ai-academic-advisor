@@ -1,0 +1,121 @@
+{
+    "name": "Certificate of Undergraduate Study in Foundations of Geographic Information Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7286&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Foundations of Geographic Information Science": [
+            "Certificate of Undergraduate Study in Foundations of Geographic Information Science"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 7 s.h. The requirements include the following courses:"
+            ]
+        },
+        "Geospatial Bank Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16261",
+                            "title": "Cartography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16350",
+                            "title": "Quantitative and Qualitative Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16361",
+                            "title": "Geovisualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16370",
+                            "title": "Drones, Planes, and Satellites",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16462",
+                            "title": "Web-Based GIS Mapping",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Geospatial Bank Courses: 3 s.h. In consultation with an advisor, students choose one of the courses in the Foundational section of the Department of Geography, Planning, and Environment Geospatial Bank courses (3 s.h.), for example:"
+            ]
+        },
+        "Geography, Planning, & Sustainability Course Banks: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16100",
+                            "title": "Earth, People, and the Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31280",
+                            "title": "Introduction to City Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Geography, Planning, & Sustainability Course Banks: 3 s.h. And choose one of the Geospatial, Planning, and Sustainability Foundational Course"
+            ]
+        },
+        "Total Required Credits for the Program: 13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 13 s.h. To be awarded the CUGS in GIS, students must complete all courses required for the CUGS in GIS with at least a 2.0 average. This CUGS is available to students not enrolled in the Bachelor of Science in GIS and BS GIS Minor programs. For information related to this major or minor, please contact: Ashley York, Ph.D., Coordinator Discovery Hall 856.256.4810 yorka@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

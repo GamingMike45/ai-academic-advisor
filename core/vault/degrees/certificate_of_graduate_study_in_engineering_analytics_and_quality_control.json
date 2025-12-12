@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Engineering Analytics & Quality Control",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7685&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Engineering Analytics & Quality Control": [
+            "Certificate of Graduate Study in Engineering Analytics & Quality Control The Certificate of Graduate Study (COGS) in Engineering Analytics & Quality Control is a program designed to prepare students to be industry-ready contributors in any process engineering quality assessment, improvement, and control function. Completion of the certificate will enhance participants’ marketability and ease their entry into graduate engineering programs. The courses in this certificate are also available to students who would like to complete a master’s degree in engineering management (M.E.M.)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06577",
+                            "title": "Advanced Engineering Process Analysis and Experimental Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06640",
+                            "title": "Engineering Process Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06641",
+                            "title": "Engineering Statistical Process Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06642",
+                            "title": "Quality Control Methods and Metrics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Engineering Analytics & Quality Control is a Category 2 program. Under this program, the student must earn no grades lower than a B- and must achieve a cumulative grade point average (GPA) of at least 3.0 out of 4.0. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Graduate Program Chair Kirti Yenkie Henry M. Rowan Hall 856.256.5375 yenkie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

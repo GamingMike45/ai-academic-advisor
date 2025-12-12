@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Undergraduate Study in Blockchain Technologies & Cryptocurrencies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7219&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Blockchain Technologies & Cryptocurrencies": [
+            "Certificate of Undergraduate Study in Blockchain Technologies & Cryptocurrencies The Certificate of Undergraduate Study (CUGS) in Blockchain Technologies & Cryptocurrencies is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. The educational goals of this CUGS is to provide students with experience with basic programming (e.g., Python), cryptographic techniques used in blockchain technologies, blockchain programming, and the applications of blockchain."
+        ],
+        "Program Requirements": [
+            "Program Requirements Students seeking this CUGS will be required to complete the four courses listed below. This CUGS is available to all majors except Computer Science and Computing & Informatics. No previous experience or knowledge of blockchain technologies is required."
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving (no prereqs; Python language strongly recommended)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "01301",
+                            "title": "Blockchain Applications (requires Junior standing)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10250",
+                            "title": "Cryptography and Blockchain Essentials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04350",
+                            "title": "Blockchain Programming * (requires CS 10250 - Cryptography and Blockchain Essentials)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses The following four 3-credit courses will be required to complete this CUGS:"
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *the fourth class serves as a capstone class. It requires completion of two Computer Science courses - one in Cryptography and one in Programming. The interdisciplinary course INTR 01301 - Blockchain Applications, while not required as a prerequisite, is strongly recommended to be completed before the Blockchain Programming class."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Ning Wang Coordinator Robinson Hall 856.256.4805 wangn@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

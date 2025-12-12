@@ -1,0 +1,67 @@
+{
+    "name": "Certificate of Undergraduate Study in Environmental Humanities",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7284&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Environmental Humanities": [
+            "Certificate of Undergraduate Study in Environmental Humanities This CUGS in Environmental Humanities introduces students to the methods of the Humanities to interrogate the human contexts of environmental issues, which are crucial for effectively applying STEM findings and developments in complex cultural worlds. At the same time, this program offers students in the Humanities opportunities to explore how the critical thinking and communication skills they have developed might be applied to other fields and career paths."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENST",
+                            "course_number": "94301",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94302",
+                            "title": "Technology and the Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10331",
+                            "title": "Spirituality and Nature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02123",
+                            "title": "Topics in Literature (“Literature & the Environment” sections only)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16308",
+                            "title": "Sensing the Sustainable City",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01325",
+                            "title": "Scientific Writing and Rhetoric",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: Take any four of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. For information related to this program, please contact: Richard Federman 856.256.4811 federmanr@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

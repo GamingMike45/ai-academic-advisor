@@ -1,0 +1,67 @@
+{
+    "name": "Certificate of Undergraduate Study in Sports Media",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6998&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Sports Media": [
+            "Certificate of Undergraduate Study in Sports Media The Certificate of Undergraduate Study (CUGS) in Sports Media provides students with practical experience in sports-related reporting, interviewing, writing, digital media production, and audio and video broadcasting techniques. Students will explore current issues in sports and society, cover local high school and Rowan University sports teams, and gain experience in the college radio station and television studio. Students will also produce a portfolio of sports media work, which is essential to obtaining an internship or employment in the field."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02361",
+                            "title": "Sports Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02326",
+                            "title": "Sports Broadcasting I (cross-listed)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03396",
+                            "title": "Sports Broadcasting I (cross-listed)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02362",
+                            "title": "Sports Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02327",
+                            "title": "Sports Broadcasting II (cross-listed)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03397",
+                            "title": "Sports Broadcasting II (cross-listed)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. The CUGS in Sports Media is available to all students with 45 credits. Majors in Radio, Television, and Film and Journalism can only take two of the CUGS courses within their major. Academic advisors for Journalism and RTF Departments will ensure that students in those majors sign up for the appropriate section of the cross listed courses. Students must complete all courses required for the CUGS in Sports Media with at least a 2.0 GPA. Dr. Emil Steiner Coordinator 6 East High Street, Glassboro, NJ 856.256.4049 steiner@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

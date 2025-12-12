@@ -1,0 +1,118 @@
+{
+    "name": "Certificate of Undergraduate Study in Game Media Design",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7433&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Game Media Design": [
+            "Certificate of Undergraduate Study in Game Media Design The Certificate of Undergraduate Study (CUGS) in Game Media Design is an interdisciplinary certificate about the concept of play, outcomes, and ideas through the design of rules, characters, game mechanics, environments, and specific narratives. The goal is to engage your audience in various unique interactive experiences."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09453",
+                            "title": "Introduction to Game Media Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09453",
+                            "title": "Introduction to Game Media Design",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03393",
+                            "title": "Screenwriting I: Writing the Short - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09360",
+                            "title": "Storyboarding & Animation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09360",
+                            "title": "Storyboarding and Animation",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ADV",
+                            "course_number": "04370",
+                            "title": "Essentials of Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40331",
+                            "title": "Game Audio",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose two of the following electives"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. The CUGS in Game Media Design is available to all non-matriculated and matriculated students. Students must complete all courses required for the CUGS in Game Media Design with at least a 2.0 GPA. Professor Amanda Almon Game Media Design Coordinator almon@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

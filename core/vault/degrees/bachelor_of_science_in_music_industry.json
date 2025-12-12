@@ -1,0 +1,230 @@
+{
+    "name": "Bachelor of Science in Music Industry",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7078&returnto=1028",
+    "content": {
+        "Bachelor of Science in Music Industry": [
+            "Bachelor of Science in Music Industry"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02210",
+                            "title": "Journalistic Writing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h."
+            ]
+        },
+        "Foundational Courses: 34 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "97102",
+                            "title": "Piano I for Non-Music Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "97229",
+                            "title": "Guitar Class I",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "40111",
+                            "title": "Business of Music I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40121",
+                            "title": "Audio Recording I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04118",
+                            "title": "Music Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40113",
+                            "title": "Business of Music II *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40122",
+                            "title": "Computer Technology and Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04190",
+                            "title": "Music Composition and Theory for Media I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40202",
+                            "title": "Introduction to Music Performance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40223",
+                            "title": "Survey of Record Production",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 34 s.h.",
+                "MUS 40201 - History of Popular Music (Satisfies Artistic (ARTL) Literacy Requirement) Credits: 3"
+            ]
+        },
+        "Mid-Level Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06426",
+                            "title": "New Venture Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03405",
+                            "title": "Foundations of Accounting",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "40211",
+                            "title": "Music Industry Internship I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06342",
+                            "title": "Financing and Legal Aspects of Entrepreneurship *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04290",
+                            "title": "Music Composition and Theory for Media II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-Level Courses: 21 s.h.",
+                "or Music Elective - Any course with a MUS or MUSG prefix Credits: 3 Music Elective - Any course with a MUS or MUSG prefix Credits: 3 Music Elective - Any course with a MUS or MUSG prefix Credits: 3 Music Elective - Any course with a MUS or MUSG prefix Credits: 3"
+            ]
+        },
+        "Upper-Level Courses: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "40412",
+                            "title": "Capstone Project in Music Industry I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40413",
+                            "title": "Capstone Project in Music Industry II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40311",
+                            "title": "Music Industry Internship II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-Level Courses: 8 s.h.",
+                "Music Elective - Any course with a MUS or MUSG prefix Credits: 3"
+            ]
+        },
+        "Music Industry Concentration: 15 s.h.": [
+            "Music Industry Concentration: 15 s.h. Students will take all 15 s.h. in one of the following concentrations: Undergraduate Concentration in Music Business or Undergraduate Concentration in Music Technology"
+        ],
+        "Free Electives: 15 s.h.": [
+            "Free Electives: 15 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. * Required to declare the Entrepreneurship Minor. For more information, see Minor in Entrepreneurship. Alexandria Funkhouser, MA Senior Academic Advisor 856.256.5183 daniels@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

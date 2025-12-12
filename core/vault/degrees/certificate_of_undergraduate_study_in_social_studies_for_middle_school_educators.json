@@ -1,0 +1,97 @@
+{
+    "name": "Certificate of Undergraduate Study in Social Studies for Middle School Educators",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6956&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Social Studies for Middle School Educators": [
+            "Certificate of Undergraduate Study in Social Studies for Middle School Educators The Certificate of Undergraduate Study (CUGS) in Social Studies for Middle School Educators is a sequence of courses designed to prepare students for the Middle School Social Studies PRAXIS and to teach social studies content for Middle School curriculum. The curriculum has four core courses in history, government and American Studies, and then allows students to expand their knowledge to one other elective social studies course."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following five courses:"
+        ],
+        "Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05150",
+                            "title": "United States to 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05120",
+                            "title": "World History since 1500",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07110",
+                            "title": "American Government",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "AMST",
+                            "course_number": "13320",
+                            "title": "American Studies in the Classroom-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 12 s.h. Students must take these four courses."
+            ]
+        },
+        "Elective Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04101",
+                            "title": "An Introduction to Economics-A Macroeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05151",
+                            "title": "United States since 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05100",
+                            "title": "The West in the World to 1600",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05101",
+                            "title": "The West in the World since 1600",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Course: 3 s.h. Students may elect one of the following courses"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Emily Blanck Advisor Robinson Hall 856.256.4500 x5399 blancke@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Master of Science in Complex Biological Systems",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7519&returnto=1028",
+    "content": {
+        "Master of Science in Complex Biological Systems": [
+            "Master of Science in Complex Biological Systems Modern societal challenges in biological sciences are complex and transcend scale; they also rapidly evolve. Solutions to complex biological problems require multi level understanding, from molecular and atomic levels to populations and ecosystems, technologies that operate across these scales, and teams that cover all scales. The Complex Biological Systems M.S. program is use-oriented, problem-focused, and emphasizes the scales of societal problems (from molecules to ecological systems) and the connections between these scales. This program brings together interdisciplinary faculty mentors with overlapping big-picture goals and complementary skill sets, providing students with diverse cutting-edge research and educational experiences. The Thesis Track M.S. will allow students an opportunity for focused laboratory research with supportive coursework. Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined below. Thesis Track: The thesis track is for students who desire to perform research as part of their graduate education. Thesis Track students enroll in 18 s.h. of core courses, a minimum of 9 s.h. of research courses, and 3 s.h. of restricted electives. Non-Thesis Track: Non-Thesis Track students enroll in 18 s.h. of core courses and 12 s.h. of restricted electives."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CBS",
+                            "course_number": "01510",
+                            "title": "Molecular Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01520",
+                            "title": "Cellular Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01530",
+                            "title": "Organismal Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01540",
+                            "title": "Biological Networks and Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01570",
+                            "title": "Computational Methods and Data Analysis in Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01580",
+                            "title": "Integrative Analysis of Biological Problems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 18 s.h."
+            ]
+        },
+        "Thesis-Track Thesis/Dissertation Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CBS",
+                            "course_number": "01550",
+                            "title": "Thesis Research",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis-Track Thesis/Dissertation Courses: 9 s.h."
+            ]
+        },
+        "Restricted Electives: 3 - 12 s.h.": [
+            "Restricted Electives: 3 - 12 s.h. Thesis Track students choose 3 s.h. Non-Thesis Track students choose 12 s.h. CBS XXXXX - Any 500-level or higher course*"
+        ],
+        "Note:": [
+            "Note: *Courses must be pre-approved by Graduate Program Coordinator."
+        ],
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Graduation/Exit, Benchmark, and/or Thesis Requirements Thesis Track : Conferral of the Master’s degree will occur only after submission of a Master’s thesis and approval by the candidate’s Thesis Committee of the written thesis and oral defense. This process and all forms are regulated by Rowan University’s School of Graduate Studies and outlined in the Thesis & Dissertation Manual. Non-Thesis Track : Conferral of the Master’s degree will occur after successful completion of all required courses and a suitable number of restricted elective credits. Minimum Required Grades and Cumulative GPA The Master of Science in Complex Biological Systems is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Academic Advisor Nathaniel Nucci SCI 101E 856.256. 4396 nucci@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

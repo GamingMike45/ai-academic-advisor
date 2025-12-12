@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in American Sign Language",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7154&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in American Sign Language": [
+            "Certificate of Undergraduate Study in American Sign Language The Certificate of Undergraduate Study (CUGS) in American Sign Language (ASL) may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856.256.4459 / advise@rowan.edu). This program recognizes students’ completion of 12 s.h. in ASL, which corresponds to Intermediate-level proficiency in the language. Intermediate-level proficiency is a valuable credential. In general, according to the American Council on the Teaching of Foreign Languages (ACTFL), at the Intermediate level, it is possible to create with the language, combining and recombining learned material to provide personal information, communicate in complete sentences on a variety of familiar topics, ask questions, and initiate, sustain and conclude a simple social or transactional task. Prior to beginning the program, students with existing proficiency in American Sign Language (ASL) should contact Prof. Melissa Screven (screven@rowan.edu) for a placement interview. It is possible for students to earn credits for the courses that they skip via the Authorization for Credit by Examination process, and these credits are counted in fulfillment of program requirements. Students must take the following courses, all of which must be passed with a letter grade of “C-” or better, and no courses may be taken as P/NC. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in American Sign Language (ASL)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ASL",
+                            "course_number": "01101",
+                            "title": "Elementary American Sign Language I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01102",
+                            "title": "Elementary American Sign Language II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01201",
+                            "title": "Intermediate American Sign Language I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01211",
+                            "title": "Intermediate American Sign Language II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four, 3 s.h. courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Melissa Rivera Screven Program Mentor 856.256.4500 x53232 screven@rowan.edu Advisor Harold Thompson thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

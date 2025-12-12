@@ -1,0 +1,206 @@
+{
+    "name": "Minor in Creative Writing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7014&returnto=1028",
+    "content": {
+        "Minor in Creative Writing": [
+            "Minor in Creative Writing The Writing Arts Department at Rowan University offers a program of study in creative writing leading to a minor. To fulfill the requirements for the minor, students must complete 18 hours of course work selected from a variety of courses in the writing of poetry, fiction, children’s stories, plays, television and film scenarios. The minor is open to Writing Arts majors and students who are not Writing Arts majors. Writing Arts majors who complete the 12 credit creative writing concentration within the major may take an additional 6 credits to receive the minor. No required courses counting toward the Writing Arts major can be double counted for the Creative Writing Minor. Students do not have to be in the minor to take creative writing courses. Once enrolled in the Creative Writing Minor, students can look forward to these goals and achievements: The ability to understand and apply creative writing craft elements in a variety of genres The ability to read and critique texts through the strategies of close reading A deeper understanding of the relationship between the writer, the audience, and the work The opportunity to experiment creatively with various genres as the student develops a voice and a style"
+        ],
+        "Program Requirements: 18 s.h.": [
+            "Program Requirements: 18 s.h."
+        ],
+        "Choose any six of the following*": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "07290",
+                            "title": "Creative Writing I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07291",
+                            "title": "Creative Writing II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07391",
+                            "title": "Writing Fiction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07392",
+                            "title": "Fundamentals of Playwriting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07395",
+                            "title": "Writing Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07415",
+                            "title": "Writing the Young Adult Novel-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01201",
+                            "title": "How Writers Read",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01300",
+                            "title": "The Writer’s Mind - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01304",
+                            "title": "Writing Creative Nonfiction-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01305",
+                            "title": "Writing Comedy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01306",
+                            "title": "Writing Genre Fiction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01308",
+                            "title": "Spoken Word Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01320",
+                            "title": "Internship I in Writing Arts",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01350",
+                            "title": "Rhetorics of Style-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01358",
+                            "title": "Teaching the Writer’s Workshop-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03393",
+                            "title": "Screenwriting I: Writing the Short - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03493",
+                            "title": "Screenwriting II: Writing the Feature - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02312",
+                            "title": "Feature Writing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose any six of the following* To complete the Minor in Creative Writing, students must complete 18 hours of coursework selected from the following list:",
+                "Students may also receive credit for selected special topic courses with permission of advisor."
+            ]
+        },
+        "It is also possible for students to take the following graduate classes in creative writing in accordance with the senior privilege policy:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02505",
+                            "title": "Poetry Workshop",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02515",
+                            "title": "Creative Nonfiction Workshop",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02520",
+                            "title": "Writing the Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02523",
+                            "title": "Writing the Memoir",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02524",
+                            "title": "Writing the Graphic Novel: Theory and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01566",
+                            "title": "Editing the Literary Journal",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01558",
+                            "title": "Fiction Workshop",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01623",
+                            "title": "Writing Stories for Children and Young Adults",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "It is also possible for students to take the following graduate classes in creative writing in accordance with the senior privilege policy:"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. *Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the course description by clicking the link. Heather Lanier Advisor 260 Victoria Street 856.256.4345 lanier@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

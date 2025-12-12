@@ -1,0 +1,97 @@
+{
+    "name": "Certificate of Undergraduate Study in Borders, Ports of Entry & Emergency Response Operations",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7130&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Borders, Ports of Entry & Emergency Response Operations": [
+            "Certificate of Undergraduate Study in Borders, Ports of Entry & Emergency Response Operations This Certificate of Undergraduate Study (CUGS) in Borders, Ports of Entry & Emergency Response Operations speaks directly to the need to secure United States borders and ports of entry as directed by federal law. Following the September 11, 2001, terrorist attacks, the US Border Patrol refocused its priorities on preventing terrorist penetration, while remaining committed to its traditional duties of preventing the illicit trafficking of people and contraband between official ports of entry. Shortly after the creation of the Department of Homeland Security, the US Border Patrol was directed to formulate a new National Border Patrol Strategy (NBPS) that would better reflect the realities of the post-9/11 security landscape. The Certificate of Undergraduate Study (CUGS) in Borders, Ports of Entry & Emergence Response Operations is at the forefront of this need to address national security priorities. The certificate enables students to deepen their appreciation of the complexity, breadth, and topicality of concerns grouped under the rubric border security and homeland security while providing them with a coordinated, discipline-specific theoretical perspective, methodology, and research approach appropriate to the disciplines of emergency management and security studies."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00101",
+                            "title": "Introduction to Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00223",
+                            "title": "Borders, Ports, and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00325",
+                            "title": "Technology and Border Surveillance in Homeland Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00476",
+                            "title": "Human Trafficking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00432",
+                            "title": "Security, Securitization, and Migration in Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00300",
+                            "title": "Bioterrorism and Weapons of Mass Destruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05323",
+                            "title": "Maritime Crime and Criminality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05329",
+                            "title": "Intelligence, Policing, and Counterterrorism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00321",
+                            "title": "Humanitarian Response: Evacuation and Shelter Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose two courses from the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS in Borders, Ports of Entry, & Homeland Security, students must complete all courses required for the CUGS in Borders, Ports of Entry, & Homeland Security with at least a 2.0 average. The pre-requisites for the DPEM courses (DPEM 00101 Introduction to Emergency Management and Homeland Security) is required. DeMond Miller Advisor Campbell Library 5th Floor 856.256.4500 ext 53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

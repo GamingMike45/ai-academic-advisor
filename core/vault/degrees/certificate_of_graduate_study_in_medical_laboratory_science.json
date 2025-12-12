@@ -1,0 +1,91 @@
+{
+    "name": "Certificate of Graduate Study in Medical Laboratory Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7531&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Medical Laboratory Science": [
+            "Certificate of Graduate Study in Medical Laboratory Science The Certificate of Graduate Study in Medical Laboratory Science provides the scientific and clinical training needed to enter the Medical Laboratory workforce. Students who complete this certificate will be well equipped for entry level positions in a variety of clinical settings and will accrue leadership training making them better prepared for future managerial opportunities, after working in the field."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 11 - 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03500",
+                            "title": "Advanced Hematology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03501",
+                            "title": "Advanced Immunohematology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 11 - 12 s.h.",
+                "CHEM 09500 - Advanced Clinical Chemistry (lab CHEM 09501 optional) Credits: 3"
+            ]
+        },
+        "Recommended Additional Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MBS",
+                            "course_number": "00603",
+                            "title": "Immunology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01538",
+                            "title": "Graduate Immunology (with lab)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11330",
+                            "title": "Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00611",
+                            "title": "Histology I: Basic Tissue Types",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03502",
+                            "title": "Practicum in Clinical Lab Science",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Recommended Additional Courses: Theses courses are not required for the completion of the COGS."
+            ]
+        },
+        "Total Required Credits for the Program: 11 - 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 11 - 12 s.h. Graduation/Exit, Benchmark, and/or Thesis Requirements None Contact Information Grace Farber, PhD 856.256.4344 farber@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

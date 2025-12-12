@@ -1,0 +1,105 @@
+{
+    "name": "Certificate of Undergraduate Study in Queer Theory",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7494&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Queer Theory": [
+            "Certificate of Undergraduate Study in Queer Theory The Certificate of Undergraduate Study (CUGS) in Queer Theory provides a sequence of courses that will expose students to queer theoretical approaches and teach them to apply these approaches across multiple disciplines. Students can choose courses from the bank that most appeal to their interests, developing deeper understandings of gender, sex, and sexuality, and how they play out in the world today. This CUGS is designed to complement and enhance a student’s major program, as well as to prepare students for graduate studies and professional careers."
+        ],
+        "Foundational Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11269",
+                            "title": "Introduction to Queer Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11469",
+                            "title": "Topics in Queer Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09329",
+                            "title": "Philosophy and Gender - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10219",
+                            "title": "Approaches to Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02269",
+                            "title": "Queer Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03274",
+                            "title": "Queer Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10335",
+                            "title": "Sex and the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09346",
+                            "title": "Feminist Ethics - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Take two courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Queer Theory, students must complete all courses required for the CUGS in Queer Theory with at least a 2.0 average. It is highly recommended that students take PHRE 11269 Introduction to Queer Theory before PHRE 11469  Topics in Queer Theory. Whitney Cox Ed Kazarian Advisors Laurel Hall 212 856-256-4075 coxw@rowan.edu kazarian@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,316 @@
+{
+    "name": "Bachelor of Science in Electrical & Computer Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7059&returnto=1028",
+    "content": {
+        "Bachelor of Science in Electrical & Computer Engineering": [
+            "Bachelor of Science in Electrical & Computer Engineering"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01235",
+                            "title": "Mathematics for Engineering Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04225",
+                            "title": "Principles of Data Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02286",
+                            "title": "Probability and Statistics for Electrical and Computer Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01101",
+                            "title": "First-Year Engineering Clinic I-RS",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01102",
+                            "title": "First-Year Engineering Clinic II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01201",
+                            "title": "Sophomore Engineering Clinic I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01202",
+                            "title": "Sophomore Engineering Clinic II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01303",
+                            "title": "Junior Engineering Clinic (must be taken twice for a total of 4 s.h.)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI (must be taken twice for a total of 4 s.h.)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10320",
+                            "title": "Principles of Mechanical Engineering for ECE Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09101",
+                            "title": "Electrical and Computer Engineering: Solving Tomorrow’s Problems",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09203",
+                            "title": "Principles of Electric Circuit Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09241",
+                            "title": "Introduction to Digital Systems",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09243",
+                            "title": "Computer Architecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09303",
+                            "title": "Engineering Electromagnetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09311",
+                            "title": "Electronics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09321",
+                            "title": "Systems and Control I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09341",
+                            "title": "Signals and Systems",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09342",
+                            "title": "Introduction to Embedded Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09351",
+                            "title": "Digital Signal Processing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09363",
+                            "title": "Modules in Electrical and Computer Engineering",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09414",
+                            "title": "Very Large Scale Integration Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09433",
+                            "title": "Electrical Communications Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09461",
+                            "title": "Professionalism and Consulting in Engineering",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09498",
+                            "title": "Seminar: Engineering Frontiers",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Choose one of the following science electives:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01112",
+                            "title": "General Biology: Environmental Focus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01113",
+                            "title": "General Biology: Human Focus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10210",
+                            "title": "Human Anatomy and Physiology I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00221",
+                            "title": "Introductory Thermodynamics, Fluids, Waves, and Optics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one of the following science electives:"
+            ]
+        },
+        "Choose one of the following four business electives:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04102",
+                            "title": "An Introduction to Economics-A Microeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04101",
+                            "title": "An Introduction to Economics-A Macroeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06326",
+                            "title": "Entrepreneurship and Small Business Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one of the following four business electives:"
+            ]
+        },
+        "Required Electives Five approved Technical Electives: 15 s.h.": [
+            "Required Electives Five approved Technical Electives: 15 s.h."
+        ],
+        "Total Required Credits for the Program: 128 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 128 s.h. Robi Polikar Department Head Engineering Hall 856.256.5372 polikar@rowan.edu Program website: www.rowan.edu/ece",
+                "Notes:"
+            ]
+        }
+    }
+}

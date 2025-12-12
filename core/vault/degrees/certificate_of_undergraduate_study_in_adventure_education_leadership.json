@@ -1,0 +1,72 @@
+{
+    "name": "Certificate of Undergraduate Study in Adventure Education Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7300&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Adventure Education Leadership": [
+            "Certificate of Undergraduate Study in Adventure Education Leadership The Certificate of Undergraduate Study (CUGS) in Adventure Education Leadership allows students to facilitate basic adventure and outdoor pursuits to expose those involved to focus attention to challenge, adventure, and growth experiences. The goal of the CUGS in Adventure Education Leadership is to prepare students for entry-level positions in the adventure education field or to diversify their ability to lead activities requiring group cohesiveness in the adventure field. The program is a combination of theory, philosophy and experiential learning. The coursework emphasizes the incorporation of physical safety, respectful environment and emotional well-being for the future leaders as well as their clientele. Students will be eligible to earn the Wilderness First Responder Certification (WFR)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HES",
+                            "course_number": "00409",
+                            "title": "Adventure Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00360",
+                            "title": "Facility and Program Management in Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00490",
+                            "title": "Exercise Science Learning Assistant",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HES",
+                            "course_number": "00109",
+                            "title": "Adventure and Experiential Learning",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00209",
+                            "title": "Adventure Processing and Facilitation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00309",
+                            "title": "Wilderness First Responder",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following five courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Adventure Education Leadership, students must complete all courses required for the CUGS in with at least a 2.0. To earn the WFR students must pass the national exam at the certifying agency’s required test scores. Program Coordinator Shari Willis Herman D. James Hall 856.256.4500 ext. 53702 williss@rowan.edu Advisor Jeanine Dowd Herman D. James Hall 856.256.4224 dowd@rowan.edu Advisor Laurie Dwyer Herman D. James Hall 856.256.5835 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

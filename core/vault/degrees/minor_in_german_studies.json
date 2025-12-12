@@ -1,0 +1,133 @@
+{
+    "name": "Minor in German Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7149&returnto=1028",
+    "content": {
+        "Minor in German Studies": [
+            "Minor in German Studies The German Studies Minor, which may be declared in the Department of World Languages, Oak Hall 107 or by contacting the University Advising Center, Savitz Hall, Suite 323 (856.256.4459 / advise@rowan.edu), is an intensive program of study which offers courses in German language in addition to German civilization and culture and various interdisciplinary electives taught in English. It provides a general background for future professional studies and advanced degrees in German and work in a wide variety of fields, such as social, administrative and governmental work, as well as international business. This 18 s.h. minor is open to all students. A placement interview is strongly recommended for students with previous knowledge of German so that they may begin their German language study at the appropriate level. For placement interview information, please contact Dr. Edward Smith at smithe@rowan.edu. Students may earn the credits for any skipped courses via the Authorization for Credit by Examination process and these credits are counted in fulfillment of minor requirements. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students may transfer credits into the German Studies Minor, including from Study Abroad and up to 9 s.h. from the CLEP Exam in German (equivalent to Elementary German I and II and Intermediate German I - contact the Testing Center, testingservices@rowan.edu, in the Academic Success Center, Savitz Hall, Suite 304, for more information). Students planning to Study Abroad must meet with their German Advisor in order to determine course equivalents."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Minor consists of 6 courses (18 credits). Students are required to take at least 3 and a maximum of 5 courses within the language component of the program (or receive CLEP Exam credits). Elective courses in other departments can be used toward the Minor:"
+        ],
+        "Courses taught in German": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GERM",
+                            "course_number": "03101",
+                            "title": "Elementary German I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03102",
+                            "title": "Elementary German II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03201",
+                            "title": "Intermediate German I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03211",
+                            "title": "Intermediate German II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03212",
+                            "title": "German Reading and Composition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03320",
+                            "title": "German Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03411",
+                            "title": "Advanced German Conversation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GERM",
+                            "course_number": "03440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Courses taught in German"
+            ]
+        },
+        "Courses Taught in English (The following electives can be taken concurrently with language courses):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GERM",
+                            "course_number": "03100",
+                            "title": "Masterpieces of German Literature in English Translation (LIT)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16342",
+                            "title": "Geography of Europe",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05315",
+                            "title": "Twentieth Century Europe to 1945",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05406",
+                            "title": "Nazi Germany and the Holocaust",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08399",
+                            "title": "Sociology of the Holocaust - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09472",
+                            "title": "Topics in the History of Philosophy (Topics in the History of Philosophy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "01402",
+                            "title": "Special Topics (Special Topics in Radio/TV/Film)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Courses Taught in English (The following electives can be taken concurrently with language courses):"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Edward C. Smith III, Ph.D. Program Mentor Oak Hall, Room 207 856.256.5848 smithe@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

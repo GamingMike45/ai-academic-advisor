@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Undergraduate Study in Community Corrections",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7101&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Community Corrections": [
+            "Certificate of Undergraduate Study in Community Corrections The Certificate of Undergraduate Study (CUGS) in Community Corrections provides a sequence of courses emphasizing the core of evidence-based practices in the field of community corrections and risk reduction/behavior change (such as Offender reentry and reintegration, parole and probation, treatment of the offender, and drugs and crime in America). The course selections are designed to help students seeking careers in criminal justice to be more competitive in the rapidly expanding area of community corrections."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05343",
+                            "title": "Offender Re-entry, Reintegration and Recidivism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05276",
+                            "title": "Parole, Probation and Community Corrections",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05337",
+                            "title": "Treatment of the Offender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05322",
+                            "title": "Drugs and Crime in America",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h. The requirements include the following five course:"
+            ]
+        },
+        "Additional Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05361",
+                            "title": "Introduction to Juvenile Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05210",
+                            "title": "Restorative Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05200",
+                            "title": "Introduction to Corrections",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Requirements To complete the requirements of the CUGS in Community Corrections, students may choose from one of the three courses offered below to meet their specific areas of interest and career goals."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS in Community Corrections, students must complete all courses required for the CUGS in Community Corrections with at least a 2.0 average. Dr. Kimberly Houser Campbell Library, Room 563 856.256.4500, ext 53739 houser@rowan.edu Dr. Christine Saum Campbell Library, Room 570 856.256.4500, ext. 53541 saum@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Master of Arts in Strategic Communication",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7677&returnto=1028",
+    "content": {
+        "Master of Arts in Strategic Communication": [
+            "Master of Arts in Strategic Communication The Master of Arts in Strategic Communication emphasizes real-world applications of theories and techniques offered in an environment that emphasizes collaborative learning. The program attracts a cross section of students with experience levels ranging from recent graduates to senior managers. The Master of Arts in Strategic Communication curriculum grounds students in four key areas: writing, research, problem solving, and planning. While most students choose to take courses in organizational/corporate public relations, students may also choose to take a series of courses in public affairs or educational public relations and design the master’s project in those areas."
+        ],
+        "Program Requirements": [
+            "Program Requirements The following courses make up the Master of Arts in Strategic Communication program. Required Courses: 21 semester hours (s.h.) Elective Courses: 12 semester hours (s.h.)"
+        ],
+        "Required Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01551",
+                            "title": "Graduate Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01547",
+                            "title": "Graduate Strategic Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01550",
+                            "title": "Introduction to Graduate Strategic Communication Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01569",
+                            "title": "Graduate Strategic Case Studies and Public Relations Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01561",
+                            "title": "Graduate Strategic Writing II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01620",
+                            "title": "Strategic Communication Seminar",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 21 s.h."
+            ]
+        },
+        "Elective Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01551",
+                            "title": "Graduate Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01565",
+                            "title": "Integrated Marketing Communication and New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01559",
+                            "title": "Strategic Public Affairs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "06515",
+                            "title": "Online Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01556",
+                            "title": "Organizational Public Relations Management and Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01610",
+                            "title": "Internship in Public Relations",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "98503",
+                            "title": "School Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01573",
+                            "title": "Graduate Media Buying and Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01571",
+                            "title": "Brand Reputation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 12 s.h. Approved modules and electives (depending on concentration). Please discuss with the Program Coordinator. For a complete list of 1 and 2 credit offerings, consult the Graduate Course Elective Bank or contact the program coordinator."
+            ]
+        },
+        "Total Required Credits for the Program: 33 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33 s.h. Foundation Courses Eligible applicants must have successfully completed the following undergraduate foundation course at an accredited institution. During the admissions process, the Master of Arts in Strategic Communication academic advisor will determine foundation course equivalencies. If applicable, official notification of any unfinished foundation courses will be included in the applicant’s official admission decision letter from Rowan University. FC-1. Publication Layout and Design (JRN 02317) (3 s.h.) or equivalent course Students admitted without having completed this foundation course may complete it while enrolled in the Master of Arts Strategic Communication program. The foundation course must be taken before completing the program and does not count toward the 33 required semester hours for the master’s degree. Graduation/Exit, Benchmark, and Thesis Requirements Students write a research project on any aspect of public affairs, educational communication, or corporate communication to complete the program. A comprehensive oral/written exam is also required. (No Thesis) Minimum Required Grades and Cumulative GPA The MA in Strategic Communication is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Coordinator/Advisor Contact Information Bokyung Kim 301 High Street, Room 322 856.256.4293 kimb@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

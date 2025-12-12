@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Undergraduate Study in Industrial & Organizational Psychology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7256&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Industrial & Organizational Psychology": [
+            "Certificate of Undergraduate Study in Industrial & Organizational Psychology The CUGS in Industrial & Organizational Psychology (12 s.h.) will teach students to apply psychological theories to critical issues in the fields of psychology, business, and industry. Students will become adept at small group theory and team processes, dynamics of leadership and management, and the structure and procedures of organizational development. The coursework takes an interdisciplinary approach to the scientific study of the workplace. In particular, it examines the study of human behavior as it relates to employee productivity and well-being. This sequence provides students with a unique opportunity to learn about the relationship between psychology and organizational behavior and issues of critical relevance to the workplace. This CUGS is available to any matriculated Rowan student completing the required coursework."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "08310",
+                            "title": "Industrial/Organizational Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "08220",
+                            "title": "Personnel Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05402",
+                            "title": "Psychology of Conflict and Conflict Resolution",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses:"
+            ]
+        },
+        "Students must take 3 additional credits from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04240",
+                            "title": "Small Group Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04260",
+                            "title": "Organizational Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01331",
+                            "title": "Occupational Health Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01423",
+                            "title": "Seminar in Psychology: Topics (topic must be related to I/O field and approved by the Coordinator of the CUGS)",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take 3 additional credits from the following list:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Program Coordinator Dr. Valerie Davis-LaMastro davis-lamastro@rowan.edu 856.256.4500 x 53789",
+                "Notes:"
+            ]
+        }
+    }
+}

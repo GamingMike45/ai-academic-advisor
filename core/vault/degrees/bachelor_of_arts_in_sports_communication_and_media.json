@@ -1,0 +1,328 @@
+{
+    "name": "Bachelor of Arts in Sports Communication & Media",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6996&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Sports Communication & Media": [
+            "Bachelor of Arts in Sports Communication & Media The Bachelor of Arts in Sports Communication & Media provides students with a broad understanding of the role of communication within the world of sports, as well as sports-specific education and training in five areas of interest: Communication Studies, Journalism, Public Relations & Advertising, Esports, and Radio, Television, & Film Production. While focused on sports media, the program prepares students for careers in all fields of communication."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the Major Department"
+        ],
+        "Foundational Courses: 22 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09301",
+                            "title": "Internship in Sports Communication and Media I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09302",
+                            "title": "Internship in Sports Communication Media II",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09303",
+                            "title": "Internship in Sports Communication and Media III",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09101",
+                            "title": "Introduction to Sports Communication and Media",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04223",
+                            "title": "Sports Communication, Culture and Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02205",
+                            "title": "Journalism Principles And Practices",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02210",
+                            "title": "Journalistic Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05350",
+                            "title": "Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03275",
+                            "title": "Introduction to Media Aesthetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09401",
+                            "title": "Senior Seminar in Sports Communication and Media-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 22 s.h."
+            ]
+        },
+        "Sports Communication & Media Concentrations: 12 s.h.": [
+            "Sports Communication & Media Concentrations: 12 s.h. Students will take 12 s.h. from one of the following concentrations. Undergraduate Concentration in Communication Studies & Sports Undergraduate Concentration in Sports Journalism Undergraduate Concentration in Sports Public Relations & Advertising Undergraduate Concentration in Radio, Televeison & Film Sports Production Undergraduate Concentration in Esports"
+        ],
+        "Related Electives: 6 s.h.": [
+            "Related Electives: 6 s.h. Students take an additional 6 s.h. from any of the other concentrations."
+        ],
+        "Free Electives: 53 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09110",
+                            "title": "Philadelphia Sports Past and Present",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09210",
+                            "title": "Sports Betting and The Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09220",
+                            "title": "Inside the Front Office",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09304",
+                            "title": "Special Topics in Sports Communication and Media",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02341",
+                            "title": "Broadcast News Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02363",
+                            "title": "Data Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02325",
+                            "title": "Digital Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02314",
+                            "title": "Photojournalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02335",
+                            "title": "Media Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04210",
+                            "title": "Mass Media and Their Influences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04220",
+                            "title": "Interpersonal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04318",
+                            "title": "Leadership Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04310",
+                            "title": "Images of Gender in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04380",
+                            "title": "Health Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04314",
+                            "title": "Social Impact of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03201",
+                            "title": "Foundations of Media Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03230",
+                            "title": "Television Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03290",
+                            "title": "The Media Industries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03221",
+                            "title": "The Radio Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03100",
+                            "title": "Radio Production I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03395",
+                            "title": "Sound for Film and Video",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03394",
+                            "title": "New Media Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03200",
+                            "title": "Podcasting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06350",
+                            "title": "Introduction to Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06301",
+                            "title": "Basic Public Relations Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06305",
+                            "title": "Advanced Public Relations Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04330",
+                            "title": "Introduction to Advertising",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04360",
+                            "title": "Integrated Marketing Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04432",
+                            "title": "Media Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04375",
+                            "title": "Advertising Copywriting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04421",
+                            "title": "Account Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Free Electives: 53 s.h. Recommended Free Electives",
+                "JRN 02101 - News Media Literacy (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Students must earn a grade of at least a C minus in each course under Core Requirements and Sequences. A C minus or above is required in all prerequisites to other courses. Students must maintain a 2.5 GPA in their 40 credits of the major, and a 2.0 overall GPA to graduate with a BA in Sports Communication & Media. Transfer courses of 300 level or above that correlate with Rowan’s courses will be accepted in the major. Students may earn up to 9 credits in internships. Any other internships can be taken on their own, but not for credit. Coordinator Dr. Emil Steiner 6 East High Street, Glassboro, NJ 856.256.4049 steiner@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

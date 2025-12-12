@@ -1,0 +1,598 @@
+{
+    "name": "Minor in American Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7172&returnto=1028",
+    "content": {
+        "Minor in American Studies": {
+            "requirements": [],
+            "notes": [
+                "Minor in American Studies The Minor in American Studies offers students a critical grounding in American society, history, and culture. It will serve students in a wide range of programs, especially those with a pre-professional emphasis. This credential would indicate that they have a deeper knowledge of America: its people, history, structures, and culture. In this minor, students begin with a course to introduce them to the field and interdisciplinary thinking and writing, AMST 13101 - Introduction to American Studies. The second tier of classes provides a breadth of backgrounds in American history, literature, structures, and culture. Finally, students may customize and deepen their knowledge with the two-course upper-level requirement."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AMST",
+                            "course_number": "13101",
+                            "title": "Introduction to American Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 3 s.h."
+            ]
+        },
+        "Interdisciplinary Options: 12 s.h.": [
+            "Interdisciplinary Options: 12 s.h. Choose one course from each section:"
+        ],
+        "History: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05151",
+                            "title": "United States since 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05150",
+                            "title": "United States to 1865",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "History: 3 s.h."
+            ]
+        },
+        "Social Sciences: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07110",
+                            "title": "American Government",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07230",
+                            "title": "Comparative Political Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Social Sciences: 3 s.h."
+            ]
+        },
+        "English: 3 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02313",
+                            "title": "US Literature I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02315",
+                            "title": "US Literature II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "English: 3 s.h"
+            ]
+        },
+        "Culture: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10210",
+                            "title": "Religion in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16240",
+                            "title": "US and Canada",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03205",
+                            "title": "TV History and Appreciation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "AFST",
+                            "course_number": "11104",
+                            "title": "Introduction to Africana Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Culture: 3 s.h."
+            ]
+        },
+        "Note:": [
+            "Note: Other American-themed lower-level courses may satisfy this requirement with permission from coordinator."
+        ],
+        "Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AMST",
+                            "course_number": "13320",
+                            "title": "American Studies in the Classroom-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "AMST",
+                            "course_number": "13301",
+                            "title": "Interdisciplinary Research and Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05452",
+                            "title": "United States History 1820-1861",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05322",
+                            "title": "Civil War and Reconstruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05426",
+                            "title": "Colonial North America 1500-1775",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05334",
+                            "title": "US Urban History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05453",
+                            "title": "The Gilded Age and Progressive Era, 1877-1914",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05454",
+                            "title": "America from War to War, 1914-1945",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05427",
+                            "title": "The American Revolution and Early Republic, 1775-1828",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05371",
+                            "title": "U.S. Legal and Constitutional History to 1870",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05372",
+                            "title": "U.S. Legal and Constitutional History since 1870",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05373",
+                            "title": "Civil Rights/Black Power Movements",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05375",
+                            "title": "The United States since 1945",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05376",
+                            "title": "African American History to 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05377",
+                            "title": "African American History since 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05407",
+                            "title": "History of World War II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05346",
+                            "title": "Intellectual History of the U.S.*",
+                            "credits": null
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05438",
+                            "title": "History of the Vietnam War",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05353",
+                            "title": "Imperialism and Colonialism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05471",
+                            "title": "History of the American West",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05384",
+                            "title": "Cultural History of U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05386",
+                            "title": "History of New Jersey",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05495",
+                            "title": "Internship in History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02205",
+                            "title": "Young Adult Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02313",
+                            "title": "US Literature I (if not taken in the “English” bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02315",
+                            "title": "US Literature II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "05301",
+                            "title": "American English Grammar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02310",
+                            "title": "Native North America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03310",
+                            "title": "History of American Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01101",
+                            "title": "Elementary American Sign Language I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01102",
+                            "title": "Elementary American Sign Language II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04210",
+                            "title": "Mass Media and Their Influences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04215",
+                            "title": "Fiction to Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04310",
+                            "title": "Images of Gender in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04315",
+                            "title": "Digital Media Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04320",
+                            "title": "Communicating Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16241",
+                            "title": "Geography of New Jersey",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16303",
+                            "title": "Political Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05322",
+                            "title": "Drugs and Crime in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05312",
+                            "title": "Criminal Procedure II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05315",
+                            "title": "Criminal Justice and Social Conflict",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05401",
+                            "title": "Law and Human Rights",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09228",
+                            "title": "American Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09393",
+                            "title": "Contemporary Moral Problems- WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07306",
+                            "title": "The Presidency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07310",
+                            "title": "American Constitutional Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07311",
+                            "title": "Women and American Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07340",
+                            "title": "Civil Rights and Civil Liberties",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07380",
+                            "title": "Politics on Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07400",
+                            "title": "American Political Thought",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01310",
+                            "title": "Psychology of Racism and Ethnocentrism: Causes, Development, Consequences, Solutions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08220",
+                            "title": "Sociology of the Family",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08221",
+                            "title": "Social Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08281",
+                            "title": "Sexuality and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08230",
+                            "title": "Sociology of Minority Groups",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08320",
+                            "title": "Urban Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08326",
+                            "title": "Socialization of the Child Through Adolescence - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08327",
+                            "title": "Comparative Education in Sociological Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08330",
+                            "title": "Social Stratification",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08331",
+                            "title": "Classical Sociological Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08336",
+                            "title": "Sociology of Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08370",
+                            "title": "Sociology of Women In Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08431",
+                            "title": "Social Psychology of City Life",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 6 s.h. Select two courses from this list, at least one must be upper-level."
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. Emily Blanck Coordinator Robinson Hall 856.256.4500 x53994 blancke@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

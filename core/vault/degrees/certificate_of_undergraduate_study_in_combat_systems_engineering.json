@@ -1,0 +1,58 @@
+{
+    "name": "Certificate of Undergraduate Study in Combat Systems Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7063&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Combat Systems Engineering": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in Combat Systems Engineering The immediate region surrounding Rowan University is home to a large number of companies and agencies that serve the defense industry. Collectively, this industry hires more of the graduating Rowan Electrical & Computer Engineering (ECE) students than any other industry. The representatives of this industry have expressed a desire to provide additional knowledge and skills set - specifically as they relate to combat systems - that they would prefer their employees to have at the time of hiring. The Certificate of Undergraduate Study (CUGS) in Combat Systems Engineering is a program designed to meet this need and consists of four (4) three-credit undergraduate level courses. The program allows students to increase the breadth and depth of their knowledge of complex systems with particular applications to combat systems and defense technologies. Completion of this CUGS will give students the necessary tools required by the defense industry in analysis, design, evaluation, and validation of combat systems. Students who complete this CUGS will be more marketable and ready to be imminently employed at graduation by the defense and related industry companies, not just in our immediate geographic area, but nationwide as well. This program is jointly developed by Rowan ECE and the defense industry representatives. All courses in this CUGS are taught by highly qualified faculty, including subject matter experts from the defense industry who have significant industrial experience and hence bring unique industry perspective. The primary audience of this CUGS are students who are currently in the BS degree program in Electrical and Computer Engineering, who would like to focus on the combat systems engineering for employment in the defense industry (students may apply two of the required CUGS courses - ECE 09423 and ECE 09425 - towards the BS in ECE degree requirements). students in other related areas of engineering, who would like to focus on combat systems engineering for employment in the defense industry. These students may need to complete relevant prerequisites of the required courses. students at other institutions, or professionals already working in related industries, who are interested in expanding their knowledge and skill set in this area. Students in this group would be un-matriculated students. This CUGS program is available to any student in a Bachelor’s degree program in electrical/computer/systems engineering, or a related science / engineering discipline who is in good standing, or any professional with a bachelor’s (or higher) degree in a relevant area. A graduate version of this program, as a Certificate of Graduate Studies (COGS) in Combat Systems Engineering is also available to qualified students."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09423",
+                            "title": "Introduction to Radar Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09424",
+                            "title": "Introduction to War Gaming and C4ISR",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09425",
+                            "title": "Introduction to Command and Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09426",
+                            "title": "Introduction to Weapon Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Double counting policy: For all CUGS offered by the ECE Department, at most two courses can be double counted to satisfy the CUGS and the B.S. in ECE degree requirements. Therefore, ECE students pursuing this or any other CUGS must take at least two courses above and beyond their BS in ECE degree requirements. Clinics may not be used to satisfy the elective requirements of more than one CUGS. Non-ECE students who pursue this CUGS should follow the course double-counting policies of the department in which their major resides. Graduation/Exit, Benchmark, and Thesis Requirements Students must complete all required courses with at least a 2.0 grade point average. For details regarding satisfactory academic progress and graduation requirements, please visit www.rowanu.com/policies. Double counting policy: For all CUGS offered by the ECE Department, at most two courses can be double counted to satisfy the CUGS and the B.S. in ECE degree requirements. Therefore, ECE students pursuing this or any other CUGS must take at least two courses above and beyond their BS in ECE degree requirements. Clinics may not be used to satisfy the elective requirements of more than one CUGS. Non-ECE students who pursue this CUGS should follow the course double-counting policies of the department in which their major resides. Foundation Courses (prerequisites to CUGS courses) Program Coordinator/Advisor Contact Information Robi Polikar Department Head, Electrical and Computer Engineering Engineering Hall 856.256.5372 polikar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

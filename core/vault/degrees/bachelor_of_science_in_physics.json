@@ -1,0 +1,188 @@
+{
+    "name": "Bachelor of Science in Physics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7240&returnto=1028",
+    "content": {
+        "Bachelor of Science in Physics": [
+            "Bachelor of Science in Physics The Bachelor of Science Program in Physics prepares students for graduate school in physics or engineering, professional schools, and for careers in industry, government, business, or teaching - students interested in teaching should consider the Master of Arts in STEM Education in an Accelerated Dual Degree Program. Students may also think about the Accelerated Dual Degree Program with the Masters of Science in Data Science. Undergraduate research opportunities exist in diverse areas of experimental physics including optics/laser spectroscopy, condensed matter/materials science, biophysics, theoretical physics including optical physics and high-energy physics, and planetary science/astronomy. Access to these kinds of meaningful experiences is a hallmark of the Physics Program."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00330",
+                            "title": "Mathematical Methods for Physics and one additional (3 sh) Restricted Elective (see below)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01210",
+                            "title": "Linear Algebra",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00130",
+                            "title": "Building Momentum as a Physics Student at Rowan and Beyond-RS",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00221",
+                            "title": "Introductory Thermodynamics, Fluids, Waves, and Optics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01231",
+                            "title": "Ordinary Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00351",
+                            "title": "Physics Research Methods I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00352",
+                            "title": "Physics Research Methods II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00310",
+                            "title": "Analytical Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00320",
+                            "title": "Electricity and Magnetism I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00410",
+                            "title": "Quantum Mechanics I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00430",
+                            "title": "Statistical Physics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "An approved 2-course science sequence (e.g. MCB 01101 and MCB 01102, CHEM 06100 and CHEM 06101, CS courses to fulfill a CS minor or CUGS, etc)"
+            ]
+        },
+        "Restricted Electives": [
+            "Restricted Electives Choose at least 11 s.h. from any 300+ Physics course (maximum of 3 s.h. of Physics Research or 4 s.h. of Physics Learning Assistant), any 200+ Astronomy, (maximum of 3 s.h. of Astronomy Research), Geology, Materials Science, any 300+ Engineering, any 200+ Math, any 200+ Chemistry, any 200+ Computer Science, or Biology. Note: the 3 s.h. Research Course restriction is a total across both categories."
+        ],
+        "Free Electives: 31 s.h.": [
+            "Free Electives: 31 s.h."
+        ],
+        "Available Concentration": [
+            "Available Concentration An Undergraduate Concentration in Photonics is available to Physics majors desiring a more advanced study of optics and photonics. This concentration is especially useful for students who are thinking about graduate work and a career in the field of optics and photonics."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

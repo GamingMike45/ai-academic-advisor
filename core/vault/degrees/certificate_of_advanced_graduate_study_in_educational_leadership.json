@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Educational Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7656&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Educational Leadership": [
+            "Certificate of Advanced Graduate Study in Educational Leadership"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27801",
+                            "title": "Leadership for Social Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27802",
+                            "title": "Inquiry I: Theory to Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27803",
+                            "title": "Reforming Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27804",
+                            "title": "Inquiry II - Program Evaluation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The CAGS in Educational Leadership is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information James Coaxum 856.256.4779 coaxum@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

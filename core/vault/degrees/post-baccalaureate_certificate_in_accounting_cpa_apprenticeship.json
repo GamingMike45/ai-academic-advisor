@@ -1,0 +1,37 @@
+{
+    "name": "Post-Baccalaureate Certificate in Accounting CPA Apprenticeship",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7720&returnto=1028",
+    "content": {
+        "Post-Baccalaureate Certificate in Accounting CPA Apprenticeship": [
+            "Post-Baccalaureate Certificate in Accounting CPA Apprenticeship The Post-Baccalaureate Certificate of Accounting CPA Apprenticeship provides a unique opportunity for emerging accounting professionals to fulfill the 150-credit hour CPA licensing requirement by concurrently working off-site at a full-time, intensive accounting apprenticeship with a pre-qualified company or firm.  During their experience, students will be under the guidance of the respective company or firm while reflecting and applying accounting theory learned in their undergraduate accounting program. To enroll in this program, students must have earned a bachelor’s degree with completion of the core accounting credits required to sit for the CPA exam.  Applicants must obtain a full-time position doing meaningful and substantive professional accounting work at a pre-qualified company or firm."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: Up to 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03499",
+                            "title": "Accounting CPA Apprenticeship Credits: 1 To 6",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: Up to 30 s.h. Students will earn the Accounting CPA Apprenticeship Certificate by completing up to 30 credit hours (i.e., up to five modules of the 6-credit hour course), or by completing as many credit hours (CH) as needed to reach the 150 CH required for CPA licensure.  Fewer than 30 CH may satisfy the Certificate requirement, depending on the number of accumulated CH earned by the student at the undergraduate level."
+            ]
+        },
+        "Total Credits Required for the Program: Up to 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits Required for the Program: Up to 30 s.h. Program Coordinator/Advisor Contact Information",
+                "Notes:"
+            ]
+        }
+    }
+}

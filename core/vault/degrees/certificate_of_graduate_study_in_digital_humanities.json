@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in Digital Humanities",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7717&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Digital Humanities": [
+            "Certificate of Graduate Study in Digital Humanities The Certificate of Graduate Study (COGS) in Digital Humanities will offer graduate-level training in the use of digital technology to investigate, analyze, and communicate about important humanities questions. The certificate will emphasize professional development and experiential learning for students from a range of disciplines. After completing the foundational graduate course, students will gain firsthand experience working on a digital humanities project through an internship at the Center for Digital Humanities Research or another internship approved by the coordinator. Finally, students will carry out their own independent digital humanities capstone project under the guidance of a faculty member. Students are encouraged to work on projects that intersect with their other graduate course material. The Certificate of Graduate Study in Digital Humanities is 9 semester hours."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DHUM",
+                            "course_number": "52500",
+                            "title": "Digital Humanities Debates and Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DHUM",
+                            "course_number": "52525",
+                            "title": "Digital Humanities Internship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DHUM",
+                            "course_number": "52550",
+                            "title": "Digital Humanities Capstone",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Credits Required for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits Required for the Program: 9 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Minor in Photography",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7010&returnto=1028",
+    "content": {
+        "Minor in Photography": [
+            "Minor in Photography Eligibility The Photography Minor is designed to offer an aesthetic, technical, critical, and practical understanding of photography and its myriad applications, including marketable production knowledge and techniques. The curriculum emphasizes individual artistic development while integrating theory, experimentation, critique and professional preparedness."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Minor in Art consists of 21 semester hours made up of six foundation core courses and one photography elective, as follows:"
+        ],
+        "Primary Studio: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11388",
+                            "title": "Contemporary Issues in Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03241",
+                            "title": "History of Photography",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11251",
+                            "title": "Introduction to Film Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11380",
+                            "title": "Digital Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11350",
+                            "title": "Intermediate Digital Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11406",
+                            "title": "Advanced Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11407",
+                            "title": "Capstone in Photography",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Primary Studio: 18 s.h."
+            ]
+        },
+        "Photography Elective: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11276",
+                            "title": "Intermediate Film Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11375",
+                            "title": "Non-Silver Imagery PHOT 11385 - Large Format Photography",
+                            "credits": null
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11386",
+                            "title": "Photographic Lighting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11387",
+                            "title": "Editorial Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11390",
+                            "title": "Special Topics in Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11408",
+                            "title": "Expanded Photography (formerly “Advanced Photo Techniques”)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "09375",
+                            "title": "Video Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03425",
+                            "title": "Special Problems in Art History (if content is photography related)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Photography Elective: 3 s.h. Select one studio course from the list below in consultation with your advisor and with faculty. Note: If intermediate courses are selected, prerequisites listed in the catalog descriptions of these courses must be met."
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. Advisor advise@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

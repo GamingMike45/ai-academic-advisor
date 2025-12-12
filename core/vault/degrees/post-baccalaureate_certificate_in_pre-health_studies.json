@@ -1,0 +1,208 @@
+{
+    "name": "Post-Baccalaureate Certificate in Pre-Health Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7689&returnto=1028",
+    "content": {
+        "Post-Baccalaureate Certificate in Pre-Health Studies": [
+            "Post-Baccalaureate Certificate in Pre-Health Studies The Pre-Health Studies Post-Baccalaureate is designed for individuals who are interested in a career in the health professions but have little or no background in science. The coursework focuses on the foundational prerequisites required of health profession schools including but not limited to medical and dental school. The curriculum is paired with an advisor who will help develop academic and experiential learning goals, support programming from the Office of Pre-Health, discounted admission exam preparation course options, and application support including a University Committee Letter. The program is tailored to each individual student based on their health-related professional goals. Upon completion of the Post-Baccalaureate Certificate in Pre-Health Studies, students will demonstrate knowledge of scientific foundations, including fundamentals of chemistry, biology, and physics, needed to succeed on the admissions test and the future health professional curriculum. Available targeted health profession routes include but are not limited to medical, dental, optometry, physician assistant, and physical therapy. For students seeking Grade Enhancer programs, we encourage you to explore the CMSRU post-baccalaureate Advanced PreMedical Studies certificate or the Certificate of Graduate Study in Biomedical Sciences or Master of Science in Biomedical Sciences."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 16 s.h.",
+                "CHEM L6100 - Chemistry I Laboratory Credits: 0",
+                "CHEM L6101 - Chemistry II Laboratory Credits: 0",
+                "MCB L1101 - Foundations in Biology for Biomedical Sciences I Laboratory Credits: 0",
+                "MCB L1102 - Foundations in Biology for Biomedical Sciences II Laboratory Credits: 0"
+            ]
+        },
+        "Electives: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10210",
+                            "title": "Human Anatomy and Physiology I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10212",
+                            "title": "Human Anatomy and Physiology II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11330",
+                            "title": "Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "14440",
+                            "title": "Introduction to Biochemistry - Lecture Only",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07348",
+                            "title": "Biochemistry (Lecture And Lab)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01122",
+                            "title": "Precalculus Mathematics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "22450",
+                            "title": "Molecular Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00210",
+                            "title": "Physics I without Calculus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00211",
+                            "title": "Physics II without Calculus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "11338",
+                            "title": "Immunology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01430",
+                            "title": "Advanced Cell Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00200",
+                            "title": "Basic Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00202",
+                            "title": "Medical Terminology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "UNIV",
+                            "course_number": "01111",
+                            "title": "Introduction to Health Professions",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 16 s.h. Depending on the health profession targeted and in consultation with the program director, choose 16 s.h. from the following courses:",
+                "CHEM L7200 - Organic Chemistry I Laboratory Credits: 0",
+                "CHEM L7201 - Organic Chemistry II Laboratory Credits: 0",
+                "PHYS L0210 - Physics I Without Calculus Laboratory Credits: 0",
+                "PHYS L0211 - Physics II Without Calculus Laboratory Credits: 0",
+                "PSY 01108 - Essentials of Psychology for Pre-Health Students Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 32 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 32 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Completion of the required courses in the selected professional area bank with a 3.0 GPA and approval of completion by the program advisor. Students are required to fulfill a minimum of 32 credits in the program. Minimum Required Grades and Cumulative GPA The Master of Science in Pharmaceutical Sciences is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Advisor Contact Information Brianna Metzger metzgerb@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

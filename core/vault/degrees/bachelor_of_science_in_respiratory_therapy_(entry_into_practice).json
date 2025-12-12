@@ -1,0 +1,184 @@
+{
+    "name": "Bachelor of Science in Respiratory Therapy (Entry into Practice)",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7288&returnto=1028",
+    "content": {
+        "Bachelor of Science in Respiratory Therapy (Entry into Practice)": [
+            "Bachelor of Science in Respiratory Therapy (Entry into Practice) The Bachelor of Science in Respiratory Therapy Entry into Professional Practice (BSRT-EIP) program responds to the ongoing need to educate the next generation of respiratory therapists with the knowledge and skills necessary to lead in this dynamic area of health care. The program is designed for students who have completed foundational and general education coursework in a pre-health professions associate’s degree and offers two years of professional advanced study and clinical coursework culminating in a Bachelor of Science in Respiratory Therapy degree. The entry-level program is intended for students with no prior knowledge or clinical skills in respiratory care. Graduates of the program will be eligible to sit for the Registered Respiratory Therapist credentialing examinations offered by the National Board for Respiratory Care (NBRC). The Bachelor of Science in Respiratory Therapy program Entry into Practice program (CoARC program number 200645), located at the Sewell campus, holds Provisional Accreditation from the Commission on Accreditation for Respiratory Care (www.coarc.com). Application Requirements The BSRT-EIP program requires the following for consideration of admission to the program. Students must have earned at least an associate’s degree in pre-health professions. Students must fulfill the general education requirements of Rowan Core, either through the transfer of credits or completion of courses at Rowan University, and meet prerequisite requirements for advanced and clinical coursework. Additional coursework may be required, depending on the number of credits transferred to Rowan University.   Students must complete all required program courses with a grade of “C” or higher. Students must meet Rowan University requirements for graduation, including general education and minimum GPA requirements, along with program requirements. Course of Study Rowan University requires a minimum of 120 credits to be taken within approved general education and major coursework in order to graduate with a Bachelor’s degree. To obtain the Bachelor of Science in Respiratory Therapy, all students complete the following coursework: 60 credits minimum from the associate’s degree 60 credits respiratory therapy program coursework"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RESP",
+                            "course_number": "09300",
+                            "title": "Fundamentals of Respiratory Care Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09301",
+                            "title": "Fundamentals of Respiratory Care Lab",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09302",
+                            "title": "Cardiopulmonary Anatomy and Physiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09303",
+                            "title": "Respiratory Care Pharmacology",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09304",
+                            "title": "Critical Care",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09305",
+                            "title": "Clinical Practice I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09310",
+                            "title": "Principles of Ventilatory Support I Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09311",
+                            "title": "Principles of Ventilatory Support I Lab",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09306",
+                            "title": "Cardiopulmonary Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09307",
+                            "title": "Cardiopulmonary Pathophysiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09315",
+                            "title": "Clinical Practice II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09410",
+                            "title": "Principles of Ventilatory Support II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09411",
+                            "title": "Principles of Ventilatory Support II Lab",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09402",
+                            "title": "Pediatric and Neonatal Respiratory Care Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09403",
+                            "title": "Pediatric and Neonatal Respiratory Care Lab",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09400",
+                            "title": "Introduction to Clinical Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09425",
+                            "title": "Clinical Practice III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09404",
+                            "title": "Respiratory Care in the Long Term, Home Care and Pulmonary Rehab Setting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09401",
+                            "title": "Evidence-based Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCNV",
+                            "course_number": "07401",
+                            "title": "Inter-professional Teamwork in Healthcare",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51101",
+                            "title": "Introduction to Healthcare Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09435",
+                            "title": "Clinical Practice IV",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09450",
+                            "title": "Senior Seminar",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Hours: 60 s.h.": [
+            "Total Hours: 60 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Barry Ransom Program Director ransomb7@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "name": "Certificate of Graduate Study in Transportation Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7614&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Transportation Engineering": [
+            "Certificate of Graduate Study in Transportation Engineering The Certificate of Graduate Study (COGS) in Transportation Engineering is designed for professionals in the area to obtain the advanced education and skills needed for professional growth. The COGS will be a particular boost to professionals in the field of Environmental Engineering that have worked for several years and have obtained their professional license or are preparing to sit for the Professional Engineering Exam, but have not yet started a MS degree."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08562",
+                            "title": "Advanced Transportation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08565",
+                            "title": "Advanced Pavement Analysis and Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08566",
+                            "title": "Transportation Systems Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08568",
+                            "title": "Intelligent Transportation System",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01580",
+                            "title": "Advanced Viscoelasticity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Choose four (4) courses from the following list.",
+                "Additional graduate-level course(s) with approval of graduate advisor Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Transportation Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Mohammad Jalayer, Ph.D. Rowan Hall 856.256.5397 jalayer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

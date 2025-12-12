@@ -1,0 +1,128 @@
+{
+    "name": "Master of Arts in Holocaust & Genocide Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7581&returnto=1028",
+    "content": {
+        "Master of Arts in Holocaust & Genocide Education": [
+            "Master of Arts in Holocaust & Genocide Education The Masters of Arts in Holocaust & Genocide Education prepares its students to create lessons, develop curricula and programs, and evaluate curricula and programs in Holocaust & Genocide Education. It brings deep content knowledge together with a strong constructivist pedagogy in order to help students consider what Holocaust & genocide education might look like across diverse settings. Additionally, this is an essential program, as New Jersey is one of eight states with a Holocaust & genocide teaching mandate, which requires P-12 teachers to teach about the Holocaust & genocides “at the earliest possible moment.”"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HGS",
+                            "course_number": "70507",
+                            "title": "Introduction to Holocaust and Genocide Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HGS",
+                            "course_number": "70537",
+                            "title": "Holocaust and Genocide Education Program Evaluation and Creation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05573",
+                            "title": "Modern European History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05531",
+                            "title": "Colloquium in Global History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05523",
+                            "title": "Colloquium in European History II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 15 s.h."
+            ]
+        },
+        "Elective Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HGS",
+                            "course_number": "70577",
+                            "title": "Student Assessment in Holocaust and Genocide Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05523",
+                            "title": "Colloquium in European History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05511",
+                            "title": "Colloquium in American History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HGS",
+                            "course_number": "70527",
+                            "title": "Colloquium in Holocaust and Genocide Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07542",
+                            "title": "Theatre of the Holocaust",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08575",
+                            "title": "Social Determinants of Health: Theory and Intervention in Urban Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 12 s.h. Choose 12 s.h. from the following:",
+                "Other approved graduate-level courses as approved by Program Coordinator Credits: 3"
+            ]
+        },
+        "Required Capstone Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HGS",
+                            "course_number": "70597",
+                            "title": "Capstone in Holocaust and Genocide Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Capstone Course: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Successful completion of capstone course. Minimum Required Grades and Cumulative GPA The Master of Arts in Holocaust & Genocide Education Studies is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Jennifer Rich, Ph.D. Department of Sociology & Anthropology Campbell Library, Fifth Floor 856.256.4500, ext.53980 richj@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

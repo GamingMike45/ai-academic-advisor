@@ -1,0 +1,174 @@
+{
+    "name": "Certificate of Undergraduate Study in Wind Energy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7066&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Wind Energy": [
+            "Certificate of Undergraduate Study in Wind Energy The Murphy Administration has set forth the New Jersey Energy Master Plan, which will put the state onto a path towards 100% clean energy by 2050. Offshore wind has the potential to supply substantial amounts of clean energy to meet the State’s and the Nation’s power needs while creating jobs and addressing the climate crisis. Short- and medium-term workforce needs have been identified by the National Renewable Energy Laboratory (NERL) with the offshore wind industry alone expected to provide approximately 7,000 new jobs in Southern New Jersey by 2028. Electrical and Computer Engineering program, in collaboration with Mechanical Engineering, will be offering a Certificate of Undergraduate Study (CUGS) in wind energy, consisting of four courses (12-13 credit hours). This CUGS is designed to provide a breadth and depth to students who want to specialize in wind energy systems and prepare them for a career in the wind energy industry. This particular CUGS and its courses are designed for undergraduate students, with projects in each of its required courses that are commensurate with their background."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09417",
+                            "title": "Fundamental Technologies Towards Green Energy Future",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10435",
+                            "title": "Introduction to Wind Energy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Electives: 6-7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09418",
+                            "title": "Fundamentals of Wind Energy System Planning and Operation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09410",
+                            "title": "Alternate Energy Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09408",
+                            "title": "Power System Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09415",
+                            "title": "Fundamentals of Emerging Electricity Market",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09472",
+                            "title": "Smart Grid",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09416",
+                            "title": "Power Electronic Converter Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09473",
+                            "title": "Smart Sensors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09474",
+                            "title": "Electricity Supply Procurement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09421",
+                            "title": "Introduction to Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09402",
+                            "title": "Topics in Electrical and Computer Engineering Needs approval",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10481",
+                            "title": "Introduction to Aerodynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10422",
+                            "title": "Introduction to Computational Fluid Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10430",
+                            "title": "Introduction to Reliability Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10450",
+                            "title": "Introduction to Advanced Solid Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10460",
+                            "title": "Introduction to Composite Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10462",
+                            "title": "Intro to FEA with ANSYS",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI (must be taken twice for a total of 4 credit hour). - Must be enrolled in one of the specific sections of Senior Engineering Clinic that focuses on wind energy topics.",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "EGR",
+                            "course_number": "02451",
+                            "title": "Senior Technology Clinic I (Must be enrolled in one of the sections of Senior Technology Clinic I and II focusing on wind energy topics.)",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EGR",
+                            "course_number": "02452",
+                            "title": "Senior Technology Clinic II (Must be enrolled in one of the sections of Senior Technology Clinic I and II focusing on wind energy topics.)",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 6-7 s.h. Choose any two courses from the following list."
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. To be awarded the CUGS in Wind Energy, students must complete all courses required for this CUGS with at least a 2.0 average. Some courses may have prerequisites. Students should check for these prerequisites carefully. Double counting policy : For all CUGS offered by the ECE Department, at most two courses can be double counted to satisfy the CUGS and the B.S. in ECE degree requirements. Therefore, ECE students pursuing this CUGS must take at least two courses above and beyond their BS in ECE degree requirements. CS (or other non-ECE) courses that are at 300 or lower level cannot be counted towards BS in ECE degree requirements. The ECE program accepts at most one non-ECE course to be taken in lieu of senior ECE electives subject to the following conditions: 1) the class must be technical in nature that is reasonably relevant to ECE and/or engineering (department must pre-approve); and 2) the class must be a 400-level class. Non-ECE students who pursue this CUGS should follow the course double-counting policies of the department in which their major resides. Jie Li Advisor 333 Engineering Hall 856.256.5345 lijie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "name": "Certificate of Undergraduate Study in Biotechnology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7197&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Biotechnology": [
+            "Certificate of Undergraduate Study in Biotechnology The Certificate of Undergraduate Study (CUGS) in Biotechnology provides content knowledge and laboratory skills to students pursuing careers in bioengineering, biomedicine, molecular biology, biotechnology, and pharmaceutical research. Students will have a deep understanding of several aspects of biotechnology, including concepts, laboratory techniques, communication skills, and critical thinking skills that are vital to a biotechnology career. Students will know how to perform fundamental biotechnology techniques including mammalian cell culture, microbial culture, genetic engineering, manipulation and characterization of viruses and immune cells, cloning, nucleic acid analysis and manipulation, PCR, DNA sequencing, protein analysis, and bioinformatics."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "22450",
+                            "title": "Molecular Genetics *",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11330",
+                            "title": "Microbiology *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01320",
+                            "title": "Introduction to Virology *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "11338",
+                            "title": "Immunology *",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCB",
+                            "course_number": "01421",
+                            "title": "Fundamentals in Cell Culture Techniques *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07310",
+                            "title": "Introduction to Bioinformatics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: The requirements include the following four courses:",
+                "* These courses are restricted electives in the Chemistry, Biochemistry, Biophysics, Translational Biomedical Sciences (TBS), and Biomedical Engineering programs"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS in Biotechnology, students must complete all courses required for the CUGS in Biotechnology with at least a 2.0 average. The pre-requisites for these courses make this CUGS ideal for Rowan students in the following majors: Biology, Bioinformatics, Chemistry, Biochemistry, Biophysics, Translational Biomedical Sciences (TBS), Molecular and Cellular Biology (MCB), and Biomedical Engineering. In addition, post-baccalaureate students interested in enhancing their biotechnology training are encouraged to pursue this CUGS. NOTE: THIS PROGRAM MAY NOT BE OFFERED EVERY YEAR. Ben Carone Advisor Science Hall 256A 856.256.4500 ext. 53587 carone@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "name": "Certificate of Undergraduate Study in Management Information Systems",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6976&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Management Information Systems": [
+            "Certificate of Undergraduate Study in Management Information Systems The Certificate of Undergraduate Study (CUGS) in Management Information Systems is primarily for non-business majors who are interested in learning how information systems can be used to support business operations and achieve organizational strategy. The two required courses in the CUGS introduce students to the basic business functions and address the key components of information systems - organizations, people, software, hardware, data, and telecommunications - and how these components can be integrated and managed to play an essential role in creating competitive advantage. Students will then be able to choose two electives depending on what area of information systems they would like to further explore."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01105",
+                            "title": "Business Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02338",
+                            "title": "Design of Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02337",
+                            "title": "Applied Database Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10337",
+                            "title": "Applied Database Technologies",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02322",
+                            "title": "Principles of System Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02301",
+                            "title": "Emerging Technologies I",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02302",
+                            "title": "Emerging Technologies II",
+                            "credits": "1 to 4"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 6 s.h. Select two (6 s.h.) from the following list of courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Management Information Systems, students must complete all courses required for the CUGS in Management Information Systems with at least a 2.0 GPA average. The above-mentioned pre-requisites make this CUGS best suited for sophomores who would like to develop a greater understanding of the integral role information systems play in an organization. To declare the MIS CUGS for non-business majors, email rcbminors@rowan.edu Faculty Coordinator: Michael Milovich Business Hall 316 856.256.5424 milovich@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

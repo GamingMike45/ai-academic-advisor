@@ -1,0 +1,152 @@
+{
+    "name": "Certificate of Undergraduate Study in Cosmetic Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7719&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Cosmetic Science": [
+            "Certificate of Undergraduate Study in Cosmetic Science The Certificate in Undergraduate Study in Cosmetic Science will provide students with specialized study to enhance knowledge and skills necessary for employment in the cosmetic industry. Students learn how to appropriately use raw materials to make new products and then develop, formulate, and assess the safety and quality of the products for human use. They study regulations and how to assess products’ safety, performance and quality to ensure that they understand how safe, effective, and environmentally friendly products are scientifically formulated."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses: 10 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07101",
+                            "title": "Cosmetic Chemistry I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07102",
+                            "title": "Cosmetic Chemistry II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07220",
+                            "title": "Cosmetic Formulations Lecture and",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 10 s.h.",
+                "CHEM L7220 - Cosmetic Formulations Lab Credits: 0"
+            ]
+        },
+        "Electives Course: 3 - 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01345",
+                            "title": "Animals and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "20330",
+                            "title": "Environmental Science",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07357",
+                            "title": "Chemical Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07388",
+                            "title": "Natural Products Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07405",
+                            "title": "Introduction to Polymer Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07464",
+                            "title": "Advanced Organic Chemistry I- WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07470",
+                            "title": "Organic Spectroscopic Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07475",
+                            "title": "Polymer Synthesis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07490",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07492",
+                            "title": "Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07493",
+                            "title": "Introduction to Regulatory Affairs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07494",
+                            "title": "Good Laboratory Practice (GLP) Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09249",
+                            "title": "Analytical Chemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09300",
+                            "title": "Environmental Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09410",
+                            "title": "Instrumental Methods",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives Course: 3 - 4 s.h. Choose one course from the following list."
+            ]
+        },
+        "Total Number of Credits Required for the Program: 12 - 13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Number of Credits Required for the Program: 12 - 13 s.h. To be awarded the CUGS in Cosmetic Science, students must complete all courses required for the CUGS in Cosmetic Science with at least a 2. 0 average.",
+                "Notes:"
+            ]
+        }
+    }
+}

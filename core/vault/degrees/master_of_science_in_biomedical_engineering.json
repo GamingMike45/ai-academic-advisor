@@ -1,0 +1,360 @@
+{
+    "name": "Master of Science in Biomedical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7602&returnto=1028",
+    "content": {
+        "Master of Science in Biomedical Engineering": [
+            "Master of Science in Biomedical Engineering The Master of Science in Biomedical Engineering program at Rowan University effectively prepares individuals to respond to the changing needs of engineers today. This program provides students with the necessary knowledge, skill set, and training to effectively contribute to the engineering workforce. Students have access to higher level courses leading to a graduate degree and are involved in professional development opportunities which increase the breadth of understanding and application of engineering principles. The Master of Science in Biomedical Engineering is a research-based degree, and additional graduate-level Biomedical Engineering coursework gives students an opportunity to expand their skill set in advanced topics of interest. Advanced topics include Biomaterials Engineering, Tissue Engineering and Regenerative Medicine, Bioinstrumentation, Biomechanics and Mechanobiology, Immunoengineering and other emerging areas. A novel research project completed under the mentorship of a faculty advisor and culminating in a Thesis, requires students to effectively apply engineering principles to solve a contemporary biomedical problem."
+        ],
+        "Program Requirements": {
+            "requirements": [],
+            "notes": [
+                "Program Requirements The Rowan University Master of Science in Biomedical Engineering requires the completion of 30 hours of graduate level coursework and the successful completion and defense of a Master’s Thesis. Coursework The following courses make up the Master of Science in Biomedical Engineering curriculum. Biomedical Engineering Core Courses : Minimum of 12 s.h. (chosen in consult with advisor) Elective Courses: 9-12 s.h. (chosen in consult with advisor, a maximum of 3 s.h. of Business Courses may be counted toward Elective Courses) Research Credits: 6-9 s.h."
+            ]
+        },
+        "Biomedical Engineering Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BME",
+                            "course_number": "11550",
+                            "title": "Advanced Biocompatibility and Immunoengineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11551",
+                            "title": "Advanced Mechanobiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11573",
+                            "title": "Biomaterials Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11611",
+                            "title": "Biological Transport Phenomena",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "14540",
+                            "title": "Introduction to Biochemistry I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06586",
+                            "title": "Advanced Engineering Thermodynamics.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11554",
+                            "title": "Advanced Stem Cell Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03512",
+                            "title": "Operations Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03525",
+                            "title": "Partial Differential Equations in Biomathematics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Biomedical Engineering Core Courses: 12 s.h. Students must choose 12 s.h. from the following bank of courses. An advanced mathematics course is required.",
+                "BME 11610 - Special Topics for Doctoral Students in Biomedical Engineering Credits: 3",
+                "Another equivalent course determined in consult with advisor"
+            ]
+        },
+        "Biomedical Engineering Elective Courses: 9-12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BME",
+                            "course_number": "11552",
+                            "title": "Advanced Cell Bioelectricity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11553",
+                            "title": "Regulatory Strategies in Biomedical Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11555",
+                            "title": "Fundamentals of Synthetic Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11556",
+                            "title": "Advanced Nanoparticle Design and Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11568",
+                            "title": "Advanced Phenomena in Biomaterials Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11590",
+                            "title": "Advanced Emerging Topics in Biomedical Engineering",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11602",
+                            "title": "Writing and Winning Grant Proposals in the Biomedical Field",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01510",
+                            "title": "Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08573",
+                            "title": "Advanced Structural Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08675",
+                            "title": "Fracture Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06518",
+                            "title": "Polymer Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06572",
+                            "title": "Biomedical Process Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06578",
+                            "title": "Tissue Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08505",
+                            "title": "Advanced Biophysical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10505",
+                            "title": "Special Topics in Mechanical Engineering",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10522",
+                            "title": "Computational Fluid Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10550",
+                            "title": "Advanced Solid Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10570",
+                            "title": "Principles in Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01512",
+                            "title": "Complex Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01521",
+                            "title": "Nonlinear Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03610",
+                            "title": "Applied Statistical Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03611",
+                            "title": "Special Topics in Biomathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Biomedical Engineering Elective Courses: 9-12 s.h. Students must choose 9-12 s.h. from the following bank of courses in consultation with their advisor. Any Core Courses in excess of 12 credits may be counted as Electives. The following list of concentration courses is not limiting; additional courses may be approved by the academic advisor."
+            ]
+        },
+        "Approved Business Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06505",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01501",
+                            "title": "Engineering Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01511",
+                            "title": "Strategic Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01512",
+                            "title": "Quality in Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01541",
+                            "title": "Engineering Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10543",
+                            "title": "Advanced Design for X",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06510",
+                            "title": "Strategic Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02526",
+                            "title": "Project Management for Engineers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Approved Business Courses: 3 s.h. Limit of 3 s.h. may count toward the Biomedical Engineering Technical Elective requirement."
+            ]
+        },
+        "Biomedical Engineering Research Courses: 6-9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01599",
+                            "title": "Master’s Research and Thesis",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Biomedical Engineering Research Courses: 6-9 s.h. Research hours are credited for laboratory research leading to a Master’s Thesis."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses The following undergraduate courses are required: For applicants with undergraduate majors that are not Biomedical Engineering or a closely related field, undergraduate courses may be required during matriculation. The following undergraduate courses are strongly recommended: Chemistry I, Physics I, Calculus I, II, and III, Linear Algebra, and Differential Equations. Graduation/Exit, Benchmark, and Thesis Requirements Student must successfully complete and defend a Master’s thesis. Minimum Required Grades and Cumulative GPA The Master of Science in Biomedical Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Graduate Program Chair Contact Information Patrick Hwang, Ph.D. Engineering Hall hwangp@rowan.edu Department Head Contact Information Mary Staehle Engineering Hall 856.256.5338 staehlem@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

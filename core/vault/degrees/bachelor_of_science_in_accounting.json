@@ -1,0 +1,268 @@
+{
+    "name": "Bachelor of Science in Accounting",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6963&returnto=1028",
+    "content": {
+        "Bachelor of Science in Accounting": [
+            "Bachelor of Science in Accounting The Bachelor of Science in Accounting requires the common core of the College of Business courses. Courses within the accounting major provide students with a broad understanding of accounting theory and practice, incorporating and infusing data analytics, information technology, and ethical issues. The program prepares students for a diversified range of career opportunities and meets the requirements to sit for the Certified Public Accountant (CPA) Examination, as well as the Certified Management Accountant (CMA) Examination and the Certified Internal Auditor (CIA) Examination. Students working toward a Bachelor of Science in Accounting must achieve a 2.00 grade point average overall as well as a 2.50 grade point average in the Business core and accounting concentration to graduate."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 20-21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I (Satisfies Quantitative Literacy (QNTL) requirement)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02265",
+                            "title": "Basics of Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BUS",
+                            "course_number": "01488",
+                            "title": "Business Career Planning and Development",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 20-21 s.h. Course is this section must not be in the Major department",
+                "ECON 04101 - An Introduction to Economics-A Macroeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "ECON 04102 - An Introduction to Economics-A Microeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "MATH 03125 - Calculus: Techniques and Applications (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "STAT 02260 - Statistics I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "Any General Education Computer Science course Credits: 3"
+            ]
+        },
+        "Business Foundational Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03211",
+                            "title": "Principles of Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06402",
+                            "title": "Business Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Foundational Courses: 27 s.h."
+            ]
+        },
+        "Accounting Required Courses: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03301",
+                            "title": "Accounting Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03310",
+                            "title": "Intermediate Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03311",
+                            "title": "Intermediate Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03320",
+                            "title": "Accounting Information Systems",
+                            "credits": null
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03410",
+                            "title": "Auditing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03416",
+                            "title": "Advanced Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03428",
+                            "title": "Integrative Accounting Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03430",
+                            "title": "Individual Taxation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03431",
+                            "title": "Taxation of Business Entities",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Accounting Required Courses: 30 s.h."
+            ]
+        },
+        "Accounting Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03150",
+                            "title": "Introduction to Business and Analytics for Financial Information",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03300",
+                            "title": "Supervised Internship in Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03599",
+                            "title": "Special Topics in Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03411",
+                            "title": "Advanced Auditing and Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03419",
+                            "title": "Forensic Accounting and Fraud Investigation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "98300",
+                            "title": "Law for Accountants",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04444",
+                            "title": "Bitcoin, Cryptocurrency, and Blockchain Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Accounting Electives: 6 s.h. Students select two courses from the following list for a total of six (6) semester hours.",
+                "ACC 03425 - International Accounting (Satisfies Global Literacy (GLBL) requirement) Credits: 3",
+                "FIN 04327 - Selected Topics in Finance Credits: 0.5 to 4"
+            ]
+        },
+        "Free Electives: 27-28 s.h.": [
+            "Free Electives: 27-28 s.h."
+        ],
+        "Total Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

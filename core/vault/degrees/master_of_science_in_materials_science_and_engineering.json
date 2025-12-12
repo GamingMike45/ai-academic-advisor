@@ -1,0 +1,178 @@
+{
+    "name": "Master of Science in Materials Science & Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7545&returnto=1028",
+    "content": {
+        "Master of Science in Materials Science & Engineering": [
+            "Master of Science in Materials Science & Engineering The M.S. in Materials Science & Engineering program allows students to obtain advanced knowledge in materials and expand their skill sets in emerging topics of interest. This interdisciplinary program covers a wide variety of topics such as material properties, experimental techniques, fabrication and characterization of materials, novel materials, and material-related applications. The program will prepare students with the necessary knowledge and skills for careers in materials science and engineering. Thesis and non-thesis (course-only) tracks are available, both of which require a total of 30 credits. For the thesis track, 9 of the 30 credits come from original research that culminates in a thesis. For the non-thesis option, all 30 credits come from coursework. Tracks The program includes two tracks - a thesis track and a non-thesis track. Non-Thesis Track: Students choosing the non-thesis track take 30 credits of traditional (non-thesis) courses. Thesis Track: Students choosing the thesis track will also take 30 credits, but they will substitute between 9 credits of thesis courses for traditional (non-thesis) courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MSE",
+                            "course_number": "00510",
+                            "title": "Structure, Symmetry, and Properties of Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00520",
+                            "title": "Thermodynamics of Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00530",
+                            "title": "Experimental Techniques in Materials Science and Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00610",
+                            "title": "Kinetics of Materials",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Other Required Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01521",
+                            "title": "Nonlinear Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01512",
+                            "title": "Complex Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03512",
+                            "title": "Operations Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02513",
+                            "title": "Applied Stochastic Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02514",
+                            "title": "Decision Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Other Required Course: 3 s.h. Students will be required to take one of the following mathematics courses (unless an alternative math-intensive science or engineering course is approved):"
+            ]
+        },
+        "Elective Courses: 15 s.h.": [
+            "Elective Courses: 15 s.h. Any graduate-level course from BME, CEE, CHE, CHEM, ECE, PHYS, MATH, ME, MSE and MATH. Some courses have prerequisites so students need to consult with their Advisor/Advisory Committee before selecting courses."
+        ],
+        "Recommended Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09702",
+                            "title": "Strategic Technical Writing and Winning Grant Proposals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00620",
+                            "title": "Materials Science and Engineering Journal Club",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "XEED",
+                            "course_number": "01601",
+                            "title": "Effective Teaching in Academic, Corporate and Government Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Recommended Elective Courses"
+            ]
+        },
+        "Thesis Track Research Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MSE",
+                            "course_number": "00599",
+                            "title": "Master’s Thesis Research",
+                            "credits": "1 to 9"
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00598",
+                            "title": "Master’s Thesis Research Continuation",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis Track Research Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Minimum Required Grades and Cumulative GPA Master of Science (M.S.) in Materials Science & Engineering (Non-Thesis Track) is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Samuel Lofland 856.256.4382 lofland@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

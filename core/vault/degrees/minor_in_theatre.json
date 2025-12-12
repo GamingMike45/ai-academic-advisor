@@ -1,0 +1,198 @@
+{
+    "name": "Minor in Theatre",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7084&returnto=1028",
+    "content": {
+        "Minor in Theatre": [
+            "Minor in Theatre The Minor in Theatre provides students practical and scholarly courses in Theatrical Arts. Students interested in declaring a Minor in Theatre must take and pass the Rowan general education course, Experiencing Acting, and obtain a letter of approval from the instructor. The Minor in Theatre Arts consists of 19 semester hours of study: 10 semester hours of required courses, plus 9 hours of electives."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 10 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07230",
+                            "title": "Stagecraft Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07203",
+                            "title": "Costuming I and Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07111",
+                            "title": "Colloquium in Theatre I Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07112",
+                            "title": "Colloquium in Theatre II Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07130",
+                            "title": "The Living Theatre",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07215",
+                            "title": "Experiencing Acting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07205",
+                            "title": "Costuming II Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 10 s.h."
+            ]
+        },
+        "Electives Choose two (2) of the following: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07103",
+                            "title": "Voice for the Stage",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07350",
+                            "title": "Scene Design Studio",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07353",
+                            "title": "Stage Lighting Design and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07356",
+                            "title": "Costume Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07310",
+                            "title": "Foundations of Theatrical Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07250",
+                            "title": "Introduction to Theatre Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07360",
+                            "title": "Musical Theatre",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07235",
+                            "title": "Acting I (Majors Only)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07430",
+                            "title": "Directing I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08126",
+                            "title": "Movement for the Actor",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07365",
+                            "title": "Theatre Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07232",
+                            "title": "Stagecraft III Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07233",
+                            "title": "Stagecraft IV Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives Choose two (2) of the following: 6 s.h."
+            ]
+        },
+        "History/Literature Elective Choose one (1) of the following: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07339",
+                            "title": "Theatre History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07340",
+                            "title": "Theatre History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07440",
+                            "title": "Contemporary World Theatre - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "History/Literature Elective Choose one (1) of the following: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 19 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 19 s.h. Dr. Anthony Hostetter Advisor Wilson Hall 856.256.4500, ext. 53394 hostettera@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

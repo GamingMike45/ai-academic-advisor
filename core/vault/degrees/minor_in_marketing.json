@@ -1,0 +1,146 @@
+{
+    "name": "Minor in Marketing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6972&returnto=1028",
+    "content": {
+        "Minor in Marketing": [
+            "Minor in Marketing"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I (may be included in General Education)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09376",
+                            "title": "Consumer Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09384",
+                            "title": "Research Methods in Marketing-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09379",
+                            "title": "International Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09386",
+                            "title": "The Marketing Plan",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 18 s.h."
+            ]
+        },
+        "Electives: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09375",
+                            "title": "Business Logistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09391",
+                            "title": "Business to Business Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09305",
+                            "title": "Digital Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09350",
+                            "title": "Management of Advertising and Promotion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09330",
+                            "title": "Marketing Channels",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09315",
+                            "title": "Personal Selling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09378",
+                            "title": "Product, Price, New Venture Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09372",
+                            "title": "Retailing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09382",
+                            "title": "Sales Force Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09360",
+                            "title": "Services Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09411",
+                            "title": "Supervised Internship in Marketing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 3 s.h. Select one (3.s.h.) course from the list below or any 300- or 400-level MKT course:",
+                "MKT 09390 - Selected Topics in Marketing Credits: 3"
+            ]
+        },
+        "Total Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for the Program: 21 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Undergraduate Study in Qualitative Research",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6954&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Qualitative Research": [
+            "Certificate of Undergraduate Study in Qualitative Research The Certificate of Undergraduate Study (CUGS) in Qualitative Research is an interdisciplinary program primarily designed to prepare students to learn how to collect, analyze, and present qualitative data from a variety of sources including individual interviews, focus groups, participatory and ethnographic research. Qualitative research is increasingly used in a wide range of fields for the purpose of developing health and social policies, public relations strategies, consumer products, computer programs, educational programs, and governmental policies. The CUGS in Qualitative Research brings together courses from a variety of fields including sociology and anthropology, history, public relations, marketing, and radio, television and film. This CUGS will enhance opportunities for students from the various colleges to integrate knowledge and methods from a variety of disciplines, and thus, will allow students to create an integrative and innovative curriculum. A CUGS in Qualitative Research that engages students in experiential learning will enhance job accessibility and work performance."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following:"
+        ],
+        "The required courses are:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The required courses are:"
+            ]
+        },
+        "Courses in the electives bank are:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02420",
+                            "title": "Psychological Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06310",
+                            "title": "Introduction to Public Relations/Advertising Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "99362",
+                            "title": "Public Opinion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08370",
+                            "title": "Sociology of Women In Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02290",
+                            "title": "Museum Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08375",
+                            "title": "Sociological Research Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "01402",
+                            "title": "Special Topics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LING",
+                            "course_number": "11250",
+                            "title": "Introduction to Anthropological Linguistics (if related to qualitative research)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02250",
+                            "title": "Introduction to Anthropological Linguistics (if related to qualitative research)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Courses in the electives bank are:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. The CUGS will be awarded when 3 semester credits of the required courses have been completed, and when 9 semester credits from the electives bank have been completed, for a total of 12 semester credits. Completion of all required coursework must be in accordance with University requirements for good standing. Seran Schug Advisor Campbell 536 856.256.4500 x53511 schug@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

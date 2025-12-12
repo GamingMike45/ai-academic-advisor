@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Courses Prerequisites</title>
+</head>
+
+<body>
+  <h1>Courses to Edit</h1>
+
+  <table border="1">
+    <tr>
+      <th>Course Code</th>
+      <th>Expression</th>
+      <th>Valid</th>
+      <th>Missing Prerequisites</th>
+      <th>Actions</th>
+    </tr>
+
+    {% for course in courses %}
+    <tr>
+      <td>{{ course.course_code }}</td>
+
+      <td>{{ course.expr or '' }}</td>
+
+      <td>
+        <input type="checkbox" {% if course.valid %}checked{% endif %} disabled />
+      </td>
+
+      <td>
+        {% if course.not_found %} {{ course.not_found | join(", ") }} {% else
+        %} None {% endif %}
+      </td>
+      <td>
+        <a href="/courses/{{ course.course_code }}/edit">Edit</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+
+</html>

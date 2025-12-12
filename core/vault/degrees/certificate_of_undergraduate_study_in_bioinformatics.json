@@ -1,0 +1,66 @@
+{
+    "name": "Certificate of Undergraduate Study in Bioinformatics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7196&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Bioinformatics": [
+            "Certificate of Undergraduate Study in Bioinformatics The Certificate of Undergraduate Study (CUGS) in Bioinformatics provides a sequence of courses on handling and understanding big biological data, enabling students to pursue advanced bioinformatics or other biomedical programs. This CUGS provides the specialization in bioinformatics: 1). Expand the knowledge base and expertise of students in the life and information sciences. 2). Develop skill sets required for bioinformatics and computational biology work. 3). Encourage hands-on research experience, allowing students to perform novel research in bioinformatics."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04215",
+                            "title": "Computer Laboratory Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07310",
+                            "title": "Introduction to Bioinformatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "05355",
+                            "title": "Bioinformatics: Biological Applications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12/13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12/13 s.h. To be awarded the CUGS in Bioinformatics, students must complete all courses required for the CUGS in Bioinformatics with at least a 2.0 average. The interdisciplinary nature makes this CUGS suited for students majoring in Biomedical and Translational Sciences, Biological Sciences, Biochemistry, Biomedical Engineering, Mathematics, Computer science, and other science and engineering. Advisor Benjamin Carone Science Hall 256D 856.256.4500 ext. 53587 carone@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

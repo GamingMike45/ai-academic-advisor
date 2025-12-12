@@ -1,0 +1,64 @@
+{
+    "name": "Minor in International Business",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7422&returnto=1028",
+    "content": {
+        "Minor in International Business": [
+            "Minor in International Business As a result of the extraordinary changes brought on by globalization, companies need individuals who not only have business skills, but who are also comfortable managing and communicating across cultures. The Minor in International Business, offered by the Department of Management, is designed to benefit students of all non-Business majors by giving them an option to study International Business courses and, therefore, embrace an increasingly international world. This minor will benefit students who would like to work abroad or who would like to work in an organization that is engaged in business on a global scale."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01105",
+                            "title": "Business Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06330",
+                            "title": "Managing International Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09379",
+                            "title": "International Marketing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": [
+            "Elective Courses: 6 s.h. Choose any two Arabic, Chinese, French, German, Italian, Japanese, Russian, or Spanish courses. Both courses must be taught in the same language; courses taught in English cannot be used for this minor."
+        ],
+        "Total Required Credits for the Program: 21": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 Joel Rudin Advisor Business Hall 856.256.5429 rudin@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

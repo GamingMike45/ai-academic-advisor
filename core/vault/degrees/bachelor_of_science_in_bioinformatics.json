@@ -1,0 +1,515 @@
+{
+    "name": "Bachelor of Science in Bioinformatics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7191&returnto=1028",
+    "content": {
+        "Bachelor of Science in Bioinformatics": [
+            "Bachelor of Science in Bioinformatics Bioinformatics is a multidisciplinary field of study that uses computational and statistical tools to answer large biological questions. The advent of next-generation DNA/RNA sequencing and other high-throughput biological techniques has resulted in extremely large datasets. In this program, students will learn underlying biological concepts as well as how to store, process and interpret such datasets."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 19 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00221",
+                            "title": "Introductory Thermodynamics, Fluids, Waves, and Optics",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09368",
+                            "title": "Philosophy of Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09376",
+                            "title": "Philosophy of Medicine - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 19 s.h."
+            ]
+        },
+        "Major Requirements: 81 s.h.": [
+            "Major Requirements: 81 s.h."
+        ],
+        "Foundational Courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 16 s.h."
+            ]
+        },
+        "Mid-level Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BINF",
+                            "course_number": "07310",
+                            "title": "Introduction to Bioinformatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04215",
+                            "title": "Computer Laboratory Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04225",
+                            "title": "Principles of Data Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-level Courses: 24 s.h."
+            ]
+        },
+        "Upper-level Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "TBS",
+                            "course_number": "01220",
+                            "title": "Translational Biomedical Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05440",
+                            "title": "Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01475",
+                            "title": "Biology Lab/Field Research",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BINF",
+                            "course_number": "05355",
+                            "title": "Bioinformatics: Biological Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "05360",
+                            "title": "Programming for Molecular Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07399",
+                            "title": "Bioinformatics: Biochemical Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "22450",
+                            "title": "Molecular Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07348",
+                            "title": "Biochemistry (Lecture And Lab)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01303",
+                            "title": "Bioinformatics - Computational Aspects",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01450",
+                            "title": "Biomedical Frontiers Seminar I",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-level Courses: 24 s.h."
+            ]
+        },
+        "BINF Restricted Elective Courses: Minimum 17 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01301",
+                            "title": "Data Science for Biologists",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01310",
+                            "title": "Advanced Evolution",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01315",
+                            "title": "Cancer Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01342",
+                            "title": "Molecular Evolution",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01430",
+                            "title": "Advanced Cell Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01405",
+                            "title": "Conservation Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01428",
+                            "title": "Developmental Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01459",
+                            "title": "Genome Sciences",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11330",
+                            "title": "Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11405",
+                            "title": "Environmental Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11407",
+                            "title": "Molecular Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "20310",
+                            "title": "Advanced Ecology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07407",
+                            "title": "Advanced Biochemistry Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07409",
+                            "title": "Advanced Biochemistry Laboratory",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07410",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07431",
+                            "title": "Advanced Topics In Biochemistry",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08305",
+                            "title": "Biophysical Chemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08410",
+                            "title": "Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02370",
+                            "title": "Introduction to Information Visualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04114",
+                            "title": "Object Oriented Programming and Data Abstraction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06205",
+                            "title": "Computer Organization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06390",
+                            "title": "Introduction to Systems Simulation and Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01201",
+                            "title": "Molecular Biology Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01306",
+                            "title": "Translational Cell Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01307",
+                            "title": "Translational Cell Biology Lab",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01308",
+                            "title": "Special Topics in Molecular and Cellular Biosciences",
+                            "credits": "2 to 3"
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01320",
+                            "title": "Introduction to Virology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01334",
+                            "title": "Medical Biochemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01414",
+                            "title": "General Aspects of Infectious Agents",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01421",
+                            "title": "Fundamentals in Cell Culture Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "10345",
+                            "title": "Human Physiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "11338",
+                            "title": "Immunology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "NEUR",
+                            "course_number": "01301",
+                            "title": "Introduction to Neuroscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01230",
+                            "title": "Translational Biomedical Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01451",
+                            "title": "Biomedical Frontiers Seminar II",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "BINF Restricted Elective Courses: Minimum 17 s.h. Students should choose at least five courses in consultation with an advisor. At least two BINF Restricted Electives must be 4 s.h. lecture+lab courses; total s.h. of five courses must be a minimum of 17 s.h.",
+                "INTR 01340 - Undergraduate Research Thesis (Students may take this up to 3 times for a total of 3 s.h.) Credits: 1"
+            ]
+        },
+        "Free Electives: 14 s.h.": [
+            "Free Electives: 14 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Completion of 120 semester hours of course work, including the non-program, major and elective courses as well as all Rowan Core and Rowan Experience requirements, with a minimum GPA of 2.0 is mandatory for graduation. Students must receive a grade of C or better in all courses satisfying Non-Program and Major requirements. Yong Chen Coordinator 856.256.4500 ext. 53589 chenyong@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

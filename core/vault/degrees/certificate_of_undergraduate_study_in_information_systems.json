@@ -1,0 +1,120 @@
+{
+    "name": "Certificate of Undergraduate Study in Information Systems",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6977&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Information Systems": [
+            "Certificate of Undergraduate Study in Information Systems The Certificate of Undergraduate Study (CUGS) in Information Systems is for College of Business majors who are interested in learning how information systems can be leveraged to provide value to the firm. In today’s digital era, students in all business majors should have knowledge of information systems and how they are used to support business processes and achieve organizational strategy. The three required courses for the CUGS in IS are considered foundation courses in any Management Information Systems program. Students may then choose one elective from a variety of courses depending on their area of interest."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02338",
+                            "title": "Design of Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02322",
+                            "title": "Principles of System Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02327",
+                            "title": "Network Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02332",
+                            "title": "E-Business - Information Systems Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02325",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02339",
+                            "title": "Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02301",
+                            "title": "Emerging Technologies I",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02302",
+                            "title": "Emerging Technologies II",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02303",
+                            "title": "Artificial Intelligence in Business",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Select one elective from the following list of courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Information Systems, students must complete all courses required for the CUGS in Information Systems with at least a 2.0 GPA average. The above-mentioned pre-requisites make this CUGS best suited for juniors who would like to develop a greater understanding of the integral role information systems play in an organization. To declare the CUGS in IS for business majors, contact your assigned advisor. Faculty Coordinator: Darren Nicholson Business Hall 312 856-256-4748 nicholson@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,329 @@
+{
+    "name": "Bachelor of Arts in Dance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7086&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Dance": [
+            "Bachelor of Arts in Dance The Bachelor of Arts in Dance is a performance degree that integrates the study of dance within a liberal arts curriculum. Dance majors move, think, and create. The BA in Dance provides multiple opportunities for students to develop technical and creative skills and express themselves as diverse and informed artists. Our theoretical and practical approaches to the study of dance stimulate physical, emotional, intellectual, and spiritual growth while preparing students for professional careers (in dance). Dance majors at Rowan University are immersed in a cross-disciplinary program that requires creating and collaborating with dancers, designers, artists, musicians, and the University community at large, embracing all aspects of the Liberal Arts experience."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Non-Program Courses: 18 s.h. Courses in this section cannot be in the Major department.  Students may choose the courses suggested below, or any other course that fulfills the Literacies.",
+                "RTF 03294 - Contemporary International Cinema (Satisfies Global Literacy (GLBL) Requirement) Credits: 3",
+                "PSY 01107 - Essentials of Psychology (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "MATH 01115 - Contemporary Mathematics (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 3"
+            ]
+        },
+        "Dance Technique: 18 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08140",
+                            "title": "Dance Improvisation I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08141",
+                            "title": "Dance Improvisation II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08237",
+                            "title": "Modern Dance I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08377",
+                            "title": "Modern Dance II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08378",
+                            "title": "Modern Dance III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08410",
+                            "title": "Advanced Styles in Modern Dance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Dance Technique: 18 s.h"
+            ]
+        },
+        "Creative Studies: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08225",
+                            "title": "Dance Composition I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08337",
+                            "title": "Choreography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08437",
+                            "title": "Dance Theatre Workshop",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Creative Studies: 9 s.h."
+            ]
+        },
+        "Theory: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08436",
+                            "title": "Dance History - WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08465",
+                            "title": "Dynamics of Human Movement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07230",
+                            "title": "Stagecraft Fundamentals",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Theory: 9 s.h."
+            ]
+        },
+        "Performance and Capstone: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07111",
+                            "title": "Colloquium in Theatre I Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07112",
+                            "title": "Colloquium in Theatre II Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07113",
+                            "title": "Colloquium in Theatre III Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07114",
+                            "title": "Colloquium in Theatre IV Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07115",
+                            "title": "Colloquium in Theatre V Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07116",
+                            "title": "Colloquium in Theatre VI Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07241",
+                            "title": "Practicum - Production Ensemble (taken 6 times for a total of 3 s.h.) Credits: 0 to 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07345",
+                            "title": "Rehearsal and Performance (taken twice for a total of 1 s.h.) Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07460",
+                            "title": "Senior Project in Theatre Arts",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Performance and Capstone: 9 s.h."
+            ]
+        },
+        "Free Electives: 48 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07105",
+                            "title": "Introduction to Performance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08246",
+                            "title": "Fundamentals of Ballet Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08256",
+                            "title": "Fundamentals of Jazz Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08202",
+                            "title": "Fundamentals of Tap",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08400",
+                            "title": "Fundamentals of the Lester Horton Technique",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08247",
+                            "title": "Advanced Ballet",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08257",
+                            "title": "Advanced Jazz Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08203",
+                            "title": "Advanced Tap Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08411",
+                            "title": "Intermediate/Advanced Horton Technique",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08442",
+                            "title": "Advanced Dance Improvisation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08146",
+                            "title": "World Dance Forms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08142",
+                            "title": "Contact Improvisation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07103",
+                            "title": "Voice for the Stage",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07203",
+                            "title": "Costuming I Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07205",
+                            "title": "Costuming II Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07107",
+                            "title": "Introduction to Design for Performance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07245",
+                            "title": "Stage Makeup",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Free Electives: 48 s.h. Additional technique courses in the major and/or non-program double major/minor. The following list includes suggested electives. These courses are not required to fulfil the Dance Major.",
+                "THD 07201 - Introduction to Theatre and Dance (Satisfies Rowan Seminar (RS) Requirement) Credits: 3"
+            ]
+        },
+        "Total Credits in Bachelor of Arts Degree in Dance: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits in Bachelor of Arts Degree in Dance: 120 s.h. Dawn Marie Bazemore Director of Dance Wilson Hall 856.256.4030 bazemored@rowan.edu Rachel Budmen Advisor 856.256.4537 budmen@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

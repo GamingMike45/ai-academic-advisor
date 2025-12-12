@@ -1,0 +1,54 @@
+{
+    "name": "Undergraduate Concentration in Honors with Distinction",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7366&returnto=1028",
+    "content": {
+        "Undergraduate Concentration in Honors with Distinction": [
+            "Undergraduate Concentration in Honors with Distinction"
+        ],
+        "Honors with Distinction Concentration, John H. Martinson Honors College": [
+            "Honors with Distinction Concentration, John H. Martinson Honors College The Honors Concentration with Distinction is typically a twelve (12) course program that culminates in a capstone experience and reflective portfolio. Classes are pro-rated for transfer students and other students who join the program after the first semester of their first year at Rowan. Students take their disciplinary major’s Honors classes as well as Honors courses that fulfill general education, Rowan Core, Rowan Experience, and free elective requirements.  Honors with Distinction encourages students to amplify the work in their major as well as take advantage of the breadth a university degree affords. Participation in the Martinson Honors College provides students with a rich educational experience as well as co- and extracurricular activities designed to cultivate citizen scholars. Students in Honors with Distinction must also complete all requirements for the Bantivoglio Honors Concentration in addition to their Distinction coursework. At graduation, Martinson Honors College graduates receive special recognition, and their accomplishments are highlighted in the Commencement Program and on their diplomas. Proposals for admission to the Honors with Distinction concentration are reviewed by the Dean, Assistant Dean, the Honors with Distinction Coordinator, and the Honors Faculty Advisory Board. Honors emphasizes interdisciplinary learning, enhanced classroom experiences, civic engagement, the importance of diversity, and active participation in a thriving community of intellectually curious students. Classes are small, so students can engage in active learning with professors committed to collaborative work. Students study topics such as climate change, marketing, medicine, time, and identity that are more effectively considered using perspectives from more than one discipline, and they are encouraged to supplement their major with concepts from other fields. Trips, special speakers, independent studies and research assistantships with faculty, competitive summer research experiences, participation at academic and professional conferences, and Honors special interest clubs enrich the curriculum as well. Graduation from the Honors College requires the successful completion of Honors coursework, an overall GPA of 3.5, and successful completion of the Honors Participation course each semester."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HONR",
+                            "course_number": "05301",
+                            "title": "Honors Capstone Proposal",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "HONR",
+                            "course_number": "05401",
+                            "title": "Honors Capstone Course (Course is taken twice for a total of 2 credits)",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "HONR",
+                            "course_number": "05402",
+                            "title": "Honors Portfolio",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "All requirements for Bantivoglio Undergraduate Concentration in Honors Studies",
+                "One additional Honors Course with the HONR Attribute"
+            ]
+        },
+        "Total Required Credits for the Program: Varies*": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Varies* *Prorated for transfer students and early graduates Dr. Lee Talley Dean Whitney Center 856.256.4775 honors@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

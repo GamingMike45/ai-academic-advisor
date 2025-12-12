@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Construction Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7726&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Construction Management": [
+            "Certificate of Graduate Study in Construction Management The Construction Management Certificate of Graduate Study provides a 12 hour graduate-level experience with application in the civil engineering, construction industry, state and local governments. The certificate is designed to meet the needs of individuals who are established in careers and are seeking professional growth and advancement within their professions. The engineering management approach adapts special management techniques with the purpose of obtaining better control and use of existing resources. The certificate is a 12 hr specialization in construction management, which can be a tract in the 30 hr Master of Engineering Management program. It is intended for civil engineer, engineering technology, and construction management graduates who plan to enhance their prospects for success and move into management."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08504",
+                            "title": "Engineering Estimating",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01521",
+                            "title": "Construction Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01522",
+                            "title": "Construction Scheduling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01523",
+                            "title": "Cost Engineering",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Credits Required for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits Required for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

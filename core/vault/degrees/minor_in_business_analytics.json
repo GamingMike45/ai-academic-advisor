@@ -1,0 +1,132 @@
+{
+    "name": "Minor in Business Analytics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7416&returnto=1028",
+    "content": {
+        "Minor in Business Analytics": [
+            "Minor in Business Analytics"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06408",
+                            "title": "Visual Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02370",
+                            "title": "Introduction to Information Visualization",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06407",
+                            "title": "Business Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02338",
+                            "title": "Design of Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02331",
+                            "title": "Data Mining for Business",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02339",
+                            "title": "Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03411",
+                            "title": "Advanced Auditing and Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03301",
+                            "title": "Accounting Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06350",
+                            "title": "Analytics for Quality Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09384",
+                            "title": "Research Methods in Marketing-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09388",
+                            "title": "Advanced Marketing Research Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02265",
+                            "title": "Basics of Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04310",
+                            "title": "Financial Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01382",
+                            "title": "Supply Chain Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose 6 s.h. from the following courses."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Students must achieve a 2. 5 GPA in minor coursework to be eligible for graduation.",
+                "Notes:"
+            ]
+        }
+    }
+}

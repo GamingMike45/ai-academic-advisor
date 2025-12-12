@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Edit {{ course.course_code }}</title>
+  </head>
+  <body>
+    <h1>Edit {{ course.course_code }}</h1>
+
+    <form method="post">
+      <div>
+        <label>Course Code (read-only):</label>
+        <input
+          type="text"
+          name="course_code"
+          value="{{ course.course_code }}"
+          readonly
+        />
+      </div>
+
+      <div>
+        <label>Expression:</label>
+        <input
+          type="text"
+          name="expr"
+          value="{{ course.expr or '' }}"
+        />
+      </div>
+
+      <div>
+        <label>Valid:</label>
+        <input
+          type="checkbox"
+          name="valid"
+          value="true"
+          {% if course.valid %}checked{% endif %}
+        />
+      </div>
+
+      <div>
+        <label>Missing prerequisites (comma-separated):</label>
+        <input
+          type="text"
+          name="not_found"
+          value="{{ not_found_str }}"
+        />
+      </div>
+
+      <div style="margin-top: 1rem;">
+        <button type="submit">Save</button>
+        <a href="/prerequisites">Cancel</a>
+      </div>
+    </form>
+  </body>
+</html>

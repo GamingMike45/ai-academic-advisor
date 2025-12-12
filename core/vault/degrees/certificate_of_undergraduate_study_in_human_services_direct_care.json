@@ -1,0 +1,91 @@
+{
+    "name": "Certificate of Undergraduate Study in Human Services: Direct Care",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7139&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Human Services: Direct Care": [
+            "Certificate of Undergraduate Study in Human Services: Direct Care The Certificate of Undergraduate Study (CUGS) in Human Services: Direct Care will introduce students who are not Human Services majors to both theoretical and practical approaches used by professionals working in a variety of human services agencies. The courses will provide an overview of the skills and perspectives best suited to assist them in applying their other coursework to real-world settings, meeting the needs of employers as they navigate our changing societies. It will also prepare them for positions as diversity trainers, human services providers, managers, and staff of human services agencies, and human rights organizations. This credential could readily be applied to professionals already working in the field who wish to advance their careers."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01100",
+                            "title": "Introduction to Human Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01320",
+                            "title": "Applied Ethics in Human Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03403",
+                            "title": "Introduction to Clinical Skills in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08430",
+                            "title": "Case Management Intervention in Sociological Practice",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08223",
+                            "title": "Sociology of Social Welfare",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08230",
+                            "title": "Sociology of Minority Groups",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08323",
+                            "title": "The Sociology of Social Work",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08326",
+                            "title": "Socialization of the Child Through Adolescence - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Choose one course."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Michelle Mignot 856.256.5572 mignot@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

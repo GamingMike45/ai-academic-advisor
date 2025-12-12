@@ -1,0 +1,116 @@
+{
+    "name": "Doctor of Philosophy in Complex Biological Systems",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7523&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Complex Biological Systems": [
+            "Doctor of Philosophy in Complex Biological Systems Modern societal challenges in biological sciences are complex and transcend scale; they also rapidly evolve. Solutions to complex biological problems require multi level understanding, from molecular and atomic levels to populations and ecosystems, technologies that operate across these scales, and teams that cover all scales. The Complex Biological Systems Ph.D. program is use-oriented, problem-focused, and emphasizes the scales of societal problems (from molecules to ecological systems) and the connections between these scales. This program brings together interdisciplinary faculty mentors with overlapping big-picture goals and complementary skill sets, providing students with diverse cutting-edge dissertation research experiences. Students possessing a bachelor’s degree will be required to complete a minimum of 72 semester hours of graduate-level coursework. Students possessing a master’s degree in a related field will be required to complete a minimum of 42 semester hours of graduate-level coursework beyond their master’s degree. A minimum of 30 semester hours are required from research/dissertation courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CBS",
+                            "course_number": "01510",
+                            "title": "Molecular Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01520",
+                            "title": "Cellular Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01530",
+                            "title": "Organismal Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01540",
+                            "title": "Biological Networks and Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01570",
+                            "title": "Computational Methods and Data Analysis in Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01580",
+                            "title": "Integrative Analysis of Biological Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01590",
+                            "title": "Graduate Seminar *",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 18 s.h."
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: ***CBS 01560 - Fundamentals of Teaching for Biological Sciences is required for students that recieve teaching fellowship support. ****Courses must be pre-approved by Graduate Program Coordinator and the student’s research/dissertation advisor."
+            ]
+        },
+        "Required Research/Dissertation Courses: 30 - 48 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CBS",
+                            "course_number": "01550",
+                            "title": "Thesis Research **",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Research/Dissertation Courses: 30 - 48 s.h."
+            ]
+        },
+        "Restricted Electives: 6-18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CBS",
+                            "course_number": "01560",
+                            "title": "Fundamentals of Teaching for Biological Sciences ***",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 6-18 s.h.",
+                "CBS XXXXX - Any 500-level or higher course****"
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements : Conferral of the doctorate will occur only after submission of a doctoral thesis and approval by the candidate’s Thesis Committee of the written thesis and oral defense. This process and all forms are regulated by Rowan University’s School of Graduate Studies and outlined in the Thesis & Dissertation Manual. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Complex Biological Systems is a Category 2 program. Students must earn a B- or better in all required courses and maintain a 3.0 GPA or better overall in order to graduate. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Nathaniel Nucci 856.256.4396 nucci@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

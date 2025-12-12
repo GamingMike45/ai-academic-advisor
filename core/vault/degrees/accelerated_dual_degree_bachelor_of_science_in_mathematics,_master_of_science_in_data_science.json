@@ -1,0 +1,76 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Mathematics, Master of Science in Data Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7490&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Mathematics, Master of Science in Data Science": [
+            "Accelerated Dual Degree: Bachelor of Science in Mathematics, Master of Science in Data Science"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Science in Mathematics Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MS Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02515",
+                            "title": "Applied Multivariate Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02514",
+                            "title": "Decision Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02505",
+                            "title": "Data Mining I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09555",
+                            "title": "Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07600",
+                            "title": "Predictive Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MS Courses taken as an Undergraduate student: 12 s.h. Restricted Elective Replacement The current BS in Mathematics Includes 24 Credits of restricted electives.  As part of this dual degree program, up to 12 of these credits should now be replaced with four Graduate courses from the DS program for students that have a strong math, statistics, or computer science background.  In semesters 7 and 8, students may choose any four (4) of the following courses to count as restricted electives for the BS in Math as well as for the MS in Data Science:"
+            ]
+        },
+        "Required MS Courses taken as a Graduate Student: 18 s.h.": [
+            "Required MS Courses taken as a Graduate Student: 18 s.h. Master of Science in Data Science Coursework (including proposed thesis option) The full program can be found Master of Science in Data Science"
+        ],
+        "Total Required Credits for the Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 138 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Certificate of Undergraduate Study in Ethical Hacking",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7225&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Ethical Hacking": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in Ethical Hacking The Certificate of Undergraduate Study (CUGS) in Ethical Hacking is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: OSCP: Offensive Security Certified Professional | PEN 200: Penetration Testing CompTIA PenTest+ EC Council: Ethical Hacking Essentials EC Council: Certified Ethical Hacker"
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "03215",
+                            "title": "Penetration Testing Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03218",
+                            "title": "Ethical Hacking Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03315",
+                            "title": "Advanced Penetration Testing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03418",
+                            "title": "Advanced Topics in Ethical Hacking",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students seeking this CUGS are required to successfully complete (grade of D- or better) the four courses in the order listed below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Fred Stinchcombe Advisor Robinson Hall 328I 856.256.4805 stinchcombe@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

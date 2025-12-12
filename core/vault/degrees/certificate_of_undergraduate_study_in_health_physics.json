@@ -1,0 +1,52 @@
+{
+    "name": "Certificate of Undergraduate Study in Health Physics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7247&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Health Physics": [
+            "Certificate of Undergraduate Study in Health Physics The Certificate of Undergraduate Study (CUGS) in Health Physics provides a sequence of courses that combines Physics topics (such as nuclear, particle, and radiation physics) with necessary biological topics (such as biophysics and physiology), enabling students to pursue certification or higher degree training in the areas of Health Physics and Medical Physics."
+        ],
+        "Program Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00375",
+                            "title": "Introduction to Radiation Physics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00477",
+                            "title": "Radiation: Effects and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00479",
+                            "title": "Radiation Instrumentation",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Requirements The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 13 s.h. To be awarded the CUGS in Health Physics, students must complete all courses required for the CUGS in Health Physics with at least a 2.0 average. The pre-requisites for Biophysics I make this CUGS best suited for students majoring in Biochemistry, Biophysics, Chemistry, Physics, and Engineering. It is highly recommended that students take MATH 01231 - Ordinary Differential Equations if they pursue this CUGS.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Training & Development",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6971&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Training & Development": [
+            "Certificate of Undergraduate Study in Training & Development The Certificate of Undergraduate Study (CUGS) in Training & Development prepares students for entry-level positions as training and development specialists. Students will develop sensitivity to the needs of diverse audiences of learners, ability to apply best practices in organizational communication, competency to evaluate training and development programs, and capability to design effective organizational interventions."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "The requirements include the following four courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04260",
+                            "title": "Organizational Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06420",
+                            "title": "Principles of Training and Training Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06304",
+                            "title": "Organizational Change and Development",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Training & Development, students must complete all courses required with at least a 2.5 average. The CUGS is suitable for students in all majors. Joel Rudin Advisor Business Hall 343 856.256.5429 rudin@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

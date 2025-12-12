@@ -1,0 +1,55 @@
+{
+    "name": "Undergraduate Concentration in Cybersecurity Defense (BA)",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10888&returnto=1028",
+    "content": {
+        "Undergraduate Concentration in Cybersecurity Defense (BA)": [
+            "Undergraduate Concentration in Cybersecurity Defense (BA)"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03351",
+                            "title": "Cyber Security: Fundamentals, Principles and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06395",
+                            "title": "Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07210",
+                            "title": "Foundations of Computer Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07340",
+                            "title": "Design and Analysis of Algorithms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09427",
+                            "title": "Principles of Network Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h. This concentration is only available to BA students with the CS minor",
+                "Notes:"
+            ]
+        }
+    }
+}

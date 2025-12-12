@@ -1,0 +1,127 @@
+{
+    "name": "Certificate of Graduate Study in Data Literacy for Civil & Public Service",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7590&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Data Literacy for Civil & Public Service": [
+            "Certificate of Graduate Study in Data Literacy for Civil & Public Service The Certificate of Graduate Study (COGS) in Data Literacy for Civil/Public Service requires four 3 s.h. courses.  The structure of the program is intended to be inter-disciplinary and variable by nature based on student needs and skills - including providing paths for both post-baccalaureate students who want to earn the certificate to sharpen their data skills for today’s labor market, which regards data literacy as essential, and matriculated graduate students in social science programs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CSSR",
+                            "course_number": "99502",
+                            "title": "Data Analysis for Civil/Public Service",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "At least 1 course from this bank depending on existing skills and major/concentration: 3- 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CSSR",
+                            "course_number": "99501",
+                            "title": "Data Literacy for Civil/Public Service *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02512",
+                            "title": "Quantitative Methods in Public Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09511",
+                            "title": "Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09512",
+                            "title": "Research Methods II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00528",
+                            "title": "Research Methods and Statistics in Emergency Management and Homeland Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "At least 1 course from this bank depending on existing skills and major/concentration: 3- 6 s.h."
+            ]
+        },
+        "Elective Courses: 3-6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CSSR",
+                            "course_number": "99503",
+                            "title": "Policy Agendas Project New Jersey",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09517",
+                            "title": "Criminal Justice Policy Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00600",
+                            "title": "Public Budgeting and Finance for Emergency Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02518",
+                            "title": "Public Finance and Cost-Benefit Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02514",
+                            "title": "Essentials of Economics for Public Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90519",
+                            "title": "Urban Inquiry and Social Justice Research Methods",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3-6 s.h. Any 1 or 2 courses from this bank depending on major/concentration"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. *Required for non-matriculated students unless there is evidence of data literacy from past training or education as judged by the COGS Coordinator",
+                "Notes:"
+            ]
+        }
+    }
+}

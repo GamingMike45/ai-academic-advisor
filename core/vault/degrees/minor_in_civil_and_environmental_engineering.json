@@ -1,0 +1,122 @@
+{
+    "name": "Minor in Civil & Environmental Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7054&returnto=1028",
+    "content": {
+        "Minor in Civil & Environmental Engineering": [
+            "Minor in Civil & Environmental Engineering The Minor in Civil & Environmental Engineering (CEE) is designed to provide non-CEE majors knowledge of the topics common to a civil engineering degree. All courses in the minor are taught in the CEE major and therefore are taught in a manner consistent with the major’s Program Goals, Student Learning Goals, and Student Learning Outcomes as presented for ABET accreditation. The CEE Minor consists of 18 or 19 credit hours, depending on the sequence pursued. Students in the minor choose one of two sequences of courses within CEE. The sequences were selected in order to provide students the opportunity to obtain depth in sub-areas of civil engineering through selections of courses that follow a logical progression of prerequisites. All students in the minor must take the required course. The student then selects the structures sequence OR the Environmental/Water Resources Sequence. Admission requires approval of the CEE department head. Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the Banner Course Catalog. Completion of 18 or 19 credit hours following one of the recommended sequences of courses within the minor is required. Students must have a 2.0 GPA in the minor courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course: 2 credits": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01271",
+                            "title": "Statics",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course: 2 credits"
+            ]
+        },
+        "Structural Engineering Sequence: 16-17 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01272",
+                            "title": "Solid Mechanics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01273",
+                            "title": "Strength of Materials",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01291",
+                            "title": "Dynamics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08382",
+                            "title": "Structural Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08383",
+                            "title": "Steel Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Structural Engineering Sequence: 16-17 s.h.",
+                "Two Civil Engineering Structures Electives selected with an advisor (6 s.h.)"
+            ]
+        },
+        "Environmental/Water Resources Engineering Sequence17 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08305",
+                            "title": "Civil Engineering Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01341",
+                            "title": "Fluid Mechanics I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08311",
+                            "title": "Environmental Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08342",
+                            "title": "Water Resources Engineering",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Environmental/Water Resources Engineering Sequence17 s.h.",
+                "Two Civil Engineering Electives selected with an advisor (6 s.h.)"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Gilson R. Lomboy Advisor Rowan Hall Room 136 lomboy@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

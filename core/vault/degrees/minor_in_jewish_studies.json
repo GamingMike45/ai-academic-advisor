@@ -1,0 +1,124 @@
+{
+    "name": "Minor in Jewish Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7182&returnto=1028",
+    "content": {
+        "Minor in Jewish Studies": [
+            "Minor in Jewish Studies"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Jewish Focus Core (9 credits from among the following:)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05404",
+                            "title": "Arab-Israeli Conflict",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Jewish Focus Core (9 credits from among the following:)"
+            ]
+        },
+        "Prerequisite of Historical Methods course required only for History majors": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10301",
+                            "title": "Judaism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10214",
+                            "title": "Religions of the Western World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08365",
+                            "title": "Contemporary Jewish Life",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08399",
+                            "title": "Sociology of the Holocaust - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Prerequisite of Historical Methods course required only for History majors",
+                "HONR 05390 - Selected Topics Credits: 3 to 6"
+            ]
+        },
+        "Contextual Core (9 credits from among the following:)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05308",
+                            "title": "Modern Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10100",
+                            "title": "World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10240",
+                            "title": "Introduction to the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08230",
+                            "title": "Sociology of Minority Groups",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08322",
+                            "title": "The Sociology of Religion",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Contextual Core (9 credits from among the following:)",
+                "or GEOG 16347 - Geography of the Middle East Credits: 3",
+                "or POSC 07345 - Government and Politics of the Middle East"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. David Weinfeld Advisor Laurel Hall 217 weinfeld@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

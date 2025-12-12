@@ -1,0 +1,172 @@
+{
+    "name": "Minor in Climate Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7262&returnto=1028",
+    "content": {
+        "Minor in Climate Science": [
+            "Minor in Climate Science The Joint Environmental Science/Geology Minor in Climate Science offers students the opportunity to gain important insights into the extremely interdisciplinary realm of climate science from both environmental and geological perspectives. This minor is offered by the faculty of the Environmental Science and Geology programs and is designed to serve any matriculated student, though, due to the nature of the courses and the fact that some require basic science and math pre-requisites, it may be most suitable for students who are currently pursuing science degrees. It is likely that this program would be especially well-suited to Environmental Science, Geology, Biology, Physics, Engineering, and/or Math students. The Climate Science minor stipulates a minimum of 19 semester credit hours of courses that provide a fundamental grounding in the science of anthropogenic climate change. These courses include introductory classes that cover the basics of climate change, and courses that emphasize climate impacts on the ocean and atmosphere. Elective courses (at least one each from Environmental Science and Geology) assure students an opportunity to study individual impacts of climate change in greater depth."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 19-22 s.h.": [
+            "Required Courses: 19-22 s.h."
+        ],
+        "Unit A. Students must take one of the following two courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01220",
+                            "title": "Global Climate Crisis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01131",
+                            "title": "Earth in Transition: The Science of Global Climate Change",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Unit A. Students must take one of the following two courses:"
+            ]
+        },
+        "Unit B. Students must take one of the following two courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01120",
+                            "title": "Oceans in Crisis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01136",
+                            "title": "Water Planet: Exploring the Hydrosphere",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Unit B. Students must take one of the following two courses:"
+            ]
+        },
+        "Unit C. Students must take one of the following two courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01380",
+                            "title": "Principles of Atmospheric and Climate Science",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01250",
+                            "title": "Ocean-Atmosphere Interactions",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Unit C. Students must take one of the following two courses:"
+            ]
+        },
+        "Unit D. Students must take (at least one) of the following courses from Geology:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01230",
+                            "title": "Paleoclimatology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01133",
+                            "title": "Climate, Catastrophes, Civilizations and Collapses",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01430",
+                            "title": "Climate Variability and Diagnostics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01435",
+                            "title": "The Ice Ages and Quaternary Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01331",
+                            "title": "Climate Change and the Cryosphere",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Unit D. Students must take (at least one) of the following courses from Geology:"
+            ]
+        },
+        "Unit E. Students must take (at least) one of the following courses from Environmental Science:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01122",
+                            "title": "Future of Food",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01382",
+                            "title": "Understanding and Analyzing Climate Change Impacts",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01381",
+                            "title": "Sea-Level Change: Past, Present, and Future",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01385",
+                            "title": "Oceans",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Unit E. Students must take (at least) one of the following courses from Environmental Science:"
+            ]
+        },
+        "Total Required Credits for the Program: 19-22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 19-22 s.h. Nadia Rahin Advisor Discovery Hall rahin@rowan.edu Please note: Students must ensure that they have the appropriate prerequisites for all courses. The prerequisites for each class can be found in the course description, which can be accessed by clicking on the course link. Given that students may not minor in a program that shares the department’s name or draws on the same course requirements required to fulfill their major, students majoring in Environmental Science or Geology need to choose the options that are not already being used to fulfill their major.",
+                "Notes:"
+            ]
+        }
+    }
+}

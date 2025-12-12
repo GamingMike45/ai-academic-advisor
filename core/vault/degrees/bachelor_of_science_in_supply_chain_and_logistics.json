@@ -1,0 +1,250 @@
+{
+    "name": "Bachelor of Science in Supply Chain & Logistics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6979&returnto=1028",
+    "content": {
+        "Bachelor of Science in Supply Chain & Logistics": [
+            "Bachelor of Science in Supply Chain & Logistics"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": [
+            "Required Courses"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications (Satisfies Quantitative Literacy (QNTL) requirement)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01488",
+                            "title": "Business Career Planning and Development",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h. Courses in this section must not be in the Major Department.",
+                "ECON 04101 - An Introduction to Economics-A Macroeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "ECON 04102 - An Introduction to Economics-A Microeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 4",
+                "STAT 02260 - Statistics I (Equivalent of College Algebra) (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "CS XXXXX - Any General Education Computer Science course Credits: 3"
+            ]
+        },
+        "Business Foundational Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03211",
+                            "title": "Principles of Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06402",
+                            "title": "Business Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Foundational Courses: 27 s.h."
+            ]
+        },
+        "Supply Chain & Logistics Requirements: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09375",
+                            "title": "Business Logistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01380",
+                            "title": "Global Supply Chain",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01320",
+                            "title": "Principles of Transportation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01350",
+                            "title": "Procurement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01360",
+                            "title": "Lean Six Sigma for Supply Chain Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09406",
+                            "title": "Strategic Supply Chain Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01410",
+                            "title": "Supervised Internship in Supply Chain and Logistics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Supply Chain & Logistics Requirements: 21 s.h."
+            ]
+        },
+        "Supply Chain & Logistics Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09360",
+                            "title": "Services Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09391",
+                            "title": "Business to Business Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09330",
+                            "title": "Marketing Channels",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06407",
+                            "title": "Business Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09384",
+                            "title": "Research Methods in Marketing-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02322",
+                            "title": "Principles of System Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Supply Chain & Logistics Electives: 9 s.h. Select three courses from the following:",
+                "SCL 01390 - Selected Topics in Supply Chain Management Credits: 3"
+            ]
+        },
+        "Business or SCL Elective: 3 s.h.": [
+            "Business or SCL Elective: 3 s.h. Choose one upper-division (300+) course offered in the RCOB."
+        ],
+        "MKTBIS Engagement and Career Exploration Requirements": [
+            "MKTBIS Engagement and Career Exploration Requirements See advisor."
+        ],
+        "Free Electives: 33 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Free Electives: 33 s.h.",
+                "MKT 09101 - Marketing and the Business Environment - RS (Satisfies Rowan Seminar (RS) requirement) Credits: 3"
+            ]
+        },
+        "Total Credits for Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

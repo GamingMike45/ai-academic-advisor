@@ -1,0 +1,343 @@
+{
+    "name": "Minor in Asian Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7181&returnto=1028",
+    "content": {
+        "Minor in Asian Studies": [
+            "Minor in Asian Studies The Asian Studies minor is an interdisciplinary program available to students of all majors. This program is designed to increase the students’ understanding of Asian culture and to promote a sophisticated cross-cultural appreciation of our expanding global community. This program is of value to students who are interested in developing careers in business, education, communication and engineering. Those who fulfill a total of eighteen credits of Required Courses, Core Courses and Electives will be awarded a certificate in Asian Studies upon completion of their degree. The Minor requirements are as follows:"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02112",
+                            "title": "Readings in Asian Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "01136",
+                            "title": "Gateway to Asia (RS)",
+                            "credits": null
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07350",
+                            "title": "Introduction to Asian Political Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 3 s.h."
+            ]
+        },
+        "Core Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03231",
+                            "title": "Survey of Asian Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07101",
+                            "title": "Elementary Chinese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07102",
+                            "title": "Elementary Chinese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07201",
+                            "title": "Intermediate Chinese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07211",
+                            "title": "Intermediate Chinese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16343",
+                            "title": "Geography of Asia",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05355",
+                            "title": "Modern China",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05351",
+                            "title": "Modern Japan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05448",
+                            "title": "Late Imperial China",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05352",
+                            "title": "Chinese Cultural History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05446",
+                            "title": "Race, Identity and History in East Asia",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08101",
+                            "title": "Elementary Japanese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08102",
+                            "title": "Elementary Japanese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08201",
+                            "title": "Intermediate Japanese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08211",
+                            "title": "Intermediate Japanese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08212",
+                            "title": "Intermediate Japanese III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09231",
+                            "title": "Asian Thought",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism (M/G)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02202",
+                            "title": "Introduction to Cultural Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02350",
+                            "title": "Comparative Cultures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02420",
+                            "title": "Psychological Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04307",
+                            "title": "Economic Development M/G",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04310",
+                            "title": "Global Economics - M/G",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04320",
+                            "title": "Contemporary Economic Systems M/G",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02116",
+                            "title": "Introduction to Global Literatures in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04435",
+                            "title": "International Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05120",
+                            "title": "World History since 1500",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05353",
+                            "title": "Imperialism and Colonialism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09379",
+                            "title": "International Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06447",
+                            "title": "Music in World Cultures: Asia & Oceania",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06448",
+                            "title": "Music in World Cultures: Africa, India, Near and Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07230",
+                            "title": "Comparative Political Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07321",
+                            "title": "Contemporary World Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07320",
+                            "title": "International Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07421",
+                            "title": "International Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10100",
+                            "title": "World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08220",
+                            "title": "Sociology of the Family",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08221",
+                            "title": "Social Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "15322",
+                            "title": "Sociology of Population",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07440",
+                            "title": "Contemporary World Theatre - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08146",
+                            "title": "World Dance Forms",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Youru Wang Interim Coordinator Bunce Hall 856.256.4077 wang@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "name": "Minor in Chemical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7046&returnto=1028",
+    "content": {
+        "Minor in Chemical Engineering": {
+            "requirements": [],
+            "notes": [
+                "Minor in Chemical Engineering This Minor in Chemical Engineering (ChE) will offer students a foundation in material and energy balances, transport phenomena, and separation processes relevant to the manufacturing industry. The minor is designed for students from other engineering disciplines as well as students from science majors who may be interested in pursuing a career or graduate studies in chemical engineering. The minor is a minimum of 18 semester hour credits total of ChE courses. Students in the minor take 6 credits of required ChE courses and a minimum of 12 credits of course work chosen from banks of ChE courses. These courses provide the necessary fundamentals and allow a focus in an area of interest. Students must have a minimum of 2.0 GPA in the minor-specific courses. Admission requires the approval of the ChE Department Head. The applicant will need to have completed the following: MATH 01130 Calculus I, MATH 01131 Calculus II, MATH 01230 Calculus III, MATH 01235 Mathematics for Engineering Analysis  (or equivalent such as MATH 01231 Ordinary Differential Equations and MATH 01210 Linear Algebra), CHEM 06100 Chemistry I, CHEM 06101 Chemistry II, and PHYS 00220 Introductory Mechanics (or equivalent Physics I - Calculus-based) before being considered for acceptance into the minor. A minimum cumulative GPA of 3.0 in the aforementioned courses is required for admission into the ChE minor. Current ChE students who transfer out of the major will be automatically eligible for admission into the ChE minor."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06201",
+                            "title": "Principles of Chemical Processes I",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06202",
+                            "title": "Principles of Chemical Processes II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06203",
+                            "title": "Principles of Chemical Processes",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06241",
+                            "title": "Chemical Engineering Fluid Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01341",
+                            "title": "Fluid Mechanics I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01342",
+                            "title": "Engineering Fluid Mechanics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06309",
+                            "title": "Process Fluid Transport",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06310",
+                            "title": "Chemical Engineering Thermodynamics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06311",
+                            "title": "Heat Transfer Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06312",
+                            "title": "Separation Processes I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06314",
+                            "title": "Separation Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06315",
+                            "title": "Chemical Engineering Thermodynamics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06407",
+                            "title": "Chemical Process Safety",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06316",
+                            "title": "Chemical Reaction Engineering",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06401",
+                            "title": "Chemical Process Component Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06403",
+                            "title": "Unit Operations Experimental Design and Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06405",
+                            "title": "Process Dynamics and Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06406",
+                            "title": "Chemical Plant Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 12 s.h. Students complete12 s.h. of 300 or 400 level Chemical Engineering courses, at least 9 s.h. of which must come from the list below."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. **Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the course description after clicking the link. The ChE Department Head will review course equivalencies. Kenneth Lau Department Head Henry M. Rowan Hall 856.256.5312 laukk@rowan.edu Kevin Dahm Undergraduate Program Chair Henry M. Rowan Hall 856.256.5318 dahm@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

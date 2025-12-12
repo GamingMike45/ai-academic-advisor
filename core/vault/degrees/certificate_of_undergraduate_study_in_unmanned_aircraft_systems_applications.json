@@ -1,0 +1,90 @@
+{
+    "name": "Certificate of Undergraduate Study in Unmanned Aircraft Systems Applications",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7135&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Unmanned Aircraft Systems Applications": [
+            "Certificate of Undergraduate Study in Unmanned Aircraft Systems Applications The Certificate of Undergraduate Study (CUGS) in Unmanned Aircraft Systems Applications is designed to give students the theoretical knowledge of drone flight and hands-on experience in a fast-growing career field. The Unmanned Aircraft Systems Applications CUGS is not designed to create expert pilots, that will come as students gain more experience; however, the CUGS is designed to train students how to use data collected from Unmanned Aircraft Systems. As such, the classes are not designed for flight instruction as a primary skillset but rather to reinforce data collection and analysis skills."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00380",
+                            "title": "Drone Applications in Emergency Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16375",
+                            "title": "Remote Sensing of the Environment *",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00282",
+                            "title": "Drones: Foundations, Design, and Maintenance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00381",
+                            "title": "Drones: Legal, Ethical, and Security Issues",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SET",
+                            "course_number": "01307",
+                            "title": "Photogrammetry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Select one of the following courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SET",
+                            "course_number": "01308",
+                            "title": "Surveying from Unmanned Aerial Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16370",
+                            "title": "Drones, Planes, and Satellites",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Select one of the following courses: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. * Permission by Instructor can be obtained to enter this course if a student has not completed GEOG 16160 Digital Earth: Mapping and Geographic Information Science; however, the student has completed coursework that is equivalent to GEOG 16160 Digital Earth: Mapping and Geographic Information Science. Permission is granted on a case-by-case basis. To be awarded the CUGS in Unmanned Aircraft Systems Applications, students must complete all courses required for the CUGS in Unmanned Aircraft Systems Applications with at least a 2.0 average. DeMond Miller Advisor Campbell Library 548 856.256.3517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

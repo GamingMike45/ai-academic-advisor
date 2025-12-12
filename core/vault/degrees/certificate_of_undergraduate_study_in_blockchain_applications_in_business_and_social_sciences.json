@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Undergraduate Study in Blockchain Applications in Business & Social Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7119&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Blockchain Applications in Business & Social Sciences": [
+            "Certificate of Undergraduate Study in Blockchain Applications in Business & Social Sciences The Certificate of Undergraduate Study (CUGS) in Blockchain Applications in Business & Social Sciences provides a sequence of courses that combines Blockchain Technology topics and its applications in business, economics, finance, government, and many other social sciences. This CUGS will entail taking interdisciplinary core courses as well as courses in Economics, Accounting & Finance, and computer sciences, and will improve the employment and career opportunities of undergraduate students entering the job market upon graduation."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following five courses:"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01301",
+                            "title": "Blockchain Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10250",
+                            "title": "Cryptography and Blockchain Essentials",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "FIN",
+                            "course_number": "04444",
+                            "title": "Bitcoin, Cryptocurrency, and Blockchain Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04335",
+                            "title": "Socio-Economic Applications of Blockchain",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02305",
+                            "title": "Business Applications of Blockchain",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Blockchain Applications in Business & Social Sciences, students must complete all courses required for the CUGS in Blockchain Applications in Business & Social Sciences with at least a 2.0 average. This CUGS is relevant for any major, but it is especially well suited for students majoring in Business, Economics, Accounting, Finance, Healthcare, Political Science, International Studies, Public Policy, and many other social sciences and business-related majors. Kul Prasad Kapri Coordinator Robinson Hall 317K 856.256.4866 kapri@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

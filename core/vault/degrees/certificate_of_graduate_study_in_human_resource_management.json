@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in Human Resource Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7508&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Human Resource Management": [
+            "Certificate of Graduate Study in Human Resource Management The Certificate of Graduate Study (COGS) in Human Resource Management will expand your understanding of how human capital management enhances organizational effectiveness. This program is aimed at practicing human resource managers who want to enhance their careers, professionals who wish to enter the field of human resource management, and line managers who want to maximize the contributions of the employees who report to them. The program is structured around solutions to common human resource problems such as voluntary turnover, counterproductive employee behaviors, and lack of inclusivity in the workplace."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HRM",
+                            "course_number": "06605",
+                            "title": "Strategic Human Resource Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06677",
+                            "title": "People Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06699",
+                            "title": "Talent Leadership",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Human Resource Management is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

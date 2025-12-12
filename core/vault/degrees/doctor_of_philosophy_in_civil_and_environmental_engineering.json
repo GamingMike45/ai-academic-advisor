@@ -1,0 +1,343 @@
+{
+    "name": "Doctor of Philosophy in Civil & Environmental Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7612&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Civil & Environmental Engineering": [
+            "Doctor of Philosophy in Civil & Environmental Engineering The Doctor of Philosophy degree in Civil & Environmental Engineering is a terminal degree program designed to meet the needs of researchers and scholars, whether in academia, industry, or government. The program offers a highly flexible multidisciplinary structure that gives students the freedom to pursue a wide range of graduate elective courses while ensuring their proficiency in civil engineering principles, technical writing, advanced mathematics, and research. The changes described in this proposal will help harmonize our program with other major research universities and facilitate continuous curricular improvement in the continuously evolving civil engineering environment."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Rowan University Doctor of Philosophy in Civil Engineering program requires the completion of coursework, teaching assistantships, research requirements, dissertation, and dissertation defense. For a student who possesses a bachelor’s degree, a minimum of 72 semester hours of graduate-level coursework will be required. For a student who possesses a master’s degree in a related field, a minimum of 42 semester hours (credits) of graduate-level coursework beyond the master’s degree will be required. Up to 30 of the credits earned in pursuit of the master’s degree may be transferable. For specific curriculum requirements for each concentration, refer to their specific web page and/or specific Graduate Program Coordinator."
+        ],
+        "Ph.D. Coursework: 36 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Ph.D. Coursework: 36 s.h. CEE coursework should be chosen from one of the following two banks: Structures/Geotech/Transportation or Water/Environment MAT XXXXX - Approved Math course Credits: 3 WA XXXXX - Approved Writing course Credits: 3"
+            ]
+        },
+        "Infrastructure Course Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08504",
+                            "title": "Engineering Estimating",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08552",
+                            "title": "Foundation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08553",
+                            "title": "Earth Retaining Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08562",
+                            "title": "Advanced Transportation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08566",
+                            "title": "Transportation Systems Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08573",
+                            "title": "Advanced Structural Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08574",
+                            "title": "Advanced Structural Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08584",
+                            "title": "Prestressed Concrete",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08585",
+                            "title": "Advanced Reinforced Concrete",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08586",
+                            "title": "Bridge Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01510",
+                            "title": "Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01580",
+                            "title": "Advanced Viscoelasticity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08583",
+                            "title": "Advanced Steel Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08675",
+                            "title": "Fracture Mechanics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Infrastructure Course Bank"
+            ]
+        },
+        "Water/Environment Course Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08512",
+                            "title": "Advanced Environmental Treatment Process Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08522",
+                            "title": "Site Remediation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08531",
+                            "title": "Solid and Hazardous Waste Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08532",
+                            "title": "Pollutant Fate and Transport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08533",
+                            "title": "Integrated Solid Waste Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08543",
+                            "title": "Advanced Water Resources Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08544",
+                            "title": "Hydraulic Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08547",
+                            "title": "Watershed Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08548",
+                            "title": "Water and Environmental Monitoring",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04510",
+                            "title": "Earth’s Environment and Natural Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04511",
+                            "title": "The Science of Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05550",
+                            "title": "Principles of Green Energy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05560",
+                            "title": "Industrial Health and Safety",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05612",
+                            "title": "Environmental Support Systems: Fresh Water",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05613",
+                            "title": "Environmental Support Systems: Native Plants in the Landscape",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05610",
+                            "title": "Environmental Support Systems: Soils",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05605",
+                            "title": "Case Studies in Applied Environmental Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05660",
+                            "title": "Risk Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05630",
+                            "title": "Communicating Environmental Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Water/Environment Course Bank"
+            ]
+        },
+        "Business/Management Course Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06500",
+                            "title": "Designing, Developing, and Leading High Performance Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06510",
+                            "title": "Strategic Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01501",
+                            "title": "Engineering Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01511",
+                            "title": "Strategic Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01512",
+                            "title": "Quality in Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01521",
+                            "title": "Construction Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01522",
+                            "title": "Construction Scheduling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01541",
+                            "title": "Engineering Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01542",
+                            "title": "Facilities Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01543",
+                            "title": "Systems for Engineering Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business/Management Course Bank"
+            ]
+        },
+        "Approved Graduate Coursework": [
+            "Approved Graduate Coursework Any 500-level course taught in the Henry M. Rowan College of Engineering Any 500-level course taught in the College of Science and Mathematics Any 500-level course taught in the School of Earth & Environment Any graduate level course taught in the School of Osteopathic Medicine, the Cooper Medical School of Rowan University, or the Graduate School of Biomedical Science"
+        ],
+        "Ph.D. Research Credit: 36 s.h.": [
+            "Ph.D. Research Credit: 36 s.h."
+        ],
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. 72 credit hours of graduate level coursework and research hours. A minimum of 30 hours must come from core/elective coursework with a minimum of 12 of these coursework hours coming from Biomedical Engineering Core Courses. Credits beyond 30 may come from additional core/elective coursework or Ph.D. Dissertation Research hours (up to 42). Timeline for Doctoral Program Dissertation Committee The student must form the dissertation committee after the first semester (6-9 credits) in consultation with their primary research adviser. In the rest of the document, the word ‘committee’ or ‘dissertation committee’ includes the adviser. The committee will be of five members of which at least four are tenure track faculty at Rowan University (including Cooper & SOM) and at least three are in the Department of Civil and Environmental Engineering. Your primary research adviser will be one of the five committee members. Qualifying Exam The student must attempt the exam after completing nine credits and within the first academic year of admission into the doctoral program. The exam must be administered by the dissertation committee. The committee can decide the length and scope of the exam (written and/or oral), and time required to complete the exam. Upon completion of the exam, the committee will provide ‘Satisfactory’ OR ‘Unsatisfactory’ recommendation. Satisfactory: The student can continue with the doctoral program. Unsatisfactory: The following action may be recommended: The student is terminated from the program The committee provides corrective actions and recommendations. The student must re-appear for the exam within two semesters. If the student gets an Unsatisfactory after two attempts, they will be terminated from the program or recommended for the Master’s Program. Candidacy Exam The student can attempt the candidacy exam after successfully completing the qualifying exam and at least one semester before defending their thesis. Submit a formal proposal that details the dissertation research plan, at least 14 days prior, that conforms to the guidelines (pg. limits, font, etc.) provided by the thesis adviser and includes preliminary data to demonstrate feasibility Submit a current CV that details the student’s accomplishments since beginning the program Submit a current transcript Present the proposal to the Dissertation Committee. The committee will review the student based on Coursework/Grades Other accomplishments Publications/presentations/internships/IP/etc. The proposal, its presentation, and the student’s response to questions The student will receive detailed feedback about the proposal from the committee and it will serve as a guideline to completing their dissertation. Upon completion of the exam the committee will provide ‘Satisfactory’ OR ‘Unsatisfactory’ recommendation. Satisfactory: The student is granted a ‘Candidate’ status and they can continue with dissertation. If unsatisfactory the following action may be recommended: The student is terminated from the program The committee provides corrective actions and recommendations If there is a significant change in the scope of the thesis, the candidate must meet with the committee to discuss and seek the approval. An ‘Unsatisfactory’ recommendation does not automatically trigger a repeat proposal presentation; however, the corrective actions required by the committee may require one. The student must complete the required corrective actions within an academic year. If the student gets an unsatisfactory after two attempts, they will be terminated from the program. Dissertation Defense The candidate must have at least registered or completed the minimum number of credits required for graduation in the semester they decide to defend. The candidate must defend their dissertation and address all comments/corrections provided by the committee. The dissertation should be submitted according to the following requirements: Successfully defend by the end of 5th year Submit a written Dissertation to the committee at least 21 days in advance of the defense Submit a current CV that details the student’s accomplishments since beginning the program (including copies of all publications) Present the dissertation to the Committee Graduation/Exit/Thesis Requirements Complete a minimum of 72 credits of graduate level work beyond bachelor’s degree OR minimum of 42 credits of graduate level work beyond master’s degree Completion of all the University’s standard Ethical & Responsible Conduct of Research training (including human/animal subject training when applicable) Regular attendance and participation in (0-credit) graduate seminars Successful completion of a Ph.D. Qualifier examination* Successful completion of a Ph.D. Candidacy (proposal) examination* Successful completion of the Career Preparation & Readiness Experience that consists of teaching, grant writing, publishing and service* Successful completion of a Ph.D. dissertation defense* Successful completion of a Ph.D. dissertation* *The specific details, nature and scope of these examinations (e.g., format of the exam) and requirements (e.g. number of journal publications, conference publications, patents, number of teaching assignments) will be determined by the student’s Doctor of Philosophy in Engineering committee and/or department policies for student’s home department as aligned with the Henry M. Rowan College of Engineering policies. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Civil & Environmental Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Coordinator/Advisor Contact Information Mohammad Jalayer, Ph.D. Rowan Hall 856.256.5397 jalayer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

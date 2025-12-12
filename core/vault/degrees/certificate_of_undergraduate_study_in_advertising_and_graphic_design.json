@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Advertising & Graphic Design",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7006&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Advertising & Graphic Design": [
+            "Certificate of Undergraduate Study in Advertising & Graphic Design The Certificate of Undergraduate Study (CUGS) Advertising & Graphic Design provides students with an understanding of both subjects while expanding their understanding of the vocabulary, history, issues, and theory of visual communication as those concepts relate to advertising and design. Students must take four courses (12 s.h.) to complete the CUGS: Advertising & Graphic Design comprised of available but not required elective courses. There are two required courses and two choice options within this CUGS."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05318",
+                            "title": "Strategic Visual Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09358",
+                            "title": "Web Design: Designing For The World Wide Web",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04375",
+                            "title": "Advertising Copywriting",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Advertising & Graphic Design, students must complete the four courses with a grade of C- or better. Students can complete the CUGS within two or three semesters. The courses may be taken in any order provided that students choosing (ART 09344) Graphic Design II: Typography have already completed the perquisite (ADV 04370) Essentials of Design, a required course in the CUGS. Program Advisor Lori Brucker 856.256.4459 block@rowan.edu Advisor/Art Rachel Budman Wilson Hall budmen@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

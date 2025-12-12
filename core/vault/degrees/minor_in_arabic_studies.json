@@ -1,0 +1,127 @@
+{
+    "name": "Minor in Arabic Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7147&returnto=1028",
+    "content": {
+        "Minor in Arabic Studies": [
+            "Minor in Arabic Studies The Arabic Studies Minor may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). In addition to gaining communicative competence in Arabic, this program allows students to deepen their understanding of Arab culture, society, geography, politics, and history through interdisciplinary coursework. This academic background makes our students more competitive as they search for employment across a wide variety of career fields, including but not limited to work in foreign and public service, international sales and business, humanitarian work, government, politics, and international law. The program consists of 6 courses (18 credits). Students must receive a grade of at least “C-” in all courses for the program. Each of the courses listed below is worth 3 credits. This 18 s.h. minor is open to all students. A placement interview is strongly recommended for students with previous knowledge of Arabic so that they may begin their Arabic language study at the appropriate level. For placement interview information, please contact Mr. Tarek Mousa at mousa@rowan.edu. Students may earn the credits for any skipped courses via the Authorization for Credit by Examination process and these credits are counted in fulfillment of minor requirements. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students may transfer credits into the Arabic Studies Minor, including from study abroad; students planning to study abroad must meet with their Advisor in order to determine course equivalents."
+        ],
+        "Program Requirements": [
+            "Program Requirements Students are required to take the following four courses within the language component of the program (or receive credits via a placement interview and Authorization for Credit by Examination - contact Mr. Tarek Mousa for more details at mousa@rowan.edu):"
+        ],
+        "Arabic Language Core:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12101",
+                            "title": "Elementary Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12102",
+                            "title": "Elementary Arabic II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12201",
+                            "title": "Intermediate Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12211",
+                            "title": "Intermediate Arabic II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Arabic Language Core:"
+            ]
+        },
+        "Interdisciplinary Electives:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12212",
+                            "title": "Intermediate Arabic III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12301",
+                            "title": "Advanced Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12302",
+                            "title": "Advanced Arabic II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12320",
+                            "title": "Arabic Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16347",
+                            "title": "Geography of the Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05308",
+                            "title": "Modern Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05383",
+                            "title": "Islamic Civilization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05404",
+                            "title": "Arab-Israeli Conflict",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07347",
+                            "title": "Politics of the Middle East",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Interdisciplinary Electives: Students must also select two of the following elective courses (courses taught in English can be taken at any time, before, after or concurrently with Arabic language courses):"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Tarek Mousa Program Mentor Oak Hall Room 210 856.256.5848 mousa@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

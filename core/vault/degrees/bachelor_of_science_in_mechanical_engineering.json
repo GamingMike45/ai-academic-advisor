@@ -1,0 +1,224 @@
+{
+    "name": "Bachelor of Science in Mechanical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7067&returnto=1028",
+    "content": {
+        "Bachelor of Science in Mechanical Engineering": [
+            "Bachelor of Science in Mechanical Engineering"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01235",
+                            "title": "Mathematics for Engineering Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01332",
+                            "title": "Introduction to Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09205",
+                            "title": "Principles and Applications of ECE for Nonmajors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01101",
+                            "title": "First-Year Engineering Clinic I-RS",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01102",
+                            "title": "First-Year Engineering Clinic II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "COMP",
+                            "course_number": "01111",
+                            "title": "College Composition I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01201",
+                            "title": "Sophomore Engineering Clinic I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01202",
+                            "title": "Sophomore Engineering Clinic II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01271",
+                            "title": "Statics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01273",
+                            "title": "Strength of Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01283",
+                            "title": "Materials Science and Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01291",
+                            "title": "Dynamics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01303",
+                            "title": "Junior Engineering Clinic (must be taken twice for a total of 4 s.h.)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI (must be taken twice for a total of 4 s.h.)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01410",
+                            "title": "Introduction to Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10101",
+                            "title": "Introduction to Mechanical Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10210",
+                            "title": "Manufacturing and Measurement Techniques",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10301",
+                            "title": "Machine Design",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10310",
+                            "title": "Introduction to Thermal-Fluid Sciences",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10330",
+                            "title": "Fluid Mechanics for Mechanical Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10335",
+                            "title": "Heat Transfer for Mechanical Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10342",
+                            "title": "Quality and Reliability in Design and Manufacture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10345",
+                            "title": "Dynamic Systems and Control",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "Approved Technical Electives Credits: 6 Business Elective Credits: 3 Ethics Elective Credits: 3 Rowan Core Electives Credits: 9 Note: CS 01104 Introduction to Programming and Problem Solving must be a section that covers Matlab/CAD."
+            ]
+        },
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Program Coordinator/Advisor Contact Information Melanie Amadoro Associate Teaching Professor & Undergraduate Program Chair Rowan Hall 856.256.5352 amadoro@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

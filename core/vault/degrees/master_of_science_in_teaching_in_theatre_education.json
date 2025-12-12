@@ -1,0 +1,85 @@
+{
+    "name": "Master of Science in Teaching in Theatre Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7627&returnto=1028",
+    "content": {
+        "Master of Science in Teaching in Theatre Education": [
+            "Master of Science in Teaching in Theatre Education The Master of Science in Teaching (M.S.T.) in Theatre Education program offers students the unique opportunity to pursue an initial New Jersey teaching certificate† and a Master’s degree simultaneously. The program is designed to prepare individuals who have undergraduate degrees to be certified P-12 Theatre teachers. The theater education program is designed for those with undergraduate theater degrees or at least 30 credits in theater arts who wish to teach theater in P-12 classrooms. Students whose undergraduate degree is in another content area (e.g., English, Social Studies, Spanish, French, etc.) may need to take as many as 30 additional credits in theater to meet certification requirements before being accepted into the program. Questions about appropriate undergraduate majors, academic sequences, or prerequisites should be directed to the program coordinator. The program can be completed in 12-24 months"
+        ],
+        "Program Requirements": [
+            "Program Requirements The Rowan University Master of Science in Teaching (M.S.T.) Theatre Education program requires the completion of 33 semester hours (s.h.) on the Glassboro or Camden, NJ campus. Total semester hours required for program completion: 33 s.h. Thesis Requirement: No"
+        ],
+        "Required Courses: 33 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60552",
+                            "title": "Teaching Content in Diverse Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60553",
+                            "title": "Humanities Teaching Methods I: Creating Supportive Learning Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60562",
+                            "title": "Clinical Practice I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60560",
+                            "title": "Humanities Teaching Methods II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "60577",
+                            "title": "Effective Inclusive Instruction in English, Social Studies, Theatre, and World Language Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60561",
+                            "title": "Humanities Teaching Methods III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60563",
+                            "title": "Clinical Practice II",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 33 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 33 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33 s.h. Foundation Courses For a list of prerequisite courses for each focus area, please contact the Program Coordinator. Exam Requirements Praxis Subject Assessment (Praxis II) in Theatre; test code 5641 ( Required score: 153 ) http://www.ets.org/praxis/prepare/materials/5641 Graduation/Exit, Benchmark, and/or Thesis Requirements No thesis is required. Contact the Program Coordinator for graduation/exit and benchmark requirements. Minimum Required Grades and Cumulative GPA The Master of Science in Teaching in Subject Matter Education - Theatre Education is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Andrea Hawkman, PhD Herman D. James Hall 2068 856-256-4500 x4831 hawkman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

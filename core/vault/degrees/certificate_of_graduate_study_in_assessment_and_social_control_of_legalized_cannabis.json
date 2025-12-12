@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in Assessment & Social Control of Legalized Cannabis",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7560&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Assessment & Social Control of Legalized Cannabis": [
+            "Certificate of Graduate Study in Assessment & Social Control of Legalized Cannabis The Certificate of Graduate Study (COGS) in Assessment & Social Control of Legalized Cannabis is designed to assist individuals seeking to be a part of the legal cannabis industry’s growth at any point in the legislative or supply chain. An understanding of issues surrounding legal compliance, product growth, regulation, distribution and labor relations will comprise the coursework of this certificate. This COGS is designed to give a graduate the policy knowledge, the program evaluation/implementation background, the skills to develop and evaluate, and provide them with an in-depth look at the legalization of cannabis and the problems society and social institutions face when we encounter legalization."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CANN",
+                            "course_number": "03501",
+                            "title": "Cannabis Legislation, Regulations, and Policy Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CANN",
+                            "course_number": "03502",
+                            "title": "Marijuana Legalization and Decriminalization in Work, Leisure and Other Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CANN",
+                            "course_number": "03503",
+                            "title": "Cannabis Research, Program Evaluation, and Policy Development",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA Students must maintain a 3.3 GPA in the classes to earn the COGS. For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Program Advisor Dennis Barrera 856.256.5582 barrerad@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

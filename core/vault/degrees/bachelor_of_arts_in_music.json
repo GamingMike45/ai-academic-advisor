@@ -1,0 +1,231 @@
+{
+    "name": "Bachelor of Arts in Music",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7074&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Music": [
+            "Bachelor of Arts in Music"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Foundational Courses: 22 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06447",
+                            "title": "Music in World Cultures: Asia & Oceania",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06448",
+                            "title": "Music in World Cultures: Africa, India, Near and Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06115",
+                            "title": "Growth and Development of Jazz",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02103",
+                            "title": "Major Applied Instrument",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "02104",
+                            "title": "Major Applied Voice",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "01050",
+                            "title": "Student Recitals (6 semesters)",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04103",
+                            "title": "Music Theory I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04104",
+                            "title": "Music Theory II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "97100",
+                            "title": "Piano Class I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "97101",
+                            "title": "Piano Class II",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06102",
+                            "title": "General Music History",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 22 s.h.",
+                "Take one of the following courses:",
+                "Take all of the following courses:",
+                "Ensembles (2 credits, as assigned by audition, must be designated major ensembles)"
+            ]
+        },
+        "Mid and Upper-Level Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02103",
+                            "title": "Major Applied Instrument (Taken 4 times for a total of 8 s.h.)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "02104",
+                            "title": "Major Applied Voice (Taken 4 times for a total of 8 s.h.)",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06214",
+                            "title": "History and Literature of Western Music Repertories I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06215",
+                            "title": "History and Literature of Western Music Repertories II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06335",
+                            "title": "History and Literature of Western Music Repertories III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "01050",
+                            "title": "Student Recitals (Taken 4 times)",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid and Upper-Level Courses: 18 s.h. Choose two (2)",
+                "Ensembles (4 credits, as assigned by audition, must be designated major ensembles)"
+            ]
+        },
+        "Program Elective Courses: 5 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04118",
+                            "title": "Music Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04110",
+                            "title": "Sight Singing and Ear Training",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "97200",
+                            "title": "Piano Class III",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "97201",
+                            "title": "Piano Class IV",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40122",
+                            "title": "Computer Technology and Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40222",
+                            "title": "Computer Technology and Music II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04216",
+                            "title": "Music Theory III",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Elective Courses: 5 s.h. Choose five s.h. from the following eight courses."
+            ]
+        },
+        "Free Electives: 48 s.h.": [
+            "Free Electives: 48 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Alexandria Funkhouser, MA Senior Academic Advisor Wilson Hall 141 856.256.5183 daniels@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

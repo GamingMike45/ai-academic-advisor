@@ -1,0 +1,82 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Human Resource Management, Master of Arts in Diversity & Inclusion",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7705&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Human Resource Management, Master of Arts in Diversity & Inclusion": [
+            "Accelerated Dual Degree: Bachelor of Science in Human Resource Management, Master of Arts in Diversity & Inclusion The Department of Management and the Center for Interdisciplinary Studies have created this accelerated program to provide a seamless transition between undergraduate and graduate coursework for students wishing to become diversity and inclusion champions. The program will allow qualified students to complete both programs and earn their initial certification in five years."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in Bachelor of Science in Human Resource Management Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DI",
+                            "course_number": "68501",
+                            "title": "Introduction to Diversity and Inclusion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02510",
+                            "title": "Qualitative Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Take two courses from the following list of required courses for the MA": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02530",
+                            "title": "Diversity, Equity, and Inclusion in U.S. Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05519",
+                            "title": "Political and Social Movements in the U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09521",
+                            "title": "Philosophical Approaches to Diversity, Equity, and Identity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Take two courses from the following list of required courses for the MA"
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 12 s.h.": [
+            "Required MA Courses taken as a Graduate student: 12 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in Diversity & Inclusion"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h. Graduate courses in the “Electives for the B.S. and Required Courses for the M.A. taken as an undergraduate” section above are counted in the 120 s.h. undergraduate program. Requirements for Admission: Applicants to the Accelerated Degree program will submit applications for admission to the graduate program in the fall semester of the junior year of the undergraduate program. Application requirements are as follows: A minimum overall GPA of 3.0 in undergraduate coursework A complete online Rowan Global application One letter of recommendation from an undergraduate professor Requirements for Graduation: To graduate from the accelerated program students must have a 2.50 GPA in Business courses and a 2.00 overall GPA for the B.S., plus a 3.00 GPA with no grades below C and no more than two grades of C or C+ for the M.A. Contingency for Students who do not Complete Master of Arts program : Students who choose not to complete the Master’s in Diversity and Inclusion will still be eligible to earn the B.S. in Human Resource Management.",
+                "Notes:"
+            ]
+        }
+    }
+}

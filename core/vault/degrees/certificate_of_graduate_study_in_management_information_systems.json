@@ -1,0 +1,86 @@
+{
+    "name": "Certificate of Graduate Study in Management Information Systems",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7599&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Management Information Systems": [
+            "Certificate of Graduate Study in Management Information Systems The Certificate of Graduate Study (COGS) in Management Information Systems/MIS will enhance a student’s preparedness to assume jobs in a world of rapidly changing technology by preparing them to develop business solutions through the use of information and technology resources. Students will be experienced in dealing with technological issues, understand the role of humans in developing technology-based solutions, and have the ability to manage technology-related projects. The purpose of the COGS in MIS is to serve those that wish to gain business expertise for career purposes, as well as an opportunity for aspirational applicants to take several classes before they apply to the MBA Program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 1.5 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02501",
+                            "title": "Information Systems for Managers Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 1.5 s.h."
+            ]
+        },
+        "Elective Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02515",
+                            "title": "Electronic Commerce",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02522",
+                            "title": "Systems Analysis and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02525",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02530",
+                            "title": "Information Security for Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02599",
+                            "title": "Special Topics in Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02538",
+                            "title": "Database Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 9 s.h.",
+                "TBD - Graduate level special topics in MIS courses are options. Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 10.5 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 10.5 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Management Information Systems/MIS is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

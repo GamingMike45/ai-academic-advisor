@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Undergraduate Study in Health Communication",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7435&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Health Communication": [
+            "Certificate of Undergraduate Study in Health Communication The Certificate of Undergraduate Study (CUGS) in Health Communication helps prepare students for cutting-edge, high impact work in communication sectors that focus on health and medicine, writing to specific health contexts, and integrating a cross-disciplinary approach to health communication contexts. The CUGS stresses hands-on experience and critical analysis to train students for careers in health and science advocacy, doctor-patient communication, public health campaigns, and mass communication of emerging scientific and health issues, trends and policies. The Certificate of Undergraduate Study (CUGS) in Health Communication is a 12-credit program."
+        ],
+        "Program Requirements: 12 s.h.": [
+            "Program Requirements: 12 s.h."
+        ],
+        "Required Course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04380",
+                            "title": "Health Communication",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course"
+            ]
+        },
+        "Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04385",
+                            "title": "Constructing Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05317",
+                            "title": "Strategic Public Relations in Health Care",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01325",
+                            "title": "Scientific Writing and Rhetoric",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01330",
+                            "title": "Medical Writing and Rhetoric-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Dr. Joy Cypher HSC Program Coordinator 260 Victoria, Room 611 Cypher@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

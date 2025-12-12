@@ -1,0 +1,88 @@
+{
+    "name": "Bachelor of Arts in Fitness Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7298&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Fitness Management": [
+            "Bachelor of Arts in Fitness Management The Bachelor of Arts in Fitness Management is a unique program that will provide students interested in careers in the fitness industry a low-cost bachelor’s degree option through collaboration between Rowan College of South Jersey (RCSJ) and Rowan University. The BA in Fitness Management is offered exclusively as a 3+1 program. Students must complete the first three years at RCSJ and their final year at Rowan University. Students will be charged the RCSJ tuition rate for the initial three years and Rowan University tuition rate for the final year. This unique 3 + 1 program offers an affordable, accessible, high-quality educational experience that will prepare students for careers in the fitness industry at a significant cost reduction compared to traditional 4-year programs."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "3 + 1 Undergraduate Program Requirements": [
+            "3 + 1 Undergraduate Program Requirements"
+        ],
+        "Required Courses": [
+            "Required Courses To complete the program, students must have a minimum 2.00 overall GPA, 2.00 GPA in the major."
+        ],
+        "Taught at Rowan College of South Jersey": {
+            "requirements": [],
+            "notes": [
+                "Taught at Rowan College of South Jersey BIOL 105 - General Biology I Credits: 4 BIOL 105 - Anatomy and Physiology I Credits: 4 PSYC 101 - General Psychology Credits: 3 MAT - Mathematics Elective Credits: 3 HPER 240 - Introduction to Health, PE and Recreation Credits: 3 HPER 136 - Nutrition Credits: 3 BIOL 102 - General Biology II Credits: 4 BIOL 106 - Anatomy and Physiology II Credits: 4 CHEM 111 - General Chemistry I Credits: 4 HPER 170-  Stress Management Credits: 3 HPER 245 - Motor Development and Motor Learning Credits: 3 EXSI 233 - Safety First Aid, CPR, and Injury Prevention Credits: 3 HPER 211 - Consumer Health Decisions Credits: 3 EXSI 252 - Foundations of Fitness: 3 EXSI 270 - Essentials of Personal Training Credits: 1 EXSI 265 - Fitness Assessment and Exercise Prescription Credits: 3 EXSI 300 - Kinesiology Credits: 3 PSYC 300 - Introduction to Sport and Exercise Psychology Credits: 3 EXSI 305 - Exercise Physiology with Laboratory Credits: 4 ISCC 211 - Internship Career Connections Credits: 3 HPER 238 - Principles of Coaching Credits: 2"
+            ]
+        },
+        "General Education/Rowan Core/Elective courses: 27 s.h.": [
+            "General Education/Rowan Core/Elective courses: 27 s.h."
+        ],
+        "Semester Hours at RCSJ: 93 s.h.": [
+            "Semester Hours at RCSJ: 93 s.h."
+        ],
+        "Taught at Rowan University": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPW",
+                            "course_number": "00360",
+                            "title": "Facility and Program Management in Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00348",
+                            "title": "Human Disease and Epidemiology in Health and Exercise Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00350",
+                            "title": "Health Behavior Theory and Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00401",
+                            "title": "Exercise Prescription",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Taught at Rowan University"
+            ]
+        },
+        "Elective courses: 18 s.h.": [
+            "Elective courses: 18 s.h."
+        ],
+        "Semester Hours at Rowan: 30 s.h.": [
+            "Semester Hours at Rowan: 30 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Gregory Biren Program Coordinator Herman D. James Hall 856.256.4500 ext. 53728 biren@rowan.edu Shawn Washart Advisor 856.256.5578 washart@rowan.edu Jeanine Dowd Advisor Herman D. James Hall 856.256.4224 dowd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

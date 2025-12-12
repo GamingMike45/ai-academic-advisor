@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Research & Leadership in Applied Behavior Analysis",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7555&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Research & Leadership in Applied Behavior Analysis": [
+            "Certificate of Graduate Study in Research & Leadership in Applied Behavior Analysis The Certificate of Graduate Study (COGS) in Research & Leadership in Applied Behavior Analysis, which is a sequence of four (4) courses comprising 12 credits, is designed to be taken in conjunction with the MA in ABA at Rowan University (or a similar program outside of Rowan). Students enrolled in the COGS will gain experience conducting cutting edge research under the mentorship of faculty in the Applied Behavior Analysis program of the Psychology Department. They will gain hands-on experience conceptualizing the research process, completing regulatory procedures needed to conduct research, developing research materials, interacting with research participants, analyzing data, writing research results (with the potential for publishing in peer-reviewed journals), and presenting those results at local, regional, or national conferences. This experience will be beneficial to any student who wishes to continue their education in a Ph.D. program, or who wants more in-depth research experience for the benefit of their applied practice. In addition to these research skills, students in the COGS will complete leadership coursework related to performance management, which will be beneficial to those who aspire for higher level supervisory roles. Students taking the COGS coursework must have already completed, or currently be matriculated in, the Master of Arts in Applied Behavior Analysis at Rowan University (or a comparable program at a different institution)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01550",
+                            "title": "Clinical Research Practicum",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02672",
+                            "title": "Performance Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02660",
+                            "title": "Research Project in Applied Behavior Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02662",
+                            "title": "Research Project in Applied Behavior Analysis II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Successful completion of all coursework with no more than two grades below B-. Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Research and Leadership in Applied Behavior Analysis is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Michelle Ennis Soreth, Ph.D., BCBA-D Robinson Hall abacoursework@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

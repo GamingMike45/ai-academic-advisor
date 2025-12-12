@@ -1,0 +1,268 @@
+{
+    "name": "Minor in Writing Arts",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7017&returnto=1028",
+    "content": {
+        "Minor in Writing Arts": [
+            "Minor in Writing Arts No matter what field one is preparing for, good writing is likely to be integral to success. The minor in Writing Arts provides interested students the opportunity to improve their own writing and to better understand and evaluate the writing of others. Doing so enhances one’s ability to communicate in a variety of subjects. The twenty-two hour minor in Writing Arts provides a streamlined version of the major in Writing Arts. Students complete many of the same required courses and other courses that parallel our related electives offerings."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 22 s.h.": [
+            "Required Courses: 22 s.h. All courses are 3 s.h., except for Portfolio Seminar, which is 1 s.h."
+        ],
+        "Introductory Level Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01200",
+                            "title": "Introduction to Writing Arts",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 6 s.h. Must take"
+            ]
+        },
+        "And choose one: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "07290",
+                            "title": "Creative Writing I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose one: 3 s.h."
+            ]
+        },
+        "Advanced Level Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01300",
+                            "title": "The Writer’s Mind - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 6 s.h."
+            ]
+        },
+        "Senior Level Capstone Courses: 4 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01445",
+                            "title": "Senior Seminar: Methods of Analysis and Evaluation of Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01450",
+                            "title": "Writing Arts Portfolio Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Senior Level Capstone Courses: 4 s.h"
+            ]
+        },
+        "Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "07290",
+                            "title": "Creative Writing I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07415",
+                            "title": "Writing the Young Adult Novel-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07291",
+                            "title": "Creative Writing II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01201",
+                            "title": "How Writers Read",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01250",
+                            "title": "Tutoring Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01304",
+                            "title": "Writing Creative Nonfiction-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01305",
+                            "title": "Writing Comedy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01322",
+                            "title": "Writing for the Workplace-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01325",
+                            "title": "Scientific Writing and Rhetoric",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01326",
+                            "title": "Writing for Nonprofits-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01330",
+                            "title": "Medical Writing and Rhetoric-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01350",
+                            "title": "Rhetorics of Style-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01356",
+                            "title": "Self Publishing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01358",
+                            "title": "Teaching the Writer’s Workshop-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01375",
+                            "title": "Writing about Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07391",
+                            "title": "Writing Fiction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07395",
+                            "title": "Writing Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03393",
+                            "title": "Screenwriting I: Writing the Short - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03493",
+                            "title": "Screenwriting II: Writing the Feature - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "05301",
+                            "title": "American English Grammar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02313",
+                            "title": "Magazine Article Writing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 6 s.h. Choose any two"
+            ]
+        },
+        "Total Required Credits for the Program: 22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 22 s.h. Amy Woodworth Chair 260 Victoria Street 856.256.4847 woodworth@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

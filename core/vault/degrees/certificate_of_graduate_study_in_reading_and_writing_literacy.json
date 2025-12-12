@@ -1,0 +1,71 @@
+{
+    "name": "Certificate of Graduate Study in Reading & Writing Literacy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7635&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Reading & Writing Literacy": [
+            "Certificate of Graduate Study in Reading & Writing Literacy This hybrid program meets the increasing need for highly qualified practitioners in the area of Reading & Writing Literacy as required by the Common Core English and Language Arts Standards. This program benefits classroom teachers P-12 who wish to increase their knowledge of literacy instruction. Courses in this program also enable teachers to apply for National Board Certification by building content area knowledge in reading and writing. The Certificate of Graduate Study in Reading & Writing Literacy does not lead to any state certification. All courses carry over to either the Master of Arts in Writing or the Master of Arts in Reading as appropriate. Admission Requirements Completed Post-baccalaureate/Graduate/Doctoral Application Form (www.rowanu.com/graduate/apply) $65 (U.S.) non-refundable application fee Bachelor’s degree from an accredited institution of higher learning Official transcripts from all colleges attended (regardless of number of credits earned) Current professional resume Statement of professional objectives One letter of recommendation that address potential as a leader and potential for graduate study Minimum GPA of 2.75 (on a 4.0 scale)"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30515",
+                            "title": "Literacy Foundations: Theory, Equity, and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01549",
+                            "title": "Issues in Composition Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30536",
+                            "title": "Reading and Writing Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01556",
+                            "title": "Assessment of Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01618",
+                            "title": "Special Topics",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h. Choose 5 of the following courses.",
+                "READ 30552 - Selected Topics In Reading Credits: 3"
+            ]
+        },
+        "Note:": [
+            "Note: All READ courses are offered online in an 8-week format. All MAWR courses are offered face-to-face in a 15-week format."
+        ],
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA All matriculated and graduate students are expected to maintain satisfactory academic progress each term of enrollment. To maintain satisfactory academic progress and to successfully complete the program, students must: Earn a B- or better in all coursework. Earn an official cumulative GPA (according to matriculation level) of at least 3.000 on Rowan’s 4.000 scale. The Certificate of Graduate Study in Reading/Writing Literacy is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Stephanie Abraham 856.256.4500, ext.53830 abrahams@rowan.edu Xiufang Chen 856.256.4745 chenx@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

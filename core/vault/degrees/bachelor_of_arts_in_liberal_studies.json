@@ -1,0 +1,2528 @@
+{
+    "name": "Bachelor of Arts in Liberal Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7180&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Liberal Studies": [
+            "Bachelor of Arts in Liberal Studies The Liberal Studies major is a quality liberal arts program that offers students the opportunity to pursue multiple areas of study in the humanities and social sciences. Liberal Studies gives students the ability to combine two academic areas into one flexible and comprehensive Bachelor of Arts degree, creating a truly multidisciplinary education. The ability to combine diverse areas of interest is highly desired by traditional as well as non-traditional students to enrich their lives and prepare for productive, rewarding careers. This structured yet versatile major provides an excellent interdisciplinary education for increased marketability upon graduation."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements Major courses will be completed in two program sequences. Students must choose one subject from approved Program A Sequences and one from approved Program B Sequences or two may be chosen from Program A Sequences. A minimum number of Free Electives is also required and dependent upon the combined total credits earned in the Program Sequences. Courses used to fulfill the requirements of Program A Sequences may not be used to fulfill requirements for Program B Sequences. Courses eligible for Program A Sequence requirements but not used to fulfill that requirement may be used to fulfill Program B Sequence requirements. Courses used toward Program A and B Sequence completion are not eligible to complete General Education Requirements. The Liberal Studies program requires a minimum GPA of 2.0 for graduation. In addition, a minimum of 30 credits must be earned at Rowan University to satisfy residency requirements."
+        ],
+        "Other Requirements": {
+            "requirements": [],
+            "notes": [
+                "Other Requirements General Education Students only Additional History/Humanities/Language courses Credits: 6 Additional Social and Behavioral Science courses Credits: 6 Additional Non-Program courses Credits: 11"
+            ]
+        },
+        "Experiential Learning Requirement:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01311",
+                            "title": "Field Experiences in Human Services I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01411",
+                            "title": "Field Experience in Human Services II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01412",
+                            "title": "Human Services Field Experience in Human Services III",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02290",
+                            "title": "Museum Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02315",
+                            "title": "Forensic Anthropology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02324",
+                            "title": "Archaeological Field Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43495",
+                            "title": "Internship in Disaster Preparedness and Emergency Management",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23320",
+                            "title": "Building Brains: Competency and Resiliency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04410",
+                            "title": "Internship in Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02490",
+                            "title": "Public Service Internship",
+                            "credits": "3 to 12"
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05495",
+                            "title": "Internship in History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02310",
+                            "title": "STREAM I: Social Studies, ELA, and the Arts",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "SA",
+                            "course_number": "01470",
+                            "title": "Semester Abroad",
+                            "credits": "0 to 6"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20390",
+                            "title": "Interdisciplinary Case Studies in the Liberal Arts",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20395",
+                            "title": "Experiential Learning in the Humanities and Social Sciences",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05356",
+                            "title": "Criminal Justice Internship I",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05357",
+                            "title": "Criminal Justice Internship II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "40450",
+                            "title": "Schools & Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08377",
+                            "title": "Field Research Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08494",
+                            "title": "Field Experience Seminar in Sociology - WI",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05499",
+                            "title": "Study Abroad",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Experiential Learning Requirement: Choose one course from the following bank of experiential learning courses."
+            ]
+        },
+        "Program Sequence: A Choices": [
+            "Program Sequence: A Choices The Liberal Studies major promotes regular academic advising and consultation with the program advisor for students to follow a clear sequence of courses both in general education and the major Program Sequences for degree completion."
+        ],
+        "Africana Studies": [
+            "Africana Studies"
+        ],
+        "Required Credits: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits: 18 s.h."
+            ]
+        },
+        "Introductory Level Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02101",
+                            "title": "Critical Methods I for English Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02202",
+                            "title": "Critical Methods II for English Majors",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 6 s.h."
+            ]
+        },
+        "And choose one course from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "07290",
+                            "title": "Creative Writing I (prereq: College Comp 2)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories (prereq: 30 credits)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose one course from:"
+            ]
+        },
+        "Advanced Level Courses 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11304",
+                            "title": "Africana Social Thought",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses 9 s.h."
+            ]
+        },
+        "Choose one course from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "10271",
+                            "title": "Introduction to Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10275",
+                            "title": "Introduction to iOS Application Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04225",
+                            "title": "Principles of Data Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10344",
+                            "title": "Concepts of Computing Technologies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one course from:",
+                "And choose one course from Option 1."
+            ]
+        },
+        "Senior Level Capstone: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02322",
+                            "title": "Sex and Sex Roles in a Cross Cultural Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04320",
+                            "title": "Communicating Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05425",
+                            "title": "History of Feminisms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05367",
+                            "title": "Gender, Sexuality and History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08370",
+                            "title": "Sociology of Women In Society",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Senior Level Capstone: 3 s.h. Choose one course from:"
+            ]
+        },
+        "American Studies": [
+            "American Studies"
+        ],
+        "Required Credits: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits: 21 s.h."
+            ]
+        },
+        "Introductory Level Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01200",
+                            "title": "Introduction to Writing Arts (prereq: College Comp 2)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 3 s.h."
+            ]
+        },
+        "Advanced Level Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01300",
+                            "title": "The Writer’s Mind - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology (WI) (prereq: College Comp 2 and 45 credits)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 15 s.h."
+            ]
+        },
+        "Choose one English course from: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02313",
+                            "title": "US Literature I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02315",
+                            "title": "US Literature II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one English course from: 3 s.h."
+            ]
+        },
+        "Choose one History course from: 3 s.h.": [
+            "Choose one History course from: 3 s.h."
+        ],
+        "American Studies:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AMST",
+                            "course_number": "13320",
+                            "title": "American Studies in the Classroom-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "American Studies:"
+            ]
+        },
+        "History:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05452",
+                            "title": "United States History 1820-1861",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05322",
+                            "title": "Civil War and Reconstruction (D)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05426",
+                            "title": "Colonial North America 1500-1775",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05453",
+                            "title": "The Gilded Age and Progressive Era, 1877-1914",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05454",
+                            "title": "America from War to War, 1914-1945",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05427",
+                            "title": "The American Revolution and Early Republic, 1775-1828",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05371",
+                            "title": "U.S. Legal and Constitutional History to 1870",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05372",
+                            "title": "U.S. Legal and Constitutional History since 1870",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05373",
+                            "title": "Civil Rights/Black Power Movements (D)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05375",
+                            "title": "The United States since 1945 (D, G, M)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05376",
+                            "title": "African American History to 1865 (D)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05377",
+                            "title": "African American History since 1865 (D)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05407",
+                            "title": "History of World War II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05346",
+                            "title": "Intellectual History of the U.S. (GL)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05371",
+                            "title": "U.S. Legal and Constitutional History to 1870 Credits: 3 (GL) HIST 05372 - U.S. Legal and Constitutional History since 1870 Credits: 3 (GL)",
+                            "credits": null
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05384",
+                            "title": "Cultural History of U.S. (M)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05334",
+                            "title": "US Urban History (SC)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05436",
+                            "title": "US Home front 1941-1945",
+                            "credits": null
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05438",
+                            "title": "History of the Vietnam War (GL)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05353",
+                            "title": "Imperialism and Colonialism (GL)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05471",
+                            "title": "History of the American West (D)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05386",
+                            "title": "History of New Jersey",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05495",
+                            "title": "Internship in History",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "History:"
+            ]
+        },
+        "Choose one course from the following topics": [
+            "Choose one course from the following topics (see American Studies Program Guide) Diversity (D) Gender (G) Social Class (SC) U.S. in Global Perspective (GL) Media and Popular Culture (M) Internship (I) (LSHSS Students may not waive with Clinical Practice in Education)"
+        ],
+        "Choose one course from any discipline or topic": [
+            "Choose one course from any discipline or topic (see American Studies Program Guide)."
+        ],
+        "Applied Spanish": [
+            "Applied Spanish"
+        ],
+        "Required credits: 18 s.h.": [
+            "Required credits: 18 s.h."
+        ],
+        "Advanced Level Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02322",
+                            "title": "Sex and Sex Roles in a Cross Cultural Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03340",
+                            "title": "Survey of Women Artists",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03425",
+                            "title": "Special Problems in Art History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04320",
+                            "title": "Communicating Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04310",
+                            "title": "Images of Gender in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05419",
+                            "title": "Women In Modern Europe",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05425",
+                            "title": "History of Feminisms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05367",
+                            "title": "Gender, Sexuality and History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07311",
+                            "title": "Women and American Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01200",
+                            "title": "Psychology of Women and Cultural Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08370",
+                            "title": "Sociology of Women In Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08493",
+                            "title": "Seminar on Gender Roles",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 12 s.h. Choose four courses from:",
+                "SOC 08440 - Selected Topics in Sociology Credits: 3"
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Completion of both Principles of Accounting I (ACC 03210) and Principles of Accounting II (ACC 03211) can be used as a substitution for the Foundations of Accounting (ACC 03405) requirement."
+            ]
+        },
+        "Economics": [
+            "Economics"
+        ],
+        "Required credits: 21 s.h.": [
+            "Required credits: 21 s.h."
+        ],
+        "Introductory Level Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01105",
+                            "title": "Business Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing (prerequisites 12 credits and College Comp 1)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems (prerequisites 23+ credits)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 9 s.h."
+            ]
+        },
+        "Advanced Level Courses: 9 s.h.": [
+            "Advanced Level Courses: 9 s.h. Choose three courses in Art History at the 200, 300 or 400 level."
+        ],
+        "Geography": [
+            "Geography"
+        ],
+        "Required credits: 21-22 s.h.": [
+            "Required credits: 21-22 s.h."
+        ],
+        "Introductory Level Courses: 9-10 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16100",
+                            "title": "Earth, People, and the Environment",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 9-10 s.h."
+            ]
+        },
+        "History": [
+            "History"
+        ],
+        "Senior Level Capstone :3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05492",
+                            "title": "Seminar",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Senior Level Capstone :3 s.h."
+            ]
+        },
+        "Law & Justice Studies": [
+            "Law & Justice Studies"
+        ],
+        "Introductory Level Courses: 3-9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05175",
+                            "title": "Survey of Criminal Justice",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 3-9 s.h."
+            ]
+        },
+        "And choose up to two courses from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05201",
+                            "title": "Introduction to Courts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05255",
+                            "title": "Criminal Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05202",
+                            "title": "American Police",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05200",
+                            "title": "Introduction to Corrections",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05120",
+                            "title": "Introduction to Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05285",
+                            "title": "Criminal Investigation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05290",
+                            "title": "Forensic Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05276",
+                            "title": "Parole, Probation and Community Corrections",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05274",
+                            "title": "Criminal Justice and Community Relations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose up to two courses from:"
+            ]
+        },
+        "Advanced Level Courses: 9-15 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05369",
+                            "title": "Theories of Crime and Criminality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05380",
+                            "title": "Criminal Justice Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05401",
+                            "title": "Law and Human Rights (M/G)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05335",
+                            "title": "Criminal Procedure I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05312",
+                            "title": "Criminal Procedure II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05361",
+                            "title": "Introduction to Juvenile Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05320",
+                            "title": "Civil Aspects of Law Enforcement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05310",
+                            "title": "Criminal Jurisprudence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05305",
+                            "title": "Law and Evidence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05367",
+                            "title": "Theories Of Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05205",
+                            "title": "Minorities, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05315",
+                            "title": "Criminal Justice and Social Conflict",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05337",
+                            "title": "Treatment of the Offender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05342",
+                            "title": "Counseling and Guidance of the Offender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05395",
+                            "title": "The Incarceration Experience",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 9-15 s.h Choose three to five courses from:"
+            ]
+        },
+        "Philosophy": [
+            "Philosophy"
+        ],
+        "Political Science Program": [
+            "Political Science Program"
+        ],
+        "Introductory Level Courses: 3- 6 credits": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07110",
+                            "title": "American Government (required)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 3- 6 credits",
+                "POSC 07200 - Survey of Western Political Theory (optional) Credits: 3"
+            ]
+        },
+        "Advanced Level Courses: 12-15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07360",
+                            "title": "Methodology and Statistics in Political Science Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 12-15 s.h."
+            ]
+        },
+        "Additional Political Science Courses:": {
+            "requirements": [],
+            "notes": [
+                "Additional Political Science Courses: And choose three or four Political Science courses at the 200, 300, or 400 level, with the exception of Public Service Internship (EDPA 02490), which is ineligible."
+            ]
+        },
+        "Sociology": [
+            "Sociology"
+        ],
+        "And choose two courses from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01201",
+                            "title": "How Writers Read",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01250",
+                            "title": "Tutoring Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01304",
+                            "title": "Writing Creative Nonfiction-WI (WI)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01322",
+                            "title": "Writing for the Workplace-WI (WI)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01325",
+                            "title": "Scientific Writing and Rhetoric",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01326",
+                            "title": "Writing for Nonprofits-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01330",
+                            "title": "Medical Writing and Rhetoric-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01350",
+                            "title": "Rhetorics of Style-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01358",
+                            "title": "Teaching the Writer’s Workshop-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07290",
+                            "title": "Creative Writing I (if not previously taken)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07291",
+                            "title": "Creative Writing II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories (if not previously taken)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07391",
+                            "title": "Writing Fiction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07395",
+                            "title": "Writing Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07415",
+                            "title": "Writing the Young Adult Novel-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "05301",
+                            "title": "American English Grammar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02313",
+                            "title": "Magazine Article Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03393",
+                            "title": "Screenwriting I: Writing the Short - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03493",
+                            "title": "Screenwriting II: Writing the Feature - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose two courses from:"
+            ]
+        },
+        "World Religions": [
+            "World Religions"
+        ],
+        "World Religions Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10150",
+                            "title": "Religion on Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10210",
+                            "title": "Religion in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10214",
+                            "title": "Religions of the Western World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10230",
+                            "title": "Religions of Asia",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10240",
+                            "title": "Introduction to the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09200",
+                            "title": "Philosophy of Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09231",
+                            "title": "Asian Thought",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10301",
+                            "title": "Judaism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10320",
+                            "title": "Christianity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10331",
+                            "title": "Spirituality and Nature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10335",
+                            "title": "Sex and the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10340",
+                            "title": "Topics in World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11361",
+                            "title": "Ethics In and Out of Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11440",
+                            "title": "Topics in Philosophy and World Religions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "World Religions Electives: 9 s.h. Choose three courses (9 sh) of World Religions Electives. At least two courses (6 sh) should be 300-level or higher."
+            ]
+        },
+        "Program Sequence: B Choices": [
+            "Program Sequence: B Choices"
+        ],
+        "Advertising in the Workplace": [
+            "Advertising in the Workplace"
+        ],
+        "Applied Computing": [
+            "Applied Computing"
+        ],
+        "Required Credits: 18-19 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits: 18-19 s.h."
+            ]
+        },
+        "Introductory Level Courses: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07111",
+                            "title": "Colloquium in Theatre I Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07112",
+                            "title": "Colloquium in Theatre II Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07201",
+                            "title": "Introduction to Theatre and Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07105",
+                            "title": "Introduction to Performance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 7 s.h."
+            ]
+        },
+        "Advanced Level Courses: 11-12 s.h.": [
+            "Advanced Level Courses: 11-12 s.h. Choose one of the following options:"
+        ],
+        "Option 1: Flexible Model": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01105",
+                            "title": "Web Literacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01190",
+                            "title": "Introduction to Computer Game Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09210",
+                            "title": "Introduction to Networks and Data Communications",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04215",
+                            "title": "Computer Laboratory Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04210",
+                            "title": "Advanced Programming Workshop",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04225",
+                            "title": "Principles of Data Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10271",
+                            "title": "Introduction to Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10275",
+                            "title": "Introduction to iOS Application Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10344",
+                            "title": "Concepts of Computing Technologies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Option 1: Flexible Model"
+            ]
+        },
+        "Option 2: Addition of Fundamental Computing CUGS": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01105",
+                            "title": "Web Literacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09210",
+                            "title": "Introduction to Networks and Data Communications",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Option 2: Addition of Fundamental Computing CUGS Choose three courses from:",
+                "And choose one course from Option 1."
+            ]
+        },
+        "Option 3: Addition of Computer Programming CUGS": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04215",
+                            "title": "Computer Laboratory Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04210",
+                            "title": "Advanced Programming Workshop",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Option 3: Addition of Computer Programming CUGS"
+            ]
+        },
+        "Art History": [
+            "Art History"
+        ],
+        "Asian Studies": [
+            "Asian Studies"
+        ],
+        "Introductory Level Courses: 3-6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01136",
+                            "title": "Gateway to Asia HONR 05105 - Gateway to Asia",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07101",
+                            "title": "Elementary Chinese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07102",
+                            "title": "Elementary Chinese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07201",
+                            "title": "Intermediate Chinese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHIN",
+                            "course_number": "07211",
+                            "title": "Intermediate Chinese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08101",
+                            "title": "Elementary Japanese I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JAPA",
+                            "course_number": "08102",
+                            "title": "Elementary Japanese II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02112",
+                            "title": "Readings in Asian Literature (LIT) (M/G)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07350",
+                            "title": "Introduction to Asian Political Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism (M/G)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 3-6 s.h. Choose one or two courses from:"
+            ]
+        },
+        "Advanced Level Courses: 9-12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05355",
+                            "title": "Modern China",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05351",
+                            "title": "Modern Japan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05352",
+                            "title": "Chinese Cultural History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09231",
+                            "title": "Asian Thought (M/G)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism (M/G)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16343",
+                            "title": "Geography of Asia (M/G)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03231",
+                            "title": "Survey of Asian Art",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 9-12 s.h. Choose three or four courses from:"
+            ]
+        },
+        "Dance": [
+            "Dance"
+        ],
+        "Required Credits: 23 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits: 23 s.h."
+            ]
+        },
+        "And choose 9 credits from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08237",
+                            "title": "Modern Dance I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08377",
+                            "title": "Modern Dance II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08378",
+                            "title": "Modern Dance III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08378",
+                            "title": "Modern Dance III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08246",
+                            "title": "Fundamentals of Ballet Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08247",
+                            "title": "Advanced Ballet (repeat up to 9 credits)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08256",
+                            "title": "Fundamentals of Jazz Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08257",
+                            "title": "Advanced Jazz Dance (up to 9 credits)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08202",
+                            "title": "Fundamentals of Tap",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08203",
+                            "title": "Advanced Tap Dance (up to 9 credits)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08222",
+                            "title": "Dance for the Musical Theatre",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08146",
+                            "title": "World Dance Forms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08436",
+                            "title": "Dance History - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08315",
+                            "title": "Creative Dance for Children",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08337",
+                            "title": "Choreography",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose 9 credits from:"
+            ]
+        },
+        "Senior Level Capstone: 2 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07460",
+                            "title": "Senior Project in Theatre Arts",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Senior Level Capstone: 2 s.h."
+            ]
+        },
+        "English": [
+            "English"
+        ],
+        "Choose two courses from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02313",
+                            "title": "US Literature I",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02315",
+                            "title": "US Literature II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02309",
+                            "title": "British Literature I",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02311",
+                            "title": "British Literature II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two courses from:"
+            ]
+        },
+        "And choose one course from (or another 300-level course from the previous bank)*:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02417",
+                            "title": "Special Topics in Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02270",
+                            "title": "The English Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02424",
+                            "title": "American Drama",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02430",
+                            "title": "Anglo-Saxon and Medieval Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02440",
+                            "title": "Chaucer",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02441",
+                            "title": "English Renaissance Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02445",
+                            "title": "Shakespeare II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02460",
+                            "title": "British Literature: The Long Eighteenth Century",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02470",
+                            "title": "Special Topics in Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02475",
+                            "title": "Special Topics in Global Literatures in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02471",
+                            "title": "English Romanticism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02472",
+                            "title": "Victorian Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02473",
+                            "title": "Global Modernisms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02482",
+                            "title": "Modern European Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose one course from (or another 300-level course from the previous bank)*:"
+            ]
+        },
+        "Health Studies": [
+            "Health Studies"
+        ],
+        "Introductory Level Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NUT",
+                            "course_number": "00230",
+                            "title": "Introduction to Nutrition Professions *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00286",
+                            "title": "Pedagogy and Instructional Practices in HPE *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ATR",
+                            "course_number": "00105",
+                            "title": "Introduction to Healthcare in Sports Medicine *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00252",
+                            "title": "Foundations of Fitness *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Course: 3 s.h. Choose one from the following:"
+            ]
+        },
+        "Journalism": [
+            "Journalism"
+        ],
+        "Mathematics": [
+            "Mathematics"
+        ],
+        "Required Credits: 22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits: 22 s.h."
+            ]
+        },
+        "Introductory Level Courses: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 8 s.h."
+            ]
+        },
+        "Advanced Level Courses: 11 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01205",
+                            "title": "Technological Tools for Discovering Mathematics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01210",
+                            "title": "Linear Algebra",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01231",
+                            "title": "Ordinary Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01310",
+                            "title": "College Geometry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01330",
+                            "title": "Introduction to Real Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01331",
+                            "title": "Introduction to Real Analysis II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01332",
+                            "title": "Introduction to Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01340",
+                            "title": "Modern Algebra I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01341",
+                            "title": "Modern Algebra II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01352",
+                            "title": "Theory of Numbers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01354",
+                            "title": "Introduction to Topology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01386",
+                            "title": "Introduction to Partial Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01410",
+                            "title": "History of Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01430",
+                            "title": "Introduction to Complex Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03400",
+                            "title": "Applications of Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03411",
+                            "title": "Deterministic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03412",
+                            "title": "Stochastic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02360",
+                            "title": "Probability and Random Variables",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02361",
+                            "title": "Mathematical Statistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02371",
+                            "title": "Design of Experiments: Analysis of Variance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 11 s.h. *Additional prerequisites, including Symbolic Logic (PHIL 09130) and Discrete Math (MATH 03150), may be required for Advanced Level Courses. Choose 11 credits from:"
+            ]
+        },
+        "Perspectives of Business": [
+            "Perspectives of Business"
+        ],
+        "Physical Sciences: Chemistry": [
+            "Physical Sciences: Chemistry"
+        ],
+        "Required Credits: 23-24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits: 23-24 s.h."
+            ]
+        },
+        "Introductory Level Courses: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00150",
+                            "title": "Physics of Everyday Life",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 4 s.h."
+            ]
+        },
+        "Advanced Level Courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09250",
+                            "title": "Quantitative Analysis",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 16 s.h."
+            ]
+        },
+        "Senior Level Capstone: 3-4 s.h.": [
+            "Senior Level Capstone: 3-4 s.h. Advanced Chemistry course subject to approval"
+        ],
+        "Physical Sciences: General (Chemistry and Physics)": [
+            "Physical Sciences: General (Chemistry and Physics)"
+        ],
+        "Required Credits: 24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits: 24 s.h."
+            ]
+        },
+        "Advanced Level Courses: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 8 s.h."
+            ]
+        },
+        "Senior Level Capstone: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09250",
+                            "title": "Quantitative Analysis",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Senior Level Capstone: 8 s.h."
+            ]
+        },
+        "Physical Sciences: Physics": [
+            "Physical Sciences: Physics"
+        ],
+        "Required Credits 20: s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits 20: s.h."
+            ]
+        },
+        "Advanced Level Courses 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00210",
+                            "title": "Physics I without Calculus",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses 12 s.h. Choose one course from:"
+            ]
+        },
+        "Senior Level Capstone 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Senior Level Capstone 4 s.h."
+            ]
+        },
+        "Physics": [
+            "Physics"
+        ],
+        "Required Credits 18 - 20 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Required Credits 18 - 20 s.h."
+            ]
+        },
+        "Introductory Level Courses 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses 4 s.h."
+            ]
+        },
+        "Advanced Level Courses 11 - 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses 11 - 12 s.h."
+            ]
+        },
+        "Public Relations in the Workplace": [
+            "Public Relations in the Workplace"
+        ],
+        "Theater": [
+            "Theater *An audition with the theater department is required in order to declare the Theater sequence."
+        ],
+        "Urban Studies": [
+            "Urban Studies"
+        ],
+        "Introductory Level Courses: 3 - 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05151",
+                            "title": "United States since 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04102",
+                            "title": "An Introduction to Economics-A Microeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07220",
+                            "title": "State and Local Government",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Introductory Level Courses: 3 - 6 s.h. Choose one or two courses from:"
+            ]
+        },
+        "Advanced Level Courses: 9 - 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04360",
+                            "title": "Urban Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04210",
+                            "title": "Environmental Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31383",
+                            "title": "Metropolitan/Regional Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05334",
+                            "title": "US Urban History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08320",
+                            "title": "Urban Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08431",
+                            "title": "Social Psychology of City Life",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08422",
+                            "title": "Social Determinants of Health: Theory, Method and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05381",
+                            "title": "Crime Mapping and Crime Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Advanced Level Courses: 9 - 12 s.h. Choose three or four courses from:"
+            ]
+        },
+        "Women’s and Gender Studies": [
+            "Women’s and Gender Studies"
+        ],
+        "Various Selected Special Topics Courses (as approved by the WGS Council)": [
+            "Various Selected Special Topics Courses (as approved by the WGS Council)"
+        ],
+        "Writing Arts": [
+            "Writing Arts"
+        ],
+        "Senior Level Capstone: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01445",
+                            "title": "Senior Seminar: Methods of Analysis and Evaluation of Writing (prereq: College Comp 2, WA 01200, and 90 credits)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01450",
+                            "title": "Writing Arts Portfolio Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Senior Level Capstone: 4 s.h."
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Tiffany Tillman Program Coordinator Campbell Library, 5th floor samsel@rowan.edu Cindy Finer Program Advisor Bunce Hall, 2nd Floor 856.256.4599 finer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

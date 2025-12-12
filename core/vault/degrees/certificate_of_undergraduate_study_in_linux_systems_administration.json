@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Linux Systems Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7229&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Linux Systems Administration": [
+            "Certificate of Undergraduate Study in Linux Systems Administration The Certificate of Undergraduate Study (CUGS) in Linux Systems Administration is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: CompTIA Linux+"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "06220",
+                            "title": "Linux/Unix Essentials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06225",
+                            "title": "Linux/Unix Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06240",
+                            "title": "Linux Systems and Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "09210",
+                            "title": "Introduction to Computer Networks and Data Communications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students seeking this CUGS are required to successfully complete (grade of D- or better) the four courses in the order listed below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Patrick McKee Advisor Robinson Hall 328G 856.256.4805 Mckeep82@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

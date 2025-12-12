@@ -1,0 +1,260 @@
+{
+    "name": "Master of Science in Urban & Regional Planning",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7674&returnto=1028",
+    "content": {
+        "Master of Science in Urban & Regional Planning": [
+            "Master of Science in Urban & Regional Planning As we move to an era of decreased reliance on fossil fuels and rapidly diminished available land for development, efficiency in the use of the remaining land and in the sustainability of every dimension of our lifestyles will become ever more critical. Wise planning will become increasingly necessary. Planners are in demand to fill positions in consulting, industry, government, and non-profit organizations. A master’s degree in Urban & Regional Planning is recognized as the terminal degree for this profession. This program focuses on all planning fields commonly practiced in southern New Jersey but at the same time highlights their global significance related to climate change, environmental degradation, sustainability, resiliency, and diversity. This program accommodates the needs of full-time professionals through a combination of evening and online courses. The program accepts students with undergraduate degrees from both science and liberal arts backgrounds. Graduates are qualified to work within government, private, or nonprofit sectors. Students interested in advanced studies will have the opportunity to work on research projects under the supervision of faculty members. The M.S. in Urban & Regional Planning is a full-time or part-time program offered in a face-to-face format with some online options. It requires the completion of 46 graduate semester hours (14 courses)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 31 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31580",
+                            "title": "Introduction to Planning: Past, Present, and Future",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31686",
+                            "title": "Community Planning, Engagement, and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31590",
+                            "title": "Research Methods in Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31589",
+                            "title": "Environment and Sustainability Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31685",
+                            "title": "Planning Practice, Law, and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "31660",
+                            "title": "Fundamentals of Geographic Information Systems *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31593",
+                            "title": "Planning Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16661",
+                            "title": "Geovisualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31695",
+                            "title": "Planning Studio",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 31 s.h."
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Completing any three of the following courses as program electives will allow the student to complete a separate Certificate of Graduate Studies in Sustainability Studies while simultaneously fulfilling elective requirements for the M.S. in Urban & Regional Planning: ENST 94501, ENST 94502, ENST 94503, and/or ENST 94504."
+            ]
+        },
+        "Elective Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENST",
+                            "course_number": "94501",
+                            "title": "Sustainable Commerce *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94502",
+                            "title": "Sustainability Assessment *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94503",
+                            "title": "Perspectives on Environmental Regulation, Policy, and Law *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94504",
+                            "title": "Topics in Sustainability Innovation and Problem Solving *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16555",
+                            "title": "Introduction to Qualitative Methods for Planners and Policy Makers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16560",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16561",
+                            "title": "Cartography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16562",
+                            "title": "Web-Based GIS Mapping Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16565",
+                            "title": "Applications of Geographic Information Systems (GIS)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16575",
+                            "title": "Remote Sensing of Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16591",
+                            "title": "Independent Study in Geography",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16670",
+                            "title": "Drones, Planes, and Satellites",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31507",
+                            "title": "Transportation Planning and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31513",
+                            "title": "Urban Policy: From Global City to Local Reality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31587",
+                            "title": "Graduate Seminar in Food Systems Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31540",
+                            "title": "Advanced Historic Preservation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 15 s.h. The following elective courses are offered through the Department of Geography, Planning, & Sustainability and should be selected strategically in consultation with a program advisor to advance the student’s professional interests.",
+                "GEOG 16550 - Selected Topics in Geography, Planning, and Sustainability Credits: 1 to 3"
+            ]
+        },
+        "Additional Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02510",
+                            "title": "Introduction to Policy Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01541",
+                            "title": "Understanding and Writing Grants and Proposals",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02525",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02538",
+                            "title": "Database Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08575",
+                            "title": "Social Determinants of Health: Theory and Intervention in Urban Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08578",
+                            "title": "Critical Race Theory: Application and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08599",
+                            "title": "Urban Environmental Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08600",
+                            "title": "Social Experience of City Life and Urban Inequalities",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Elective Courses The following elective courses are offered through other departments at Rowan University and should be selected strategically in consultation with a program advisor to advance the student’s professional interests."
+            ]
+        },
+        "Total Required Credits for the Program: 46 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 46 s.h. Foundation Courses Students who have not had prior professional work experience or academic coursework in GIS must take the foundational course GEOG 16560 Introduction to Mapping and GIS before being permitted to take GEOG 31660 Fundamentals of Geographic Information Systems. Graduation/Exit, Benchmark, and/or Thesis Requirements Students must complete a planning studio project. Minimum Required Grades and Cumulative GPA The Master of Science in Urban & Regional Planning is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator Mahbubur Meenar Ph.D. Associate Professor 856.256.5812 meenar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

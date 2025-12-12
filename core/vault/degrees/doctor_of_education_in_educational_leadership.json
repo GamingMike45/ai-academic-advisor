@@ -1,0 +1,308 @@
+{
+    "name": "Doctor of Education in Educational Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7649&returnto=1028",
+    "content": {
+        "Doctor of Education in Educational Leadership": [
+            "Doctor of Education in Educational Leadership The Doctor of Education in Educational Leadership (Ed.D.) program develops social justice leaders who are change agents, ethical leaders, and scholar-practitioners. By tightly connecting theory and practice in coursework, the program supports students in applying learning immediately in coursework and in the workplace. This program offers students a unique opportunity to engage in applied inquiry throughout the program with the deliberate focus on preparing practitioners to lead initiatives and organizations that redress inequities and promote social justice. Track Options The doctoral program offers 7 tracks. Each track includes 5 specialized courses. All of the track courses are offered 100% online, regardless of the overall delivery format chosen. The 7 track options are: Higher Education: This track is for educators who are looking to gain advanced knowledge in the field of higher education, with a special focus on administration and leadership at the post-secondary/four-year college level. P-12: This track is for those educators who are looking to gain advanced knowledge in the field, with a special focus on developing the leadership skills and dispositions necessary to enact lasting and meaningful change within the preschool through secondary school levels. Nurse Educator: This track is for those educators who are looking to gain advanced knowledge in the field, with a special focus on educating nurses. Community College Leadership Initiative (CCLI): This track is typically offered on a biennial basis. This track is for those educators who are looking to gain advanced knowledge in the field, with a special focus on community college. Instructional Technology: This track is designed for educators who want to gain experience and skills with the integration of technology into the educational environment. Special Education Leadership Individualized track (students may build their own track from courses in the five tracks above, in consultation with their advisor)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses for All Tracks: 36 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27801",
+                            "title": "Leadership for Social Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27802",
+                            "title": "Inquiry I: Theory to Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27803",
+                            "title": "Reforming Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27804",
+                            "title": "Inquiry II - Program Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27805",
+                            "title": "Public Policy, Ethics, and Contemporary Issues",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27806",
+                            "title": "Inquiry III: Policy Inquiry, Analysis, and Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27807",
+                            "title": "Sustainable Institutional Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27808",
+                            "title": "Inquiry IV - Inquiry for Improvement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27809",
+                            "title": "Introduction to Writing a Research Literature Review",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27810",
+                            "title": "Leader Scholar Community I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27811",
+                            "title": "Leader Scholar Community II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27812",
+                            "title": "Leading Scholar Community III",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses for All Tracks: 36 s.h."
+            ]
+        },
+        "Required Track Courses: 12 s.h.": [
+            "Required Track Courses: 12 s.h. Doctor of Education in Educational Leadership students must complete the four courses in their selected track. (Track is selected during the application process.)"
+        ],
+        "Higher Education Track Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27840",
+                            "title": "History and Context of American Higher Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27841",
+                            "title": "Higher Education Governance and Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27842",
+                            "title": "Legal and Administrative Issues in Postsecondary Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27843",
+                            "title": "Leadership and Advocacy for Student Success",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Higher Education Track Courses"
+            ]
+        },
+        "P-12 Track Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27821",
+                            "title": "Instructional Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27820",
+                            "title": "Educational Leadership for Equity and Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27822",
+                            "title": "Equitable Finance and Budgeting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27823",
+                            "title": "Building Board and Community Relationships",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "P-12 Track Courses"
+            ]
+        },
+        "Nurse Educator Track Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27830",
+                            "title": "Curriculum Development and Instructional Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27831",
+                            "title": "Assessment and Evaluation for Nurse Educators",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SNUR",
+                            "course_number": "92753",
+                            "title": "Practicum in Nursing Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Nurse Educator Track Courses",
+                "Select course from another track Credits: 3"
+            ]
+        },
+        "Community College Track Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27850",
+                            "title": "History and Context of American Community Colleges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27851",
+                            "title": "Community College Governance and Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27852",
+                            "title": "Legal and Administrative Issues in Community Colleges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27853",
+                            "title": "Leadership and Advocacy for Community College Student Success",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Community College Track Courses"
+            ]
+        },
+        "Instructional Technology Track Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33580",
+                            "title": "Introduction to Educational Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33584",
+                            "title": "Digital Citizenship in 21st Century Schools",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33510",
+                            "title": "Emerging Technology Tools and the Curriculum",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33585",
+                            "title": "Internet in the Classroom",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Instructional Technology Track Courses"
+            ]
+        },
+        "Special Education Leadership Concentration": [
+            "Special Education Leadership Concentration Graduate Concentration in Special Education Leadership"
+        ],
+        "Required Dissertation Research Course: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "24795",
+                            "title": "Dissertation Research",
+                            "credits": "1 to 12"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Dissertation Research Course: 12 s.h. Doctor of Education in Educational Leadership students must complete a minimum of 12 semester hours of Dissertation Research."
+            ]
+        },
+        "Note about Dissertation Research:": {
+            "requirements": [],
+            "notes": [
+                "Note about Dissertation Research: In order to maintain matriculation in the program, students must register for at least 1 semester hour of  EDST 24795 - Dissertation Research per term until their dissertation is complete and approved and at least 12 Dissertation Research semester hours total have been completed."
+            ]
+        },
+        "Total Required Credits for the Program: 60 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 60 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Benchmarks & Dissertation The Doctor of Education in Educational Leadership degree at Rowan University requires the completion of 60 graduate semester hours (s.h.) made up of 16 courses (48 s.h.) and 12 s.h. of dissertation. The program includes three distinct benchmarks. Benchmark I takes place after the completion of the first year of coursework. Benchmark II consists of a presentation of dissertation proposal to a committee of faculty. Benchmark III is the dissertation symposium. Benchmark I: Timing: Occurs after the completion of the first year of coursework. Requirements: Benchmark I consists of completing and defending a literature review around topical area(s) surrounding a student’s dissertation interest. Options: If the student does not successfully pass this benchmark on the first try, then the student is invited make a second attempt to pass the benchmark. Students will not be permitted to continue coursework until this benchmark requirement is satisfied. The student who does not pass on the second attempt will be dismissed from the program. Benchmark II: Timing: Occurs after the completion of the dissertation proposal. Requirements: Student may present his or her dissertation proposal at a time mutually agreed upon by the student and his or her dissertation committee. The dissertation proposal must be approved before moving onto the completion of the dissertation project. Options: If the student does not successfully pass the benchmark, meaning an approved dissertation proposal is not obtained, then the student is able to revise and take again while continuing dissertation coursework. Benchmark III: Timing: Occurs after the completion of 60 s.h. and completion of dissertation. Requirements: Student must successfully complete and defend a dissertation at a final symposium. Options: If the student does not successfully pass the benchmark, then the student may resubmit and defend the dissertation. If still unsuccessful, student will not be approved for graduation from the program. Minimum Required Grades and Cumulative GPA The Ed.D. in Educational Leadership is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Faculty Advisor James Coaxum III Herman D. James Hall 856.256.4779 coaxum@rowan.edu Program Advisor/Contact Information Miguel Greenup Herman D. James Hall greenup@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

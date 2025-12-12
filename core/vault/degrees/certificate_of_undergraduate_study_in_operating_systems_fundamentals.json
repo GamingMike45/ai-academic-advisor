@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Operating Systems Fundamentals",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7440&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Operating Systems Fundamentals": [
+            "Certificate of Undergraduate Study in Operating Systems Fundamentals The Certificate of Undergraduate Study (CUGS) in Operating Systems Fundamentals is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: LFCS: Linux Foundation Certified IT Associate Examination"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "06220",
+                            "title": "Linux/Unix Essentials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06225",
+                            "title": "Linux/Unix Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06230",
+                            "title": "Microcomputer Operating Systems I: Workstation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "06235",
+                            "title": "Microcomputer Operating Systems II: Server Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students must take the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

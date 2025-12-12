@@ -1,0 +1,243 @@
+{
+    "name": "Bachelor of Science in Biophysics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7242&returnto=1028",
+    "content": {
+        "Bachelor of Science in Biophysics": [
+            "Bachelor of Science in Biophysics The Bachelor of Science Program in Biophysics prepares students for medical school, graduate school in biophysics, and careers in the biomedical industry. While more specialized than the Bachelor of Science in Physics, there is still enough broad scientific learning such that the degree can also lead to similar post-graduate paths. Students may wish to pursue an Accelerated Dual Degree Program with the Masters of Science in Cell & Molecular Biology, Doctor of Medicine, or Doctor of Osteopathic Medicine. Many opportunities exist for student/faculty collaborative research. These experiential activities amplify student development and are strongly encouraged."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 24 s.h. Courses in this section cannot be in the major department.",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 4",
+                "CHEM 06100 - Chemistry I (Satisfies Scientific Literacy (SCIL) Requirement) Credits: 4"
+            ]
+        },
+        "Foundational Courses: 25 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00130",
+                            "title": "Building Momentum as a Physics Student at Rowan and Beyond-RS",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00221",
+                            "title": "Introductory Thermodynamics, Fluids, Waves, and Optics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 25 s.h.",
+                "PHYS 00220 - Introductory Mechanics (Satisfies Scientific Literacy (SCIL) Requirement) Credits: 4"
+            ]
+        },
+        "Mid-Level Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "TBS",
+                            "course_number": "01315",
+                            "title": "Biomedical Technologies I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00330",
+                            "title": "Mathematical Methods for Physics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07348",
+                            "title": "Biochemistry (Lecture And Lab)",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-Level Courses: 15 s.h."
+            ]
+        },
+        "Upper-Level Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00370",
+                            "title": "Molecular Biophysics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00375",
+                            "title": "Introduction to Radiation Physics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00371",
+                            "title": "Biophysics: Fundamentals of Biomaterials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00451",
+                            "title": "Biophysics Research I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00452",
+                            "title": "Biophysics Research II (or other approved research)",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-Level Courses: 15 s.h."
+            ]
+        },
+        "Restricted Electives": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05249",
+                            "title": "Introduction to Forensic Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09249",
+                            "title": "Analytical Chemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06462",
+                            "title": "Bioprocess Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06472",
+                            "title": "Principles of Biomedical Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06474",
+                            "title": "Fundamentals of Particle Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06478",
+                            "title": "Tissue Engineering Fundamentals",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives Choose at least 11 s.h. from:",
+                "any 300+ Physics course excluding Physics/Astronomy Research (PHYS 00350, 00450; ASTR 11350, 11450) any 200+ Biology any 300+ Chemistry and",
+                "Chemical Engineering"
+            ]
+        },
+        "Free Electives: 21 s.h.": [
+            "Free Electives: 21 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Nathaniel Nucci Program Coordinator Science Hall 856.256.4396 nucci@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

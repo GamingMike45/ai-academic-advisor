@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Undergraduate Study in Access, Success & Equity for Educational Innovation",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7033&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Access, Success & Equity for Educational Innovation": [
+            "Certificate of Undergraduate Study in Access, Success & Equity for Educational Innovation The Certificate of Undergraduate Study (CUGS) in Access, Success, & Equity for Educational Innovation develops graduates who can work in a variety of organizations and agencies related broadly to the educational purpose, including foundations, governmental and community agencies, charter and private schools, and non-profit as well as for profit organizations, among others. The curriculum includes the history of education, the teaching and learning process as well as the structure and function of organizations and their administration. Additionally, courses include a specific focus on the issues of access, success, and equity in education that remain stubbornly unimproved and the ways in which education and the educational process can be harnessed for social change and improvement. These courses will help participants develop their effectiveness in educational organizations and agencies, which ultimately is intended to improve the educational outcomes of learners."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "FNDS",
+                            "course_number": "21150",
+                            "title": "History of American Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28210",
+                            "title": "Educational Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28211",
+                            "title": "Access, Success, and Equity in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28212",
+                            "title": "Education and Empowerment for Social Change",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h. The requirements include the following five courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS in Access, Success, & Equity for Educational Innovation, students must complete all courses required for the CUGS in Access, Success, & Equity for Educational Innovation with at least a 1.70 (C-) average. MaryBeth Walpole, Ph.D. Professor, Educational Services and Leadership Herman D. James Hall 3038 856.256.4706 walpole@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

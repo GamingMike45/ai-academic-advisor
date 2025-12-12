@@ -1,0 +1,106 @@
+{
+    "name": "Certificate of Graduate Study in Cybersecurity Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7618&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Cybersecurity Engineering": [
+            "Certificate of Graduate Study in Cybersecurity Engineering The ever-changing cyber space and number of threat actors in cyberspace are growing exponentially as we as a nation, both publicly and privately, become more reliant on technology, data, and a secure cyber arena. This growing area of concern, nationally, from both private and public organizations has reached a point where supply is well short of demand, with no end in sight for the growing need for graduates to enter the space in the fight against the bad actors. This Certificate of Graduate Study (COGS) in Cybersecurity Engineering is designed to meet the growing needs of our students as well as our industrial partners asking for this content, specifically in terms of hardware and engineering aspects of cybersecurity. This particular COGS and its courses are designed for graduate students, with projects in each of its required courses that are commensurate with their background. While most cybersecurity programs are typically focused on the software side of cybersecurity, this COGS in Cybersecurity Engineering adds engineering and hardware aspects to provide a more modern and comprehensive coverage. The COGS in Cybersecurity Engineering consists of three required courses focusing on hardware aspects as well as an elective that may be taken from a bank of engineering and computer science courses. The completion of this COGS will provide students with the necessary skill sets to start a career in cybersecurity and/or pursue a more advanced education or degree program in related fields."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09585",
+                            "title": "Advanced Engineering Cyber Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09587",
+                            "title": "IoT Hardware Engineering and Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09588",
+                            "title": "Cloud Hardware Architecture and Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09504",
+                            "title": "Special Topics in Electrical and Computer Engineering *",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09580",
+                            "title": "Internet of Things",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09527",
+                            "title": "Advanced Model Based Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03500",
+                            "title": "Foundations of Cybersecurity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03551",
+                            "title": "Advanced Cyber Security: Principles and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03570",
+                            "title": "Cyber Defense of Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03580",
+                            "title": "Cloud Computing and the Internet of Things",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h."
+            ]
+        },
+        "Note:": [
+            "Note: *must be relevant and preapproved by program coordinator"
+        ],
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses Please contact the program coordinator for additional details. Graduation/Exit, Benchmark, and Thesis Requirements To be awarded the COGS in Cybersecurity Engineering, students must complete all courses required for this COGS with at least a 3.0 average. Some courses may have prerequisites. Students should check for these prerequisites carefully. Minimum Required Grades and Cumulative GPA As these are graduate level courses, the student must obtain a 3.0 (B) GPA over these courses to complete the certificate program. This COGS in Cybersecurity Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Double counting policy: ECE 09504 Special Topics in ECE class may be counted towards both the COGS (for which it is approved) and an ECE graduate degree program, however, the same specific ECE 09504 Special Topics in ECE class cannot be counted towards a different COGS. Hence, any given specific ECE 09504 Special Topics in ECE class - when taken as a relevant and preapproved class for a given COGS - may only be counted towards that COGS. Students in non-ECE graduate degree majors who pursue this COGS should follow the course double-counting policies of the department in which their major resides. Program Coordinator/Advisor Contact Information Robi Polikar, Ph.D. Engineering Hall 856.256.5372 polikar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

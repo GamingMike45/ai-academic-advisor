@@ -1,0 +1,82 @@
+{
+    "name": "Certificate of Undergraduate Study in Multiethnic American Literatures",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7075&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Multiethnic American Literatures": [
+            "Certificate of Undergraduate Study in Multiethnic American Literatures The Certificate of Undergraduate Study (CUGS) in Multiethnic American Literatures offers non-majors the opportunity to study, in-depth, key texts and contexts of ethnic American literatures. Students will cultivate a critical awareness of the ways in which mutually constitutive categories of ethnicity, race, indigeneity, class, gender, and sexuality inform the evolution of African American, Asian American, Latino/a, and Native American literary canons."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": [
+            "Required Courses: 12 s.h."
+        ],
+        "One of the following courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02101",
+                            "title": "Critical Methods I for English Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02218",
+                            "title": "Multiethnic Literatures of the United States",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following courses: 3 s.h."
+            ]
+        },
+        "Three of the courses listed below: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02360",
+                            "title": "Asian American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02362",
+                            "title": "Native American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02380",
+                            "title": "African American Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Three of the courses listed below: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To earn a CUGS in Multiethnic America Literatures, students must earn a C- or above in each of the four courses (12 s.h.). Christine Larsen-Britt Advisor 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "name": "Minor in World Religions",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7106&returnto=1028",
+    "content": {
+        "Minor in World Religions": [
+            "Minor in World Religions"
+        ],
+        "Program Requirements: 18 s.h.": [
+            "Program Requirements: 18 s.h."
+        ],
+        "Foundational Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10100",
+                            "title": "World Religions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 3 s.h."
+            ]
+        },
+        "Mid-level Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10230",
+                            "title": "Religions of Asia",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09231",
+                            "title": "Asian Thought",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10150",
+                            "title": "Religion on Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10210",
+                            "title": "Religion in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10214",
+                            "title": "Religions of the Western World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11269",
+                            "title": "Introduction to Queer Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10240",
+                            "title": "Introduction to the Bible",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-level Course: 3 s.h."
+            ]
+        },
+        "Methodological Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10219",
+                            "title": "Approaches to Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09200",
+                            "title": "Philosophy of Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08322",
+                            "title": "The Sociology of Religion",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Methodological Course: 3 s.h."
+            ]
+        },
+        "Upper-level World Religions Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10301",
+                            "title": "Judaism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10320",
+                            "title": "Christianity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10325",
+                            "title": "Islam",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10331",
+                            "title": "Spirituality and Nature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10335",
+                            "title": "Sex and the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10340",
+                            "title": "Topics in World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11361",
+                            "title": "Ethics In and Out of Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11440",
+                            "title": "Topics in Philosophy and World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11469",
+                            "title": "Topics in Queer Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-level World Religions Courses: 6 s.h."
+            ]
+        },
+        "Capstone: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10450",
+                            "title": "Senior Seminar in World Religions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Capstone: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

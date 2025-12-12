@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Clinical Mental Health Counseling",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7557&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Clinical Mental Health Counseling": [
+            "Certificate of Advanced Graduate Study in Clinical Mental Health Counseling The Certificate of Advanced Graduate Study (CAGS) in Clinical Mental Health Counseling is intended for individuals who have already completed a master’s degree in counseling (or related field) and need additional graduate coursework in order to have the sixty credits required for state licensure as Licensed Associate Counselors (LAC), followed by licensure (after completing necessary clinical experience) as Licensed Professional Counselors (LPC). Additionally, the program is available for mental health professionals in the community seeking to enhance their professional development. The courses within the certificate program are intended to be advanced courses within the clinical mental health profession that will allow students to improve their practical knowledge and skills. Candidates seeking licensure are advised to read the regulations and requirements of the state’s board where they intend to practice. The NJ Board of Licensed Professional Counselor regulations can be found at: http://www.njconsumeraffairs.gov/pc/Pages/default.aspx. Students typically complete 12 semester hours of graduate credits in classes taught by the Clinical Mental Health Counseling Program within the Department of Psychology in order to bring their total credits to the state requirement of 60. (Note: Some states may require that the master’s degree have the words “counseling” or “counselor” in the title and/or be from a CACREP-accredited institution). The 12 semester hours may be completed by taking a combination of courses within the Certificate of Advanced Graduate Study program. However, individual courses may have prerequisites associated with them. Given that some degrees total more or less than 48 credits, we occasionally accept individuals who request more (or less) than 12 semester hours and/or specific courses that are normally part of our own master’s degree program. Any exceptions should be discussed with the Program Coordinator. Students who simply need particular coursework (e.g., to obtain the sixty credits required for state licensure (LAC/LPC) and/or national certification/personal growth, etc.) may register for up to 9 graduate credits as non-matriculated students to meet their own individual needs. If additional credits are needed, students should matriculate in the program. Please note: It is highly recommended that all Certificate of Advanced Graduate Study students seek to matriculate. Please consult with the Program Coordinator to discuss your enrollment needs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01620",
+                            "title": "Legal, Ethical, and Professional Issues in Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01623",
+                            "title": "Psychopathology I: Diagnosis and Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01624",
+                            "title": "Psychopathology II: Conceptualization and Etiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01630",
+                            "title": "Family Systems Theory and Family Therapy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05610",
+                            "title": "Social and Cultural Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05652",
+                            "title": "Advanced Seminar in Clinical Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "06625",
+                            "title": "Assessment I: Psychometrics, Evaluation, and Treatment Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "06626",
+                            "title": "Assessment II: Assessment of Career/Vocational Interests, Treatments, and Programs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10610",
+                            "title": "Psychopharmacology and Biological Bases of Behavior",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Please meet with the Certificate of Advanced Graduate Study Program Coordinator to develop a course sequence from the following potential courses (dependent upon availability and prerequisites). Note: Some courses are offered on rotation, and additional elective courses may be added periodically."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses While the courses have no official prerequisites, it is recommended that students speak with the Program Coordinator to determine if beginner-level courses are needed to fully benefit from the courses. Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Advanced Graduate Study in Clinical Mental Health Counseling is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information cmhc@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

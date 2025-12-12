@@ -1,0 +1,152 @@
+{
+    "name": "Certificate of Undergraduate Study in Real Estate Entrepreneurship",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7443&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Real Estate Entrepreneurship": [
+            "Certificate of Undergraduate Study in Real Estate Entrepreneurship The Certificate of Undergraduate Study (CUGS) in Real Estate Entrepreneurship provides a sequence of courses that combines entrepreneurship courses focusing on entrepreneurial skillset and mindset development with real estate industry specific courses. The structure allows students to focus their interests on whatever aspect of the real estate industry is of most interest to them (commercial, residential, finance, investment, sales, etc.). This CUGS consists of 4 courses (12 s.h.)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06347",
+                            "title": "Real Estate Entrepreneurship",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 3 s.h."
+            ]
+        },
+        "Required Entrepreneurship Bank: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06348",
+                            "title": "Foundations of Real Estate",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06349",
+                            "title": "Real Estate Licensure Exam Prep",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06404",
+                            "title": "Independent Study",
+                            "credits": "1 to 6"
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06361",
+                            "title": "Supervised Internship in Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06333",
+                            "title": "Special Topics in Entrepreneurship",
+                            "credits": "0 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Entrepreneurship Bank: 3 s.h. Choose one course."
+            ]
+        },
+        "Required Business/Industry Course Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09315",
+                            "title": "Personal Selling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04360",
+                            "title": "Urban Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31280",
+                            "title": "Introduction to City Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31383",
+                            "title": "Metropolitan/Regional Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31384",
+                            "title": "Water Resources Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31386",
+                            "title": "Land Use and Conservation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Business/Industry Course Bank: 6 s.h. Choose two courses.",
+                "Any additional course from Elective Bank 1 (Ent xxxxx)."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Interested in learning more? Email entdegrees@rowan.edu. To Declare the CUGS : Students who currently have a major declared in the College of Business should contact their assigned advisor . For students majoring outside of the College of Business, email entdegrees@rowan.edu for questions and to schedule an appointment with our ENT advising team.",
+                "Notes:"
+            ]
+        }
+    }
+}

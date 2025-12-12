@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Spanish Translation & Interpretation",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7166&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Spanish Translation & Interpretation": [
+            "Certificate of Undergraduate Study in Spanish Translation & Interpretation The Certificate of Undergraduate Study (CUGS) in Spanish Translation & Interpretation may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). This program recognizes students’ completion of 12 s.h. in related coursework at the 300 and 400 levels. This Certificate in Spanish Translation & Interpretation enhances the profile of all job applicants across all fields of study, as skills in Translation and Interpretation are in high demand across a wide variety of career fields, such as in medicine, business, government, education, arts, and media."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05340",
+                            "title": "Introduction to Spanish Translation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05350",
+                            "title": "Introduction to Spanish Interpretation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05441",
+                            "title": "Advanced Spanish Translation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, and study abroad. For more information visit our website, Department of World Languages or contact the Department for the latest details. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in Spanish Translation & Interpretation. Marilyn S. Manley, Ph.D. Program Mentor Oak Hall, Room 110 856.256.4044 manley@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

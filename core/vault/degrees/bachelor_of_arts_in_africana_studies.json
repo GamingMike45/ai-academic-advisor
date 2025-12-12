@@ -1,0 +1,566 @@
+{
+    "name": "Bachelor of Arts in Africana Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7169&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Africana Studies": [
+            "Bachelor of Arts in Africana Studies Africana Studies is an interdisciplinary major designed to engage undergraduate students in a critical examination of past and contemporary challenges, experiences and contributions of people of African descent throughout the world. Hence the program is both national and international in scope. The program emphasizes two major goals: (1) discovering, mastering and creating knowledge and (2) using those understandings and skills in service to institutions and communities. Students are required to take 12 Africana Electives from two different banks: Africana and Comparative/World Electives. To maximize their career path options, students will be able to take the Africana Studies Major with a minor in one of the academic disciplines or as a double major. Graduates with a Bachelor Degree in Africana Studies will have the intellectual, technical, and social competencies to be competitive as applicants for employment and graduate or professional study in the US or abroad in a broad range of fields including: Education, law and justice, business, international affairs, federal and state public services, politics, social work, public administration, library and museum services, health sciences and public health, theatre, psychology and the social sciences, economic development, non-profit management, writing, journalism, ethnic studies, and the arts. The program promotes regular academic advising and consultation with the program coordinator or other faculty and staff to enable students to follow a clear sequence of courses both in general education and the major. This is especially essential for students pursuing a double major, who will need assistance in fulfilling the requirements of both majors by utilizing the flexibility provided in the current model of general education."
+        ],
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 3-9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Non-Program Courses: 3-9 s.h. Foreign Language Course - Choose from: Zulu, Arabic, French, Spanish, Swahili and other relevant languages (through abroad/off campus study, etc.) Credits: 3"
+            ]
+        },
+        "Experiential Learning: (0-6)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20390",
+                            "title": "Interdisciplinary Case Studies in the Liberal Arts",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20395",
+                            "title": "Experiential Learning in the Humanities and Social Sciences",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SA",
+                            "course_number": "01470",
+                            "title": "Semester Abroad",
+                            "credits": "0 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Experiential Learning: (0-6) Must choose one course from the bank of experiential learning courses below."
+            ]
+        },
+        "Foundational Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05394",
+                            "title": "Sub-Saharan Africa to 1800",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05397",
+                            "title": "Sub-Saharan Africa since 1800",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05437",
+                            "title": "Twentieth Century African Nationalism",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11104",
+                            "title": "Introduction to Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "AFST",
+                            "course_number": "11304",
+                            "title": "Africana Social Thought",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 9 s.h."
+            ]
+        },
+        "Africana Electives: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02311",
+                            "title": "People and Cultures of Africa",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12101",
+                            "title": "Elementary Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12102",
+                            "title": "Elementary Arabic II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02380",
+                            "title": "African American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02123",
+                            "title": "Topics in Literature (must focus  on an African American/Africana topic)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02218",
+                            "title": "Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16345",
+                            "title": "Geography of Africa",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16344",
+                            "title": "Geography of Latin America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05397",
+                            "title": "Sub-Saharan Africa since 1800",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05437",
+                            "title": "Twentieth Century African Nationalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05322",
+                            "title": "Civil War and Reconstruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05376",
+                            "title": "African American History to 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05377",
+                            "title": "African American History since 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05373",
+                            "title": "Civil Rights/Black Power Movements",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05429",
+                            "title": "Topics in History [must focus on an African American/Africana topic]**",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05443",
+                            "title": "Topics in Global History [must focus on an African topic]**",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05350",
+                            "title": "Modern Latin America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05409",
+                            "title": "Latin American Revolutions and Reform",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05362",
+                            "title": "History of Mexico",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05411",
+                            "title": "Topics in Latin American History [must focus on an Africana topic]",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05205",
+                            "title": "Minorities, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06220",
+                            "title": "The Singing Music of African-Americans",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40344",
+                            "title": "Hip Hop Culture: Music, Lifestyle, Fashion and Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06115",
+                            "title": "Growth and Development of Jazz",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07340",
+                            "title": "Civil Rights and Civil Liberties",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07347",
+                            "title": "Politics of the Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07324",
+                            "title": "The Politics of Race in American Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01235",
+                            "title": "African American Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01310",
+                            "title": "Psychology of Racism and Ethnocentrism: Causes, Development, Consequences, Solutions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09327",
+                            "title": "Philosophy and Race - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03280",
+                            "title": "African American Film History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08488",
+                            "title": "Critical Race Theory: Social Justice, Advocacy and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05324",
+                            "title": "Spanish American Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05327",
+                            "title": "Spanish American Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05328",
+                            "title": "Spanish-American Theater",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05326",
+                            "title": "Spanish Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07301",
+                            "title": "African, African-American Theatre: Intercultural Definitions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08311",
+                            "title": "African Influences in American Dance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Africana Electives: 12 s.h. Choose four courses from the following:",
+                "Relevant Special Topics course in any discipline (Must be approved by the Coordinator)"
+            ]
+        },
+        "Comparative/World Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02210",
+                            "title": "Natives of South America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04310",
+                            "title": "Global Economics - M/G",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04225",
+                            "title": "Women in the Economy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02116",
+                            "title": "Introduction to Global Literatures in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05120",
+                            "title": "World History since 1500",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05383",
+                            "title": "Islamic Civilization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05353",
+                            "title": "Imperialism and Colonialism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05330",
+                            "title": "Problems In World Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05401",
+                            "title": "Law and Human Rights",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09379",
+                            "title": "International Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06447",
+                            "title": "Music in World Cultures: Asia & Oceania",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07230",
+                            "title": "Comparative Political Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07321",
+                            "title": "Contemporary World Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07311",
+                            "title": "Women and American Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01105",
+                            "title": "The Psychology of Ethnic Identity and Community In America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01200",
+                            "title": "Psychology of Women and Cultural Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08330",
+                            "title": "Social Stratification",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08327",
+                            "title": "Comparative Education in Sociological Perspective",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Comparative/World Electives: 6 s.h. Choose two courses from the following:",
+                "HONR 05390 - Selected Topics (Honors Selected Topics) Credits: 3 to 6",
+                "HONR 05390 - Selected Topics Credits: 3 to 6 (Honors Selected Topics)"
+            ]
+        },
+        "Capstone Course: 3 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Capstone Course: 3 s.h. Choose one course from the following:",
+                "AFST 11450 - Senior Seminar in Africana Studies (This course includes research methods and is writing intensive. It also includes an optional service- learning component.) Credits: 3",
+                "AFST 11350 - Topics in Africana Studies (AS majors have the option to write a research paper that will fulfill the requirements of the Senior Seminar.) Credits: 3"
+            ]
+        },
+        "Free Electives: 84 s.h.": [
+            "Free Electives: 84 s.h. Students should choose Free Electives that satisfy any Rowan Core, Rowan Experience, or Experiential Learning requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Reading Specialist",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7636&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Reading Specialist": [
+            "Certificate of Advanced Graduate Study in Reading Specialist The Master of Arts (M.A.) in Reading Education is nationally accredited by the National Council for Accreditation in Teacher Education in conjunction with the International Literacy Association. The program prepares professionals to teach literacy to all learners and serve as leaders in supporting their colleagues in the field. Students in the program will have the opportunity to develop both a contemporary conceptual framework and effective strategies that are appropriate for guiding literacy development in classroom and clinical environments. Students acquire advanced knowledge of the reading process."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30550",
+                            "title": "Diagnosis of Reading and Writing Difficulties",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30560",
+                            "title": "Corrections of Reading and Writing Difficulties",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30570",
+                            "title": "Clinical Experiences in Reading and Writing",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Reading Specialist Certificate of Advanced Graduate Study in is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Stephanie Abraham Herman D. James Hall 856.256.4500, ext.53830 abrahams@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

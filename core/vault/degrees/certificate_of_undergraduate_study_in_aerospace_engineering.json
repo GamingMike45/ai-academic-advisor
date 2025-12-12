@@ -1,0 +1,97 @@
+{
+    "name": "Certificate of Undergraduate Study in Aerospace Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7069&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Aerospace Engineering": [
+            "Certificate of Undergraduate Study in Aerospace Engineering The Aerospace Engineering CUGS will consist of four (4) courses or 12 cr. hrs, of which, no more than two (2) courses or 6 cr hr. may be also used as part of the major requirements from a list of approved courses. A list of courses may be updated in the future. Administrating program faculty may approve or add courses to the list. The current list of approved courses include:"
+        ],
+        "Certificate of Undergraduate Study in Aerospace Engineering: 12 s.h.": [
+            "Certificate of Undergraduate Study in Aerospace Engineering: 12 s.h."
+        ],
+        "ECE courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09402",
+                            "title": "Topics in Electrical and Computer Engineering",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09425",
+                            "title": "Introduction to Command and Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09423",
+                            "title": "Introduction to Radar Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09456",
+                            "title": "Embedded Software Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "ECE courses"
+            ]
+        },
+        "ME Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10480",
+                            "title": "Intro to Aerospace Vehicles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10482",
+                            "title": "Intro to Flight Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10453",
+                            "title": "Introduction to Analytic Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10446",
+                            "title": "Automotive Engineering - Vehicle Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10411",
+                            "title": "Introduction to Combustion",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "ME Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Program Coordinator/Advisor Contact Information Mac Haas Associate Professor & CUGS Advisor Rowan Hall haas@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

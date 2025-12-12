@@ -1,0 +1,40 @@
+{
+    "name": "Minor in Psychology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7253&returnto=1028",
+    "content": {
+        "Minor in Psychology": [
+            "Minor in Psychology The Department offers an 18 s.h. minor in Psychology. The program is designed for students desiring a substantial background in Psychology while majoring in another field. The minor is designed to allow students the flexibility to choose courses that will further their career goals. Minors may transfer a maximum of 6 s.h. in Psychology courses from other institutions."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses:"
+            ]
+        },
+        "Electives:": [
+            "Electives: Two 300/400 level Psychology courses 6 s.h. Three Psychology courses of any level 9 s.h."
+        ],
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Psychology Department Robinson Hall 856.256.4870 psychadvising@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

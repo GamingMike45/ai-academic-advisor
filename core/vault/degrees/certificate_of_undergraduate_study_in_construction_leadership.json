@@ -1,0 +1,58 @@
+{
+    "name": "Certificate of Undergraduate Study in Construction Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7313&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Construction Leadership": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in Construction Leadership The Certificate in Construction Leadership program is designed for students who wish to learn how to operate within the unionized environment of the construction field. The certificate covers various perspectives on the collective bargaining systems and includes legal and regulatory environment, problem-solving and the roles of labor and corporation. The certificate also covers issues related to safety and health hazards in the construction environment including program development, safety and health program implementation, and prevention. The certificate features updates for construction regulations, construction job audit, training requirements and OSHA regulations. In addition, this certificate program is designed to prepare students to become more effective leaders and communicators in the construction industry. Students will define and role-play effective communication strategies that simulate situations they may encounter within the industry such as general sub-contractor interactions, corporate and labor relations. Principles of negotiation and disputes resolution are also covered in this certificate. Lastly, as part of the Construction Leadership certificate students will become experts in a particular issue within their specific trades. Students will look around their work environment and search for ways to improve the daily operations and increase productivity for their respective companies. The applied research contained within the Construction Leadership certificate will allow students to become subject matter experts ready to lead construction units and/or their very own construction companies. Prerequisites: CM 01301 - Fundamentals of the Construction Industry I Completion Requirements: Students must compete the prerequisite before enrolling in this certificate program."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CM",
+                            "course_number": "01407",
+                            "title": "Advanced Leadership and Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01408",
+                            "title": "Industrial Relations in the Construction Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01411",
+                            "title": "Construction Safety and Loss Prevention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01412",
+                            "title": "Capstone Project - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

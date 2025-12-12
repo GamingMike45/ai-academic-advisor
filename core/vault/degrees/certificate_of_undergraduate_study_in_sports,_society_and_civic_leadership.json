@@ -1,0 +1,163 @@
+{
+    "name": "Certificate of Undergraduate Study in Sports, Society & Civic Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7693&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Sports, Society & Civic Leadership": [
+            "Certificate of Undergraduate Study in Sports, Society & Civic Leadership The Certificate of Undergraduate Study (CUGS) in Sports, Society, & Civic Leadership provides a sequence of courses that combines humanities topics (such history, anthropology, and english) with sports communications and journalism (such as public relations and communications) equipping students with well-rounded approach to careers in the sports industry, non-profits, community organizations and to understand how sports operates in historical and social spheres."
+        ],
+        "Program Requirements: 12 s.h.": [
+            "Program Requirements: 12 s.h."
+        ],
+        "Sports Humanities Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SSCL",
+                            "course_number": "05340",
+                            "title": "Special Topics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02245",
+                            "title": "Sport and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "55392",
+                            "title": "History of Sports Diplomacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05391",
+                            "title": "History of Sports, Politics, and Society in Latin America",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Sports Humanities Courses: 6 s.h. Choose two courses from the following list."
+            ]
+        },
+        "Sports Communication: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04223",
+                            "title": "Sports Communication, Culture and Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04327",
+                            "title": "Women and Nonbinary Identities in Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04323",
+                            "title": "Images of Athletes in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02361",
+                            "title": "Sports Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06306",
+                            "title": "Social Media and Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06309",
+                            "title": "Sports Branding and Fan Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09110",
+                            "title": "Philadelphia Sports Past and Present",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09304",
+                            "title": "Special Topics in Sports Communication and Media",
+                            "credits": "1 to 3"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Sports Communication: 3 s.h. Choose one course from the following list."
+            ]
+        },
+        "Elective List: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04363",
+                            "title": "Sports Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05392",
+                            "title": "Digital Public History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05399",
+                            "title": "Digital History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05320",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective List: 3 s.h. Choose any one of the following or additional selections from either of the lists above."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program electives through coursework completed at Rowan University, transfer credits obtained from comparable coursework at other institutions and study abroad for up to 6 s.h. All courses must be passed with a letter of grade of “C-” or better. Debbie Sharnak sharnak@rowan.edu Julie Richmond richmondj@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

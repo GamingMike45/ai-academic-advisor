@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Urban & Regional Planning",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7688&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Urban & Regional Planning": [
+            "Certificate of Graduate Study in Urban & Regional Planning The Certificate of Graduate Study (COGS) introduces students to theory and practice of Urban & Regional Planning. Students will survey the discipline’s history and major theoretical advancements before achieving an in-depth understanding of environmental and community planning practices. Students will also learn the major regulatory frameworks operating in the State of New Jersey as well as nationally recognized ethical principles to guide a successful career in planning. Application To apply, please visit: https://apply-global.rowan.edu/apply/ *Note: Applicants to the certificate should either apply through the button for “Graduate Applicants (Domestic)” or “Graduate Applicants (International).” Declaration Requirements Students must have completed a bachelor’s degree in any field from an accredited college or university."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31580",
+                            "title": "Introduction to Planning: Past, Present, and Future",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31589",
+                            "title": "Environment and Sustainability Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31685",
+                            "title": "Planning Practice, Law, and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31686",
+                            "title": "Community Planning, Engagement, and Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses Students must take three of the four courses below - 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Coordinator Mahbubur Meenar meenar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Business: Marketing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10852&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Business: Marketing": [
+            "Certificate of Advanced Graduate Study in Business: Marketing Completing a Certificate of Advanced Graduate Study (CAGS) in Marketing will afford Rowan Master of Business Administration (MBA) alumni as well as MBA graduates of AACSB accredited universities the opportunity to complete a new area of specialization. This certificate offers MBA graduates the opportunity to stay competitive in a rapidly evolving workplace by developing expertise in marketing strategy, applying best practices in decision-making, and advancing their careers."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01600",
+                            "title": "Special Topics in Business Administration",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09501",
+                            "title": "Consumer Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09502",
+                            "title": "Marketing Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09503",
+                            "title": "Marketing Communication and Promotion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09575",
+                            "title": "Introduction to Logistics and Supply Chain Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09599",
+                            "title": "Special Topics in Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09600",
+                            "title": "International Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09605",
+                            "title": "Supply Chain Strategy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Choose three (3) from the following options.",
+                "Additional courses may be taken to fulfill the elective requirement with approval of the MBA Program Director or Graduate Academic Advisor",
+                "Notes:"
+            ]
+        }
+    }
+}

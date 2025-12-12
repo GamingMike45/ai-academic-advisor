@@ -1,0 +1,124 @@
+{
+    "name": "Teacher of Reading Endorsement",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7027&returnto=1028",
+    "content": {
+        "Teacher of Reading Endorsement": [
+            "Teacher of Reading Endorsement The Teacher of Reading Endorsement is an endorsement program that leads to certification as a Teacher of Reading. It is available to students who have already been admitted to teacher certification programs or who already hold New Jersey teaching certificates. Reading certification is granted only when a student has fulfilled all requirements for an initial teaching certificate. To matriculate, students must complete an introductory reading course and satisfy the requirements listed below. The program requires students to successfully complete 30 semester hours of coursework in reading and reading-related areas to obtain Teacher of Reading Certification. Students may fulfill the requirement for the New Jersey Teacher of Reading Endorsement with undergraduate coursework, graduate coursework, or a combination of the two."
+        ],
+        "Admissions Requirements": {
+            "requirements": [],
+            "notes": [
+                "Admissions Requirements The Teacher of Reading Endorsement Program is available to students who are currently enrolled in the Bachelor of Arts in Education. Additional admissions criteria include: In order to enroll in the endorsement, candidates must be admitted into an education major program concurrently: elementary, early childhood, inclusive education, or subject matter. Candidates must also complete READ 30311 Literacy Pedagogy I with a D or better before enrolling in courses in the Teacher of Reading K-12  Endorsement Candidates must submit an application."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements To complete the program, students must have an overall GPA of 3.0 based on 30 semester hours of coursework and pass the PRAXIS II Specialty Area Test, Introduction to the Teaching of Reading (also a New Jersey certification requirement)."
+        ],
+        "Course Requirements": [
+            "Course Requirements"
+        ],
+        "Elementary and Early Childhood Majors": [
+            "Elementary and Early Childhood Majors"
+        ],
+        "Area A: Reading Theory and Pedagogy": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30311",
+                            "title": "Literacy Pedagogy I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30347",
+                            "title": "Phonics and Spelling Instruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30350",
+                            "title": "Using Children’s Literature in the Reading/Writing Classroom",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Area A: Reading Theory and Pedagogy"
+            ]
+        },
+        "Area B: Application through Tutoring (Two Courses)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30421",
+                            "title": "Supervised Practicum in Literacy I-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30451",
+                            "title": "Supervised Practicum in Literacy II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Area B: Application through Tutoring (Two Courses)"
+            ]
+        },
+        "Area C: Core Supporting Courses (Maximum of 12 Semester hours)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDUC",
+                            "course_number": "01272",
+                            "title": "Teaching Content in Diverse Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08130",
+                            "title": "Disability as Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01358",
+                            "title": "Teaching the Writer’s Workshop-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Area C: Core Supporting Courses (Maximum of 12 Semester hours)"
+            ]
+        },
+        "Secondary/Subject Matter Education Majors": [
+            "Secondary/Subject Matter Education Majors"
+        ],
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Valarie Lee, Ed.D Program Coordinator Herman D. James Hall 856.256.3090 leev@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

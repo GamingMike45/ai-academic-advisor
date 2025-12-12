@@ -1,0 +1,79 @@
+{
+    "name": "Certificate of Undergraduate Study in Human Services: Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7138&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Human Services: Administration": [
+            "Certificate of Undergraduate Study in Human Services: Administration The Certificate of Undergraduate Study (CUGS) in Human Services: Administration will introduce students who are not Human Services majors to both theoretical and practical approaches used by professionals working in a variety of human services agencies. It could readily be a program for people already in the field who wish to advance their careers and move into administration. The courses will provide an overview of the skills and perspectives best suited to assist them in applying their other coursework to real-world settings, meeting the needs of employers as they navigate our changing societies. It will also prepare them for positions as diversity trainers, human services providers, managers, and staff of human services agencies, and human rights organizations."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01100",
+                            "title": "Introduction to Human Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01320",
+                            "title": "Applied Ethics in Human Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08401",
+                            "title": "Human Service Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02320",
+                            "title": "Public Administration",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08353",
+                            "title": "Sociology of Complex Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02410",
+                            "title": "Public Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Choose one course."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Michelle Mignot 856.256.5572 mignot@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

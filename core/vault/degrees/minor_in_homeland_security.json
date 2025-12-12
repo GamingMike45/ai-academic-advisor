@@ -1,0 +1,139 @@
+{
+    "name": "Minor in Homeland Security",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7421&returnto=1028",
+    "content": {
+        "Minor in Homeland Security": [
+            "Minor in Homeland Security DPEM Majors can enroll in this minor. With an emphasis on US Domestic Homeland Security Operations, the Minor in Homeland Security is designed for students interested in a broad understanding of Homeland Security.  The Minor in Homeland Security is designed to provide an understanding of the fundamental principles of National Security strategies, including the legal charter, presidential executive orders, and the framework which guides the operation of national security agencies. Specifically, the program analyzes the role and function of counter intelligence and the intelligence community. It will emphasize homegrown terrorist cultures, money-laundering, threat assessment, intelligence operations, incident command systems, border security, emergency response, joint operations, surveillance and communications systems, cyberterrorism, weapons of mass destruction, counterterrorist operations, and applications to specific terrorist organizations and threats. Students must complete the courses as listed.  Not substitution of classes is allowed to complete the minor. To maintain Minimum Satisfactory Academic Progress: Earn no grades lower than a “C-” in any course required for the minor. Earn an official cumulative GPA (according to matriculation level) of at least 2.000 on Rowan’s 4.000 scale"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00101",
+                            "title": "Introduction to Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00300",
+                            "title": "Bioterrorism and Weapons of Mass Destruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05280",
+                            "title": "Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00451",
+                            "title": "Counterterrorism and National Security Issues: Theory and Practice",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students must satisfy all the following"
+            ]
+        },
+        "Choose two from the following: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00356",
+                            "title": "Mass Casualty, Active Shooter, and Major Events Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43420",
+                            "title": "Risk Analysis for Disaster Preparedness and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00222",
+                            "title": "Search and Rescue Operations: Wilderness and Natural Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43355",
+                            "title": "Emergency Exercises-Design, Implementation and Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00492",
+                            "title": "Intelligence Analysis: Global Areas Threat Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00325",
+                            "title": "Technology and Border Surveillance in Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05327",
+                            "title": "Terrorism in the U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03351",
+                            "title": "Cyber Security: Fundamentals, Principles and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03252",
+                            "title": "Foundations of Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09427",
+                            "title": "Principles of Network Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03218",
+                            "title": "Ethical Hacking Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10200",
+                            "title": "Fundamentals of Network Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two from the following: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,240 @@
+{
+    "name": "Minor in Data Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7211&returnto=1028",
+    "content": {
+        "Minor in Data Science": [
+            "Minor in Data Science The minor in Data Science is designed to give students a strong foundation in programming, data structures, statistics, and data mining. The program will allow students to be able to use data science skills in any area of specialization, and it prepares them to work as Big Data analysts or to take advantage of large amounts of data in their own disciplines. In addition, the program will allow students to be able to understand issues related to ethics and privacy concerns posed by data mining. The Data Science minor consists of 1 required course in each of 6 knowledge areas and 2 electives:"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 19-20 s.h.": [
+            "Required Courses: 19-20 s.h."
+        ],
+        "Programming:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Programming:"
+            ]
+        },
+        "Data Structures:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04222",
+                            "title": "Data Structures and Algorithms",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04225",
+                            "title": "Principles of Data Structures",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Data Structures:"
+            ]
+        },
+        "Probability/Statistics:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02320",
+                            "title": "Concepts in Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02290",
+                            "title": "Probability and Statistical Inference for Computing Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02360",
+                            "title": "Probability and Random Variables",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Probability/Statistics:"
+            ]
+        },
+        "Databases:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02435",
+                            "title": "Database Systems: Theory and Programming",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Databases:"
+            ]
+        },
+        "Datamining:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02480",
+                            "title": "Introduction to Data Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02340",
+                            "title": "Elements of Statistical Learning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Datamining:"
+            ]
+        },
+        "Data Visualization:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02370",
+                            "title": "Introduction to Information Visualization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Data Visualization:"
+            ]
+        },
+        "Choose Two Elective Courses from this list: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03411",
+                            "title": "Deterministic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03412",
+                            "title": "Stochastic Models in Operations Research",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02421",
+                            "title": "Big Data Tools and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02440",
+                            "title": "Data Warehousing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07455",
+                            "title": "Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02485",
+                            "title": "Web and Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02371",
+                            "title": "Design of Experiments: Analysis of Variance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02361",
+                            "title": "Mathematical Statistics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose Two Elective Courses from this list: 6 s.h."
+            ]
+        },
+        "Note:": [
+            "Note: A grade of C- or better is required in all prerequisite courses A minimum grade point average of 2.0 is required in the courses completed"
+        ],
+        "Total Required Credits for the Program: 25-26 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 25-26 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1033 @@
+{
+    "name": "Master of Music",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7562&returnto=1028",
+    "content": {
+        "Master of Music": [
+            "Master of Music The Master of Music (M.M.) program provides intensive experiences in performance, conducting, or composition as well as courses geared to enhance the student’s knowledge and understanding of the literature of their area of concentration, and a greater understanding of music in general. The Master of Music program at Rowan University is for the aspiring musician who wishes to make a career as a jazz musician, classical performer, conductor, or composer or will continue their studies at the Ph.D. or M.A. level. Graduates of Rowan’s M.M. program have gone on to major doctoral programs, performing careers, arts leadership positions, and careers as college professors and public school teachers. The M.M. at Rowan University is designed to be four semesters long, but can be completed in two or three semesters - depending on number of hours taken/semester and the course rotation schedule. Admissions A performance audition or portfolio review is required for admission to the Master of Music program. Audition requirements for each instrument or area of concentration can be found at https://cpa.rowan.edu/prospective-students/graduate/graduate-music-audition-requirements.html. An appointment for audition will be scheduled once the candidate’s application is complete. The auditions are scheduled on an individual basis according to the following procedures: Vocal, Instrument : This audition can be taken during the academic year (September through April) by appointment. Conducting : If a candidate is invited to Phase 2 of the audition process, this audition must be scheduled during the academic year (October through April). Composition : The composition portfolio and accompanying materials can be submitted year round. Concentrations The Master of Music program offers the degree with three concentrations as detailed below: Notes: Students will officially declare their concentration at the time of application during the audition. Concentration requirements may only be modified by permission of the program coordinator. Concentration in Composition Concentration in Conducting (Instrumental or Choral) The following three focus areas are available for a Master of Music with a Concentration in Conducting: Choral Conducting Orchestral Conducting Wind Conducting Concentration in Performance (Instrumental or Vocal) The following four focus areas are available for a Master of Music with a Concentration in Performance: Orchestral Instruments Guitar Keyboard Vocal *The Vocal Focus Area requires an approved French, German, or Italian language course."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Master of Music with a Concentration in Composition": [
+            "Master of Music with a Concentration in Composition"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04560",
+                            "title": "Form and Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04555",
+                            "title": "Counterpoint",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04570",
+                            "title": "20th Century Literature and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "05547",
+                            "title": "Music and the Related Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "32502",
+                            "title": "Teaching of Music Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h.",
+                "Note: Students take MUS 04555 if MUS 04560 was completed at the undergraduate level."
+            ]
+        },
+        "Concentration Core Courses: 16 - 20 s.h.": [
+            "Concentration Core Courses: 16 - 20 s.h."
+        ],
+        "Group A: 12 - 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "10525",
+                            "title": "Graduate Music Composition I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10526",
+                            "title": "Graduate Music Composition II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10527",
+                            "title": "Graduate Music Composition I",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10528",
+                            "title": "Graduate Music Composition II",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Group A: 12 - 16 s.h. Choose 12 - 16 s.h. from the following. Be sure to include at least one offering each of Composition I and Composition II."
+            ]
+        },
+        "Group B: 2 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "10537",
+                            "title": "Graduate Ensemble: Concert Choir",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10541",
+                            "title": "Graduate Ensemble: Jazz Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10545",
+                            "title": "Graduate Ensemble: Lab Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10549",
+                            "title": "Graduate Ensemble: Orchestra",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10553",
+                            "title": "Graduate Ensemble: Wind Ensemble",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Group B: 2 s.h. Choose 2 s.h. from the following courses. Please note course numbers rotate each semester; consult with your Progam Coordinator to ensure correct registration."
+            ]
+        },
+        "Group C: 2 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "10501",
+                            "title": "Graduate Secondary Applied Instrument I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10505",
+                            "title": "Graduate Secondary Applied Voice I",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Group C: 2 s.h. Choose 2 s.h. from the following courses:"
+            ]
+        },
+        "Restricted Electives: 5 - 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04551",
+                            "title": "Piano Accompanying I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04555",
+                            "title": "Counterpoint",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04557",
+                            "title": "Advanced Orchestration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04561",
+                            "title": "Score Reading I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04562",
+                            "title": "Score Reading II",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04565",
+                            "title": "Seminar in Band Conducting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06503",
+                            "title": "Jazz History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06506",
+                            "title": "Art Song Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06509",
+                            "title": "String Instrument Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06510",
+                            "title": "Keyboard Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06511",
+                            "title": "Twentieth Century Band Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06542",
+                            "title": "Opera Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06546",
+                            "title": "Development and Interpretation of Symphonic Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "32507",
+                            "title": "Piano Pedagogy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 5 - 8 s.h. Choose 5 - 8 s.h. from the following courses:",
+                "MUS 04541 - Jazz Piano (This course is only available for non-keyboard students.) Credits: 1"
+            ]
+        },
+        "Total Required Credits for the Program: 33 - 40 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33 - 40 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements Culminating Experience (Recital) Successful completion of oral comprehensive exam Minimum Required Grades and Cumulative GPA The Master of Music is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Program Coordinator/Advisor Fabio Oliveira Wilson Hall 163 oliveira@rowan.edu"
+            ]
+        },
+        "Master of Music with a Concentration in Conducting (Instrumental or Choral)": [
+            "Master of Music with a Concentration in Conducting (Instrumental or Choral)"
+        ],
+        "Required Courses: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04560",
+                            "title": "Form and Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04555",
+                            "title": "Counterpoint",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04561",
+                            "title": "Score Reading I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04562",
+                            "title": "Score Reading II",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "05547",
+                            "title": "Music and the Related Arts",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 8 s.h.",
+                "Note: Students take MUS 04555 if MUS 04560 was completed at the undergraduate level."
+            ]
+        },
+        "Concentration Core Courses: 14 - 20 s.h.": [
+            "Concentration Core Courses: 14 - 20 s.h."
+        ],
+        "Group A: 10 - 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "10529",
+                            "title": "Graduate Conducting I",
+                            "credits": "2 to 4"
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10530",
+                            "title": "Graduate Conducting II",
+                            "credits": "2 to 4"
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10531",
+                            "title": "Graduate Conducting III",
+                            "credits": "2 to 4"
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10532",
+                            "title": "Graduate Conducting IV",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Group A: 10 - 16 s.h. Choose 10 - 16 s.h. from the following courses:"
+            ]
+        },
+        "Group B: 2 - 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "10537",
+                            "title": "Graduate Ensemble: Concert Choir",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10541",
+                            "title": "Graduate Ensemble: Jazz Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10549",
+                            "title": "Graduate Ensemble: Orchestra",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10553",
+                            "title": "Graduate Ensemble: Wind Ensemble",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Group B: 2 - 4 s.h. Choose 2 - 4 s.h. from the following courses. Please note course numbers rotate each semester; consult with your Progam Coordinator to ensure correct registration."
+            ]
+        },
+        "Required Focus Area Courses: 9 - 10 s.h.": [
+            "Required Focus Area Courses: 9 - 10 s.h. Choose one complete Focus Area below:"
+        ],
+        "Focus Area: Choral Conducting: 10 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06542",
+                            "title": "Opera Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Choral Conducting: 10 s.h.",
+                "Approved French, Italian or German language course Credits: 3"
+            ]
+        },
+        "Focus Area: Orchestral Conducting: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04557",
+                            "title": "Advanced Orchestration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06542",
+                            "title": "Opera Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06546",
+                            "title": "Development and Interpretation of Symphonic Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Orchestral Conducting: 9 s.h."
+            ]
+        },
+        "Focus Area: Wind Conducting: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04557",
+                            "title": "Advanced Orchestration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04565",
+                            "title": "Seminar in Band Conducting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06511",
+                            "title": "Twentieth Century Band Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Wind Conducting: 9 s.h."
+            ]
+        },
+        "Restricted Electives: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04551",
+                            "title": "Piano Accompanying I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06503",
+                            "title": "Jazz History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06506",
+                            "title": "Art Song Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06509",
+                            "title": "String Instrument Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06510",
+                            "title": "Keyboard Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06542",
+                            "title": "Opera Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06546",
+                            "title": "Development and Interpretation of Symphonic Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "32507",
+                            "title": "Piano Pedagogy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 3 s.h. Choose 3 s.h. from the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 34 - 40 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 34 - 40 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements Culminating Experience (Recital) Successful completion of oral comprehensive exam Minimum Required Grades and Cumulative GPA The Master of Music is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Program Coordinator/Advisor Fabio Oliveira Wilson Hall 163 oliveira@rowan.edu"
+            ]
+        },
+        "Master of Music with a Concentration in Performance (Instrumental or Vocal)": [
+            "Master of Music with a Concentration in Performance (Instrumental or Vocal)"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04560",
+                            "title": "Form and Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04555",
+                            "title": "Counterpoint",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUSG",
+                            "course_number": "05547",
+                            "title": "Music and the Related Arts",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h.",
+                "Note: Students take MUS 04555 if MUS 04560 was completed at the undergraduate level."
+            ]
+        },
+        "Required Graduate Performance Courses: 12 - 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "10509",
+                            "title": "Graduate Applied Instrument I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10510",
+                            "title": "Graduate Applied Instrument II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10511",
+                            "title": "Graduate Applied Instrument III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10512",
+                            "title": "Graduate Applied Instrument IV",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10513",
+                            "title": "Graduate Applied Voice I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10514",
+                            "title": "Graduate Applied Voice II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10515",
+                            "title": "Graduate Applied Voice III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10516",
+                            "title": "Graduate Applied Voice IV",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10517",
+                            "title": "Graduate Applied Instrument I",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10518",
+                            "title": "Graduate Applied Instrument II",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10519",
+                            "title": "Graduate Applied Instrument III",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10520",
+                            "title": "Graduate Applied Instrument IV",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10521",
+                            "title": "Graduate Applied Voice I",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10522",
+                            "title": "Graduate Applied Voice II",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10523",
+                            "title": "Graduate Applied Voice III",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10524",
+                            "title": "Graduate Applied Voice IV",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Graduate Performance Courses: 12 - 16 s.h."
+            ]
+        },
+        "Concentration Core Courses: 2 - 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "10537",
+                            "title": "Graduate Ensemble: Concert Choir",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10539",
+                            "title": "Graduate Ensemble: Concert Choir",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10541",
+                            "title": "Graduate Ensemble: Jazz Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10542",
+                            "title": "Graduate Ensemble: Jazz Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10543",
+                            "title": "Graduate Ensemble: Jazz Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10544",
+                            "title": "Graduate Ensemble: Jazz Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10545",
+                            "title": "Graduate Ensemble: Lab Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10546",
+                            "title": "Graduate Ensemble: Lab Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10547",
+                            "title": "Graduate Ensemble: Lab Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10548",
+                            "title": "Graduate Ensemble: Lab Band",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10549",
+                            "title": "Graduate Ensemble: Orchestra",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10550",
+                            "title": "Graduate Ensemble: Orchestra",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10551",
+                            "title": "Graduate Ensemble: Orchestra",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10552",
+                            "title": "Graduate Ensemble: Orchestra",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10553",
+                            "title": "Graduate Ensemble: Wind Ensemble",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10554",
+                            "title": "Graduate Ensemble: Wind Ensemble",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10555",
+                            "title": "Graduate Ensemble: Wind Ensemble",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "10556",
+                            "title": "Graduate Ensemble: Wind Ensemble",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Concentration Core Courses: 2 - 4 s.h. Choose 2 - 4 s.h. from the following courses. Please note course numbers rotate each semester; consult with your Progam Coordinator to ensure correct registration."
+            ]
+        },
+        "Required Focus Area Courses: 2 - 16 s.h.": [
+            "Required Focus Area Courses: 2 - 16 s.h. Choose one complete Focus Area below:"
+        ],
+        "Focus Area: Orchestral Instruments: 2 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04536",
+                            "title": "Chamber Music I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04537",
+                            "title": "Chamber Music II",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Orchestral Instruments: 2 s.h."
+            ]
+        },
+        "Focus Area: Guitar: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04536",
+                            "title": "Chamber Music I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04537",
+                            "title": "Chamber Music II",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "32506",
+                            "title": "Guitar Pedagogy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Guitar: 8 s.h."
+            ]
+        },
+        "Focus Area: Keyboard: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04551",
+                            "title": "Piano Accompanying I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06510",
+                            "title": "Keyboard Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "32507",
+                            "title": "Piano Pedagogy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Keyboard: 7 s.h."
+            ]
+        },
+        "Focus Area: Vocal: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04545",
+                            "title": "Opera Role Study I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04546",
+                            "title": "Opera Role Study II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04551",
+                            "title": "Piano Accompanying I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06506",
+                            "title": "Art Song Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06542",
+                            "title": "Opera Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Vocal: 16 s.h.",
+                "Approved French, Italian or German language course Credits: 3"
+            ]
+        },
+        "Restricted Electives: 3 - 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04536",
+                            "title": "Chamber Music I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04537",
+                            "title": "Chamber Music II",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04541",
+                            "title": "Jazz Piano",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04545",
+                            "title": "Opera Role Study I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06503",
+                            "title": "Jazz History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06506",
+                            "title": "Art Song Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06509",
+                            "title": "String Instrument Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06510",
+                            "title": "Keyboard Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06542",
+                            "title": "Opera Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06546",
+                            "title": "Development and Interpretation of Symphonic Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "32502",
+                            "title": "Teaching of Music Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "32507",
+                            "title": "Piano Pedagogy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 3 - 12 s.h. Students in the Orchestral Instruments focus area choose 12 s.h. from the following. Students in the Guitar focus area choose 5 s.h. from the following. Students in the Keyboard focus area choose 7 s.h. from the following. Students in the Vocal focus area choose 3 s.h. from the following."
+            ]
+        },
+        "Total Required Credits for the Program: 34 - 38 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 34 - 38 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements Culminating Experience (Recital) Successful completion of oral comprehensive exam Minimum Required Grades and Cumulative GPA The Master of Music is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Fabio Oliveira Wilson Hall 163 oliveira@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

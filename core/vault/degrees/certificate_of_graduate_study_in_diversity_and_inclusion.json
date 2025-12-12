@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Graduate Study in Diversity & Inclusion",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7582&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Diversity & Inclusion": [
+            "Certificate of Graduate Study in Diversity & Inclusion The Certificate in Graduate Study (COGS) in Diversity & Inclusion will educate professionals who can help create diverse workspaces where innovation can thrive when people are able to work, volunteer, and govern because of their differences. Rooted in ethnographic methodology, the program will provide students with knowledge and methodologies to help specific organizations or institutions work towards building diverse and inclusive communities. This work requires deep knowledge of cultures, history, ideas, social structures, institutions, and politics, which are concepts the College of Humanities & Social Sciences (CHSS) has been exploring for generations."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DI",
+                            "course_number": "68501",
+                            "title": "Introduction to Diversity and Inclusion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02510",
+                            "title": "Qualitative Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09521",
+                            "title": "Philosophical Approaches to Diversity, Equity, and Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05519",
+                            "title": "Political and Social Movements in the U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02530",
+                            "title": "Diversity, Equity, and Inclusion in U.S. Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose 6 s.h. from the following options"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Diversity & Inclusion is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator Rachael Shapiro Victoria Hall, Room 411 856.256.4386 shapiror@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Certificate of Undergraduate Study in Financial Forensics & Fraud Investigations",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6965&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Financial Forensics & Fraud Investigations": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in Financial Forensics & Fraud Investigations The CUGS in Financial Forensics & Fraud Investigations is an interdisciplinary program that provides a sequence of courses that combines forensic topics with law-justice topics, enabling students to pursue post graduate certification or higher degree training in the area of forensics (forensic studies, forensic science, or related fields). It will provide students with considerable knowledge in forensics, assisting them in further achievement of professional designations in forensics. Please note that this CUGS is primarily intended for business and accounting majors, due to the prerequisites for ACC 03419 Forensic Accounting and Fraud Investigation. Consult the Banner system for a full list of course prerequisites for this and all courses included in the CUGS."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03419",
+                            "title": "Forensic Accounting and Fraud Investigation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05290",
+                            "title": "Forensic Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05305",
+                            "title": "Law and Evidence",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses:"
+            ]
+        },
+        "Choose One (3 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01395",
+                            "title": "Topics in Computer Science",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose One (3 s.h.)"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Important Note: Students may only double count two courses (6 to 8 credits) from another single major, minor, or other certificate of an undergraduate program they are concurrently completing to fulfill the requirements for a Certificate of Undergraduate Study. Rick Marmon Department of Accounting & Finance Business Hall 856.256.4722 marmon@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

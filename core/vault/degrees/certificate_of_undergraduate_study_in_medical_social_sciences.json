@@ -1,0 +1,133 @@
+{
+    "name": "Certificate of Undergraduate Study in Medical Social Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6953&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Medical Social Sciences": [
+            "Certificate of Undergraduate Study in Medical Social Sciences The Certificate of Undergraduate Study (CUGS) in Medical Social Sciences provides students with greater depth in understanding the social factors affecting health behavior, attitudes, and organizations. The Association of American Medical Colleges recognizes the importance of such understanding for medical school students, covering related topics on its Medical College Admission Test (MCAT) entrance exam. There are many health-related careers that do not require medical school. Such careers include (but are not limited to) allied health, public health and policy, and community health organization."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following: The CUGS will consist of a minimum of 4 courses or 12 credits, distributed between the 2 required courses (6 s.h.) and 2 courses from the Medical Social Science bank (6 s.h.)."
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08436",
+                            "title": "Sociology of Medicine",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08422",
+                            "title": "Social Determinants of Health: Theory, Method and Intervention",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02215",
+                            "title": "Medical Anthropology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Medical Social Science Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08401",
+                            "title": "Human Service Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08353",
+                            "title": "Sociology of Complex Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08430",
+                            "title": "Case Management Intervention in Sociological Practice",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02312",
+                            "title": "Anthropological Perspectives on Physical Growth and Development.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02322",
+                            "title": "Sex and Sex Roles in a Cross Cultural Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08403",
+                            "title": "Sociology of Death, Dying, and Bereavement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08362",
+                            "title": "Sociology of Disability",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "15322",
+                            "title": "Sociology of Population",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02355",
+                            "title": "Global Health in Anthropological Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02225",
+                            "title": "Arts and Medicine",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Medical Social Science Bank: 6 s.h. The medical social science bank includes:",
+                "SOC 08121 - Introduction to Sociology for Premed Students Credits: 3",
+                "PSY 01108 - Essentials of Psychology for Pre-Health Students Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. The CUGS in Medical Social Sciences will be awarded when the minimum of 4 courses or 12 credits, distributed between the 2 required courses (6 s.h.) and 2 courses from the Medical Social Science bank (6 s.h.) are completed. Completion of all required coursework must be in accordance with University requirements for good standing. Seran Schug Advisor Campbell Library, 5th floor 856.256.4500 ext. 53511 schug@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

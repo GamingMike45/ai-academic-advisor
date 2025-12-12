@@ -1,0 +1,97 @@
+{
+    "name": "Certificate of Undergraduate Study in Spanish for Health Professions",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7167&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Spanish for Health Professions": [
+            "Certificate of Undergraduate Study in Spanish for Health Professions The Certificate of Undergraduate Study (CUGS) in Spanish for Health Professions (12 s.h.) includes a combination of Spanish language coursework at the Intermediate level and subject-specific coursework offered both in Spanish and English. As such, the program is designed to enhance students’ prospects on the job market by making them more effective in treating and communicating with Spanish-speaking patients and clients. This CUGS may be declared in the Department of World Languages, Oak Hall 107, with the World Languages Program Advisor, Harold Thompson (thompsonh@rowan.edu), with Advisors in the School of Health Professions, in the University Advising Center, Savitz Hall 323, or at the Registrar’s Office, Suite 121, Savitz Hall."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required course (3 s.h.):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05212",
+                            "title": "Spanish Reading and Composition (pre-req. 4th semester Spanish)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required course (3 s.h.):"
+            ]
+        },
+        "Choose 1 of the following (3 s.h.):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00302",
+                            "title": "Global Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00202",
+                            "title": "Medical Terminology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00301",
+                            "title": "Health and Diverse Populations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose 1 of the following (3 s.h.):"
+            ]
+        },
+        "Choose 2 of the following (6 s.h.):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05305",
+                            "title": "Oral Spanish",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05313",
+                            "title": "Spanish for Medical Personnel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05316",
+                            "title": "Spanish for Medical Emergencies and Disaster Response",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose 2 of the following (6 s.h.):"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students with existing proficiency in Spanish should contact Esther Mas (mas@rowan.edu) regarding the placement exam. Students may place into any of the first five semester levels of Spanish language, as high as Spanish Reading and Composition (SPAN 05212). It is possible for students to earn credits for the courses that they skip via the Authorization for Credit by Examination process. Contact Esther Mas (mas@rowan.edu) for more details about this option. Students without existing proficiency in Spanish will first need to complete 12 s.h. of lower-level coursework in Spanish, including Spanish I (SPAN 05101), Spanish II (SPAN 05102), Spanish III (SPAN 05201), and Spanish Reading and Conversation (SPAN 05211). Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, or through study abroad. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students planning to study abroad must meet with the Program Mentor in order to determine course equivalents. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in Spanish for Health Professions. Marilyn S. Manley, Ph.D. Program Mentor Oak Hall, Room 110 856.256.4044 manley@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

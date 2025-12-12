@@ -1,0 +1,67 @@
+{
+    "name": "Minor in Strategic Communication",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7004&returnto=1028",
+    "content": {
+        "Minor in Strategic Communication": [
+            "Minor in Strategic Communication"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Requirements: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "05350",
+                            "title": "Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04375",
+                            "title": "Advertising Copywriting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06310",
+                            "title": "Introduction to Public Relations/Advertising Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04360",
+                            "title": "Integrated Marketing Communication (Strategic Communication Overview PR 05350)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06301",
+                            "title": "Basic Public Relations Writing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Requirements: 18 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Lori Brucker Program Advisor 856.256.4459 block@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

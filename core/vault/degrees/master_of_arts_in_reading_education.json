@@ -1,0 +1,62 @@
+{
+    "name": "Master of Arts in Reading Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7630&returnto=1028",
+    "content": {
+        "Master of Arts in Reading Education": [
+            "Master of Arts in Reading Education The Masters of Arts in Reading Education is nationally accredited by the National Council for Accreditation in Teacher Education in conjunction with the International Literacy Association. Students in the program will have the opportunity to develop both a contemporary conceptual framework and effective strategies that are appropriate for guiding literacy development in classroom and clinical environments. The goals and objectives for the program and for the individual courses therein are aligned with the International Literacy Association standards, preparing reading specialists to work with professionals and students to enable all students to meet the appropriate New Jersey Core Curriculum Standards in Language Arts/Literacy. The course of studies provides students with an understanding of the basic principles of developmental and remedial reading instruction for grades Pre-K-12. Students acquire advanced knowledge of the reading process. They engage in hands-on experiences in diagnosing and teaching learners who are having difficulty with literacy acquisition. The program prepares professionals to teach literacy to all learners and serve as leaders in supporting their colleagues in the field. There are two concentration options in this program. The total number of required credits varies from 30-31 depending upon the concentration selected during the application process. Concentration I: Reading Practitioner is best intended for those who wish to pursue advanced study in literacy education and become more knowledgeable about instructional strategies in English Language Arts, especially those that align with the Common Core Standards. Students in this track are not required to have teaching certification, but are required to have access to a classroom and/or school district setting as well as a group of children to work with. This concentration does NOT lead to NJ Reading Specialist Certification. Concentration II: Reading Specialist is best intended for those who hold a current state teaching certificate, have at least two year’s full-time teaching experience, and who want to expand their knowledge, skills, and dispositions in teaching literacy and coaching colleagues. Students learn procedures for administering reading programs in elementary and secondary schools. While enrolled in the course Clinical Experiences in Reading, students are required to engage in tutoring at the highly regarded clinic held on Rowan’s Glassboro campus. There is an emphasis on reflective practice with colleagues and peer mentoring as part of this experience. This concentration leads to NJ Reading Specialist Certification†."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Master of Arts in Reading Education is a part-time program offered in an accelerated online format. It requires the completion of 30 graduate semester hours (10 courses), which are possible to complete in only 5 consecutive semesters. Students must successfully complete and present a cumulative digital portfolio."
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30515",
+                            "title": "Literacy Foundations: Theory, Equity, and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30545",
+                            "title": "Using Multicultural Literature in the K-12 Literacy Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30536",
+                            "title": "Reading and Writing Processes",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h.",
+                "READ 30530 - Teaching Literacy to Students with Disabilities Credits: 3"
+            ]
+        },
+        "Elective Courses:": [
+            "Elective Courses:"
+        ],
+        "Choose a Concentration": [
+            "Choose a Concentration Graduate Concentration in Reading Practitioner Graduate Concentration in Reading Specialist"
+        ],
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Students selecting Concentration I must successfully complete and present a cumulative digital portfolio. Students selecting Concentration II must successfully complete a research capstone project. Minimum Required Grades and Cumulative GPA All matriculated and graduate students are expected to maintain satisfactory academic progress each term of enrollment. To maintain satisfactory academic progress and to successfully complete the program, students must: Earn a B- or better in all coursework. Earn an official cumulative GPA (according to matriculation level) of at least 3.000 on Rowan’s 4.000 scale. The Master of Arts in Reading Education is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Stephanie Abraham 856.256.4500, ext.53830 abrahams@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

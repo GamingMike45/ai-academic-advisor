@@ -1,0 +1,155 @@
+{
+    "name": "Post-Baccalaureate Teacher of Students With Disabilities Endorsement",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7034&returnto=1028",
+    "content": {
+        "Post-Baccalaureate Teacher of Students With Disabilities Endorsement": [
+            "Post-Baccalaureate Teacher of Students With Disabilities Endorsement This program leads to the Teacher of Students with Disabilities (TOSD) Endorsement and is available to students in two ways. A student can be enrolled as an undergraduate in one of the College of Education’s initial endorsement programs. The other option is open to those who currently hold a bachelor’s degree and are eligible for at least a certificate of eligibility (CE) in elementary education, early childhood education, subject matter education, or physical and health education. The Teacher of Students with Disabilities Endorsement is only granted when a student has successfully fulfilled all requirements for an initial teaching certification. Some course substitutions are permitted for certain education majors; however, students MUST consult with their advisors for detailed information. Students entering the program must have at least a 2.75 GPA. In order to be eligible for the TOSD Endorsement, students must have a program GPA of 3.0 or higher across all required TOSD coursework. Students must also receive a “B-” or above in all TOSD courses. A student receiving a “C+” or lower in any TOSD Post-Bac course will be required to repeat the course and placed on program probation."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPED",
+                            "course_number": "08130",
+                            "title": "Disability as Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30311",
+                            "title": "Literacy Pedagogy I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30320",
+                            "title": "Language Development, Emergent Literacy, and Reading in Young Children",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08316",
+                            "title": "Differentiated Instruction in the Inclusive Classroom (Offered Spring only)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23431",
+                            "title": "Planning, Integrating and Adapting Curriculum Across Content Areas",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "40477",
+                            "title": "Effective Inclusive Instruction in English, Social Studies, and World Language Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30351",
+                            "title": "Literacy Pedagogy II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30347",
+                            "title": "Phonics and Spelling Instruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30319",
+                            "title": "Teaching Reading and Writing in the Content Area",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "Choose one:",
+                "Adapting Instruction (Choose one):",
+                "Reading Requirement (Choose one):"
+            ]
+        },
+        "Bundle I (6 credits must be taken together in Spring Spring or Summer, NOT Fall)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPED",
+                            "course_number": "08360",
+                            "title": "Positive Behavioral Support Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08307",
+                            "title": "Assessment in Special and Inclusive Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bundle I (6 credits must be taken together in Spring Spring or Summer, NOT Fall) Will only be offered in the Summer with sufficient enrollment"
+            ]
+        },
+        "Bundle II (6 credits must be taken together in Spring or Summer, NOT Fall)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPED",
+                            "course_number": "08308",
+                            "title": "Assistive Technology and Transition Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bundle II (6 credits must be taken together in Spring or Summer, NOT Fall) Will only be offered in the Summer with sufficient enrollment",
+                "SPED 08415 - Specialized Instruction for Students with Exceptional Learning Needs Credits: 3"
+            ]
+        },
+        "Clinical Semester - must be taken together": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPED",
+                            "course_number": "08445",
+                            "title": "Clinical Seminar in Special Education",
+                            "credits": "1 to 2"
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08450",
+                            "title": "Clinical Practice in Special Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Clinical Semester - must be taken together"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Note: Candidates for the Teacher of Students with Disabilities Certification must pass the Praxis II Specialty Area Test: Special Education: Core Knowledge and Applications prior to admission to Clinical Seminar/Clinical Practice. Program Coordinator Michelle Damiani, Ph.D. Herman D. James Hall 856.256.4500 ext. 53810 damiani@rowan.edu Program Advisor Lesley Mateo Herman D. James Hall 856.256.5869 mateo@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

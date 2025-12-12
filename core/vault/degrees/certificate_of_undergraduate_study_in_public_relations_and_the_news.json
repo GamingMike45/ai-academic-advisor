@@ -1,0 +1,66 @@
+{
+    "name": "Certificate of Undergraduate Study in Public Relations & the News",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7005&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Public Relations & the News": [
+            "Certificate of Undergraduate Study in Public Relations & the News In age of the digital media, every profession requires knowledge and expertise in communicating with targeted audiences, a role that in the past was primarily reserved for public relations professionals and the press. This Certificate of Undergraduate Study (CUGS) provides students with the historical, legal and ethical understanding of journalistic and public relations practices. It provides practical experience in a wide variety of public relations and news writing forms. It also explores the information management world, where journalism and public relations both overlap and compete with one another."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "06301",
+                            "title": "Basic Public Relations Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02310",
+                            "title": "News Reporting I-WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02205",
+                            "title": "Journalism Principles And Practices",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06350",
+                            "title": "Introduction to Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06354",
+                            "title": "News Trends and Media Relations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include four of the following five courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Public Relations & the News, students must complete all courses required for the CUGS with at least a 2.0 average. Lori Brucker Program Advisor 856.256.4459 block@rowan.edu Alicia Groatman Advisor 856.256.4459 groatman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

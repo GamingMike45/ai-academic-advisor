@@ -1,0 +1,203 @@
+{
+    "name": "Doctor of Philosophy in Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7650&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Education": [
+            "Doctor of Philosophy in Education The Doctor of Philosophy in Education is a multi-disciplinary research-focused degree anchored in the educational complexities of access, success, and equity that is designed to prepare candidates globally to assume roles as faculty and researchers in one of five concentrations: Counselor Education, Literacy Education, Higher & Postsecondary Education, Special Education, and Urban & Diverse Learning Environments. The unique underpinning of this program is the intersection of two primary research foci: (1) a commitment to redressing systemic and persistent barriers to quality education and (2) a dedication to using rigorous empirical research with area schools, districts, colleges, and other educational partners to improve equity in educational outcomes. The Doctor of Philosophy offers its candidates opportunities to engage in research, college level teaching, and clinical experiences that respond to the regions and the nation’s persistent challenges with educational access and equity in traditionally underserved communities. The Doctor of Philosophy at Rowan University requires the completion of 72 graduate semester hours (s.h.) made up of 21 s.h. of core courses, 15 s.h. of research courses, 15 s.h. of concentration specific courses, and 21 s.h. of dissertation. Concentrations The doctoral program offers five (5) concentrations: Counselor Education: The Counselor Education concentration is designed specifically for those who wish to pursue careers as counselor educators at the university level, or as supervisors in schools or clinical settings. The program is committed to promoting the counseling profession and evidenced-based practices and initiatives through advanced curricular experiences that address systemic and persistent barriers for P-20 students. Higher & Postsecondary Education: The Higher & Postsecondary Education concentration of the Ph.D. in Education prepares students to conduct research on higher education organizations, students, and policy. Our graduates will pursue careers as academic faculty, researchers, senior college and university administrators, and policy analysts. Our curriculum provides a strong theoretical foundation in organizational theory, public policy, and issues of social justice in postsecondary institutions. Language & Literacy Education: The Language & Literacy Education Ph.D. concentration is designed to prepare individuals for roles in research, policy, and teaching in higher education. The courses examine influential theories and research that address the developmental, cognitive, motivational, multimodal, literary, linguistic, sociocultural and sociopolitical foundations of language and literacy. The program is strongly framed by a critical stance that emphasizes the transformative potential of language and literacy. Candidates for the literacy education doctorate conduct research examining major issues around the interaction of theory, research, and practice in their role in promoting access, equity and success across a range of educational contexts. Special Education: Students in the Special Education concentration examine critical issues in the field of special education and disability studies in education (DSE). The program encourages progressive thinking about traditional segregated special education practices, and changing educational structures to be fully inclusive for all students and families. At Rowan University, students and faculty engage in progressive research that promotes the development of inclusive schools and educational policy. Urban & Diverse Learning Environments: The Urban & Diverse Learning Environments concentration is designed to prepare future researchers, educators, community organizers, policymakers, and youth-focused change agents to understand and disrupt the contradictions that underpin educational and broader socioeconomic disparities. Our faculty actively engage in studying and challenging the social, political, and economic forces that bear on what is often labeled as “urban schooling,” and shape the contradictions faced by youth, families, teachers, and educational leaders in these diverse learning environments that so often can be characterized by both oppression and resilience."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses for All Concentrations: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90800",
+                            "title": "Current Issues and Research in Access, Success, and Equity in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90801",
+                            "title": "Research Seminar in Access, Success, and Equity *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90802",
+                            "title": "Internship in the Academic Profession and Professoriate for Promoting Student Success",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90803",
+                            "title": "Equity, Success, and Access Educational Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses for All Concentrations: 21 s.h."
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Students will enroll in CASE 90801 twice for a total of 6 s.h."
+            ]
+        },
+        "Required Research Courses for all Concentrations: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90718",
+                            "title": "Research Literature Analysis and Writing in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90811",
+                            "title": "Multivariate Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90812",
+                            "title": "Qualitative Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90814",
+                            "title": "Advanced Qualitative Research Methods in Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Research Courses for all Concentrations: 15 s.h."
+            ]
+        },
+        "Concentration Courses: 15 s.h.": [
+            "Concentration Courses: 15 s.h."
+        ],
+        "Counselor Education Concentration Courses": [
+            "Counselor Education Concentration Courses Graduate Concentration in Counselor Education"
+        ],
+        "Higher & Postsecondary Education Concentration Courses": [
+            "Higher & Postsecondary Education Concentration Courses Graduate Concentration in Higher & Postsecondary Education"
+        ],
+        "Language & Literacy Concentration Courses": [
+            "Language & Literacy Concentration Courses Graduate Concentration in Literacy Education"
+        ],
+        "Special Education Concentration Courses": [
+            "Special Education Concentration Courses Graduate Concentration in Special Education"
+        ],
+        "Urban & Diverse Learning Environments": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90710",
+                            "title": "Power and Privilege: The Social Construction of Difference",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90512",
+                            "title": "Examining Intersectionality in Critical Theories of Race, Class, Gender, Sexuality and Citizenship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90513",
+                            "title": "History of Urban Education and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90514",
+                            "title": "Education Reform in the US: Theories of Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90530",
+                            "title": "Curriculum Theories in Urban Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90532",
+                            "title": "Working with Families and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90534",
+                            "title": "Disability Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90540",
+                            "title": "Urban Education Policy and Reform",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90541",
+                            "title": "Leadership for Social Justice and Educational Equity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90542",
+                            "title": "Engaging in Education and Community",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Urban & Diverse Learning Environments Graduate Concentration in Urban & Diverse Learning Environments"
+            ]
+        },
+        "Required Dissertation Research Course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90890",
+                            "title": "Dissertation Research",
+                            "credits": "1 to 12"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Dissertation Research Course Ph.D. students must complete a minimum of 21 semester hours of Dissertation Research.",
+                "CASE 98801 - Doctoral Dissertation Continuation (taken in special circumstances to keep full-time registration for dissertation students.) Credits: 9"
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Students must successfully complete and defend a dissertation. Benchmarks : Successful completion of all benchmarks is required for continuation in and graduation from the program. Details regarding benchmarks’ timing and assessments will be shared with the student throughout the program by the Academic Advisor. Benchmark I: Timing: Successful completion of Annual Portfolio Review (Year 1 and Year 2). Requirements: Students will prepare a portfolio that addresses reflections on and significant milestones regarding five prongs: 1. Content Expertise; 2. Conceptual/Theoretical Frameworks; 3. Research; 4. Teaching; and 5. Professional Service and Conduct. Students should also prepare a portfolio that provides substantiating evidence for each prong. Benchmark II: Timing: Taken in year 3 of the program. Requirements: All doctoral candidates are required to pass a comprehensive examination prior to dissertation. The exam assesses candidates’ knowledge of research methodology and substantive theoretical and empirical issues, and serves as assessment of competencies that are relevant to the development of the dissertation. Benchmark III: Timing: Occurs after the completion of all 51 prescribed semester hours and successful completion of the Ph.D. comprehensive examination. Requirements: Student must successfully complete the Ph.D. Dissertation Proposal. Benchmark IV: Timing: Occurs after the completion of a minimum of 21 s.h. of required dissertation research credits and successful completion of the Ph.D. Dissertation Proposal. Requirements: Student must successfully complete the Ph.D. Final Dissertation Defense. Minimum Required Grades and Cumulative GPA The Ph.D. in Education is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Brent Elder 3049 Herman D. James Hall elderb@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

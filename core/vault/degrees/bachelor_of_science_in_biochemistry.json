@@ -1,0 +1,506 @@
+{
+    "name": "Bachelor of Science in Biochemistry",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7200&returnto=1028",
+    "content": {
+        "Bachelor of Science in Biochemistry": [
+            "Bachelor of Science in Biochemistry The BS degree in Biochemistry, accredited by the American Society for Biochemistry and Molecular Biology, is designed to prepare students for a career in biochemistry or graduate studies. Completion of the degree requirements can also increase a student’s chances of success in medical, dental or other related health programs by helping students develop a strong academic foundation needed for success in such professional schools. The focus is on a molecular approach to studying living systems. The biochemistry major can choose to specialize in related areas of chemistry, biochemistry, molecular biology, genetics or structural biology, pre-med, allied health sciences or biomedical sciences by a careful selection of elective courses. Each student is expected to carry out a laboratory-based research project."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 36-37 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01106",
+                            "title": "Introduction to Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01203",
+                            "title": "Introduction to Cell Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "06202",
+                            "title": "Introduction to Nature of Science -WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI (Satisfies Humanistic Literacy (HUML) requirement and WI requirement.",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COSM",
+                            "course_number": "06101",
+                            "title": "Introduction to Chemical Information and Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 36-37 s.h. Courses in this section cannot be in the major department.",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 4",
+                "PHYS 00220 - Introductory Mechanics (Satisfies Scientific Literacy (SCIL) requirement) Credits: 4"
+            ]
+        },
+        "Required Foundational Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09250",
+                            "title": "Quantitative Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05440",
+                            "title": "Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05110",
+                            "title": "Professional Development I",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Foundational Courses: 24 s.h."
+            ]
+        },
+        "Mid-Level Courses: 10 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08305",
+                            "title": "Biophysical Chemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07348",
+                            "title": "Biochemistry (Lecture And Lab)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05210",
+                            "title": "Professional Development II",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05311",
+                            "title": "Professional Development III",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-Level Courses: 10 s.h."
+            ]
+        },
+        "Upper-level courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05450",
+                            "title": "Seminar I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07407",
+                            "title": "Advanced Biochemistry Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07409",
+                            "title": "Advanced Biochemistry Laboratory",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-level courses: 6 s.h."
+            ]
+        },
+        "Chemistry & Biochemistry Restricted Electives: 17 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BINF",
+                            "course_number": "07399",
+                            "title": "Bioinformatics: Biochemical Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05430",
+                            "title": "Advanced Topics in Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05441",
+                            "title": "Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06300",
+                            "title": "Advanced Inorganic Chemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06400",
+                            "title": "Advanced Inorganic Chemistry Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06401",
+                            "title": "Advanced Inorganic Chemistry Laboratory",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07405",
+                            "title": "Introduction to Polymer Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07410",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07412",
+                            "title": "Introduction to Antibiotics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07431",
+                            "title": "Advanced Topics In Biochemistry",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07442",
+                            "title": "Biochemical Research Methods",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07464",
+                            "title": "Advanced Organic Chemistry I- WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07465",
+                            "title": "Physical Organic Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07466",
+                            "title": "Advanced Organic Chemistry II (Lecture)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07467",
+                            "title": "Organic Preparations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07470",
+                            "title": "Organic Spectroscopic Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07472",
+                            "title": "Organometallic Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07475",
+                            "title": "Polymer Synthesis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07478",
+                            "title": "Polymer Characterization",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07490",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07492",
+                            "title": "Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07493",
+                            "title": "Introduction to Regulatory Affairs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08410",
+                            "title": "Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09300",
+                            "title": "Environmental Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09322",
+                            "title": "Bioanalytical Chemistry",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09410",
+                            "title": "Instrumental Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09411",
+                            "title": "Electrochemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09420",
+                            "title": "Supramolecular Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01428",
+                            "title": "Developmental Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01430",
+                            "title": "Advanced Cell Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11330",
+                            "title": "Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01306",
+                            "title": "Translational Cell Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01334",
+                            "title": "Medical Biochemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "10345",
+                            "title": "Human Physiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "11338",
+                            "title": "Immunology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "10481",
+                            "title": "Cellular and Molecular Neuroscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "22450",
+                            "title": "Molecular Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00371",
+                            "title": "Biophysics: Fundamentals of Biomaterials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01315",
+                            "title": "Biomedical Technologies I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Chemistry & Biochemistry Restricted Electives: 17 s.h. Choose five courses ( totaling at least 17 s.h. ) from the following bank of Chemistry and Biochemistry electives (2 or 3 courses must be from CHEM)."
+            ]
+        },
+        "Free Electives: 17-18 s.h.": [
+            "Free Electives: 17-18 s.h. Chosen with the help of advisor and with consideration for future educational and career plans."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Subash C. Jonnalagadda Department Head Science Hall 130C 856.256.5452 jonnalagadda@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

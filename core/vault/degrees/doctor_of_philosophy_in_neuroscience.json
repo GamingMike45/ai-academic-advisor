@@ -1,0 +1,157 @@
+{
+    "name": "Doctor of Philosophy in Neuroscience",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10865&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Neuroscience": [
+            "Doctor of Philosophy in Neuroscience The PhD in Neuroscience program at Rowan University is a professional terminal degree program designed to prepare individuals for careers in a breadth of fields that leverage neuroscience research and education, including basic and clinical research, the pharmaceutical industry, higher education, and consulting. This program will provide students with the necessary knowledge, skill set, and training to effectively design and answer scientific questions centered on the biology of the nervous system and its relationship to behavior in physiological and pathological states. Students will have access to high-level courses leading to a graduate degree and are involved in hands-on and project-based training, which provides a basis for a career in neuroscience and research in particular."
+        ],
+        "Program Requirements": [
+            "Program Requirements The PhD in Neuroscience requires the completion of 72 hours of graduate-level coursework. Completion of coursework will demonstrate knowledge of neuroscience and core cell molecular biology principles. Applied research coursework will provide hands-on experience in identifying and solving a real-world neuroscience problem through laboratory research. Research coursework culminates in a Final Dissertation."
+        ],
+        "Molecular Cell Biology Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00703",
+                            "title": "Molecular Cell Biology and Neuroscience Foundations I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00704",
+                            "title": "Molecular Cell Biology and Neuroscience Foundations II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00812",
+                            "title": "Quantitative Methods",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00803",
+                            "title": "Scientific Writing",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00910",
+                            "title": "Responsible Conduct in Research",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Molecular Cell Biology Core Courses: 12 s.h."
+            ]
+        },
+        "Neuroscience Focus Courses: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00813",
+                            "title": "Neuroanatomy: Structure and Function of the Vertebrate Nervous System",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00814",
+                            "title": "Neurophysiology",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00815",
+                            "title": "Neuropharmacology and Behavior",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00816",
+                            "title": "Research Topics in Neurobiology",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Neuroscience Focus Courses: 8 s.h. (Including, but not limited to)"
+            ]
+        },
+        "Hands-on Laboratory Research Courses: 52 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00901",
+                            "title": "Laboratory Rotation A - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00902",
+                            "title": "Laboratory Rotation B - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00903",
+                            "title": "Laboratory Rotation C - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00904",
+                            "title": "Laboratory Rotation D - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00925",
+                            "title": "Summer Research Molecular Cell Biology and Neuroscience (taken at least once)",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00920",
+                            "title": "Advanced Graduate Research (taken twice for a total of 10 s.h.)",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00999",
+                            "title": "Thesis Research/Ph.D. * (taken at least 3 times for a total of 27 s.h.)",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00990",
+                            "title": "Summer Thesis Research/PhD * (taken at least once)",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Hands-on Laboratory Research Courses: 52 s.h. (Including, but not limited to)"
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. 72 credit hours of graduate-level coursework. A minimum of 20 hours must come from the core and neuroscience focus course sequence. The additional 52 credits come from the approved hands-on laboratory coursework. *Students will continue to take nine credits of MCBN 00999: Thesis Research/PhD each spring/fall semester and 6 credits of MCBN 00990: Thesis Research/PhD each summer after reaching 52 research credits if they are still working to complete their Dissertation. This will result in research credits exceeding 52 credits for most students. There is no limitation on the number of times a student can take MCBN 00999: Thesis Research/PhD. Foundation Courses The following undergraduate courses are required. • Students without a BS or MS degree in life sciences may be required to take undergraduate prerequisite courses as stipulated by the Program Director. Minimum Required Grades and Cumulative GPA The PhD in Neuroscience program is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories and https://sites.rowan.edu/student-success/_docs/gac-policy-guide.pdf",
+                "Notes:"
+            ]
+        }
+    }
+}

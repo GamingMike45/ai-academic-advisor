@@ -1,0 +1,102 @@
+# Bachelor of Science in Computer Science
+
+## Program Overview
+- Prepares students in mathematics, algorithms, CS theory, and software development.
+- Requires **C- or better** in: Calculus I, Discrete Structures, Intro to OOP, OOP & Data Abstraction, Computer Organization, Data Structures & Algorithms.
+
+---
+
+## Rowan Core (9 s.h.)
+**Communicative Literacy (COML) – 9 s.h.**
+- COMP 01111 College Composition I  
+- COMP 01112 College Composition II  
+- CMS 04205 Public Speaking  
+
+**Other literacies required:** ARTL, GLBL, HUML, QNTL, SCIL.
+
+---
+
+## Rowan Experience
+Must complete:
+- Broad-Based Literature (LIT)  
+- Writing Intensive (WI)  
+- Rowan Seminar (RS)  
+*RS waived for transfers with ≥24 approved credits.*
+
+---
+
+## Non-Program Courses (18 s.h.)
+
+### Science Requirement (choose 1)
+- BIOL 01104 Introduction to Evolution & Scientific Inquiry (4)  
+- CHEM 06100 Chemistry I (4)  
+- PHYS 00220 Introductory Mechanics (4)
+
+### Required
+- INTR 01265 Computers & Society (3)  
+- MATH 01130 Calculus I (4)  
+- WA 01302 Introduction to Technical Writing (3)
+
+---
+
+## Foundational Courses (36–37 s.h.)
+
+### Intro Programming (choose 1)
+- CS 04113 Intro to Object-Oriented Programming (4)  
+- CS 04111 Intensive Intro to OOP (5)
+
+### Required Foundation
+- CS 04114 OOP & Data Abstraction (3)  
+- CS 04215 Computer Laboratory Techniques (3)  
+- CS 04222 Data Structures and Algorithms (4)  
+- CS 06205 Computer Organization (3)  
+- CS 06210 Advanced Computing Technologies (3)  
+- CS 07210 Foundations of Computer Science (3)  
+- MATH 01131 Calculus II (4)  
+- MATH 01210 Linear Algebra (3)  
+- MATH 03150 Discrete Mathematics (3)  
+- STAT 02290 Probability & Statistical Inference for Computing Systems (3)
+
+---
+
+## Upper-Level + Capstone (16 s.h.)
+- CS 04315 Programming Languages (3)  
+- CS 04321 Software Engineering I (4)  
+- CS 04400 Senior Project (3)  
+- CS 06395 Operating Systems (3)  
+- CS 07340 Design & Analysis of Algorithms (3)
+
+---
+
+## Restricted Computer Science Electives (12 s.h.)
+Choose **12 credits** from courses such as:
+- AI / ML / Deep Learning: CS 07450, CS 07455, CS 07459  
+- Data Science: CS 02421, CS 02480, CS 02485  
+- Security: CS 03351, CS 03353, CS 09427  
+- Systems: CS 04391, CS 04394  
+- Networks: CS 09410, CS 09415, CS 09416  
+- Cloud/IoT: CS 03440, CS 06447  
+- Graphics/Gaming: CS 08360, CS 08380, CS 08390  
+- Mobile Programming: CS 04372, CS 04376  
+- Robotics: CS 07310  
+- And additional topics, research, independent study, internships.
+
+---
+
+## Free Electives (28 s.h.)
+
+---
+
+## Total Program Credits: **120 s.h.**
+
+---
+
+## Optional Concentrations (12+ credits each)
+- Artificial Intelligence  
+- Blockchain Technologies & Cryptocurrencies  
+- Cybersecurity Defense  
+- Data Science  
+- Graphics, Visualization & Gaming  
+- Mobile Application Development  
+- Networking Systems  
+- Software Engineering  

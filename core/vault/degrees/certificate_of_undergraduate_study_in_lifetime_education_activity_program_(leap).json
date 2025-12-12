@@ -1,0 +1,118 @@
+{
+    "name": "Certificate of Undergraduate Study in Lifetime Education Activity Program (LEAP)",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7498&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Lifetime Education Activity Program (LEAP)": [
+            "Certificate of Undergraduate Study in Lifetime Education Activity Program (LEAP) The Certificate of Undergraduate Study (CUGS) in Lifetime Education Activity Program (LEAP) is a university-wide program, offering a variety of physical activity experiences. The focus of the CUGS in the Lifetime Educational Physical Activity Program (LEAP) is on encouraging students, faculty, and staff to explore human movement and its impact on their health, society, quality of life, and where the “work, live, and play” (APHA, 2023). Through participation and engagement in a variety of educational physical activity experiences students will also learn about skill development, the history, rules, strategies, and terminology of sport and physical activity, and the social-emotional learning skills needed to participate in physical activity and community sports. Participants will be motivated to engage in daily physical activity for a lifetime and enhance their physical literacy, and health literacy (SHAPE, 2023). Additionally, the CUGS in LEAP aligns with the national Joint Call to Action to Promote Healthy Communities and the Physical Activity Guidelines for Americans which state, “Being physically active is one of the most important actions that people of all ages can take to improve their health” (American Public Health Association {APHA}, 2023; Office of Disease Prevention and Health Promotion {OASH}, 2021, p. 6). The CUGS in LEAP program courses can be taken without enrolling in the LEAP CUGS and are developed to encourage and promote physical and health literacy to “build a healthier America” (SHAPE, 2023; Healthy People 2030)."
+        ],
+        "Choose 1 Course from each category.": [
+            "Choose 1 Course from each category."
+        ],
+        "Category 1 Aquatic Physical Activities": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPE",
+                            "course_number": "00103",
+                            "title": "Water Safety Instructor Training-Aquatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00102",
+                            "title": "Lifeguard Training-Aquatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00101",
+                            "title": "Swimming II: Intermediate",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Category 1 Aquatic Physical Activities"
+            ]
+        },
+        "Category 2 Net and Wall Physical Activities": [
+            "Category 2 Net and Wall Physical Activities"
+        ],
+        "Category 3 Invasion Games & Physical Activities": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPE",
+                            "course_number": "00110",
+                            "title": "Karate I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00112",
+                            "title": "Capoiera Angola: Life Expression Through Martial Arts",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00118",
+                            "title": "Basketball Basics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00119",
+                            "title": "Flag Football",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Category 3 Invasion Games & Physical Activities"
+            ]
+        },
+        "Category 4: Lifetime & Mind/Body Physical Activities": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPE",
+                            "course_number": "00104",
+                            "title": "Yoga and Mindfulness",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00111",
+                            "title": "Walk, Jog, Run with Rowan",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "HPE",
+                            "course_number": "00113",
+                            "title": "Basic Training for Lifetime Wellness",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Category 4: Lifetime & Mind/Body Physical Activities"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. The CUGS in LEAP is offered for the full semester with the possibility of some offsite courses, which may possibly meet on the weekends. Angela Beale-Tawfeeq Program Coordinator, Lifetime Education Activity Program (LEAP) James Hall 2038 856.256.5797 bealetawfeeq@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "name": "Bachelor of Science in Finance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6964&returnto=1028",
+    "content": {
+        "Bachelor of Science in Finance": [
+            "Bachelor of Science in Finance The Bachelor of Science in Finance requires the common core of College of Business courses. Courses within the finance major provide students with a broad understanding of financial theory and institutions. The program prepares students for a variety of career opportunities within financial institutions, governmental agencies and private industry. These include financial analysis, cash management, credit analysis, pension and investment fund management, capital budgeting analysis, investment and commercial banking, and securities management. Students working toward a Bachelor of Science in Finance must maintain a 2.00 grade point average overall as well as a 2.50 grade point average overall in the Business core and finance concentration to graduate."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 20-21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications (Satisfies Quantitative Literacy (QNTL) requirement)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02265",
+                            "title": "Basics of Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BUS",
+                            "course_number": "01488",
+                            "title": "Business Career Planning and Development",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 20-21 s.h.",
+                "ECON 04101 - An Introduction to Economics-A Macroeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "ECON 04102 - An Introduction to Economics-A Microeconomic Perspective (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 4",
+                "STAT 02260 - Statistics I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "Approved General Education Computing Course"
+            ]
+        },
+        "Business Foundational Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03211",
+                            "title": "Principles of Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06402",
+                            "title": "Business Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Foundational Courses: 27 s.h."
+            ]
+        },
+        "Finance Required Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03310",
+                            "title": "Intermediate Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04310",
+                            "title": "Financial Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04422",
+                            "title": "Financial Management I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04423",
+                            "title": "Financial Management II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04431",
+                            "title": "Investments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04433",
+                            "title": "Financial Institutions and Markets",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Finance Required Courses: 21 s.h.",
+                "FIN 04435 - International Financial Management (Satisfies Global Literacy (GLBL) requirement) Credits: 3"
+            ]
+        },
+        "Finance Electives: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "FIN",
+                            "course_number": "04425",
+                            "title": "Financial Derivatives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04438",
+                            "title": "Portfolio Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04330",
+                            "title": "Finance Internship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04350",
+                            "title": "Personal Financial Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04358",
+                            "title": "Bank Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03311",
+                            "title": "Intermediate Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04436",
+                            "title": "Insurance and Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04444",
+                            "title": "Bitcoin, Cryptocurrency, and Blockchain Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03432",
+                            "title": "Federal Taxation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04439",
+                            "title": "Foundations of Fintech",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Finance Electives: 12 s.h.",
+                "FIN 04327 - Selected Topics in Finance Credits: 0.5 to 4",
+                "FIN 04328 - Selected Topics in Finance II Credits: 3"
+            ]
+        },
+        "Business Elective: 3 s.h": {
+            "requirements": [],
+            "notes": [
+                "Business Elective: 3 s.h Take any business course excluding ACC 03405. ACC 03150 Intro Bus/Analytics Fin Info can apply as a Business Elective."
+            ]
+        },
+        "Free Electives: 27-28 s.h.": [
+            "Free Electives: 27-28 s.h."
+        ],
+        "Available Concentration:": [
+            "Available Concentration: Undergraduate Concentration in FinTech"
+        ],
+        "Total Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

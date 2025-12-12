@@ -1,0 +1,72 @@
+{
+    "name": "Certificate of Undergraduate Study in Sport Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7302&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Sport Management": [
+            "Certificate of Undergraduate Study in Sport Management The Certificate of Undergraduate Study (CUGS) in Sport Management utilizes a sequence of courses that combines sport psychology and business/management related courses to provide an experience for HES students and psychology students who may be interested in sport or fitness related entrepreneurship, or for business students with an interest in related sport and fitness management/administrative fields. This CUGS can provide a foundational experience for students who would like to study Sport Management as a major, possibly at the graduate level. The program can also provide a starting point for possible internship or related experiences athletic developments on Rowan’s “West Campus”, as well as with the Rowan Rec Center. The program prepares students to consider management careers in sport-related business. Increased growth in competitive athletics and sport participation by all segments of society has created a need for individuals trained in sport management."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00370",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05320",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06222",
+                            "title": "Introduction to Sports Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00360",
+                            "title": "Facility and Program Management in Wellness",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h. The requirements include the following five courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. JoAnne Bullard Coordinator Herman D. James Hall 856.256.3709 bullardj@rowan.edu Laurie Dwyer Advisor Herman D. James Hall 856.256.5835 dwyerl@rowan.edu To be awarded the CUGS in Sport Management, students must complete all courses required for the CUGS in Sport Management with at least a 2.0 average. The pre-requisite for Introduction to Sport and Exercise Psychology make this CUGS appropriate for students majoring in psychology, and the balance of coursework make it attractive for HES and business majors. However, this CUGS is appropriate for any Rowan student with an interest in the “business of sports”.",
+                "Notes:"
+            ]
+        }
+    }
+}

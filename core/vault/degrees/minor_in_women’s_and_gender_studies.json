@@ -1,0 +1,282 @@
+{
+    "name": "Minor in Women’s & Gender Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7186&returnto=1028",
+    "content": {
+        "Minor in Women’s & Gender Studies": {
+            "requirements": [],
+            "notes": [
+                "Minor in Women’s & Gender Studies The Women’s & Gender Studies program offers an interdisciplinary global minor, with courses open to students in all majors. Courses from the minor may also be used as electives or as part of the general education requirements. The major objectives of the minor are to increase knowledge about women and gender; to examine women’s and men’s roles across disciplines; to stimulate re-evaluations of the gender roles in society; to increase awareness of the status of women globally; and to value the contributions of women across cultures and time periods. Women’s & Gender Studies courses provide an opportunity for intensive study and in-depth analysis. The successful completion of eighteen (18) semester hours, including the core course, is required. Students interested in pursuing a minor should contact the Coordinator of the program for further information and advisement. They should also declare the minor through the University Advising Center. Each student enrolled in the Women’s & Gender Studies minor is required to: Take the core course, Women and Gender in Perspective OR Honors Women and Gender in Perspective (INTR 01130) Take fifteen (15) credits of approved Women’s & Gender Studies courses (ranked First and Second Tier) of which nine (9) credits must be from the First Tier. If a student is taking a course that has significant gender content but is not listed below, please contact the Coordinator to consider the course for fulfilling program requirements."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Course (3 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Course (3 s.h.)",
+                "or Honors Introduction to Women’s and Gender Studies"
+            ]
+        },
+        "First Tier Courses (minimum of three courses [9 s.h.] required for minor)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02322",
+                            "title": "Sex and Sex Roles in a Cross Cultural Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03425",
+                            "title": "Special Problems in Art History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04310",
+                            "title": "Images of Gender in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04320",
+                            "title": "Communicating Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04327",
+                            "title": "Women and Nonbinary Identities in Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05419",
+                            "title": "Women In Modern Europe",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05423",
+                            "title": "Women in Early American History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05424",
+                            "title": "Women in Modern American History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05425",
+                            "title": "History of Feminisms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05367",
+                            "title": "Gender, Sexuality and History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09329",
+                            "title": "Philosophy and Gender - WI (Writing Intensive)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07311",
+                            "title": "Women and American Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01200",
+                            "title": "Psychology of Women and Cultural Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10335",
+                            "title": "Sex and the Bible",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08370",
+                            "title": "Sociology of Women In Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08493",
+                            "title": "Seminar on Gender Roles",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "First Tier Courses (minimum of three courses [9 s.h.] required for minor)",
+                "SOC 08440 - Selected Topics in Sociology Credits: 3"
+            ]
+        },
+        "Second Tier Courses (maximum of two courses [6 s.h.] counted toward minor)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04323",
+                            "title": "Images of Athletes in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04375",
+                            "title": "Special Topics in Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02205",
+                            "title": "Young Adult Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02362",
+                            "title": "Native American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02305",
+                            "title": "Contemporary Children’s Literature for Non-Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02317",
+                            "title": "Children’s Literature: Texts and Contexts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05429",
+                            "title": "Special Topics: History of Witchcraft",
+                            "credits": null
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05443",
+                            "title": "Topics in Global History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05450",
+                            "title": "History of Childhood and Youth in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01423",
+                            "title": "Seminar in Psychology: Topics",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05310",
+                            "title": "Psychology of Human Sexuality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "01402",
+                            "title": "Special Topics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03485",
+                            "title": "Deconstructing Disney: From Mickey to Marvel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08220",
+                            "title": "Sociology of the Family",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08281",
+                            "title": "Sexuality and Society",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Second Tier Courses (maximum of two courses [6 s.h.] counted toward minor)"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Melissa R. Klapper Coordinator Robinson Hall 216N 856.256.4500 ext. 53982 klapper@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

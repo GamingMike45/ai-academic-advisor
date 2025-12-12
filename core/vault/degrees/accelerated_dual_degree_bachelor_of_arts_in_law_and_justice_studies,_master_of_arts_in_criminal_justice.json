@@ -1,0 +1,67 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Law & Justice Studies, Master of Arts in Criminal Justice",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7473&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Law & Justice Studies, Master of Arts in Criminal Justice": {
+            "requirements": [],
+            "notes": [
+                "Accelerated Dual Degree: Bachelor of Arts in Law & Justice Studies, Master of Arts in Criminal Justice The Law & Justice Studies Accelerated Dual Degree Program allows students to earn a Bachelor of Arts in Law & Justice Studies and a Master of Arts in Criminal Justice in five years. Twelve credits can be double-counted towards both the undergraduate and graduate degrees. To apply to the program, a student must have: Successfully completed 60-75 credits of undergraduate coursework A cumulative GPA of 3.5 within the major and an overall cumulative GPA of 3.2 Successfully completed at least 15 credits within the major Successfully completed at least 3 courses within the Law & Justice Studies Department at Rowan University with a grade of B or higher Successfully completed at least 15 credits at Rowan University Completed or be enrolled in Theories of Crime and Criminality (LAWJ 05369) and Criminal Justice Research (LAWJ 05380) An application must consist of: Two letters of recommendation, at least one of which must be from a Law & Justice Studies professor (in sealed envelopes with recommenders’ signatures across seal) or emailed directly to the graduate program coordinator. A 300-500 word statement of purpose for attending the program with name, address, email, and phone number at the top A printout of the student’s Rowan Transcript Completed application packets must be submitted to the Coordinator of the Master of Arts in Criminal Justice program by February 15th before a student’s senior year."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As seen in the Major Bachelor of Arts in Law & Justice Studies Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CJ",
+                            "course_number": "09510",
+                            "title": "Contemporary Issues In Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09511",
+                            "title": "Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09512",
+                            "title": "Research Methods II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09515",
+                            "title": "Law and Society",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 18 s.h.": [
+            "Required MA Courses taken as a Graduate student: 18 s.h. The full program requirements can be seen at Master of Arts in Criminal Justice"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

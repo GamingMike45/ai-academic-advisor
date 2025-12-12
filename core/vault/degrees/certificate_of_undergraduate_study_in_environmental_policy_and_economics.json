@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Undergraduate Study in Environmental Policy & Economics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7118&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Environmental Policy & Economics": [
+            "Certificate of Undergraduate Study in Environmental Policy & Economics This program provides students with an interdisciplinary approach to create and develop efficient ways to protect and enhance the world’s economic and environmental resources. Students will learn how to design and assess the impact of environmental regulations and policies through an interdisciplinary approach using economics, geography, planning, public policy, and sociology. Students will demonstrate particular knowledge of cost-benefit analysis, policy formulation and analysis, land use planning, and sustainable economic development. Students will explore questions such as, (1) What is the role of government in regulating the environment? (2) What tools exist to estimate the impact of environmental policies? (3) How does geography/location determine economic development? (4) Are economic growth and environmental sustainability compatible? Although this program is available to all students, it is primarily targeted to students majoring in Economics, Political Science, Geography, Planning, Sociology, and Environmental Studies."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following four courses:"
+        ],
+        "Required course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04210",
+                            "title": "Environmental Economics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required course: 3 s.h."
+            ]
+        },
+        "One of the Following: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31386",
+                            "title": "Land Use and Conservation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31389",
+                            "title": "Environmental / Sustainable Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the Following: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Harold Thompson Advisor Robinson Hall 316D 856.256.5719 thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

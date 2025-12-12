@@ -1,0 +1,129 @@
+{
+    "name": "Certificate of Undergraduate Study in Ancient Egyptian Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7128&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Ancient Egyptian Studies": [
+            "Certificate of Undergraduate Study in Ancient Egyptian Studies The Certificate of Undergraduate Study (CUGS) in Ancient Egyptian Studies allows Rowan students with an interest in the archaeology, art history, and history of ancient North Africa, the Mediterranean, and the Near East to receive specialized training in one of the rigorous and fascinating subfields of that area. Students may concentrate their studies in historical, archaeological, or museum studies aspects of this discipline, gaining exposure to these career fields. The certificate program provides multiple opportunities for experiential learning including museum-based research making use of the ongoing faculty-led project at the University of Pennsylvania’s Museum of Archaeology and Anthropology. Additional experiential opportunities include the observation of archaeological, historical, and museum-based research in Egypt with the additional opportunity to participate in an archaeological excavation in Egypt as part of a research internship. While not required, the certificate would encourage students to take multiple semesters of Arabic to ensure that they can take full advantage of the learning opportunities in the faculty-led study abroad elective or the fieldwork-based internship in Egypt should they choose to enroll in those courses. These learning experiences would give students a definite advantage in applying for advanced degree programs in Anthropology, Art History, Egyptology, History, and Museum Studies. The Certificate of Undergraduate Study in Ancient Egyptian Studies is 15 s.h., five courses:"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02335",
+                            "title": "Archaeology of Ancient Egypt",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02336",
+                            "title": "Visual Culture of Ancient Egypt",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02290",
+                            "title": "Museum Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Three of the following courses for",
+                "HIST 05379 - Ancient Egypt (Students who have completed COMP 01112 College Composition II will be given a prerequisite waiver for HIST 05306 Historical Methods-WI) Credits: 3"
+            ]
+        },
+        "Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02280",
+                            "title": "Old World Archeology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02400",
+                            "title": "Field Methods in Egyptology (an intersession course which will incorporate field trip).",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts (Internship in the Applied Liberal Arts related to archaeological fieldwork in Egypt or museum-based lab research at MARU or coordinator approved non-Rowan University institution.)",
+                            "credits": "2 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 6 s.h. Two courses from the electives bank for a total of",
+                "HIST 05319 - Ancient Greece (Students who have completed COMP 01112 College Composition II will be given a prerequisite waiver for HIST 05306 Historical Methods-WI). Credits: 3"
+            ]
+        },
+        "Any Arabic language course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12101",
+                            "title": "Elementary Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12102",
+                            "title": "Elementary Arabic II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12201",
+                            "title": "Intermediate Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12211",
+                            "title": "Intermediate Arabic II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12212",
+                            "title": "Intermediate Arabic III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12320",
+                            "title": "Arabic Civilization and Culture",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Any Arabic language course"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Advisor Dr. Jane A. Hill Department of Sociology and Anthropology Campbell Library 539 856.256.3515 hillj@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

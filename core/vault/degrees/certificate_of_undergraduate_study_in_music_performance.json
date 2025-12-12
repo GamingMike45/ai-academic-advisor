@@ -1,0 +1,169 @@
+{
+    "name": "Certificate of Undergraduate Study in Music Performance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7081&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Music Performance": [
+            "Certificate of Undergraduate Study in Music Performance The Certificate of Undergraduate Study (CUGS) in Music Performance is designed for students with majors outside of BM or BA in music who wish to pursue instrumental or vocal performance as part of their coursework, allowing students who performed in middle and high school ensembles to continue to develop as musicians. The CUGS consists of applied lessons in instrumental or vocal performance, ensemble experiences, and supplementary courses in music."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Take all of the following:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02105",
+                            "title": "Secondary Applied Instrument (4 semesters, 4 credits total)",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "02106",
+                            "title": "Secondary Applied Voice (4 semesters, 4 credits total)",
+                            "credits": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "01129",
+                            "title": "Chamber Music (4 semesters, 4 credits total) Credits: 0 TO 1",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Take all of the following:",
+                "Ensembles as assigned or"
+            ]
+        },
+        "Take at least four credits of the following classes:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02105",
+                            "title": "Secondary Applied Instrument (up to 4 additional semesters)",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "02106",
+                            "title": "Secondary Applied Voice (up to 4 additional semesters)",
+                            "credits": 1
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "01129",
+                            "title": "Chamber Music (up to 4 additional semesters) Credits: 0 TO 1",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04103",
+                            "title": "Music Theory I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04104",
+                            "title": "Music Theory II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04110",
+                            "title": "Sight Singing and Ear Training",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04118",
+                            "title": "Music Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40201",
+                            "title": "History of Popular Music",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40344",
+                            "title": "Hip Hop Culture: Music, Lifestyle, Fashion and Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06115",
+                            "title": "Growth and Development of Jazz",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06447",
+                            "title": "Music in World Cultures: Asia & Oceania",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06448",
+                            "title": "Music in World Cultures: Africa, India, Near and Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06449",
+                            "title": "Music of Brazil",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06102",
+                            "title": "General Music History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06109",
+                            "title": "Music Appreciation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "97100",
+                            "title": "Piano Class I",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Take at least four credits of the following classes:",
+                "Ensembles as assigned or"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Music Performance, students must complete all required coursework in accordance with University requirements for good standing. Students may double-count up to 6 credits of this CUGS with their major program. Alexandria Funkhauser, MA Senior Academic Advisor Wilson Hall 141 856.256.5183 daniels@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

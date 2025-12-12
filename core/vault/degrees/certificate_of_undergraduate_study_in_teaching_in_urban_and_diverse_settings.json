@@ -1,0 +1,67 @@
+{
+    "name": "Certificate of Undergraduate Study in Teaching in Urban & Diverse Settings",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7030&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Teaching in Urban & Diverse Settings": [
+            "Certificate of Undergraduate Study in Teaching in Urban & Diverse Settings A Certificate of Undergraduate Study (CUGS) in Teaching in Urban & Diverse Settings will offer teacher candidates in the College of Education the opportunity to engage in critical analysis of their own personal and professional beliefs, as well as teaching practices, regarding issues in urban education related to instructional implementation in urban and diverse school settings. The Teaching in Urban & Diverse Settings Certificate will enhance teacher candidates’ knowledge of learning, curriculum, and human development theories, and will be one of multiple CUGS offerings to enhance the B.A. in Inclusive Education and other degree programs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90534",
+                            "title": "Disability Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40510",
+                            "title": "Issues of Language and Cultural Diversity in ESL/Bilingual Programs",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90530",
+                            "title": "Curriculum Theories in Urban Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "90432",
+                            "title": "Working with Families and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90533",
+                            "title": "Critical Pedagogy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: Cross-listed for undergraduate students",
+                "CASE 90531 - Critical Consciousness: Sharing Power and Voice with Students Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the Certificate in Teaching in Urban & Diverse Settings, students must complete all courses required for the CUGS in Teaching in Urban & Diverse Settings with at least a 3.0 average. This CUGS is best suited for students majoring in Inclusive Education, Early Childhood, Elementary Education, and/or Subject Matter Education. It is highly recommended that students consult with their Education Advisor to plan for this Certificate. Corine Meredith Brown CUGS Coordinator James Hall 856.256.4500 ext. 53807 browncm@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "name": "Certificate of Graduate Study in Environmental Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7613&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Environmental Engineering": [
+            "Certificate of Graduate Study in Environmental Engineering The Certificate of Graduate Study (COGS) in Environmental Engineering is designed for professionals in the area to obtain the advanced education and skills needed for professional growth. The COGS will be a particular boost to professionals in the field of Environmental Engineering that have worked for several years and have obtained their professional license or are preparing to sit for the Professional Engineering Exam, but have not yet started a MS degree."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08512",
+                            "title": "Advanced Environmental Treatment Process Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08522",
+                            "title": "Site Remediation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08531",
+                            "title": "Solid and Hazardous Waste Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08532",
+                            "title": "Pollutant Fate and Transport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08533",
+                            "title": "Integrated Solid Waste Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h. Choose 6 s.h. from the following options."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08543",
+                            "title": "Advanced Water Resources Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08544",
+                            "title": "Hydraulic Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08547",
+                            "title": "Watershed Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08548",
+                            "title": "Water and Environmental Monitoring",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04510",
+                            "title": "Earth’s Environment and Natural Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04511",
+                            "title": "The Science of Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05550",
+                            "title": "Principles of Green Energy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05560",
+                            "title": "Industrial Health and Safety",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05612",
+                            "title": "Environmental Support Systems: Fresh Water",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05613",
+                            "title": "Environmental Support Systems: Native Plants in the Landscape",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05610",
+                            "title": "Environmental Support Systems: Soils",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05605",
+                            "title": "Case Studies in Applied Environmental Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05660",
+                            "title": "Risk Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05630",
+                            "title": "Communicating Environmental Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose 6 s.h. from the following options.",
+                "Additional courses with permission of graduate advisor Credits: 3"
+            ]
+        },
+        "Total Required Credits: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Environmental Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Mohammad Jalayer, Ph.D. Rowan Hall 856.256.5397 jalayer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

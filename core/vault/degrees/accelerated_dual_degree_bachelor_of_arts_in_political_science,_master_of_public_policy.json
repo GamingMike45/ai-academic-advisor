@@ -1,0 +1,88 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Political Science, Master of Public Policy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7115&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Political Science, Master of Public Policy": [
+            "Accelerated Dual Degree: Bachelor of Arts in Political Science, Master of Public Policy Overview The Department of Political Science & Economics has created this Accelerated Dual Degree to provide opportunities for our undergraduate students wishing to pursue a Master of Public Policy at an accelerated pace with significant savings. Students will be able to complete both their undergraduate degree - BA in Political Science and their graduate degree - Master of Public Policy in 5 - 6 years, depending on the course load students wish to take once they earn their BA."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Political Science Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MPP Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02510",
+                            "title": "Introduction to Policy Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MPP Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Choose three of the following courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02512",
+                            "title": "Quantitative Methods in Public Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02514",
+                            "title": "Essentials of Economics for Public Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02516",
+                            "title": "State and Local Politics in Policy Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02518",
+                            "title": "Public Finance and Cost-Benefit Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02520",
+                            "title": "Social Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose three of the following courses"
+            ]
+        },
+        "Required MPP Courses taken as a Graduate student: 27 s.h.": [
+            "Required MPP Courses taken as a Graduate student: 27 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Public Policy"
+        ],
+        "Total Required Credits for the Program: 147 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 147 s.h. Graduate courses marked with * above are counted in the 120 s.h. undergraduate program. Requirements for Admission: Students who have completed at least 45 credits may apply during the second semester of their sophomore year or during their junior year (60-90 credits). Once admitted, Students must maintain good standing both as a Political Science major and with the requirements for the Accelerated Dual Degree. To be admitted to the program, students must meet the following requirements: A minimum overall GPA of 3.2 in undergraduate coursework Students must have a C or higher in all Political Science classes Junior Admission: Students who have completed their first two years and/or 60 credits must meet the criteria below: Completion of at least 6 - non-program courses and four foundational courses with at least a C. Students who meet the above criteria can complete an application which includes: Application form Two short answer questions Two faculty references; faculty will complete a form. An unofficial transcript Students enrolled in the Accelerated Dual Degree in Political Science/Master of Public Policy may take up to 12 credits of graduate courses as an undergraduate. Students must meet with the Program Coordinator of the MPP program prior to moving on to the graduate portion of the program. Requirements for Graduation: Students must meet requirements for graduation with a BA in Political Science and complete all the requirements for the MPP. Contingency for Students who do not Complete Master of Arts program: Students who enter the accelerated Master of Public Policy but do not maintain satisfactory progress or who simply choose not to continue pursuing the degree will be allowed to apply up to 12 credits of graduate coursework to the BA in Political Science. If the student “opts out” before 12 credit hours have been completed, any remaining credits needed to complete the 120 hour undergraduate degree will be selected through consultation between the advisor, the program/department, and the student.",
+                "Notes:"
+            ]
+        }
+    }
+}

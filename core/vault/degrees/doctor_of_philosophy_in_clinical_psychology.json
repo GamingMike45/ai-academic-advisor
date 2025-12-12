@@ -1,0 +1,355 @@
+{
+    "name": "Doctor of Philosophy in Clinical Psychology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7552&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Clinical Psychology": {
+            "requirements": [],
+            "notes": [
+                "Doctor of Philosophy in Clinical Psychology The Ph.D. in Clinical Psychology adheres to a scientist-practitioner model of training, emphasizing the development of skills consistent with a research career or a career that includes the integration of clinical practice and research. In addition to the broad training goals, the program also offers experience in integrated healthcare and health psychology, as reflected in at least three courses in this area, applied practicum experiences in healthcare settings, and conducting original scientific research with a health focus. The program is not intended for those who are only interested in pursuing clinical practice. Students in the program are paired with a research mentor upon entering and maintain a research focus consistent with their mentor during their time in the program. Students are also expected to continue to develop their ability to function with greater autonomy throughout their time in the program, ultimately culminating in their ability to conduct research independently upon graduation. Students are expected to contribute to the research literature via professional presentations and publications during their time in the program. In addition to research, students are involved in off-site practicum training at sites in the New Jersey, Pennsylvania, and Delaware area, starting in their second year of the program. This practicum training includes the opportunity for interdisciplinary collaborations with Cooper Medical School of Rowan University, Rowan School of Osteopathic Medicine, and the M.D. Anderson Cancer Center, among many other training sites. Students are supervised by doctoral-level psychologists at each site, and their progress is also monitored by program faculty. The Rowan University Department of Clinical Psychology is committed to bringing together students and faculty from diverse backgrounds, emphasizing both individual differences and the interconnectedness between biological, psychological, and sociocultural factors. Issues related to diversity are integrated into all training activities, and the promotion of an inclusive and diverse training community and workforce constitutes guiding values of the program and its faculty. The curriculum content is consistent with the American Psychological Association&#39;s (APA) Accreditation Standards. Additionally, these standards are consistent with requirements for licensure as a Psychologist in NJ as well as nationwide. The Rowan University Clinical Psychology Doctoral Program is APA-accredited. Questions related to the program’s accredited status can be directed to the Commission on Accreditation. Office of Program Consultation and Accreditation American Psychological Association 750 1st Street, NE, Washington, DC 20002 Phone: (202) 336-5979 / E-mail: apaaccred@apa.org Web: http://www.apa.org/ed/accreditation"
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements The 77-credit, five-year program will be housed in and administered by the Department of Psychology. Students will be full-time students taking classes during the day, on-site for the first four years, with an additional year at a full-time internship prior to being granted the Ph.D. degree. The curricular content was designed to be consistent with the American Psychological Association (APA) Accreditation Standards and the Standards for Specialty Training of the APA. Additionally, these standards are in keeping with standard requirements for licensure as a psychologist, although individual licensing requirements vary by state."
+        ],
+        "Required Courses: 77 s.h.": [
+            "Required Courses: 77 s.h."
+        ],
+        "Scientific Foundations Courses: 12 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "09700",
+                            "title": "Human Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10630",
+                            "title": "Biological Bases of Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05621",
+                            "title": "Social Issues in Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01750",
+                            "title": "Multicultural Perspectives",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Scientific Foundations Courses: 12 s.h"
+            ]
+        },
+        "Research Training & Practice: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "07714",
+                            "title": "Statistics for Clinical Psychology I: Univariate",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07740",
+                            "title": "Statistics for Clinical Psychology II: Multivariate and Advanced Statistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02706",
+                            "title": "Research Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03815",
+                            "title": "Thesis Research (variable credit; must take 2 semesters, and for a minimum of 2 s.h. total)",
+                            "credits": "1 to 2"
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01855",
+                            "title": "Dissertation Research (variable credit, must take 4 semesters and for a minimum of 4 s.h. total)",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Research Training & Practice: 15 s.h."
+            ]
+        },
+        "Clinical Core Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "03701",
+                            "title": "Assessment I: Psychometrics and Cognitive Testing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03704",
+                            "title": "Assessment II: Individual Differences and Personality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03740",
+                            "title": "Professional, Ethical, and Legal Issues in Clinical Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01623",
+                            "title": "Psychopathology I: Diagnosis and Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01624",
+                            "title": "Psychopathology II: Conceptualization and Etiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03710",
+                            "title": "Intervention I: Foundational Clinical Skills",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03712",
+                            "title": "Intervention II: Evidence-Based Interventions with Adults",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Clinical Core Courses: 21 s.h."
+            ]
+        },
+        "Foundational Health Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "03830",
+                            "title": "Health Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03838",
+                            "title": "Health Care Models and Service Delivery",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Health Courses: 6 s.h."
+            ]
+        },
+        "Proseminar Sequence: 2 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "03721",
+                            "title": "Professional Proseminar I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03722",
+                            "title": "Professional Proseminar II",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Proseminar Sequence: 2 s.h."
+            ]
+        },
+        "Clinical Practice Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "03742",
+                            "title": "Introductory Practicum",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03743",
+                            "title": "Foundational Proseminar and Practicum I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03745",
+                            "title": "Foundational Proseminar and Practicum II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03801",
+                            "title": "Intermediate Proseminar and Practicum I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03803",
+                            "title": "Intermediate Proseminar and Practicum II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03821",
+                            "title": "Advanced Proseminar and Practicum I (variable credit, may be repeated up to 4 times) Credits: 3 TO 7",
+                            "credits": null
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03825",
+                            "title": "Advanced Proseminar and Practicum II (variable credit, may be repeated up to 4 times) Credits: 3 TO 7",
+                            "credits": null
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03860",
+                            "title": "Internship",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Clinical Practice Courses: 21 s.h."
+            ]
+        },
+        "Elective Courses: Optional": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "02630",
+                            "title": "Experimental Foundations of Behavior Therapy of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03715",
+                            "title": "Intervention III: Evidence-Based Interventions with Children and Adolescents",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03832",
+                            "title": "Behavioral Medicine",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03835",
+                            "title": "Pediatric Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03717",
+                            "title": "Advanced Cognitive-Behavioral Assessment and Treatment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03900",
+                            "title": "Advanced Seminar in Health Psychology and Behavioral Medicine",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03902",
+                            "title": "Advanced Seminar in Evidence Based Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03834",
+                            "title": "Neuropsychological Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "07745",
+                            "title": "Statistics in Clinical Psychology III - Advanced Multivariate",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03624",
+                            "title": "Psychopathology of Children and Adolescents",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10610",
+                            "title": "Psychopharmacology and Biological Bases of Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01856",
+                            "title": "Dissertation Continuation",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03824",
+                            "title": "Advanced Practicum Continuation",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: Optional Students can select from the following elective courses, although none are required for graduation:"
+            ]
+        },
+        "Total Required Credits for the Program: 77 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 77 s.h. Graduation/Exit, Benchmark, and/or Thesis Requirements : Successful completion of internship Successful completion and defense of master’s thesis and doctoral dissertation Additional benchmarks regarding professional, personal, and emotional competencies are delineated in the student handbook for the program. Admissions The following is a list of items required to begin the application process for the program. There may be additional action or materials required for admission to the program. Upon receipt of the materials below, a representative from the Rowan Global Admissions Processing Office will contact you with confirmation or will indicate any missing items. Applicants are strongly encouraged to visit the program’s webpage hosted by the Department of Psychology for additional information about the admissions process and helpful information and tips for prospective applicants. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Clinical Psychology is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories",
+                "Notes:"
+            ]
+        }
+    }
+}

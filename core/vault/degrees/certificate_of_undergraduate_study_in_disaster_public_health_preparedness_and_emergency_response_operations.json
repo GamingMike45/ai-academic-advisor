@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Undergraduate Study in Disaster Public Health Preparedness & Emergency Response Operations",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7132&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Disaster Public Health Preparedness & Emergency Response Operations": [
+            "Certificate of Undergraduate Study in Disaster Public Health Preparedness & Emergency Response Operations Public health professionals in emergency management respond to major disasters to protect residents from disease outbreaks and other hazards that result from contaminated food and water, chemical releases, insect-borne diseases, and unmet medical needs. The Certificate of Undergraduate Study (CUGS) in Disaster Public Health Preparedness & Emergency Response Operations provides a sequence of courses that combines health, public health control systems, humanitarian intervention, human rights, and social justice perspectives. These experts and specialists often collaborate with partner organizations at the municipal, state, and federal levels to ensure that emergency plans are current, in force, and properly implemented. This certificate offers a series of courses that enhance the student’s skills to be proficient in understanding and management of local, regional, or national health crises within an emergency management/disaster context."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00101",
+                            "title": "Introduction to Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00200",
+                            "title": "Introduction to Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00444",
+                            "title": "Emerging Health Threats: Risks and Surveillance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00442",
+                            "title": "Public Health Emergency Preparedness and Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00321",
+                            "title": "Humanitarian Response: Evacuation and Shelter Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS in Disaster Public Health Preparedness & Emergency Response Operations, students must complete all courses required for the CUGS in Disaster Public Health Preparedness & Emergency Response Operations with at least a 2.0 average. DPEM 00101 Introduction to Emergency Management and Homeland Security and HLT 00200 Introduction to Public Health and Wellness should be taken prior to the other courses in the certificate program because they are prerequisites for upper-level courses. DeMond Miller Advisor Campbell Library 856.256.4500 est 53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

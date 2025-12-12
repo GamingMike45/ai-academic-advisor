@@ -1,0 +1,102 @@
+{
+    "name": "Master of Arts in Arts Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7566&returnto=1028",
+    "content": {
+        "Master of Arts in Arts Administration": [
+            "Master of Arts in Arts Administration The Master of Arts (M.A.) in Arts Administration will provide students with the business, marketing, and administrative skills needed to initiate their own performing arts organizations or to secure stable administrative positions in regional or national arts venues, institutions, or educational administration. This program provides vital, up-to-date strategies taught by industry professionals representing disciplines of visual arts, music, theatre, dance, entrepreneurship, and business. Students who graduate from this program will be prepared to pursue careers in theatre management, symphony orchestra management, or other administrative roles such as gallery directors, music producers, presenters, dance company managers, and cultural arts entrepreneurs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07505",
+                            "title": "Independent Study in Graduate Theatre and Arts Administration",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07515",
+                            "title": "Internship in the Arts",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07530",
+                            "title": "Arts Administration Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07532",
+                            "title": "Arts Planning: An Elegant Process",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07533",
+                            "title": "Audience Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07531",
+                            "title": "Producing and the Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07534",
+                            "title": "Education and Outreach Programs in the Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07535",
+                            "title": "Curatorial Practice in the Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07511",
+                            "title": "Production/Performance/Arts Administration Project",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07536",
+                            "title": "Fundraising and Development for the Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07537",
+                            "title": "Advocacy and Arts Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 30 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements THD 07511 - Production/Performance/Arts Administration Project Minimum Required Grades and Cumulative GPA The Master of Arts in Arts Administration is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Victoria Dolceamore, Ed.D. Wilson Hall 856.256.4015 dolceamore@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

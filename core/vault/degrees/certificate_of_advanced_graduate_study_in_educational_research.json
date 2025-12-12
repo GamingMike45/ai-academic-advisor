@@ -1,0 +1,109 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Educational Research",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7657&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Educational Research": [
+            "Certificate of Advanced Graduate Study in Educational Research This Certificate of Advanced Graduate Study (CAGS) in Educational Research prepares graduate students who already hold a graduate degree but wish to obtain a credential in educational research to enhance understanding of both Quantitative and Qualitative methods, while still allowing for specialization in one of these research paradigms and a specific research design approach. With 15 credits, this CAGS candidates will receive more specialized training in a specific application of educational research, making this more appealing to potential students while also making the certificate more marketable for future career and/or creating well prepared students for a doctoral program in education. Educational research as a focus area and program is common in research focused institutions, and with the growth Rowan University is investing in towards this direction it is now appropriate to bring this program forward for our students. This CAGS aligns with the College of Education’s mission of “preparing and supporting professionals through the development of knowledge, skills, and dispositions with the ultimate goal of ensuring equitable educational opportunities for all learners”. This CAGS is an accessible pathway for students interested in research in education, whether they come from within the field of education or not, while also providing a mechanism for individuals to leverage an existing graduate degree into a doctorate degree or increase their marketability in their profession with an advanced certification. Data in education is an increasing reality, and professionals with the skills to effectively analyze and report on data to impact educational practice and policy decisions is a huge need for our field that is on the upward trend nationally. According to the US Department of Labor online O*Net resources, social science researcher jobs broadly are growing “much faster than average”, and this CAGS addresses the skills and knowledge individuals need to be competitive in this field (i.e. processing and analyzing data of multiple types, communicating results effectively, using research software and technology, advocating for policy and practice using research evidence)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90818",
+                            "title": "Introduction to Educational Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90810",
+                            "title": "Quantitative Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90812",
+                            "title": "Qualitative Research Methods in Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Required Advanced Methods Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90811",
+                            "title": "Multivariate Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90814",
+                            "title": "Advanced Qualitative Research Methods in Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Advanced Methods Courses Choose one."
+            ]
+        },
+        "Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90816",
+                            "title": "Mixed Methods Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90846",
+                            "title": "Sociolinguistics and Discourse Analysis in Literacy Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90851",
+                            "title": "Research to Practice in Special Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90520",
+                            "title": "Participatory Research Methods in Context",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses Choose one."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Advanced Graduate Study in Educational Research is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Sarah Ferguson 856.256.EXT 4500 x 53854 fergusons@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

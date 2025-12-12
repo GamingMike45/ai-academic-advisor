@@ -1,0 +1,138 @@
+{
+    "name": "Minor in Business Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6957&returnto=1028",
+    "content": {
+        "Minor in Business Administration": [
+            "Minor in Business Administration The Minor in Business Administration requires students to complete 12 credit hours in general education requirements. A student must achieve a minimum 2.5 GPA in these courses:"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Prerequisite Courses: 9-13 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04101",
+                            "title": "An Introduction to Economics-A Macroeconomic Perspective *",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04102",
+                            "title": "An Introduction to Economics-A Microeconomic Perspective *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Prerequisite Courses: 9-13 s.h. * See Additional Information below"
+            ]
+        },
+        "Business Courses: 24 s.h.": [
+            "Business Courses: 24 s.h. The Minor in Business requires students to take 24 credit hours in business courses, all of which must be taken from the Rohrer College of Business core. Students must achieve a 2.5 GPA in all business courses. The lower division courses must be completed before upper division courses may be taken."
+        ],
+        "Required courses": [
+            "Required courses"
+        ],
+        "Lower Division": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03211",
+                            "title": "Principles of Accounting II *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Lower Division * See Additional Information below"
+            ]
+        },
+        "Upper Division": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper Division"
+            ]
+        },
+        "Total Required Credits for the Program: 21-24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21-24 s.h. Additional Information * Accepted Course Substitutions: Principles of Economics: A Survey (ECON 04303) may substitute for both the Introduction to Economics (Macro) and Introduction to Economics (Micro) requirements. Calculus I (MATH 01130) may substitute for Calculus Techniques & Applications. Foundations of Accounting (ACC 03405) may substitute for both the Principles of Accounting I & II requirements. Have questions about your progress in the minor or general questions about the requirements? Email rcbminors@rowan.edu.",
+                "Notes:"
+            ]
+        }
+    }
+}

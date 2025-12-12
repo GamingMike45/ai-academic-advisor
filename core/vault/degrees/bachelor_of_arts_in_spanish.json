@@ -1,0 +1,429 @@
+{
+    "name": "Bachelor of Arts in Spanish",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7141&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Spanish": {
+            "requirements": [],
+            "notes": [
+                "Bachelor of Arts in Spanish The Spanish Major, which may be declared either in the World Languages Department in Oak Hall 107 or with any of our advisors, offers a flexible curriculum that makes it possible to develop an intensive study of the Spanish language, its civilization, cultures and literatures. It also provides a general background for future professional studies and advanced degrees in Spanish as well as careers in a variety of fields, such as social, administrative, governmental work, and international business. Within the Spanish Major, four Concentrations are available in: (1) Applied Spanish, (2) Peninsular Spanish Literature & Culture, (3) Spanish American Literature & Culture, and (4) Spanish Translation & Interpretation. Each of these Concentrations seeks to provide recognition for students’ completion of 12 s.h. in the respective subject area. Literature courses in English translation cannot be counted for credit toward the major nor any course to be transferred in that did not have Spanish as the language of instruction. All incoming Spanish majors (Freshmen, Internal Transfers and Transfer Students) are required to take the “STAMP 4S” Spanish Placement Examination for initial placement, prior to registration; contact Esther Mas Serna, (mas@rowan.edu), Spanish Placement Coordinator, for details. Students of Appreciation of Hispanic Literature (SPAN 05301) are required to take the STAMP 4S Placement Exam a second time for assessment and advisement purposes in the major. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students may transfer credits into the Spanish Major, including from Study Abroad. Students planning to Study Abroad must meet with their Spanish Advisor in order to determine course equivalents."
+            ]
+        },
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18-24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05101",
+                            "title": "Spanish I **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05102",
+                            "title": "Spanish II **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05201",
+                            "title": "Spanish III **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05211",
+                            "title": "Spanish Reading and Conversation **",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18-24 s.h.",
+                "World Languages course other than Spanish* 3 s.h World Languages course other than Spanish* 3 s.h. *Both courses must be in the same language",
+                "**if not waived via the STAMP 4S Spanish Placement Exam"
+            ]
+        },
+        "Experiential Learning Requirement": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02290",
+                            "title": "Museum Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02315",
+                            "title": "Forensic Anthropology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02324",
+                            "title": "Archaeological Field Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43495",
+                            "title": "Internship in Disaster Preparedness and Emergency Management",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23320",
+                            "title": "Building Brains: Competency and Resiliency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04410",
+                            "title": "Internship in Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02490",
+                            "title": "Public Service Internship",
+                            "credits": "3 to 12"
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05495",
+                            "title": "Internship in History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01311",
+                            "title": "Field Experiences in Human Services I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02310",
+                            "title": "STREAM I: Social Studies, ELA, and the Arts",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20390",
+                            "title": "Interdisciplinary Case Studies in the Liberal Arts",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20395",
+                            "title": "Experiential Learning in the Humanities and Social Sciences",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05356",
+                            "title": "Criminal Justice Internship I",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05357",
+                            "title": "Criminal Justice Internship II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SA",
+                            "course_number": "01470",
+                            "title": "Semester Abroad",
+                            "credits": "0 to 6"
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "40450",
+                            "title": "Schools & Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08377",
+                            "title": "Field Research Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08494",
+                            "title": "Field Experience Seminar in Sociology - WI",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05499",
+                            "title": "Study Abroad",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Experiential Learning Requirement All students with the Spanish major must satisfy the Experiential Learning Requirement (ELR) (0-6 s.h.). Students must choose one option from the following list (all are worth 3 s.h. except where indicated):"
+            ]
+        },
+        "Major Requirements 30 s.h.": [
+            "Major Requirements 30 s.h."
+        ],
+        "Take all of the following courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05212",
+                            "title": "Spanish Reading and Composition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05301",
+                            "title": "Appreciation of Hispanic Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05320",
+                            "title": "Spanish Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05324",
+                            "title": "Spanish American Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05409",
+                            "title": "Advanced Spanish Grammar and Composition-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05411",
+                            "title": "Advanced Spanish Conversation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Take all of the following courses:"
+            ]
+        },
+        "Choose four courses from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05300",
+                            "title": "Spanish Phonetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05302",
+                            "title": "Introduction to Hispanic Linguistics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05305",
+                            "title": "Oral Spanish",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05312",
+                            "title": "Spanish for Business A",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05313",
+                            "title": "Spanish for Medical Personnel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05314",
+                            "title": "Spanish for Business B",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05315",
+                            "title": "Spanish for Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05316",
+                            "title": "Spanish for Medical Emergencies and Disaster Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05325",
+                            "title": "Readings in Contemporary Spanish Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05326",
+                            "title": "Spanish Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05328",
+                            "title": "Spanish-American Theater",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05340",
+                            "title": "Introduction to Spanish Translation *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05350",
+                            "title": "Introduction to Spanish Interpretation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05383",
+                            "title": "Spanish-American Short Story",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05400",
+                            "title": "History of The Spanish Language",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05426",
+                            "title": "Spanish-American Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05441",
+                            "title": "Advanced Spanish Translation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05481",
+                            "title": "The Generation of 1898",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05482",
+                            "title": "Contemporary Spanish Novel",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose four courses from the following list:"
+            ]
+        },
+        "Free Electives: 63 s.h.": [
+            "Free Electives: 63 s.h."
+        ],
+        "Available Concentrations": [
+            "Available Concentrations The following concentrations are available to students in the Spanish Major Undergraduate Concentration in Applied Spanish Undergraduate Concentration in Peninsular Spanish Literature & Culture Undergraduate Concentration in Spanish American Literature & Culture Undergraduate Concentration in Spanish Translation & Interpretation"
+        ],
+        "Total Credits in Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits in Program: 120 s.h. *College of Education K-12 Subject Matter Dual Degree Majors are required to take either Introduction to Hispanic Linguistics (SPAN 05302) or Introduction to Spanish Translation (SPAN 05340). Marilyn S. Manley, Ph.D. Program Mentor Oak Hall Room 110 856.256.4044 manley@rowan.edu Cindy Finer Senior Academic Advisor finer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Certificate of Undergraduate Study in Construction Project Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7314&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Construction Project Management": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in Construction Project Management The Certificate of Undergraduate Study (CUGS) in Construction Project Management is intended for students who have a basic understanding of the construction processes and are ready to obtain more in-depth industry knowledge. It is a part of the stackable sequence of certificate courses that count towards a Bachelors’ degree in Construction Management. This certificate builds on the Construction Management certificate by providing a conceptual understanding of the function and performances of energy systems including mechanical, electrical, electronic, and plumbing and transport system. Upon completing this certificate, students will be able estimate construction costs including direct and indirect project costs, perform job cost analysis and forecasting of cost to completion. Labor, material and equipment expenses, cash flow, overhead, profitability and general condition costs are also estimated. Students will also learn scheduling and planning techniques essential to managing a construction project including critical path method, work breakdown structures, activity durations, resource allocation, planning, monitoring and updating of construction projects. Students will be introduced to concepts of alternative energy sources, energy efficiency, structural implication of mechanical systems, indoor air quality and environmental control strategy. In addition, students will learn the latest sustainability and green building ratings. Lastly, students will familiarize with construction building codes with reference to the International Building Codes (IBC), how the code was developed, how it is interpreted, and how it is applied to the design and construction of buildings. The certificate covers concepts related to space use and occupancy, types of contraction, fire-resistive construction, interior finishes, building materials, inspections, and tests. Prerequisites: CM 01301 - Fundamentals of the Construction Industry I Completion Requirements: Students must compete the prerequisite before enrolling in this certificate program."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CM",
+                            "course_number": "01305",
+                            "title": "Construction Cost Estimating",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01306",
+                            "title": "Construction Project Planning and Scheduling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01409",
+                            "title": "Building Energy Systems for Construction Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01410",
+                            "title": "Building Construction Systems and Codes",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

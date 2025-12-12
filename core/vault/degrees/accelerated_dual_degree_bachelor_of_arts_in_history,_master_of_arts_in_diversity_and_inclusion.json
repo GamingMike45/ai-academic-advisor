@@ -1,0 +1,82 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in Diversity & Inclusion",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7178&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in Diversity & Inclusion": [
+            "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in Diversity & Inclusion Overview This accelerated dual degree program offers students an opportunity to earn a BA in History and an MA in Diversity & Inclusion in five years. Students may apply to the program after earning at least 60 credits or, for transfer students, after earning 15 credits at Rowan. The 12 graduate credits will be applied towards the undergraduate program as well as the graduate program, i.e. students only need to earn 108 undergraduate credits. In addition to earning an M. A. more quickly, students in this program will save tuition through taking 12 credits of MA courses as a senior at undergraduate tuition rates."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in History. Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DI",
+                            "course_number": "68501",
+                            "title": "Introduction to Diversity and Inclusion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02510",
+                            "title": "Qualitative Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Two of the following three courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05519",
+                            "title": "Political and Social Movements in the U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02530",
+                            "title": "Diversity, Equity, and Inclusion in U.S. Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09521",
+                            "title": "Philosophical Approaches to Diversity, Equity, and Identity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two of the following three courses:"
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 18 s.h.": [
+            "Required MA Courses taken as a Graduate student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in Diversity & Inclusion"
+        ],
+        "Total Required Credits for the Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 138 s.h. Requirements for Admission: Qualified applicants will apply for admission to the Accelerated Dual Degree BA/MA accelerated dual degree program in the fall semester of their junior year. Review of applications will be conducted by the coordinator of Diversity & Inclusion. Students may be admitted to this program as early as the fall of their Junior year (60 credits). Students are encouraged to apply as early as possible to ensure timely completion of the program, but assuming they’ve taken the required courses listed below, they may apply at a later point. Transfer students with at least 60 credits may apply after they have earned at least 15 credits at Rowan, i.e. in their second semester at Rowan. History majors must meet the following requirements to apply to the program: Successful completion of 60 credits of coursework Successful completion of ANTH 02202 - Introduction to Cultural Anthropology, HIST 05306 - Historical Methods-WI, and at least one upper-level history course. 3.0 GPA in the major and overall. Enrollment in 2 upper-level history courses. History majors must also submit the following to be considered for admission to the program. BA/MA application form. One letter of recommendation from an undergraduate professor Requirements for Graduation: To graduate from this accelerated dual degree program with a BA and an MA, students must: Complete all requirements for the History BA including Rowan Core and Rowan Experience requirements; Complete all requirements for the MA, which is a level III program at Rowan. Completion of all requirements for the BA in History with a grade of C- or better in undergraduate courses and completion of all requirements for the MA in Diversity & Inclusion (30 Credit hours) with GPA of at least 2.75, earning no grades lower than a C and no more than two grades of C or C+. Students may repeat a graduate course once when the minimum GPA has not been met. Student Status: Students will be expected to maintain satisfactory progress through the program: maintain an overall 3.0 GPA, earn and no more than two grades of C or C+s in all MA courses, and meet the level III criteria in the MA program. Students who enroll in the 4+1 program who do not maintain satisfactory progress or who wish to discontinue the program may apply up to 12 credits of graduate work, if completed with a C or better, to their undergraduate free elective bank. Students enrolled in this accelerated BA/MA program may take up to 12 credits of graduate courses at the undergraduate rate in their senior year providing they meet the criteria listed above. Beyond this, students will pay graduate tuition rates for their MA courses. Contingency for Students who do not Complete the MA program: Students who are dropped from the graduate program or choose not to complete the BA/MA program may earn a BA in History once they have completed all requirements for that undergraduate degree, achieved at least a 2.0 GPA, and earned at least 120 credits. Students may count up to 12 credits of their graduate courses towards their BA requirements; these courses will count as free electives towards the 120 credits required for a BA If all 12 credits are attained, the student may receive a Graduate Certificate in Diversity & Inclusion after the “Transition and Transfer” form is submitted.",
+                "Notes:"
+            ]
+        }
+    }
+}

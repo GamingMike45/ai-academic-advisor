@@ -1,0 +1,102 @@
+{
+    "name": "Master of Arts in Wellness & Lifestyle Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7567&returnto=1028",
+    "content": {
+        "Master of Arts in Wellness & Lifestyle Management": [
+            "Master of Arts in Wellness & Lifestyle Management The Master of Arts in Wellness & Lifestyle Management (WLM) is a program for professionals from a variety of disciplines who want to work with clients or students to create and maintain lifestyle changes. The program is designed to serve the needs of professionals from a variety of educational backgrounds. The goal of this program is to prepare professionals in corporate, hospital and community health promotion settings to facilitate and lead wellness initiatives within their organizations. Graduates will be prepared to serve as facilitators, coordinators and managers of wellness programs in the following types of organizations: Corporate wellness/fitness facilities Hospital-based wellness/fitness facilities Clinical and rehabilitation centers Schools and Colleges/universities Community wellness/fitness facilities Non-profit health agencies State/county/city Departments of Public Health The Master of Arts in Wellness & Lifestyle Management program consists of 10 courses and a total of 30 graduate semester hours (s.h.). This is a part-time accelerated program with degree completion possible in 5 consecutive semesters."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00550",
+                            "title": "Capstone Project",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00621",
+                            "title": "Practicum in Wellness Coaching",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WLM",
+                            "course_number": "00512",
+                            "title": "Understanding and Applying the Professional Literature in HES",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00530",
+                            "title": "Leadership and Management in Health Promotion Programs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00541",
+                            "title": "Wellness Coaching and Behavior Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00542",
+                            "title": "Program Planning in Health Promotion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00580",
+                            "title": "Obesity and Diabetes Prevention and Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00610",
+                            "title": "Positive Perceptions and Performance Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00600",
+                            "title": "Promoting Human Wellness Across the Lifespan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00590",
+                            "title": "Integrating Wellness into School Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00575",
+                            "title": "Wellness in the Workplace",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 30 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses Students must have completed a three (3) credit undergraduate-level  NUT 00200 - Basic Nutrition course and a four (4) credit Anatomy and Physiology ( BIOL 10210 - Human Anatomy and Physiology I  or BIOL 10212) course at an accredited institution before beginning the  WLM 00580 - Obesity and Diabetes Prevention and Management  course. Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Master of Arts in Wellness & Lifestyle Management is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator & Academic Advisor Dr. Leslie Spencer Herman D. James Hall 856.256.4500, ext. 53761 spencer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

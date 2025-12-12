@@ -1,0 +1,205 @@
+{
+    "name": "Bachelor of Science in Biological Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7189&returnto=1028",
+    "content": {
+        "Bachelor of Science in Biological Sciences": [
+            "Bachelor of Science in Biological Sciences Students majoring in Biology are required to take a four-semester introductory sequence. While this sequence offers greater content knowledge coverage compared to a traditional Biology I & II sequence, it also includes extensive development of skills in the areas of reading and researching primary literature, scientific writing, experimental design, and data analysis. Beyond the core sequence, majors must take an additional 22 semester hours of Biology courses which must include at least four different laboratory courses. A course in Special Topics in Biological Sciences is required during the student’s Senior year. A grade of C or higher must be earned in each biology course. An average grade of C is also required for the chemistry, physics, math, and statistics courses listed below. The BS can also be combined with the Master of Arts in STEM Education in an Accelerated Dual Degree Program. The Master of Arts in STEM Education is described in the Graduate Catalog under the College of Education. The Department of Biological & Biomedical Sciences advises all students that all Biology courses may require observation of, dissection of, manipulation of and experimentation with living or preserved organisms. These exercises are an integral part of biology courses and provide an essential experience."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09368",
+                            "title": "Philosophy of Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09376",
+                            "title": "Philosophy of Medicine - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses:"
+            ]
+        },
+        "Foundational Courses: 44 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01104",
+                            "title": "Introduction to Evolution and Scientific Inquiry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01106",
+                            "title": "Introduction to Genetics *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01203",
+                            "title": "Introduction to Cell Biology *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01204",
+                            "title": "Introduction to Ecology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00210",
+                            "title": "Physics I without Calculus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00211",
+                            "title": "Physics II without Calculus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 44 s.h."
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Transfer students who have taken the equivalent of BIOL 01100 - Biology I and BIOL 01101 - Biology II at another institution are required to take BIOL 01202 - Biological Skills for Transfer Students, which will allow them to take BIOL 01204 - Introduction to Ecology. This will complete the introductory sequence and allow them to take most Biology electives."
+            ]
+        },
+        "Upper-level Courses: 22 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01445",
+                            "title": "Special Topics In Biological Sciences - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01308",
+                            "title": "Special Topics in Molecular and Cellular Biosciences",
+                            "credits": "2 to 3"
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01220",
+                            "title": "Translational Biomedical Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01475",
+                            "title": "Biology Lab/Field Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-level Courses: 22 s.h.",
+                "Biology lab elective (Must be at 200+ level) Credits: 4 Upper-level biology lab elective (Must be at 300+ level) Credits: 4 Upper-level biology lab elective (Must be at 300+ level) Credits: 4 Upper-level biology lab elective (Must be at 300+ level) Credits: 4 Upper-level biology elective (May be lecture based; must be at 300+ level) Credits: 3"
+            ]
+        },
+        "Free Electives: 27 s.h": [
+            "Free Electives: 27 s.h"
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h."
+            ]
+        },
+        "Available Concentration": [
+            "Available Concentration Undergraduate Concentration in Pre-Veterinary Studies",
+            "Notes:"
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "name": "Bachelor of Arts in Radio, Television, & Film",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7007&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Radio, Television, & Film": [
+            "Bachelor of Arts in Radio, Television, & Film"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Foundational Courses: 19 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03201",
+                            "title": "Foundations of Media Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03205",
+                            "title": "TV History and Appreciation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03230",
+                            "title": "Television Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03370",
+                            "title": "Film Production I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03475",
+                            "title": "RTF Senior Portfolio Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 19 s.h. Take the following seven courses:",
+                "RTF 03275 - Introduction to Media Aesthetics (Satisfies Artistic (ARTL) Literacy Requirement) Credits: 3",
+                "RTF 03270 - Film History I (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3"
+            ]
+        },
+        "Industry Conventions: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03221",
+                            "title": "The Radio Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03290",
+                            "title": "The Media Industries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Industry Conventions: 3 s.h. Select one of the following courses:"
+            ]
+        },
+        "Media Writing: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03471",
+                            "title": "Techniques of Documentary Film Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03393",
+                            "title": "Screenwriting I: Writing the Short - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03493",
+                            "title": "Screenwriting II: Writing the Feature - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03433",
+                            "title": "Episodic Screenwriting I - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03434",
+                            "title": "Episodic Screenwriting II - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Media Writing: 6 s.h. Select two of the following courses:"
+            ]
+        },
+        "Media Studies: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03271",
+                            "title": "Film History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03206",
+                            "title": "TV History and Appreciation, 1960s-1970s",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03372",
+                            "title": "American Film Directors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03471",
+                            "title": "Techniques of Documentary Film Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03294",
+                            "title": "Contemporary International Cinema",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03373",
+                            "title": "Film Noir",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03210",
+                            "title": "Evolution of Quality TV",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03280",
+                            "title": "African American Film History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03276",
+                            "title": "Film/TV Theory and Criticism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03378",
+                            "title": "The Hollywood Studio System",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03377",
+                            "title": "Animation History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03274",
+                            "title": "Queer Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03474",
+                            "title": "Film Censorship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03485",
+                            "title": "Deconstructing Disney: From Mickey to Marvel",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Media Studies: 3 s.h. Select one of the following courses (other Special Topics courses may apply; consult with your Academic Advisor):"
+            ]
+        },
+        "RTF without Concentrations: 12 s.h.": [
+            "RTF without Concentrations: 12 s.h. Choose twelve credits from any non-required RTF courses."
+        ],
+        "RTF with Concentrations": [
+            "RTF with Concentrations Students may choose one or more concentrations. (Adding a second concentration will reduce the number of credits available for Free Electives.) Choose to focus on courses from the following concentrations: Undergraduate Concentration in Audio Recording Undergraduate Concentration in Production Undergraduate Concentration in Film & Television Studies Undergraduate Concentration in Broadcast & Video Systems Undergraduate Concentration in Photography"
+        ],
+        "Free Electives: 50 s.h.": [
+            "Free Electives: 50 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

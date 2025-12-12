@@ -1,0 +1,187 @@
+{
+    "name": "Minor in Dance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7087&returnto=1028",
+    "content": {
+        "Minor in Dance": [
+            "Minor in Dance The Minor in Dance provides a flexible program of study that combines technique with theory. The Minor in Dance consists of 18-24 hours of study: the core course Elements of Dance, plus 6-12 hours of dance technique and 6-12 hours of dance theory."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08135",
+                            "title": "Elements of Dance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required: 3 s.h."
+            ]
+        },
+        "Electives - Technique: 6-12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08236",
+                            "title": "Fundamentals of Modern Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08237",
+                            "title": "Modern Dance I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08377",
+                            "title": "Modern Dance II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08378",
+                            "title": "Modern Dance III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08246",
+                            "title": "Fundamentals of Ballet Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08247",
+                            "title": "Advanced Ballet",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08256",
+                            "title": "Fundamentals of Jazz Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08257",
+                            "title": "Advanced Jazz Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08202",
+                            "title": "Fundamentals of Tap",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08203",
+                            "title": "Advanced Tap Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08142",
+                            "title": "Contact Improvisation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08222",
+                            "title": "Dance for the Musical Theatre",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08146",
+                            "title": "World Dance Forms",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives - Technique: 6-12 s.h. (A minimum of 2 dance styles)"
+            ]
+        },
+        "Electives - Theory: 6-12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08225",
+                            "title": "Dance Composition I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08337",
+                            "title": "Choreography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08436",
+                            "title": "Dance History - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08315",
+                            "title": "Creative Dance for Children",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08465",
+                            "title": "Dynamics of Human Movement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08126",
+                            "title": "Movement for the Actor",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07338",
+                            "title": "Touring the Theatre Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08311",
+                            "title": "African Influences in American Dance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives - Theory: 6-12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18-24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18-24 s.h. Dr. Leslie Elkins Advisor Wilson Hall 856.256.4055 elkins@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

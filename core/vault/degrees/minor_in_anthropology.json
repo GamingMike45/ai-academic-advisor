@@ -1,0 +1,49 @@
+{
+    "name": "Minor in Anthropology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7127&returnto=1028",
+    "content": {
+        "Minor in Anthropology": [
+            "Minor in Anthropology"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02202",
+                            "title": "Introduction to Cultural Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02221",
+                            "title": "Human Variation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02203",
+                            "title": "Introduction to Archeology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses The Minor in Anthropology consists of six 3-credit courses. The first three courses constitute a common core taken by all minors. These are:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Minors select the remaining three courses in consultation with their minor advisor (whom the student may choose at any point prior to taking the final three courses). Each student will be encouraged to concentrate in a particular subfield of anthropology (cultural, linguistics, physical, or archaeology). The minimum grade requirement for courses in the Minor Anthropology is C-.",
+                "Notes:"
+            ]
+        }
+    }
+}

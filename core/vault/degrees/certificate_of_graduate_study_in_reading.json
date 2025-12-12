@@ -1,0 +1,59 @@
+{
+    "name": "Certificate of Graduate Study in Reading",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7634&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Reading": [
+            "Certificate of Graduate Study in Reading This program meets the increasing need for highly qualified practitioners in the area of reading. This program benefits classroom teachers P-12 who wish to increase their knowledge of literacy instruction. It offers a strong pedagogical and theoretical core from the reading discipline that will enable teachers to pursue an advanced degree. The Certificate of Graduate Study in Reading does not lead to any state certification. All courses carry over to the Master of Arts in Reading as appropriate. Admission Requirements Completed Post-baccalaureate/Graduate/Doctoral Application Form (www.rowanu.com/graduate/apply) $65 (U.S.) non-refundable application fee Bachelor’s degree from an accredited institution of higher learning Official transcripts from all colleges attended (regardless of number of credits earned) Current professional resume Statement of professional objectives One letter of recommendation that address potential as a leader and potential for graduate study Minimum GPA of 2.75 (on a 4.0 scale)"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30515",
+                            "title": "Literacy Foundations: Theory, Equity, and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30536",
+                            "title": "Reading and Writing Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30545",
+                            "title": "Using Multicultural Literature in the K-12 Literacy Classroom",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h.",
+                "READ 30530 - Teaching Literacy to Students with Disabilities Credits: 3"
+            ]
+        },
+        "Note:": [
+            "Note: All courses are offered online in an 8-week format."
+        ],
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Reading is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Stephanie Abraham Herman D. James Hall 856.256.4500, ext.53830 abrahams@rowan.edu Xiufang Chen Herman D. James Hall 856.256.4745 chenx@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

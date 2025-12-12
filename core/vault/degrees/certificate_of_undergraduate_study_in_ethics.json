@@ -1,0 +1,284 @@
+{
+    "name": "Certificate of Undergraduate Study in Ethics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7111&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Ethics": [
+            "Certificate of Undergraduate Study in Ethics The Certificate of Undergraduate Study in Ethics (CUGS) is a multi-departmental program designed to complement and enhance a student’s major program, as well as to prepare students for graduate studies and professional careers. A certificate in ethics will appeal to students across the Rowan campus especially since most employers require ethics training and understanding. This certificate will expose students to analysis of ethical theories and teach students how to apply those theories in professional practice. Students can choose specific applied ethics courses related to business, medicine, and the environment. Students will develop an awareness of how their actions affect others on a local and global level."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Foundational Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09150",
+                            "title": "Introduction to Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09151",
+                            "title": "Introduction to Ethics - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Course: 3 s.h."
+            ]
+        },
+        "Electives: 9 s.h.": [
+            "Electives: 9 s.h. Choose three courses (9 sh) of Ethics Electives. At least two courses (6 sh) must be from Bank A, and at least two courses (6 sh) must be at the 300 or 400-level."
+        ],
+        "Bank A: 6-9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09240",
+                            "title": "Social and Political Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09241",
+                            "title": "Social and Political Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09310",
+                            "title": "Aesthetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09311",
+                            "title": "Aesthetics - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09329",
+                            "title": "Philosophy and Gender - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09392",
+                            "title": "Contemporary Moral Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09393",
+                            "title": "Contemporary Moral Problems- WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09218",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09219",
+                            "title": "Existentialism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09324",
+                            "title": "Philosophy of Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09327",
+                            "title": "Philosophy and Race - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09346",
+                            "title": "Feminist Ethics - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11269",
+                            "title": "Introduction to Queer Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11469",
+                            "title": "Topics in Queer Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11361",
+                            "title": "Ethics In and Out of Religions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank A: 6-9 s.h. At least one course must be upper-level from Bank A",
+                "An approved PHIL, REL, or PHRE course"
+            ]
+        },
+        "Bank B: up to 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10219",
+                            "title": "Approaches to Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10331",
+                            "title": "Spirituality and Nature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04425",
+                            "title": "Ethical Issues in Human Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05255",
+                            "title": "Criminal Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05330",
+                            "title": "Problems In World Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07320",
+                            "title": "International Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07340",
+                            "title": "Civil Rights and Civil Liberties",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08230",
+                            "title": "Sociology of Minority Groups",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08442",
+                            "title": "Environmental Justice: Race, Class, and Gender",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank B: up to 3 s.h. No courses may be taken P/NC.",
+                "Approved Internship or Service Learning Project (3 s.h.)"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Christine Larsen-Britt Advisor 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

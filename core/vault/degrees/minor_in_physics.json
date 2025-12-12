@@ -1,0 +1,56 @@
+{
+    "name": "Minor in Physics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7244&returnto=1028",
+    "content": {
+        "Minor in Physics": [
+            "Minor in Physics A Physics Minor is available for any student desiring a more extensive introduction to the field and a taste of some more advanced topics in physics. A Physics Minor is particularly valuable for those majoring in Mathematics, Engineering, Computers Science, or Chemistry. Note: This minor is unavailable to students in the BS Physics, BA Physics, and BS Biophysics programs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Requirements: 19-20 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00221",
+                            "title": "Introductory Thermodynamics, Fluids, Waves, and Optics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Requirements: 19-20 s.h.",
+                "And any additional Physics course at or above the 300 level (excluding Physics Research and Physics Learning Assistant courses)"
+            ]
+        },
+        "Total Required Credits for the Program: 19-20 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 19-20 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

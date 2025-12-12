@@ -1,0 +1,67 @@
+{
+    "name": "Minor in American Sign Language",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7694&returnto=1028",
+    "content": {
+        "Minor in American Sign Language": [
+            "Minor in American Sign Language The Minor in American Sign Language recognizes students’ completion of 18 s.h. in American Sign Language (ASL).  In addition to advancing their overall linguistic and communicative competence in ASL, students develop an understanding of diverse Deaf populations, greater empathy for the struggles and barriers that a Deaf individual encounters on a daily basis, and an attitude of inclusivity toward local and global Deaf communities."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ASL",
+                            "course_number": "01101",
+                            "title": "Elementary American Sign Language I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01102",
+                            "title": "Elementary American Sign Language II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01201",
+                            "title": "Intermediate American Sign Language I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01211",
+                            "title": "Intermediate American Sign Language II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01301",
+                            "title": "American Sign Language Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ASL",
+                            "course_number": "01320",
+                            "title": "Deaf Culture and Communities",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Students with existing proficiency in ASL should contact the Program Mentor for a placement interview.  It is possible for students to earn credits for the courses that they skip via the Authorization for Credit by Examination process and these credits are counted in fulfillment of minor requirements.  Contact the Program Mentor for more details about this option.  All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Program Mentor Melissa Rivera Screven Oak Hall North, Room 204 856.256.4500 x53232 screven@rowan.edu Advisor Harold Thompson thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

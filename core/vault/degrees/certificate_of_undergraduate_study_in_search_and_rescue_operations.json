@@ -1,0 +1,102 @@
+{
+    "name": "Certificate of Undergraduate Study in Search & Rescue Operations",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7134&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Search & Rescue Operations": [
+            "Certificate of Undergraduate Study in Search & Rescue Operations The Certificate of Undergraduate Study (CUGS) in Search & Rescue Operations affords students the opportunity to understand the multidisciplinary nature of search and rescue teams as a specialty area within the field of Emergency Management and prepare them to work in various positions within a search and rescue team. The CUGS will explore how various skills are used to assist in emergency operations as part of a coordinated first responder event to find/recover missing, lost, deceased persons. The courses represented in the CUGS offer an in-depth understanding of the science and methodology of search and rescue process."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12-13 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00101",
+                            "title": "Introduction to Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00109",
+                            "title": "Adventure and Experiential Learning",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00222",
+                            "title": "Search and Rescue Operations: Wilderness and Natural Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00309",
+                            "title": "Wilderness First Responder",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00333",
+                            "title": "Search and Rescue: Management and Lost Person Behavior",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12-13 s.h."
+            ]
+        },
+        "Select One: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43355",
+                            "title": "Emergency Exercises-Design, Implementation and Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00480",
+                            "title": "Advanced Topics in Emergency Management Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00116",
+                            "title": "Safety First Aid Basic Understanding of Athletic Injuries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00380",
+                            "title": "Drone Applications in Emergency Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Select One: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 15-16 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15-16 s.h. To be awarded the CUGS in Search & Rescue Operations, students must complete all courses required for the CUGS in Search & Rescue Operations with at least a 2.0 average. DeMond Miller Advisor Campbell Library 548 856.256.3517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

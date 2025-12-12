@@ -1,0 +1,59 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Disaster Preparedness & Emergency Management, Master of Science in Emergency & Threat Response Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7467&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Disaster Preparedness & Emergency Management, Master of Science in Emergency & Threat Response Management": [
+            "Accelerated Dual Degree: Bachelor of Arts in Disaster Preparedness & Emergency Management, Master of Science in Emergency & Threat Response Management Entrance Requirements Students must have a 3.3 GPA on a 4.0 scale to enter the Accelerated Dual Degree program. 1 Rowan University Undergraduate Graduation Requirements BA-DPEM Students must complete at least 120 s.h. (semester hours) of coursework that applies to their Rowan University degree Students must have an overall/cum. G.P.A. of at least 2.0. (Only Rowan University courses count toward the G.P.A.) A minimum of 30 s.h. of coursework must be completed at/through Rowan University Only grades of “D-” or above may apply to graduation requirements (some programs may set higher minimums) Students must apply for graduation and should do so for the term in which they will complete all program requirements. Rowan University Graduate Graduation Requirements MS-ETRM Students must complete at least 30 s.h. (semester hours) of coursework that applies to their graduate degree Students must have an overall/cum. G.P.A. of at least 3.0. (Only Rowan University courses count toward the G.P.A.) A maximum of 6 s.h. of coursework from other universities can be transferred into the MS degree program To maintain Minimum Satisfactory Academic Progress in the Graduate Degree Program and to successfully graduate from a Category 3 program students must: Earn no more than two total C grades of any combination of “C+” or “C.” (C- grades are not acceptable. ​Earn no grades lower than a “C” ​Earn an official cumulative GPA (according to matriculation level) of at least 3.000 on Rowan’s 4.000 scale Students must apply for graduation and should do so for the term in which they will complete all program requirements. Program-Specific Graduation Requirements for this Major/Degree Students must earn a grade of C- or better in all non-program and major courses, as well as in prerequisites for the M.S."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Disaster Preparedness & Emergency Management Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MS Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00500",
+                            "title": "Complex Organizational Theory in Emergency Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00550",
+                            "title": "Disaster Policy and Legal Environment in Emergency Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00600",
+                            "title": "Public Budgeting and Finance for Emergency Managers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MS Courses taken as an Undergraduate student: 12 s.h.",
+                "DPEM Graduate Elective"
+            ]
+        },
+        "Required MS Courses taken as a Graduate Student: 18 s.h.": [
+            "Required MS Courses taken as a Graduate Student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Science in Emergency & Threat Response Management"
+        ],
+        "Total Undergraduate and Graduate Program Credits: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Undergraduate and Graduate Program Credits: 138 s.h. 1 Sophomore Admission: After completing their freshman year or 30 credits, students who meet the criteria listed below may apply to this program: Minimum overall GPA of 3.3 in undergraduate coursework; Completion of the Statistical Literacy (STAT02.102 or Statistics I (STAT02.260) with at least a C; Completion of at least two Disaster Preparedness and Emergency Management core courses. Junior Admission: After earning 60 credits, students who apply to the program must meet the criteria listed below: Minimum overall GPA of 3.3 in undergraduate coursework and completion of Statistical Literacy (STAT02.102 or Statistics I (STAT02.260) with at least a C; Completion of at least five of the DPEM courses listed below with at least a C in each course: International Terrorism LAWJ05.326; Natural and Technological Hazards DPEM 00391; Disaster Planning, Mitigation, and Recovery DPEM43.400; Incident Command: Theory and Practice DPEM00.211; Emergency Operations and Business Continuity DPEM43.395; Public Leadership in Crisis Management & Communications DPEM 00410; Critical Infrastructure in Emergency Management and Homeland Security DPEM 00310; SOC 08. 328 Sociology of Disasters and Crisis; Research Methods Choice Course Senior Admissions: After earning (90 credits): To begin the M.S. program in their senior year, students who have been accepted into this ADD must meet the criteria listed below. The graduate coordinator of the M.S. program will assess whether the student has met the requirements necessary to begin taking courses in the M.S. In Emergency and Threat Response Management. Meet with Director of M.S. program to review course work and requirements related to the M.S.; Have completed the DPEM 00370 - Research and Data Analysis in Emergency Management and Homeland Security or approved research methods course Complete at least 90 credits with a 3.3 overall GPA and a 3.0 in all DPEM major courses; Complete eight (8) of the following BA-DPEM requirements listed below: International Terrorism LAWJ05.326; Natural and Technological Hazards DPEM 00391; Disaster Planning, Mitigation, and Recovery DPEM43.400; Incident Command: Theory and Practice DPEM00.211;  Emergency Operations and Business Continuity DPEM43.395 Public Leadership in Crisis Management & Communications DPEM 00410; Critical Infrastructure in Emergency Management and Homeland Security DPEM 00310; Sociology of Disasters and Crisis SOC 08.328; DPEM Elective (focus area course- 3 s.h.);  DPEM Elective (focus area course - 3 s.h.) 2 The Rowan Core requirements are waived for transfer students with an earned A.A. or A.S. degree from a NJ community/county college 3 The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry Contingency for Students who do not Complete Masters program : Students who choose not to complete the Master of Science in Emergency & Threat Response Management will still be eligible to earn the B.A. in Disaster Preparedness & Emergency Management.",
+                "Notes:"
+            ]
+        }
+    }
+}

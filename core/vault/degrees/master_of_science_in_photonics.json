@@ -1,0 +1,92 @@
+{
+    "name": "Master of Science in Photonics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7691&returnto=1028",
+    "content": {
+        "Master of Science in Photonics": [
+            "Master of Science in Photonics The M.S. in Photonics program allows students to obtain advanced knowledge in photonics and expand their skill sets in emerging topics of interest. This interdisciplinary program covers a wide variety of topics such as optical design, laser physics, fiber-optics, and electro-optic devices. The program will prepare students with the necessary knowledge and skills for careers in optics & photonics. Thesis and non-thesis (course-only) tracks are available, both of which require a total of 30 credits. For the thesis track, 6 of the 30 credits come from original research that culminates in a thesis. For the non-thesis option, all 30 credits come from coursework."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00540",
+                            "title": "Light",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00545",
+                            "title": "Geometric Optical Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09531",
+                            "title": "Advanced Optical Fiber Communications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00547",
+                            "title": "Lasers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00544",
+                            "title": "Fourier Optics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00548",
+                            "title": "Electro-Optic Devices",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00549",
+                            "title": "Applied Nonlinear Optics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00546",
+                            "title": "Advanced Optical Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00599",
+                            "title": "Master’s Thesis Research *",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 30 s.h.",
+                "or two MSE, ECE, or MATH Electives Credits: 6"
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *Students will take 6 s.h. of PHYS 00599 - Master’s Thesis Research"
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements MS Thesis or two restricted electives Minimum Required Grades and Cumulative GPA Master of Science in Photonics is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Robert V. Chimenti, Ph.D. 856.256.4366 chimenti@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

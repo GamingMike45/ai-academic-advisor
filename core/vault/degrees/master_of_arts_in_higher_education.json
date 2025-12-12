@@ -1,0 +1,203 @@
+{
+    "name": "Master of Arts in Higher Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7646&returnto=1028",
+    "content": {
+        "Master of Arts in Higher Education": [
+            "Master of Arts in Higher Education The Master of Arts in Higher Education is intended for individuals who wish to pursue administrative and student affairs careers at two- or four-year institutions. Graduates of our program are prepared to support a diverse population of students as they journey through the educational landscape of learning and professional development. This is a 36-semester hour program which includes a culminating seminar sequence (6 s.h.) in which all students are required to enroll. All students must work closely with the program advisor in determining course selection and the appropriate sequence for course enrollments."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIED",
+                            "course_number": "06602",
+                            "title": "Higher Education Research and Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06614",
+                            "title": "College Student Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06617",
+                            "title": "Diversity in Higher Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06618",
+                            "title": "Procedures and Evaluation in Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06628",
+                            "title": "Seminar/Supervised Practice in Higher Education I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06629",
+                            "title": "Seminar/Internship in Higher Education Administration II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 18 s.h."
+            ]
+        },
+        "Required Core Option 1: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27850",
+                            "title": "History and Context of American Community Colleges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06605",
+                            "title": "Higher Education in America",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Option 1: 3 s.h. Students select one of the following courses."
+            ]
+        },
+        "Require Core Option 2: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27852",
+                            "title": "Legal and Administrative Issues in Community Colleges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06620",
+                            "title": "Legal Issues in Higher Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Require Core Option 2: 3 s.h. Students select one of the following courses."
+            ]
+        },
+        "Electives Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COUN",
+                            "course_number": "26509",
+                            "title": "Group Counseling in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26523",
+                            "title": "Counseling Interviewing Skills and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26525",
+                            "title": "Multicultural Counseling and Advocacy in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26582",
+                            "title": "Career Counseling in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26652",
+                            "title": "Neurodiverse Learning and Social Emotional Development in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26653",
+                            "title": "Promoting Self-Care and Wellness in Educational and Professional Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27851",
+                            "title": "Community College Governance and Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27853",
+                            "title": "Leadership and Advocacy for Community College Student Success",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06607",
+                            "title": "Higher Education Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06615",
+                            "title": "Academic Advising in Higher Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06616",
+                            "title": "Planning and Resource Allocation in Higher Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06626",
+                            "title": "Crisis Management in Higher Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives Courses: 12 s.h. Students choose 12 s.h. form the following courses.",
+                "HIED 06606 - Selected Topics in Higher Education Credits: 3"
+            ]
+        },
+        "Available Certificate of Graduate Study options": [
+            "Available Certificate of Graduate Study options Certificate of Graduate Study in Academic Advising Certificate of Graduate Study in Higher Education Administration Certificate of Graduate Study in Community College Administration"
+        ],
+        "Total Required Credits for the Program: 36 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 36 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements All students are also required to complete a major research project (thesis) or a program evaluation as a part of the culminating sequence of courses. Minimum Required Grades and Cumulative GPA The Master of Arts in Higher Education is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Tyrone McCombs, Ph.D. 856.256.4500, ext.53666 mccombst@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

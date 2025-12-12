@@ -1,0 +1,369 @@
+{
+    "name": "Bachelor of Arts in Disaster Preparedness & Emergency Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7129&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Disaster Preparedness & Emergency Management": [
+            "Bachelor of Arts in Disaster Preparedness & Emergency Management The Bachelor of Arts in Disaster Preparedness & Emergency Management is an interdisciplinary academic program, designed to provide rigorous academic preparation for students interested in seeking advanced emergency management professional, homeland security education and training or a career in international, national, state, and local disaster preparedness, emergency management, and safety areas with an emphasis on urban environments. The Program in Disaster Science & Emergency Management prepares graduates, within an risk-based management approach, to assume roles as leaders where they can enhance the safety, security, risk, and resilience of the community, region, and nation by providing relevant education, professional training, research opportunities, and other assistance to those who are, or aspire to become, responsible for preventing, mitigating, responding to, or recovering from, a natural, human-induced, or technological disaster-in service to humanity. We offer a “transformative education” that reflects our commitment to engaging students to be effective change agents who are “best-practices-informed” to function under the most arduous circumstances. As an applied science, Disaster Science employs scientific methods to produce convergence research and knowledge to attain practical goals within a value-engineering framework by: Analyzing hazard risk and their influence on the natural and build environmental, social, cultural, political, and economic dimensions of human settlement. Developing interventions that advance pre-disaster preparedness, respond to disaster emergencies, aid in post-disaster reconstruction and recovery, and facilitate mitigation within the public, private, and nonprofit sectors based on societal needs and cost-effective risk-based approaches. Informing decision-making, which includes policies, plans, and other regulations, using a risk-based approach. Promoting communication and collaboration Modeling and using statistical methods to quantify disaster risk and exposure (see: https://sites01.lsu.edu/wp/dsm/; https://www.ucl.ac.uk/prospective- students/graduate/taught-degrees/risk-disaster- science-msc) The current focus areas include biomedical preparedness (in conjunction with the Cooper Medical School of Rowan University), public administration and civic leadership, and civil safety/justice administration, all of which lead to establishing core competencies in emergency preparedness. In addition to providing students with a broad understanding of safety and security issues, the Disaster Preparedness & Emergency Management degree program focuses on several vital components of the emergency management field: Critical Infrastructure Protection Disaster Preparedness and Response Intelligence Sharing and Analysis Graduates will be prepared to work in a variety of settings and agencies that focus on emergency rescue and response, homeland security, hospitals, municipal emergency management, county emergency management, safety management, intelligence analysis, private security, airports, state and local law enforcement, federal law enforcement, customs investigators, special agents, military service and border security and patrol. The upper-level courses for this major are offered on the Camden Campus of Rowan University."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Non-Program Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I (Satisfies Quantitative Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02102",
+                            "title": "Statistical Literacy (Satisfies Quantative Literacy)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology (Satisfies Humanistic Literacy)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science (Satisfies Artistic Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05381",
+                            "title": "Crime Mapping and Crime Analysis I",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00200",
+                            "title": "Introduction to Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02202",
+                            "title": "Introduction to Cultural Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08121",
+                            "title": "Introduction to Sociology for Premed Students",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07110",
+                            "title": "American Government (Satisfies Humanistic Literacy)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05326",
+                            "title": "International Terrorism (Satisfies Global Literacy)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 21 s.h.",
+                "Choose one:",
+                "Choose one:",
+                "Choose one:",
+                "Any Economics Course"
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements The Disaster Preparedness & Emergency Management program consists of 39 s.h. of coursework, including 33 s.h. of core major requirements coursework and 6 s.h. of focus area courses. The 33 s.h. of core major requirements provide a common foundation for all majors with an emphasis on ethics to assist the student in developing complex thinking skills. As part of the 33 s.h. of core major courses, each student will complete a three s.h. Internship experience is designed to provide an experiential learning opportunity and to give the student a more practical view of the intended career path. In addition to the core requirements, general education requirements, and electives, each student will select one (1) of the focus areas below:"
+        ],
+        "Foundational Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08429",
+                            "title": "Organizational Response to Disasters and Crisis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43395",
+                            "title": "Emergency Operations and Business Continuity",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00101",
+                            "title": "Introduction to Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00211",
+                            "title": "Incident Command: Theory and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00310",
+                            "title": "Critical Infrastructure in Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00360",
+                            "title": "Disaster Equity in Emergency Management Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00391",
+                            "title": "Natural and Technological Hazards: Mitigation and Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00400",
+                            "title": "Disaster Planning, Mitigation and Recovery",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00410",
+                            "title": "Public Leadership in Crisis Management & Communications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 27 s.h.",
+                "DPEM Upper Level Elective"
+            ]
+        },
+        "Research Methods: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00370",
+                            "title": "Research and Data Analysis in Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05380",
+                            "title": "Criminal Justice Research (Dual Majors only)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07360",
+                            "title": "Methodology and Statistics in Political Science Research (Dual Majors only)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Research Methods: 3 s.h. Choice of 1 below (3 s.h.)"
+            ]
+        },
+        "Approved Internship Class/Field Experience Class: 3 s.h. *": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43495",
+                            "title": "Internship in Disaster Preparedness and Emergency Management",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08494",
+                            "title": "Field Experience Seminar in Sociology - WI (Dual Majors Only)",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05356",
+                            "title": "Criminal Justice Internship I (Dual Majors Only)",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Approved Internship Class/Field Experience Class: 3 s.h. * All students are required to register for and complete an approved Internship Class/approved Field Experience Class to graduate. Students seeking to enroll in an internship/field experience must secure the approval of the program director prior to enrollment. Upon prior approval, only dual majors can earn course graduation credit for an internship taken outside of the Disaster Science & Emergency Management offerings.  Dual majors must consult with the Emergency Management Program Director or Professor of Internship for internship/field experience approval to enroll in a non-DPEM 43495 Internship Class. Without prior approval, students will not be allowed to earn the credits needed to fulfill the internship graduation requirements. The internship class for a minimum of 3 s.h. cannot be waived.  Also, Rowan Student Patrol (within the Rowan University Police Department) cannot be used to fulfill the internship requirement in Disaster Preparedness & Emergency Management. All prerequisites must be completed before enrolling in DPEM 43495. Please contact your advisor if you have any questions. * 3 s.h. are required, 6 s.h. are recommended"
+            ]
+        },
+        "Disaster Preparedness & Emergency Management Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00290",
+                            "title": "U.S. Military Commands and Disaster Relief Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00280",
+                            "title": "Global Catastrophes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43355",
+                            "title": "Emergency Exercises-Design, Implementation and Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43395",
+                            "title": "Emergency Operations and Business Continuity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43420",
+                            "title": "Risk Analysis for Disaster Preparedness and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00300",
+                            "title": "Bioterrorism and Weapons of Mass Destruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00321",
+                            "title": "Humanitarian Response: Evacuation and Shelter Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00412",
+                            "title": "Health Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00429",
+                            "title": "Grant Acquisition and Administration for Emergency Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00444",
+                            "title": "Emerging Health Threats: Risks and Surveillance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00442",
+                            "title": "Public Health Emergency Preparedness and Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00480",
+                            "title": "Advanced Topics in Emergency Management Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00222",
+                            "title": "Search and Rescue Operations: Wilderness and Natural Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00356",
+                            "title": "Mass Casualty, Active Shooter, and Major Events Response",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Disaster Preparedness & Emergency Management Courses: 6 s.h. Students can also use the following Disaster Preparedness & Emergency Management courses to fulfill Focus Area requirements. Focus Area 1: Public Administration & Policy for Crisis Decision Leadership- 6 additional s.h. of Political Science/Public Administration, Disaster Leadership or Risk Analysis coursework Focus Area 2: Justice, Safety, & Homeland Security Administration- 6 additional s.h. of Law & Justice coursework with a focus on Homeland Security or Risk Analysis Focus Area 3: Public Health, Emergency Health Preparedness, & Biomedical Safety- 6 additional s.h. of Biomedical/Population Health and Epidemiology or Risk Analysis coursework"
+            ]
+        },
+        "Free Electives: 51 s.h.": [
+            "Free Electives: 51 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses. Students are encouraged to select one of the following Certificates of Undergraduate Study: Certificate of Undergraduate Study in Borders, Ports of Entry & Emergency Response Operations Certificate of Undergraduate Study in Disaster Public Health Preparedness & Emergency Response Operations Certificate of Undergraduate Study in Search & Rescue Operations Certificate of Undergraduate Study in Adventure Education Leadership Certificate of Undergraduate Study in Counterterrorism & Emergency Response Operations Certificate of Undergraduate Study in Cybersecurity"
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Graduation/Exit, Benchmark, and/or Thesis Requirements None Dr. DeMond Miller Coordinator Campbell Library, 5th floor 856.256.4500 x53517 millerd@rowan.edu Academic Advisor Contact Information Carlos Parker 856.256.5567 parkerc@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

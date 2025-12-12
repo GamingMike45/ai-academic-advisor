@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Spanish",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7162&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Spanish": [
+            "Certificate of Undergraduate Study in Spanish The Certificate of Undergraduate Study (CUGS) in Spanish may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). This program recognizes students’ completion of 12 s.h. in Spanish, which corresponds to Intermediate-level proficiency in the language. Intermediate-level proficiency in a world language is a valuable credential, as it represents the ability to live independently in a foreign country with a substantial degree of success. In general, according to the American Council on the Teaching of Foreign Languages (ACTFL), Intermediate-level speakers are able to create with the language, combining and recombining learned material to provide personal information, speak in sentences on a variety of familiar topics, ask questions, initiate, sustain and conclude a simple social or transactional task. For more information visit our website, Department of World Languages or contact the Department for the latest details."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05101",
+                            "title": "Spanish I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05102",
+                            "title": "Spanish II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05201",
+                            "title": "Spanish III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05211",
+                            "title": "Spanish Reading and Conversation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four, 3 s.h. courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, study abroad, credits obtained through the College-Level Examination Program (CLEP) (up to 9 s.h. are accepted at Rowan in place of “Spanish I”, “Spanish II” and “Spanish III” - contact the Testing Center, testingservices@rowan.edu, credits obtained through Advanced Placement (up to 9 s.h. are accepted at Rowan in place of “Spanish I”, “Spanish II” and “Spanish III”), and by substituting other 200-400 level Spanish courses. A placement exam is strongly recommended for students with existing proficiency in Spanish. For placement exam information, please contact Esther Mas Serna at mas@rowan.edu; students may earn the credits for any courses skipped via the Authorization for Credit by Examination process and these credits also count toward the program. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students planning to study abroad must meet with the Program Mentor in order to determine course equivalents. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in Spanish. Esther Mas Serna Program Mentor Oak Hall, Room 106 856.256.5848 mas@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

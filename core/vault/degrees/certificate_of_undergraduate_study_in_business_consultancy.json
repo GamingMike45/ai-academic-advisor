@@ -1,0 +1,167 @@
+{
+    "name": "Certificate of Undergraduate Study in Business Consultancy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6973&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Business Consultancy": [
+            "Certificate of Undergraduate Study in Business Consultancy This Certificate of Undergraduate Study (CUGS) is open to College of Business majors only. To declare the CUGS, business majors should contact their assigned advisor. The Certificate of Undergraduate Study (CUGS) in Business Consultancy provides a sequence of courses that provides students with an opportunity to work collaboratively across different disciplines while consulting for businesses. The certificate program targets the inclusion of a variety disciplines with the goal of assisting organizations with a business problem while providing the students with the opportunity to develop a variety of diverse, career-ready skills. Ultimately, the new CUGS prepares the students to work in a multi-disciplined environment as is common in the workplace while developing critical communication and analytical skills."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": [
+            "Required Courses:"
+        ],
+        "Communication Bank: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04240",
+                            "title": "Small Group Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04208",
+                            "title": "Business and Professional Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04270",
+                            "title": "Persuasion and Social Influence",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Communication Bank: 3 s.h. (Choose one from the following list)"
+            ]
+        },
+        "Analytics Bank: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06354",
+                            "title": "Managerial Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06407",
+                            "title": "Business Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06408",
+                            "title": "Visual Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03301",
+                            "title": "Accounting Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04310",
+                            "title": "Financial Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Analytics Bank: 3 s.h. (Choose one from the following list)",
+                "SCL 01390 - Selected Topics in Supply Chain Management Credits: 3"
+            ]
+        },
+        "Elective Bank: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06426",
+                            "title": "New Venture Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06304",
+                            "title": "Organizational Change and Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06321",
+                            "title": "Managing Teams In Organizations",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06406",
+                            "title": "Improving Business Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09375",
+                            "title": "Business Logistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09378",
+                            "title": "Product, Price, New Venture Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09402",
+                            "title": "Marketing Consultancy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Bank: 3 s.h. (Choose one from the following list)"
+            ]
+        },
+        "Capstone Course (required): 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01444",
+                            "title": "Business Consultancy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Capstone Course (required): 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

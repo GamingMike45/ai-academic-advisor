@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Graduate Study in Cybersecurity Principles",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7538&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Cybersecurity Principles": [
+            "Certificate of Graduate Study in Cybersecurity Principles The Certificate of Graduate Study (COGS) in Cybersecurity Principles is designed to prepare students with the knowledge and skills needed to understand key issues along with present and emerging cyber threats to information systems. Students will be able to articulate the core concepts of cybersecurity, asset protection and cyber defense, learn specific techniques for vulnerability analysis and security risk assessment, and understand how to build a technical architecture which includes security considerations and analyze technical policies and processes. Students seeking this COGS will be required to complete any four (4) of the required courses. The COGS is a stackable certificate, and students can apply their certificate credits toward the M.S. in Cyber Security. Students may also apply some of their certificate credits toward the M.S. in Computer Science. Students should consult with the program advisor for additional information."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03500",
+                            "title": "Foundations of Cybersecurity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03506",
+                            "title": "Cybersecurity Management, Policy, and Risk",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03551",
+                            "title": "Advanced Cyber Security: Principles and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03570",
+                            "title": "Cyber Defense of Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03580",
+                            "title": "Cloud Computing and the Internet of Things",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Choose four of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses Please contact program coordinator for additional details. Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Cybersecurity Principles is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Fred Stinchcombe Robinson Hall, Room 328I stinchcombe@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

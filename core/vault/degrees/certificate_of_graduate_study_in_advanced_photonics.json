@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Advanced Photonics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7547&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Advanced Photonics": [
+            "Certificate of Graduate Study in Advanced Photonics This program is designed to provide students with an advanced understanding of optics and photonic technologies including but not limited to advanced optical design, electro-optic devices, and non-linear optics. The Certificate of Graduate Study (COGS) in Advanced Photonics is a follow-on to the COGS in Photonics and the topics here are an extension to the work in that program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00544",
+                            "title": "Fourier Optics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00546",
+                            "title": "Advanced Optical Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00548",
+                            "title": "Electro-Optic Devices",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00549",
+                            "title": "Applied Nonlinear Optics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses All the above courses are required to earn the COGS and can be taken in any order after the student completes the first course, Fourier Optics (PHYS PHYS 00544) and previous work equivalent to the Rowan COGS in Photonics.  Note that the student is expected to have a strong undergraduate math background through multivariate calculus.  Previous undergraduate courses in Electricity & Magnetism and Modern Physics are also recommended. Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA None Robert Chimenti ​Program Coordinator/Advisor Science Hall 101D 856.256.4366 chimenti@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

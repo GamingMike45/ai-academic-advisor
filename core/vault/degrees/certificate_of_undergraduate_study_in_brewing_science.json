@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Undergraduate Study in Brewing Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7690&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Brewing Science": [
+            "Certificate of Undergraduate Study in Brewing Science The Certificate of Undergraduate Study (CUGS) in Brewing Science provides skills-based training for employment or advancement in the brewing industry. In this program students will understand the industrial process of beer production, quality, and safety through practical application of lectures, labs, site visits, and on-site training. Students looking for entry-level positions will find experiential learning and pathways to employment in an internship course.  Students already employed in the industry can select an alternative elective course for additional skills development."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "85303",
+                            "title": "Yeast Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "85304",
+                            "title": "Sensory Training",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "85305",
+                            "title": "Packaging Technology and Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "85306",
+                            "title": "Brewing Science Internship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16321",
+                            "title": "Geography of Beer",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h."
+            ]
+        },
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "85301",
+                            "title": "Brewing Science and Raw Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "85302",
+                            "title": "Brewery Design and Operations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Brewing Science, students must complete 12 s.h. in required courses and electives with at least a 2.0 average. Students must earn a C- in each course or they will be required to retake the course. There are no degree requirements nor required majors for enrollment as Brewing Science is a multi-disciplinary field. Any current Rowan student can declare the certificate given permission by the program director. Non-matriculated individuals currently working in the industry or looking to enter the industry are encouraged to apply for matriculation into the certificate through Rowan Global. Matthew Farber, PhD Program Director Science Hall 256D 856-256-4500 ext: 53583 farberm@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

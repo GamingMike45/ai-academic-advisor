@@ -1,0 +1,218 @@
+{
+    "name": "Minor in Systems Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7061&returnto=1028",
+    "content": {
+        "Minor in Systems Engineering": [
+            "Minor in Systems Engineering Systems Engineering is an interdisciplinary approach and means to enable the realization of successful systems. It focuses on defining customer needs and required functionality early in the development cycle, documenting requirements, proceeding with design synthesis and system validation while considering the complete problem that includes - operations, cost & schedule, performance, training & support, test, disposal, and manufacturing. Systems Engineering integrates all the disciplines and specialty groups into a team effort forming a structured development process that proceeds from concept to production to operation. Systems Engineering considers both the business and the technical needs of all customers with the goal of providing a quality product that meets the user needs. In addition, Systems Engineering incorporates concepts of “balanced design” - achieving a product design that meets requirements but does not exceed them, and does so within the constraints of cost, schedule & performance, including life cycle costs; and “risk assessment & management” - understanding the technical and other risks that may be involved and managing the design to effectively mitigate the risks. Minor in Systems Engineering consists of a total of 24 credits, 12 coming from required courses and 12 from electives as follows. Not all courses are offered in all semesters, please check Section Tally and plan accordingly."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09421",
+                            "title": "Introduction to Systems Engineering *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09427",
+                            "title": "Introduction to Model Based Systems Engineering *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Take the following two courses"
+            ]
+        },
+        "Then, choose one of the following": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10461",
+                            "title": "Introduction to Engineering Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06390",
+                            "title": "Introduction to Systems Simulation and Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04321",
+                            "title": "Software Engineering I",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Then, choose one of the following"
+            ]
+        },
+        "and one of the following": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02325",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09375",
+                            "title": "Business Logistics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "and one of the following"
+            ]
+        },
+        "Elective Courses: 11-13 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09375",
+                            "title": "Business Logistics (if not taken as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02325",
+                            "title": "Project Management (if not taken as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09321",
+                            "title": "Systems and Control I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09433",
+                            "title": "Electrical Communications Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09402",
+                            "title": "Topics in Electrical and Computer Engineering **",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06390",
+                            "title": "Introduction to Systems Simulation and Modeling (if not taken as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07340",
+                            "title": "Design and Analysis of Algorithms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04321",
+                            "title": "Software Engineering I (if not taken as a required course)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04380",
+                            "title": "Object Oriented Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10342",
+                            "title": "Quality and Reliability in Design and Manufacture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10443",
+                            "title": "Design For X",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08305",
+                            "title": "Civil Engineering Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06405",
+                            "title": "Process Dynamics and Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01511",
+                            "title": "Strategic Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01512",
+                            "title": "Quality in Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10461",
+                            "title": "Introduction to Engineering Optimization (if not taken as a required course)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 11-13 s.h. take any four of the following",
+                "ECE 094xx - Approved ECE Elective ***"
+            ]
+        },
+        "Total Required Credits for the Program: 24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 24 s.h. * ECE students cannot double count these two courses both towards the ECE electives for the B.S. in ECE program and the Systems Engineering requirements at the same time. ECE students taking these two courses for Systems Engineering Minor must take another set of (five) ECE electives towards the B.S. in ECE degree requirements. ** ECE 09402 Topics in Electrical and Computer Engineering in ECE is a special topics class, with a different course content presented each time it is offered. Therefore, check with ECE Department Head to verify that the specific ECE 09402 you are interested will qualify as a Systems Engineering elective. *** ECE 09.4XX ECE Department regularly offers senior electives on topics that are very relevant to Systems Engineering. Please check with ECE Department Chair for approved 400-level courses that can be used as a Systems Engineering elective. Graduation/Exit, Benchmark, and Thesis Requirements Students must complete all required courses with at least a 2.0 grade point average. For details regarding satisfactory academic progress and graduation requirements, please visit www.rowanu.com/policies. Robi Polikar Department Head, Electrical and Computer Engineering Program Coordinator/Advisor Contact Information Engineering Hall 856.256.5372 polikar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

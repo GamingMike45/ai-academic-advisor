@@ -1,0 +1,58 @@
+{
+    "name": "Certificate of Graduate Study in Educational Technology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7632&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Educational Technology": [
+            "Certificate of Graduate Study in Educational Technology The Certificate of Graduate Study in Educational Technology aims to provide educators with the knowledge and proficiencies needed to incorporate existing and emerging educational technologies into their classroom. Individuals completing this program will not only be skilled in the use of computers in the classroom, but they will also be prepared to assume leadership roles in educational technology in preschool to twelfth grades."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Educational Technology Certificate of Graduate Study is a part-time program offered in an accelerated online format. It requires the completion of 15 graduate semester hours (5 courses) in 2.5 consecutive semesters. The courses that make up the Educational Technology Certificate of Graduate Study also serve as content area courses for the Master of Education (M.Ed.) in Teacher Leadership program. Therefore, the semester hours earned in the Certificate of Graduate Study are applicable to the Master of Education Degree requirements. In order to be admitted to the Master of Education Degree program, students must submit a separate application."
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33580",
+                            "title": "Introduction to Educational Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33585",
+                            "title": "Internet in the Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33510",
+                            "title": "Emerging Technology Tools and the Curriculum",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33584",
+                            "title": "Digital Citizenship in 21st Century Schools",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h.",
+                "Courses are to be taken in the order they are listed.",
+                "SPED 08540 - Technology For Students With Disabilities ** Credits: 3",
+                "**Note: This course is 8-weeks long"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Educational Technology is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Yu-Chun Kuo, Ph.D. Herman D. James Hall 856.256.4500, ext.53825 kuo@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

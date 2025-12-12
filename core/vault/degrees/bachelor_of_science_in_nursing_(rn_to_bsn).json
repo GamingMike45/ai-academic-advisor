@@ -1,0 +1,125 @@
+{
+    "name": "Bachelor of Science in Nursing (RN to BSN)",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7304&returnto=1028",
+    "content": {
+        "Bachelor of Science in Nursing (RN to BSN)": [
+            "Bachelor of Science in Nursing (RN to BSN) The Bachelor of Science Degree in Nursing is offered jointly by the Virtual Health School of Nursing & Health Professions at Rowan University and the Division of Global Learning & Partnerships. It is designed to give additional professional education at the baccalaureate level to practicing nurses. The BSN degree prepares registered nurses to work in the ever-expanding field of nursing. This degree allows nurses to augment their knowledge base and thus enhance their careers. The Bachelor of Science Degree also acts as a steppingstone for the nurse who wishes to pursue a Master of Science Degree in Nursing with six graduate nursing credits included in the program curriculum. The program is designed as a part-time program to accommodate professionals’ schedules while still completing the degree in a timely manner. RN-to-BSN Curriculum The complete curriculum includes 120 credits: 30 credits in the RN-to-BSN major, and 60 credits of general education and foundational courses required by Rowan University for graduation from any bachelor’s degree program, and 30 credits of pre-licensure nursing coursework. Students graduating from an Accreditation Commission for Education in Nursing (ACEN) associate degree or diploma program are awarded 30 pre-licensure nursing credits upon matriculation into the program. Students transfer credits for coursework completed prior to admission to the program. Degree candidates are encouraged to plan a course of study that meets both the programmatic criteria as well as courses that meet their individual needs and interests. Students may transfer up to 90 credits Students must fulfill the Rowan Core requirements of Rowan University, either through the transfer of credits or completion of courses at Rowan University Additional coursework may be required, depending on the amount of credits transferred to Rowan University Program must be completed on a part-time basis. There is not a full-time option available Course of Study Rowan University requires 120 credits taken within approved general education and major coursework in order to graduate with a Bachelor’s degree. To obtain the BSN all students complete the following coursework: 60 credits in general education and foundational course requirements 30 credits awarded for pre-licensure nursing coursework 30 credits in the major sequence"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Nursing Concentration: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05504",
+                            "title": "Advanced Pathophysiology * (Graduate Course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03300",
+                            "title": "Pathophysiology for Nursing",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05505",
+                            "title": "Advanced Pharmacology * (Graduate Course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03308",
+                            "title": "Pharmacology of Nursing",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "03303",
+                            "title": "Comprehensive Health Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03304",
+                            "title": "Nursing Informatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03404",
+                            "title": "Research Applications in Nursing Practice - WI (Prereq: Statistics)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03401",
+                            "title": "Community Health Nursing (45 hours of Clinical)",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03405",
+                            "title": "Health Care Policy and Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03403",
+                            "title": "Nursing Care Delivery Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03309",
+                            "title": "Topics In Health Care Ethics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Nursing Concentration: 30 s.h."
+            ]
+        },
+        "General Education and Foundational course Requirements: 60 S.H.": [
+            "General Education and Foundational course Requirements: 60 S.H."
+        ],
+        "Pre-Licensure Nursing Courses in Transfer: 30 S.H.": [
+            "Pre-Licensure Nursing Courses in Transfer: 30 S.H. Consult an academic advisor for policies relating to awarding of prior nursing credit All RN to BSN students are required to complete an EBI Exit Survey before being cleared for graduation."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Angela Ruckdeschel RN to BSN Coordinator Department of Nursing Suite 3900, Rowan Medical Building 42 East Laurel Road Stratford, NJ 856-256-5193 ruckdeschel@rowan.edu Patrice Henry-Thatcher RN to BSN Program Advisor Office of Advising and Student Information Services Rowan Global Learning and Partnerships 3rd Floor Enterprise Center 856-256-5194 henrythatcher@rowan.edu Urielle Bender Advising Specialist-Nursing Office of Advising and Student Information Services Rowan Global Learning and Partnerships 3rd Floor Enterprise Center 856-256-5194 benders@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

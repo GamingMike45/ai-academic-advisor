@@ -1,0 +1,272 @@
+{
+    "name": "Bachelor of Science in Healthcare Management & Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7692&returnto=1028",
+    "content": {
+        "Bachelor of Science in Healthcare Management & Administration": [
+            "Bachelor of Science in Healthcare Management & Administration The Bachelor of Science in Healthcare Management & Administration prepares students to enter careers on the business side of healthcare overseeing all the elements of a facility controlling budgets, staffing records, or compliance. The program is designed to prepare professionals for a leadership role in shaping the future of healthcare within their chosen path in the healthcare industry. This major should be of interest to those students who are seeking careers in healthcare, but do not want to become medical practitioners. Students working toward a Bachelor of Science in Healthcare Management & Administration must have a cumulative grade point average 2.0 to meet graduation requirements. Mission and Identity Statement: The mission of the Bachelor of Science in Healthcare Management & Administration is to prepare students to enter careers on the business side of healthcare overseeing all the elements of a facility controlling budgets, staffing records, or compliance. The program serves those pursuing a career and those in midcareer, who are seeking leadership positions in healthcare management and administration.  We offer an experience that shape and inspire future healthcare leaders who strive to improve the delivery and quality of healthcare systems and networks to patients and the community at large. Our Vision: The Bachelor of Science in Healthcare Management & Administration aspires to be recognized locally, nationally, and globally by healthcare and healthcare-related employers and students as the leading degree program for those striving to become prominent leaders within the healthcare management and administration industry. Our motto: Committed to quality and delivery, we take care of you differently."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02102",
+                            "title": "Statistical Literacy",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00200",
+                            "title": "Introduction to Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05317",
+                            "title": "Strategic Public Relations in Health Care",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04101",
+                            "title": "An Introduction to Economics-A Macroeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04102",
+                            "title": "An Introduction to Economics-A Microeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03405",
+                            "title": "Foundations of Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51255",
+                            "title": "Data Analytics in Healthcare Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01122",
+                            "title": "Precalculus Mathematics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 21 s.h.",
+                "Select one course from the list below"
+            ]
+        },
+        "Major Requirements: 48 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HCM",
+                            "course_number": "51204",
+                            "title": "Healthcare Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HCM",
+                            "course_number": "51280",
+                            "title": "Healthcare Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00412",
+                            "title": "Health Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00422",
+                            "title": "Health Care Organization Leadership",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00444",
+                            "title": "Emerging Health Threats: Risks and Surveillance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00301",
+                            "title": "Health and Diverse Populations",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HCM",
+                            "course_number": "51101",
+                            "title": "Introduction to Healthcare Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51201",
+                            "title": "Healthcare Informatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00344",
+                            "title": "US Health Care Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51301",
+                            "title": "Healthcare Delivery and Quality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00345",
+                            "title": "US Health Care Policy, Ethics, and Advocacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51327",
+                            "title": "Consumer Health Decisions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51351",
+                            "title": "Healthcare Finance and Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51329",
+                            "title": "Research Methods for Healthcare Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51488",
+                            "title": "Healthcare Management and Administration Internship I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51489",
+                            "title": "Healthcare Management and Administration Internship II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Major Requirements: 48 s.h."
+            ]
+        },
+        "Elective Courses: 12 s.h.": [
+            "Elective Courses: 12 s.h. The program requires twelve (12) credits of elective courses. To enhance transdisciplinary learning, electives may fulfill additional Healthcare Management electives, an approved Minor, Certificate of Undergraduate Study (CUGS), or other electives."
+        ],
+        "Free Electives: 30 s.h.": [
+            "Free Electives: 30 s.h. The program provides thirty (30) credits of elective courses. To enhance transdisciplinary learning, elective may fulfill approved Minors, Certificates of Undergraduate Study that are relevant to career goals and fulfill electives from transfer credits."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Program Advisor Marren Magee Program and Student Support Advisor 856.256.4980 mageem@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

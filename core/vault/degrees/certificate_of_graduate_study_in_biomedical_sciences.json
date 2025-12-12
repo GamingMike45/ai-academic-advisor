@@ -1,0 +1,145 @@
+{
+    "name": "Certificate of Graduate Study in Biomedical Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7525&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Biomedical Sciences": [
+            "Certificate of Graduate Study in Biomedical Sciences"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MBS",
+                            "course_number": "00501",
+                            "title": "Biochemistry and Molecular Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00506",
+                            "title": "Biomedical Anatomy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00616",
+                            "title": "Biomedical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00502",
+                            "title": "Cell Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00505",
+                            "title": "Human Genetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00603",
+                            "title": "Immunology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00503",
+                            "title": "Systems Physiology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Choose 4 courses"
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MBS",
+                            "course_number": "00602",
+                            "title": "Antimicrobial Drugs: Mechanisms of Action & Resistance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00606",
+                            "title": "Essential Neuroscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00607",
+                            "title": "Exercise Physiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00613",
+                            "title": "MBS Independent Study",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00617",
+                            "title": "Immunohematology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00618",
+                            "title": "Clinical Bioscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00680",
+                            "title": "Laboratory Research A - MBS",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00681",
+                            "title": "Laboratory Research B - MBS",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00609",
+                            "title": "Mechanisms of Disease",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00612",
+                            "title": "Principles of Pharmacology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose 2 courses"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. To earn a Certificate in the Biomedical Sciences, students must complete 18 credits. Twelve (12) credits must be from the list of required courses, the remaining credits can be required or elective courses.",
+                "Notes:"
+            ]
+        }
+    }
+}

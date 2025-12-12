@@ -1,0 +1,98 @@
+{
+    "name": "Certificate of Graduate Study in Geospatial Science & Methods",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7709&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Geospatial Science & Methods": [
+            "Certificate of Graduate Study in Geospatial Science & Methods Geospatial and mapping technologies are integral to many modern scientific, commercial, and academic activities and draw on the long history of cartographic and data visualization. This Certificate of Graduate Study (COGS) in Geospatial Science & Methods provides an introduction to how information becomes data that can be presented visually in the form of a map, to communicate to an audience, yield new analytical insights, or present patterns and relationships unavailable in other forms and continues to advanced analytical modes using various spatial data types. This COGS in Geospatial Science & Methods is intended to expose students with previous undergraduate experience in disciplines such as engineering, disaster management and emergency preparedness, public health, business, social sciences, communication, the natural and environmental sciences, and education to key concepts, practices, and techniques in GIS and their application to geospatial/environmental problems. With three required courses, students can demonstrate their competence and familiarity with key spatial data preparation, analysis, and visualization techniques that may complement and enhance preparedness for a wide variety of occupations and disciplines. This COGS is specifically targeted toward students who do not yet have a background in geospatial methods, such as those coming from Engineering, Planning, Biosciences, Humanities, or other disciplines, but it could complement the previous experience of students who had taken some coursework in Geography and GIS (especially by focusing on advanced courses in the choice bank).  With this program, students from across the university can integrate geospatial data and methods into their chosen graduate curriculum."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16560",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "31660",
+                            "title": "Fundamentals of Geographic Information Systems",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 7 s.h."
+            ]
+        },
+        "Choose one Geospatial Bank Foundational Course from the bank below: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16561",
+                            "title": "Cartography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16562",
+                            "title": "Web-Based GIS Mapping Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16661",
+                            "title": "Geovisualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16670",
+                            "title": "Drones, Planes, and Satellites",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16665",
+                            "title": "Geospatial Measurement and Environmental Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16575",
+                            "title": "Remote Sensing of Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16565",
+                            "title": "Applications of Geographic Information Systems (GIS) (graduate level)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one Geospatial Bank Foundational Course from the bank below: 3 s.h. In consultation with an advisor, students choose one of the courses in the Foundational section of the Department of Geography, Planning, & Environment Geospatial Bank courses (3 s.h.), for example:",
+                "With advisor consultation and approval, a substitution of additional bank courses may be used in place of above required courses, based on student experience and program goals."
+            ]
+        },
+        "Total Required Credits for the Program: 10 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 10 s.h. To be awarded the COGS, students must complete all courses required for the COGS with at least a 2.0 average. This COGS is not restricted by graduate program of study. Coordinator Ashley York Discovery Hall 856.256.4810 yorka@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

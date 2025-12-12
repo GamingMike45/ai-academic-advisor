@@ -1,0 +1,82 @@
+{
+    "name": "Certificate of Undergraduate Study in Human Factors",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7436&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Human Factors": [
+            "Certificate of Undergraduate Study in Human Factors The Human Factors Certificate of Undergraduate Study (HF CUGS) will teach students how to take the complexity and limitations of human information processing into account when designing systems. They will gain an appreciation of the cognitive, physical, environmental, and social aspects in design, and understand the impact of cognitive biases. This will be attractive to Psychology students, Engineering students, Pre-Health students and to other students who are interested in learning how to improve productivity and effectiveness by designing systems, products, processes, and applications that are both usable and useful. It is extremely rare for undergraduates to gain exposure to and experience applying human factors research methods, meanwhile the demand for human factors expertise is strong and growing each year. Graduates from this program will be attractive to employers in the technology sector and will have an advantage over peers in applying to graduate programs in Human Factors. The HF CUGS includes two 3-credit required courses and 6 credits of supervised research, where students work on an approved project."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": [
+            "Required Courses: 12 s.h."
+        ],
+        "Core Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "09400",
+                            "title": "Introduction to Human Factors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09401",
+                            "title": "Human Factors Methodology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 6 s.h."
+            ]
+        },
+        "Supervised Research Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01426",
+                            "title": "Research Experience in Psychology Must take twice (2 semesters)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01303",
+                            "title": "Junior Engineering Clinic **",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI **",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Supervised Research Courses: 6 s.h.",
+                "**Must take 3 times (3 semesters, counting either Junior or Senior clinic two semesters, the other one semester)"
+            ]
+        },
+        "Total Credits in Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits in Program: 12 s.h. To be awarded the CUGS in Human Factors, students must complete Introduction to Human Factors and Human Factors Methodology. Only engineering students will take the Engineering clinic; there are no limitations on the advisor, only on their project. All other students will take research in Psychology and be advised by a faculty member with HF expertise. NOTE : Psychology majors can only apply the Introduction to Human Factors and Human Factors Methodology courses (6 s.h.) to their major degree. Benjamin Swan Advisor Robinson Hall 116E 856.256.4870 swan@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

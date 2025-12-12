@@ -1,0 +1,47 @@
+{
+    "name": "Doctor of Philosophy in Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7729&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Engineering": [
+            "Doctor of Philosophy in Engineering The PhD in Engineering is a terminal degree program that is designed to meet the changing needs of researchers, scholars, and scientists in academia, industry, and the government. The primary goal of this program is, therefore, to prepare students for careers in research and/or academics by providing an environment that closely reflects the realities and expectations encountered by today’s academicians, professional scientists, and research engineers. The program is designed to offer a highly flexible inter and multi-disciplinary curricular structure, allowing a focus in any (or multiple) of the traditional or emerging engineering disciplines. The primary strength of the program is involving students in activities that they are most likely to encounter in real-world academic or industrial settings. Students work closely with their academic and research advisors to tailor a custom program of research, coursework, technical communication, and professional development. Detailed admissions requirements could be found at: https://global.rowan.edu/programs/phd-in-engineering.html. Application deadlines are April 1st, July 1st, and November 1st. The general Ph.D. in Engineering program requirements could be found at: https://global.rowan.edu/programs/phd-in-engineering.html. Specific concentration requirements"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Course Requirements:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09702",
+                            "title": "Strategic Technical Writing and Winning Grant Proposals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "XEED",
+                            "course_number": "01601",
+                            "title": "Effective Teaching in Academic, Corporate and Government Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Course Requirements:",
+                "An approved graduate level mathematics course Credits: 3"
+            ]
+        },
+        "Graduate Concentrations": [
+            "Graduate Concentrations Graduate Concentration in Chemical Engineering Graduate Concentration in Civil & Environmental Engineering Graduate Concentration in Electrical & Computer Engineering Graduate Concentration in Engineering Education Graduate Concentration in Mechanical Engineering"
+        ],
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "name": "Master of Arts in Criminal Justice",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7588&returnto=1028",
+    "content": {
+        "Master of Arts in Criminal Justice": [
+            "Master of Arts in Criminal Justice The Master of Arts in Criminal Justice prepares students for leadership positions in criminal justice agencies; for research positions in federal, state, county, city, non-profit and private research institutions; and for further study in doctoral programs. There are many different ways to obtain a Master of Arts in Criminal Justice degree at Rowan University, and all of the options consist of ten courses or 30 credits. Students can take evening courses in the classroom, either part-time or full-time. In this traditional face-to-face program, they can pursue the Thesis Track or the Non-Thesis Track. The entire program also is offered online on a part-time basis, and students can take a mix of face-to face and online classes. For students who are still undergraduates, there is an opportunity to apply to the Accelerated Dual Degree Program that enables students to earn their Bachelor of Arts in Law & Justice Studies and Master of Arts in Criminal Justice in five years. All of these options focus on the growing emphasis in the criminal justice system on using research evidence to evaluate the effectiveness of programs and policies aimed at preventing and controlling crime. Graduate faculty have earned doctoral degrees from the best Criminal Justice programs in the country and have practical experience working in the system. The curriculum prepares students for professional careers by providing an understanding of the causes of crime, the impact of law on society and contemporary issues in policing, courts and corrections. Tracks The Face-to-face program on the Glassboro campus offers students the options of choosing one of two tracks. All students take the same six required core courses, but the remaining four courses and graduation exit requirements are different, as described below. The Thesis Track is not available to Online or Accelerated Dual Degree students. Thesis Track: Students choosing the Thesis Track will complete 6 required core courses, select two electives, and earn six credits for doing research and writing a thesis while working closely with experienced faculty. Non-Thesis Track: Students choosing the Non-Thesis Track will complete 6 required core courses, select four electives, and take a comprehensive exam after completing their coursework. Online and Accelerated Dual Degree students follow the Non-Thesis Track. Rowan University undergraduates majoring in Law & Justice Studies can apply to the Accelerated Dual Degree Program during their Junior years, which allows them to earn both the Bachelor of Arts in Law & Justice Studies and Master of Arts in Criminal Justice degrees in five years, double count four graduate courses towards both the undergraduate and graduate degrees, and pay undergraduate tuition for those four courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CJ",
+                            "course_number": "09510",
+                            "title": "Contemporary Issues In Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09511",
+                            "title": "Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09512",
+                            "title": "Research Methods II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09515",
+                            "title": "Law and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09517",
+                            "title": "Criminal Justice Policy Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09518",
+                            "title": "Contemporary Developments in Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 18 s.h."
+            ]
+        },
+        "Elective Courses: 6-12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CJ",
+                            "course_number": "09516",
+                            "title": "Administrative Law/Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09519",
+                            "title": "Seminar in Criminal Justice Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09520",
+                            "title": "Courts And Supportive Agencies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09521",
+                            "title": "Prevention and Rehabilitation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09522",
+                            "title": "Seminar in Violence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09523",
+                            "title": "White-Collar Crime",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09524",
+                            "title": "Police and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09525",
+                            "title": "Altruism, Cooperation, and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09526",
+                            "title": "Management of Criminal Justice Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09527",
+                            "title": "Gender and Crime",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09528",
+                            "title": "Seminar In Juvenile Justice and Delinquency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09529",
+                            "title": "Community Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09530",
+                            "title": "International Criminal Law Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09531",
+                            "title": "Sentencing: Philosophy and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09532",
+                            "title": "Race, Ethnicity, Class and Justice",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6-12 s.h. Choose 6 s.h. (Thesis Track) or 12 s.h. (Non-Thesis Track) of approved electives in consultation with the Academic Advisor.",
+                "Other approved graduate-level courses as approved by Academic Advisor Credits: 3"
+            ]
+        },
+        "Required Thesis Courses (if Thesis-Track is selected) 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CJ",
+                            "course_number": "09601",
+                            "title": "Master’s Thesis in Criminal Justice I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09602",
+                            "title": "Master’s Thesis in Criminal Justice II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Thesis Courses (if Thesis-Track is selected) 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Successful completion of a comprehensive exam is required for those who select the Non-Thesis Track, for Online students, and for those in the Accelerated Degree Program. If Thesis Track is selected, students must successfully complete and defend Master’s Thesis. Minimum Required Grades and Cumulative GPA The Master of Arts in Criminal Justice is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Masters Program Coordinator Natalie Schell-Busey Campbell Library 568 856.256.4399 schell-busey@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

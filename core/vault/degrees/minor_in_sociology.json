@@ -1,0 +1,46 @@
+{
+    "name": "Minor in Sociology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7122&returnto=1028",
+    "content": {
+        "Minor in Sociology": [
+            "Minor in Sociology The Minor in Sociology consists of 21 semester hours. A minimum of 12 of the semester hours must be taken in 300 or 400 level courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08331",
+                            "title": "Classical Sociological Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Electives: 15 s.h.": [
+            "Electives: 15 s.h. Choose any two lower-level Sociology courses (200 level) Choose any three upper-level Sociology courses (300 or 400 level)"
+        ],
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

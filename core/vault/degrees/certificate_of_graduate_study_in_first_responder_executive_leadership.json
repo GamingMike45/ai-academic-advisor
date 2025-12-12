@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Graduate Study in First Responder Executive Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7595&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in First Responder Executive Leadership": [
+            "Certificate of Graduate Study in First Responder Executive Leadership"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00691",
+                            "title": "Administrative Public Policy and Law for Public Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00600",
+                            "title": "Public Budgeting and Finance for Emergency Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00500",
+                            "title": "Complex Organizational Theory in Emergency Services",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Restricted Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00645",
+                            "title": "Advanced Incident Command: Leadership and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00675",
+                            "title": "Disaster Analytics: Evidence-Based Emergency Management and Professional Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00670",
+                            "title": "Fire Services Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00635",
+                            "title": "Urban Emergency Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00550",
+                            "title": "Disaster Policy and Legal Environment in Emergency Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00615",
+                            "title": "Management of First Responder Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CJ",
+                            "course_number": "09526",
+                            "title": "Management of Criminal Justice Organizations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 6 s.h. Choose two of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses Graduation/Exit, Benchmark, and Thesis Requirements Minimum Required Grades and Cumulative GPA For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Advisor Dennis Barrera 856.256.5582 barrera@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

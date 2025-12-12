@@ -1,0 +1,131 @@
+{
+    "name": "Certificate of Undergraduate Study in Mechatronics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7070&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Mechatronics": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in Mechatronics The Certificate of Undergraduate Study (CUGS) in Mechatronics provides a sequence of courses that will offer the students an opportunity to increase their breadth and depth of knowledge on Mechatronics, a fast-evolving field that has wide applications in all disciplines of engineering. This CUGS will allow them to take additional specialized coursework related to the field of Mechatronics beyond the 120 Credits demanded by the undergraduate program. This CUGS will be attractive to students who may have fundamental knowledge in Mechanical Engineering, Electrical Engineering, or Computer Science/Engineering, but may need additional skills and formal education in the field of Mechatronics."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements The requirements include the following five courses in three banks (unless specified, all courses are 3 s.h.):"
+        ],
+        "Choose one course from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10345",
+                            "title": "Dynamic Systems and Control",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09205",
+                            "title": "Principles and Applications of ECE for Nonmajors *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09351",
+                            "title": "Digital Signal Processing **",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one course from:"
+            ]
+        },
+        "One Required Course:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10442",
+                            "title": "Mechatronics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One Required Course:"
+            ]
+        },
+        "Choose any two courses from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10456",
+                            "title": "Introduction to Special Topics in Mechatronics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10401",
+                            "title": "Introduction to Computer Integrated Manufacturing and Automation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10460",
+                            "title": "Introduction to Composite Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07310",
+                            "title": "Robotics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06420",
+                            "title": "Embedded Systems Programming *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09342",
+                            "title": "Introduction to Embedded Systems **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09404",
+                            "title": "Principles of Biomedical Systems and Devices **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09473",
+                            "title": "Smart Sensors **",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose any two courses from:",
+                "Other approved mechatronics-related courses by the advisor Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. * These courses are primarily for students pursuing the CS major. Students may need to take additional courses to satisfy pre-requisite requirements of these courses. ** These courses are primarily for students pursuing the ECE major. Students may need to take additional courses to satisfy pre-requisite requirements of these courses. To be awarded the CUGS in Mechatronics, students must complete all courses required for the CUGS in Mechatronics with at least a 2.0 average. The pre-requisites for the courses make this CUGS best suited for students majoring in Mechanical Engineering (ME), Electrical & Computer Engineering (ECE), and Computer Science (CS). No more than two courses can be double-counted toward a degree or another certificate. Program Coordinator/Advisor Contact Information Hong Zhang Associate Professor & CUGS Advisor Rowan Hall 856.256.5347 zhang@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

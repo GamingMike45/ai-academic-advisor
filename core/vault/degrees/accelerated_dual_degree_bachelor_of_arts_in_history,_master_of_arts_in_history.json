@@ -1,0 +1,64 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in History",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7077&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in History": [
+            "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in History This unique program allows a student to earn both a Bachelor’s degree and a Master’s degree in history in only five years. Students in the program will be allowed to register for up to 12 graduate credits during their senior year, to pay the undergraduate rate for those credits, and to double-count those credits toward both degrees. Such a program offers great financial, educational, and marketability advantages to students. Admission into the program is selective and competitive. Stage One of the Program. Students at this stage are considered ADD students by the Department of History but retain their undergraduate status with the Registrar’s Office To be advanced to Stage Two of the program, students in Stage One will need to maintain a 3.3 GPA in history courses. If they do this, they will be automatically admitted to Stage Two in the Spring semester of their junior year. Please note that students in their junior year may apply directly into Stage Two if they have the requisite GPA, a grade of at least B- in Methods, and a faculty recommendation. Stage Two is completed during a candidate’s fourth year, a time during which they have a new designation with the Registrar’s Office and will take at least two and up to four graduate courses at the undergraduate rate. At the end of the fourth year, students will move on to Stage Three, where they will now be considered graduate students by the University. The Master’s program requires completion of ten courses, including Readings and Research I and Readings and Research II. Students may choose to complete a two-semester thesis in their fifth year. The thesis counts as two of the ten required courses. The ADD coordinator, William Carrigan, carrigan@rowan.edu, will assist with academic issues throughout the program, including course selection, program requirements, departmental policies, or awarded credit. Applications are reviewed on a rolling basis but ideally should be received no later than February 1 of the candidate’s junior year. More information can be found at: https://chss.rowan.edu/departments/history/index.html."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in History Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses Taken as an Undergraduate Student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05511",
+                            "title": "Colloquium in American History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05512",
+                            "title": "Readings and Research In History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05510",
+                            "title": "Readings and Research in Global History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05506",
+                            "title": "Research Methods in History",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses Taken as an Undergraduate Student: 12 s.h. Please consult with your advisor when choosing courses."
+            ]
+        },
+        "Required MA Courses Taken as a Graduate Student: 18 s.h.": [
+            "Required MA Courses Taken as a Graduate Student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in History"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h. Program Coordinator/Advisor Contact Information Stephen Hague Robinson Hall 856.256.4500 x53988 hague@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

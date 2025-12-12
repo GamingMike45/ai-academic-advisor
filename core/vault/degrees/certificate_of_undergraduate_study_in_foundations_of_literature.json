@@ -1,0 +1,40 @@
+{
+    "name": "Certificate of Undergraduate Study in Foundations of Literature",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7095&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Foundations of Literature": [
+            "Certificate of Undergraduate Study in Foundations of Literature The Certificate of Undergraduate Study (CUGS) in Foundations of Literature allows non-majors to earn a credential in English by taking four literature courses. Reading canonical and non-canonical texts in the US, British, and world literary traditions, students will broaden and deepen their cultural fluency and knowledge in discussion-based classes. They will also develop their analytic and communication skills while being introduced to a range of critical methodologies and literary theories."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02101",
+                            "title": "Critical Methods I for English Majors",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course: 3 s.h."
+            ]
+        },
+        "Elective Courses: 9 s.h.": [
+            "Elective Courses: 9 s.h. Students will take 3 additional English courses (at any level)."
+        ],
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To earn a CUGS in Foundations of Literature, students must earn a C- or above in each of the four courses (12 s.h.). Christine Larsen-Britt Advisor 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

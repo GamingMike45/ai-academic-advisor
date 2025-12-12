@@ -1,0 +1,130 @@
+{
+    "name": "Certificate of Graduate Study in Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7509&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Management": [
+            "Certificate of Graduate Study in Management The Certificate of Graduate Study (COGS) in Management prepares students to succeed as managers. Demand for managers is strong and salaries of managers are high. Strategic Planning for Operating Managers is a required course because planning is the fundamental management function. Electives can be chosen to augment the skill sets of each student in areas such as corporate entrepreneurship, human resource management, leadership, and sustainability."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06601",
+                            "title": "Strategic Planning for Operating Managers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 3 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06505",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06506",
+                            "title": "Corporate Entrepreneurship",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06520",
+                            "title": "Global Leadership and Organization Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06521",
+                            "title": "Leadership Theory and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06555",
+                            "title": "Personal Leadership",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06530",
+                            "title": "Sustainable Commerce",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06532",
+                            "title": "Topics in Sustainability Innovation and Problem Solving",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HRM",
+                            "course_number": "06605",
+                            "title": "Strategic Human Resource Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "01510",
+                            "title": "Professional, Legal and Managerial Responsibilities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06502",
+                            "title": "International Business and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06599",
+                            "title": "Special Topics in Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose two courses"
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Management is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

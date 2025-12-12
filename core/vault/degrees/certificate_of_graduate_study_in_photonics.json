@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Photonics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7548&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Photonics": [
+            "Certificate of Graduate Study in Photonics As a field of study, photonics can be broadly defined as the study of the generation, detection, and manipulation of light. Photonic technology is foundational to all modern technologies ranging from telecommunication to biomedicine to material science. Photonics is to the photon what electronics is to the electron.  This Certificate of Graduate Study (COGS) in Photonics will prepare students to enter the high-tech workforce in optics research and development. The required courses give students a solid theoretical background, extensive hands-on experience, and in-depth knowledge of photonics including optical design, lasers, and fiber optic communications."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09531",
+                            "title": "Advanced Optical Fiber Communications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00540",
+                            "title": "Light",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00545",
+                            "title": "Geometric Optical Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00547",
+                            "title": "Lasers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses All the above courses are required to earn the COGS and can be taken in any order after the student completes the first course, Light (PHYS 00540).  Note that the student is expected to have a strong undergraduate math background through multivariate calculus.  Previous undergraduate courses in Electricity & Magnetism and Modern Physics are also recommended. Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA None Robert Chimenti Program Coordinator/Advisor 856.256.4366 chimenti@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

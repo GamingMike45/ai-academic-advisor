@@ -1,0 +1,62 @@
+{
+    "name": "Minor in Audio Recording",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7415&returnto=1028",
+    "content": {
+        "Minor in Audio Recording": [
+            "Minor in Audio Recording"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00175",
+                            "title": "Physics of Sound and Music",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40121",
+                            "title": "Audio Recording I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40122",
+                            "title": "Computer Technology and Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03395",
+                            "title": "Sound for Film and Video",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40222",
+                            "title": "Computer Technology and Music II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 18 s.h.",
+                "Speak to your advisor to choose the last course"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

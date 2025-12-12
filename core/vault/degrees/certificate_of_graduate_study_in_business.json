@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Graduate Study in Business",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7512&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Business": [
+            "Certificate of Graduate Study in Business The Business Certificate of Graduate Study (COGS) provides graduate course exposure to students who are ultimately interested in pursuing the MBA degree. There are many potential graduate students who are considering the MBA degree. The purpose of the COGS in Business is to serve as a mini-MBA for those that wish to gain business expertise for career purposes, as well as an opportunity for aspirational applicants to take several classes before they apply to the MBA Program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03500",
+                            "title": "Financial and Managerial Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06567",
+                            "title": "Responsible Leadership: Aligning the Interests of Stakeholders, Profit, and Planet Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06515",
+                            "title": "Employee Engagement and Performance Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02501",
+                            "title": "Information Systems for Managers Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09511",
+                            "title": "Marketing Management Fundamentals Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses Eligible applicants must have successfully completed the following undergraduate foundation courses at a regionally accredited institution. During the admission process, the MBA academic advisor will determine foundation course equivalencies. If applicable, official notification of any unfinished foundation courses will be included in the applicant’s official decision letter from Rowan University. FC-1. Foundations of Accounting or Principles of Accounting I and II FC-2. Principles of Marketing Students admitted without having completed these foundation courses may complete them while enrolled in the COGS in Business program. The foundation courses must be completed before the corresponding course for which the foundation course is a prerequisite and do not count toward the 9 required semester hours for the program. Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Business is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

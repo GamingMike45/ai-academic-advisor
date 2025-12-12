@@ -1,0 +1,70 @@
+{
+    "name": "Certificate of Undergraduate Study in Shakespeare Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7097&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Shakespeare Studies": [
+            "Certificate of Undergraduate Study in Shakespeare Studies The Certificate of Undergraduate Study (CUGS) in Shakespeare Studies is designed for non-majors interested in completing a focused and comprehensive study of the works of William Shakespeare. The CUGS in Shakespeare Studies will offer students a thorough grounding in the literary and historical contexts of Shakespeare’s era, and the opportunity to critically engage with his works at an advanced level."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": [
+            "Required Courses"
+        ],
+        "One of the following courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02309",
+                            "title": "British Literature I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07339",
+                            "title": "Theatre History I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following courses: 3 s.h."
+            ]
+        },
+        "Both of the following courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02345",
+                            "title": "Shakespeare I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02445",
+                            "title": "Shakespeare II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Both of the following courses: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Christine Larsen-Britt Advisor 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

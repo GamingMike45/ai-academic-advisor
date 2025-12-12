@@ -1,0 +1,326 @@
+{
+    "name": "Minor in New Media",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7009&returnto=1028",
+    "content": {
+        "Minor in New Media": [
+            "Minor in New Media The Minor in New Media is an interdisciplinary program of study offered within the Ric Edelman College of Communication, Humanities, & Social Sciences. Students will take 18 credit hours, including two required core courses and 4 related electives. The New Media Minor will allow students to explore evolving media with a focus on the expressive qualities of interactive and digital technology. The Minor is designed to emphasize technical proficiency, digital literacy, and digital professionalism. Students will build skills and competencies that can be applied to scholarly and professional contexts. Courses in the minor are grounded in both the theory and use of disruptive media practices, empowering students to confidently and critically create digital content. The Minor is open to all students who are enrolled in a major housed within the Ric Edelman College of Communication, Humanities & Social Sciences. Students whose majors are housed outside of the College may enroll in the program with the permission of the New Media Minor Coordinator. The New Media Minor will provide opportunities for students to: Examine and explore concepts and theories within the study of New Media, which will involve: Grounding students in the study of New Media from applied, critical, ethical, and theoretical perspectives. Strengthening students’ digital literacy with respect to: theoretical, conceptual, and historical examinations of digital media. critical examinations of messages, relationships, and audience in the digital sphere. Develop confidence and ability in new media production, which will include: providing students with a well-rounded technical proficiency that translates to practical, applied skills in publishing content of all sorts within a digital context. helping students understand the business and economic fundamentals of new media. Aiding students in post-undergraduate opportunities by allowing for the creation and reflection of a digital portfolio of work that is relevant to their chosen professional path. Cultivate ethical approaches to entrepreneurship, creativity, and global/social awareness within professional, civic and personal spheres of life."
+        ],
+        "Program Requirements": [
+            "Program Requirements To complete the New Media Minor, students must complete a total of 18 credit hours."
+        ],
+        "Required Foundation Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Foundation Course: 3 s.h."
+            ]
+        },
+        "Technical Proficiency: 6-9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04315",
+                            "title": "Digital Media Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02321",
+                            "title": "Digital Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03394",
+                            "title": "New Media Production",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Technical Proficiency: 6-9 s.h. Select two or three of the following courses:"
+            ]
+        },
+        "Minor Related Electives: 3-6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09365",
+                            "title": "Motion Graphics I (Digital Media Techniques or Permission from Instructor)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03215",
+                            "title": "Motion Graphics (Digital Media Techniques or Permission from Instructor)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09252",
+                            "title": "Introduction to Natural Science & Zoological Illustration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09252",
+                            "title": "Introduction to Natural Science and Zoological Illustration",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09360",
+                            "title": "Storyboarding & Animation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09360",
+                            "title": "Storyboarding and Animation",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09453",
+                            "title": "Introduction to Game Media Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09453",
+                            "title": "Introduction to Game Media Design",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "06324",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ADV",
+                            "course_number": "04370",
+                            "title": "Essentials of Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04232",
+                            "title": "Advertising Media Budgeting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09358",
+                            "title": "Web Design: Designing For The World Wide Web",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "09375",
+                            "title": "Video Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04316",
+                            "title": "Mediated Interpersonal Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04317",
+                            "title": "Social Media Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02314",
+                            "title": "Photojournalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02325",
+                            "title": "Digital Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02363",
+                            "title": "Data Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01565",
+                            "title": "Integrated Marketing Communication and New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01568",
+                            "title": "Graduate Strategic Visual Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "06515",
+                            "title": "Online Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01555",
+                            "title": "Writing for Electronic Communities MAWR 01559 - Visual Rhetoric and Multimodal Composition MAWR 01564 - Information Architecture MAWR 01620 - Internet and Writing Studies",
+                            "credits": null
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06306",
+                            "title": "Social Media and Sports Communication (Strat Comm Overview OR Intro to PR & Intro to Ad)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03201",
+                            "title": "Foundations of Media Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03370",
+                            "title": "Film Production I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09201",
+                            "title": "Foundations of Esports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01356",
+                            "title": "Self Publishing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Minor Related Electives: 3-6 s.h. Select one or two of the following courses:",
+                "Internship (w/in College major)"
+            ]
+        },
+        "Required Capstone Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01490",
+                            "title": "New Media Practicum",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Capstone Course: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

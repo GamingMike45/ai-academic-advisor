@@ -1,0 +1,84 @@
+{
+    "name": "Certificate of Graduate Study in Disaster Social Services & Continuum of Care",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10909&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Disaster Social Services & Continuum of Care": [
+            "Certificate of Graduate Study in Disaster Social Services & Continuum of Care The Disaster Social Services and Continuum of Care COGS is designed to facilitate rapid entry into the disaster response and services coordination, including emergency housing, long-term temporary sheltering, coordination of health, economic, and behavioral health services among survivors of disasters and crises. Working in conjunction with emergency response partners and human services providers (government and non-governmental organizations), Disaster Social Services and Continuum of Care professionals seek to improve coordination with programs and resources in the wake of a disaster or crisis in communities to improve community resilience. “The Federal Emergency Management Agency (FEMA) recognizes that social workers play a critical role in supporting recovery efforts and restoring health systems and social service networks to promote the resilience and well-being of impacted communities and individuals. Disaster social work is concerned with the intervention in the social and physical environments of individuals and groups as a means of preventing serious long-term emotional, spiritual, and mental health problems after a disaster (Rogge, 2003). Through these central functions, social workers are valuable at every stage of a natural disaster. Social workers intervene before, during, and after a disaster to ensure that individuals, families, and communities prepare effectively for a potential disaster, endure the hardship of a disaster event, and receive the support they need to begin rebuilding their lives. Disaster social work is concerned with the intervention in the social and physical environments of individuals and groups as a means of preventing serious long-term emotional, spiritual, and mental health problems after a disaster (Rogge, 2003).” Excerpt from The National Association of Social Workers: https://www.socialworkers.org/LinkClick.aspx?fileticket=Zn4O2yvFI4%3D&portalid=0#:~:text=mental%20health%20problems%20after%20a,disaster%20(Rogge%2C%202003). Rogge, M. E. (2003). Children, poverty, and environmental degradation: Protecting current and future generations. Social Development Issues, 22, 46-53. To maintain Minimum Satisfactory Academic Progress: Earn no grades lower than a “C+” Earn an official cumulative GPA (according to matriculation level) of at least 3.000 on Rowan’s 4.000 scale in the courses listed below. New Jersey Certified Disaster Response Crisis Counseling (NJDRCC) certification: Those interested in pursuing the New Jersey Disaster Response Crisis Counselor (NJDRCC) Certification, see the information at  https://www.nj.gov/humanservices/dmhas/home/disaster/credentialing/"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00581",
+                            "title": "Disaster Mental Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01540",
+                            "title": "Mental Health Assessment Across the Lifespan",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00672",
+                            "title": "Child and Family Resilience in Disaster Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00522",
+                            "title": "Emergency Preparedness, Prevention, and Community Partnerships",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00624",
+                            "title": "Trauma-Informed Crisis and Emergency Response",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00529",
+                            "title": "Human Trafficking in Homeland Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Select one of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

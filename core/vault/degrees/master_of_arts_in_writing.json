@@ -1,0 +1,61 @@
+{
+    "name": "Master of Arts in Writing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7681&returnto=1028",
+    "content": {
+        "Master of Arts in Writing": [
+            "Master of Arts in Writing The Master of Arts in Writing encourages students to explore the principals of craft and the practices of writing. Central to our approach toward writing, as noted in our program goals, is the conviction that students benefit from exposure to and experimentation with multiple genres. Students may focus on a central area of interest or create a diverse course of study that explores the intersections between creative writing, publishing and editing, writing studies, and writing pedagogy. In the capstone courses, Seminar I and Seminar II, students develop a major project of their own design and in a genre of their own choosing, which may have a creative or scholarly focus. Of particular interest to those students who wish to teach on the college level is our Teaching Experience Program, which allows students to teach Rowan University college composition courses as paid adjunct instructors while completing the Master of Arts in Writing. In their junior year, Rowan University undergraduates majoring in Writing Arts can apply to the Accelerated Dual Degree Program. This program will allow students to earn both the Bachelor of Arts and Master of Arts degrees in five years total. Please see the program coordinator for additional information about the Teaching Experience Program and the Accelerated Dual Degree Program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01554",
+                            "title": "Core I: Theories and Techniques of Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01559",
+                            "title": "Core II: Research Methods for Writers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01561",
+                            "title": "Seminar I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01571",
+                            "title": "Seminar II *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Note:": [
+            "Note: *In the Seminar I and II sequence, students complete their Master’s Project."
+        ],
+        "Elective Courses: 18 s.h.": [
+            "Elective Courses: 18 s.h. Along with the required courses, four courses (12 s.h.) must have the subject designation MAWR. Two graduate-level courses may have a subject designation other than MAWR. Please discuss with Program Coordinator."
+        ],
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements Master’s Project, completed as a course requirement in Seminars I and II Minimum Required Grades and Cumulative GPA The MA in Writing is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Katie Budris Department of Writing Arts Victoria Hall, Room 405 856.256.4858 budris@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

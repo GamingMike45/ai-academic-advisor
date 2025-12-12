@@ -1,0 +1,115 @@
+{
+    "name": "Certificate of Graduate Study in History",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7586&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in History": [
+            "Certificate of Graduate Study in History The Certificate of Graduate Study (COGS) in History offers an opportunity to study history on a graduate level for professional or personal development. The courses will familiarize students with relevant primary and scholarly sources as well as up to date historical interpretations and methodologies in the field."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Course Offerings:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05511",
+                            "title": "Colloquium in American History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05514",
+                            "title": "Colloquium in American History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05516",
+                            "title": "Colloquium in American History III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05522",
+                            "title": "Colloquium in European History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05523",
+                            "title": "Colloquium in European History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05531",
+                            "title": "Colloquium in Global History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05533",
+                            "title": "Colloquium in Global History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05535",
+                            "title": "Colloquium in Global History III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05561",
+                            "title": "Early American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05562",
+                            "title": "Nineteenth Century American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05563",
+                            "title": "Twentieth Century American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05571",
+                            "title": "Ancient Mediterranean History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05572",
+                            "title": "Medieval and Early Modern European History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05573",
+                            "title": "Modern European History Seminar",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Course Offerings: Students seeking the COGS in History will be required to take 4 courses (from the list below) chosen by the student and approved by the graduate coordinator. All courses are 3 semester hours."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in History is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Stephen Hague Robinson Hall 856.256.4500 x53988 hague@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

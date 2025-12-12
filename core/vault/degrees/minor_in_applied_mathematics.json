@@ -1,0 +1,149 @@
+{
+    "name": "Minor in Applied Mathematics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7238&returnto=1028",
+    "content": {
+        "Minor in Applied Mathematics": [
+            "Minor in Applied Mathematics The applied mathematics minor consists of 21 semester hours and increases the mathematics major’s ability to apply various fields of mathematics in the formulation, analysis, and evaluation of problems in the physical, biological and social sciences. The minor provides the opportunity for students to participate in the dynamic character of modern mathematics and its uses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 10 - 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01210",
+                            "title": "Linear Algebra",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01231",
+                            "title": "Ordinary Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01235",
+                            "title": "Mathematics for Engineering Analysis",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01332",
+                            "title": "Introduction to Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01386",
+                            "title": "Introduction to Partial Differential Equations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 10 - 12 s.h."
+            ]
+        },
+        "Elective Courses: 9 - 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01430",
+                            "title": "Introduction to Complex Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03411",
+                            "title": "Deterministic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03412",
+                            "title": "Stochastic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03400",
+                            "title": "Applications of Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01390",
+                            "title": "Mathematics Research (Research project topic must be on Applied Mathematics)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01421",
+                            "title": "Mathematics Field Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02350",
+                            "title": "Regression Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02371",
+                            "title": "Design of Experiments: Analysis of Variance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01520",
+                            "title": "Topics in Applied Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03501",
+                            "title": "Mathematical Modeling for Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03525",
+                            "title": "Partial Differential Equations in Biomathematics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 9 - 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 21 - 22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 - 22 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

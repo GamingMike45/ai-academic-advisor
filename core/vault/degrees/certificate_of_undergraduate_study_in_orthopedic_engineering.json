@@ -1,0 +1,74 @@
+{
+    "name": "Certificate of Undergraduate Study in Orthopedic Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7042&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Orthopedic Engineering": [
+            "Certificate of Undergraduate Study in Orthopedic Engineering The Certificate of Undergraduate Study (CUGS) in Orthopedic Engineering provides a sequence of courses that combines expertise and concepts from various disciplines. This CUGS will provide directed, upper-level coursework in the topical areas of Orthopedic Engineering."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BME",
+                            "course_number": "11470",
+                            "title": "Introduction to Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11451",
+                            "title": "Mechanobiology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h. For admittance into the CUGS, students must have completed either BIOL 10210 Human Anatomy and Physiology I OR BIOL 10212 Human Anatomy and Physiology II The requirements include four courses:"
+            ]
+        },
+        "Elective Courses: 6-8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "22450",
+                            "title": "Molecular Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10443",
+                            "title": "Design For X",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6-8 s.h.",
+                "Additional electives may be approved by the advisor"
+            ]
+        },
+        "Total Required Credits for the Program: 12-14 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-14 s.h. To be awarded the CUGS in Orthopedic Engineering, students must complete all required courses. Mary Staehle, Ph.D. Advisor Engineering Hall 856.256.5338 staehle@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

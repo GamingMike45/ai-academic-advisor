@@ -1,0 +1,109 @@
+{
+    "name": "Certificate of Undergraduate Study in Food Systems Planning",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7285&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Food Systems Planning": [
+            "Certificate of Undergraduate Study in Food Systems Planning Food systems planning is an emergent subfield of planning that has gained popularity among the planning community through the recognition of the economic, environmental and social benefits of a strong regional food system. This recognition has led to the rise of planning-related policies and programs that focus on supporting regionally-based food supply chains and developing a strong regional food identity. The American Planning Association is now incorporating food systems planning as an important dimension of its advocacy and professional training. The Certificate of Undergraduate Study (CUGS) in Food Systems Planning provides students with a foundation in community and regional planning concepts along with a specific focus on how food can foster community and individual-level health, local and regional economic development, and food justice. This CUGS complements the other programs already being offered in the GPS department, and will add to students’ in other departments’ degree experiences by adding an explicit focus on community and environmental planning topics related to community and regional food systems."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31280",
+                            "title": "Introduction to City Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31387",
+                            "title": "Food Systems Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31386",
+                            "title": "Land Use and Conservation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: Students must take the following 3 courses:"
+            ]
+        },
+        "Additional Requirments:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02240",
+                            "title": "Food and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01122",
+                            "title": "Future of Food",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01315",
+                            "title": "Foraging for Edible Plants",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00410",
+                            "title": "Nutrition and Public Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31389",
+                            "title": "Environmental / Sustainable Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16307",
+                            "title": "Transportation Planning and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31495",
+                            "title": "Planning Studio-WI (course will be applied when content is on food systems planning)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16321",
+                            "title": "Geography of Beer",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Requirments: In addition, students must take one of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Mahbubur Meenar Discovery Hall 126 856.256.5812 meenar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

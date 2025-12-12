@@ -1,0 +1,89 @@
+{
+    "name": "Minor in Psychology of Sport & Exercise",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7299&returnto=1028",
+    "content": {
+        "Minor in Psychology of Sport & Exercise": [
+            "Minor in Psychology of Sport & Exercise The goal of the Psychology of Sport & Exercise minor is to enhance knowledge in the field of psychology as it pertains to sport & exercise performance. The objective of the minor is to provide concepts of psychology and exercise as they relate to behavioral theories, physiological processes, social psychology of sport & exercise, and psychological modalities related to performance in a sport & exercise environment. This minor will be valuable to students interested in working in health & healthcare professions (e.g., strength and conditioning coaches, occupational and physical therapists, athletic trainers, educators, health behavior coaches, etc.) because data shows that understanding the psychology involved in sport & exercise is critical to providing quality whole-body care and enhancing performance when working with potential clients, patients, and athletes. Completing this minor in Psychology of Sport & Exercise will also prepare students that are interested in obtaining a graduate degree in psychology and enhance their ability to get a job without a graduate degree by being marketable as having knowledge of theoretical framework and modalities in enhancing the well-being of clients in their health & healthcare profession."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Course Sequence": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00370",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05320",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00371",
+                            "title": "Social Psychology of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "00371",
+                            "title": "Social Psychology of Sport",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00170",
+                            "title": "Stress Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ATR",
+                            "course_number": "00477",
+                            "title": "Psychosocial Aspects of Physical Activity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00372",
+                            "title": "Evidence-Based Approach to Applied Sport Psychology and Exercise",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Course Sequence"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: JoAnne Bullard Coordinator Herman D. James Hall 856.256.3709 bullardj@rowan.edu Laurie Dwyer Advisor Herman D. James Hall 856.256.5835 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

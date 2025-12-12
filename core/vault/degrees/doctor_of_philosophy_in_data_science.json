@@ -1,0 +1,313 @@
+{
+    "name": "Doctor of Philosophy in Data Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7536&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Data Science": [
+            "Doctor of Philosophy in Data Science The Ph.D. in Data Science program will provide the essential skills required to analyze big and complex data sets and equip students with a broad understanding of data challenges and opportunities, along with the research and inquiry skills necessary to independently conduct research and answer questions within their area of concentration. To meet this goal, courses in the Ph.D. in Data Science Program curriculum are organized around interdisciplinary focal areas in computer science, engineering, mathematics, and statistics. Courses offered within this framework include traditional lecture-style, e-learning, and special topics courses that introduce students to the latest theories, methods, and emerging issues; seminar series; and experiential learning. Through this framework, students will gain proficiency in the application of scientific principles such as, critical thinking, experimental design, data preprocessing and wrangling, data visualization, advanced statistical learning/data mining and machine learning, as well as a sense of professional and technical writing, and reporting, responsibility, and integrity. Students possessing a bachelor’s degree will be required to complete a minimum of 72 semester hours of graduate-level work. Students possessing a master’s degree in a related field will be required to complete a minimum of 42 semester hours of graduate-level work beyond their master’s degree in addition to meeting other Ph.D. requirements in the section below. Up to 30 of the credits earned in pursuit of your master’s degree may be transferable to the Ph.D. program as either core courses or elective courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses: 15 s.h.": [
+            "Core Courses: 15 s.h. Choose five of the following courses:"
+        ],
+        "Data Mining & Visualization": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02516",
+                            "title": "Big Data Tools and Techniques",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Data Mining & Visualization"
+            ]
+        },
+        "Probability & Statistics": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02515",
+                            "title": "Applied Multivariate Data Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Probability & Statistics"
+            ]
+        },
+        "Decision Optimization": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Decision Optimization (take one of the following)"
+            ]
+        },
+        "General Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09702",
+                            "title": "Strategic Technical Writing and Winning Grant Proposals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "XEED",
+                            "course_number": "01601",
+                            "title": "Effective Teaching in Academic, Corporate and Government Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "General Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 21 - 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02505",
+                            "title": "Data Mining I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02530",
+                            "title": "Advanced Database Systems: Theory and Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02605",
+                            "title": "Data Mining II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02620",
+                            "title": "Data Warehousing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02625",
+                            "title": "Data Quality and Web/Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02630",
+                            "title": "Advanced Topics in Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07540",
+                            "title": "Advanced Design and Analysis of Algorithms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07559",
+                            "title": "Advanced Models of Deep Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07656",
+                            "title": "Machine Learning II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "02510",
+                            "title": "Visual Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "02695",
+                            "title": "Advanced Topics in Data Science",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09595",
+                            "title": "Advanced Emerging Topics in Computational Intelligence, Machine Learning and Data Mining",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09558",
+                            "title": "Reinforcement Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09566",
+                            "title": "Advanced Topics in Systems, Devices, and Algorithms in Bioinformatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09568",
+                            "title": "Discrete Event Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09585",
+                            "title": "Advanced Engineering Cyber Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09655",
+                            "title": "Advanced Computational Intelligence and Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01506",
+                            "title": "Probability and Mathematical Statistics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02509",
+                            "title": "Probability and Statistics for Data Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02511",
+                            "title": "Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02514",
+                            "title": "Decision Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02530",
+                            "title": "Applied Survival Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02585",
+                            "title": "Introduction to Bayesian Statistical Methods",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 21 - 30 s.h. A minimum of 21 and a maximum of 30 semester hours of elective coursework are required. Courses will be recommended by a student’s thesis advisor to align with their research area. Elective courses and thesis research must total 51 semester hours. The distribution between these two areas will be determined by the student and their thesis advisor. Choose between seven and ten of the following courses:"
+            ]
+        },
+        "Thesis Research: 21 - 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DS",
+                            "course_number": "02799",
+                            "title": "Doctoral Research and Dissertation",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis Research: 21 - 30 s.h."
+            ]
+        },
+        "Degree Completion Requirements": [
+            "Degree Completion Requirements For students possessing a master’s degree in a related field, degree completion requirements are a minimum of 42 s.h. beyond their master’s degree. Additionally, these students must complete all core courses that have not transferred. If 30 s.h. hours are not transferred into the Ph.D. program, students will be required to take additional courses such that the total of transferred credits and credits earned at Rowan University total 72 s.h."
+        ],
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements A minimum of 21 and a maximum of 30 semester hours of thesis research are required. Thesis research and elective courses must total 51 semester hours. The distribution between these two areas will be determined by the student and their thesis advisor. Students must successfully complete and defend Dissertation. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Data Science is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Anthony Breitzman Robinson Hall 328P breitzman@rowan.edu"
+            ]
+        },
+        "Machine Learning": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "07556",
+                            "title": "Machine Learning I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09555",
+                            "title": "Machine Learning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Machine Learning (take one of the following)",
+                "Notes:"
+            ]
+        }
+    }
+}

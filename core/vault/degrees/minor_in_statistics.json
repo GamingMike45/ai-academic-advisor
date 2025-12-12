@@ -1,0 +1,132 @@
+{
+    "name": "Minor in Statistics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7493&returnto=1028",
+    "content": {
+        "Minor in Statistics": [
+            "Minor in Statistics Statistical skills are in high demand across a wide range of disciplines, with job opportunities in nearly every field. The minor in statistics is designed to enhance a wide variety of undergraduate majors by providing valuable training in data analysis, and statistical modeling and inference. Students completing a minor in Statistics will demonstrate knowledge and understanding of statistical techniques and methodologies, working with real data, and performing data analysis. Students must successfully complete the requirements as listed in the program guide."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02320",
+                            "title": "Concepts in Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02290",
+                            "title": "Probability and Statistical Inference for Computing Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02286",
+                            "title": "Probability and Statistics for Electrical and Computer Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02360",
+                            "title": "Probability and Random Variables",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03411",
+                            "title": "Deterministic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03412",
+                            "title": "Stochastic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02311",
+                            "title": "Introduction to Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02323",
+                            "title": "Special Topics in Statistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02340",
+                            "title": "Elements of Statistical Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02350",
+                            "title": "Regression Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02361",
+                            "title": "Mathematical Statistics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02371",
+                            "title": "Design of Experiments: Analysis of Variance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02450",
+                            "title": "Advanced Data Analysis (Multivariate and Bayesian)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 12 s.h. Select 12 s.h. from the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

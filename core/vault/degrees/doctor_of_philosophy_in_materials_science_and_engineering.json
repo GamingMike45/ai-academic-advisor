@@ -1,0 +1,83 @@
+{
+    "name": "Doctor of Philosophy in Materials Science & Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7546&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Materials Science & Engineering": [
+            "Doctor of Philosophy in Materials Science & Engineering Rowan’s Ph.D. Program in Materials Science & Engineering is a terminal degree program that is specifically designed to meet the changing needs of researchers, scholars and scientists in academia, industry, and the government. The primary goal of this program is therefore to prepare students for careers in research and/or academics by providing an environment that closely reflects the realities and expectations encountered by today’s academicians, professional scientists and research engineers. The program offers a highly flexible inter and multidisciplinary curricular structure, allowing students to focus their research in fundamental sciences or engineering. The primary strength of the program is involving students in activities that they are most likely to encounter in real-world academic or industrial settings."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MSE",
+                            "course_number": "00510",
+                            "title": "Structure, Symmetry, and Properties of Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00520",
+                            "title": "Thermodynamics of Materials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00530",
+                            "title": "Experimental Techniques in Materials Science and Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00610",
+                            "title": "Kinetics of Materials",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h.",
+                "One approved Graduate-level Math or Statistics course Credits: 3"
+            ]
+        },
+        "Elective Courses: 15 s.h.": [
+            "Elective Courses: 15 s.h. Students must choose 15 s.h. of approved Graduate-level courses from College of Science & Mathematics or Henry M. Rowan College of Engineering, in consulation with their advisor"
+        ],
+        "Research Courses: 42 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MSE",
+                            "course_number": "00799",
+                            "title": "PhD Dissertation Research",
+                            "credits": "1 to 9"
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00798",
+                            "title": "PhD Dissertation Research Continuation",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Research Courses: 42 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements : Completion of University’s standard Ethical and Responsible Conduct of Research training. Regular attendance and participation in graduate seminars. Successful completion of Ph.D. Qualifier examination (specific details determined by advisory committee). Successful Completion of Ph.D. Candidacy examination (specific details determined by advisory committee). Successful completion of Career Preparation and Readiness Experience (specific details determined by advisory committee). Successful completion and defense of doctoral dissertation. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Materials Science & Engineering is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Samuel Lofland 856.256.4382 lofland@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

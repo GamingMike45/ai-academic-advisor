@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Undergraduate Study in Human Services: Criminal Justice",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7140&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Human Services: Criminal Justice": [
+            "Certificate of Undergraduate Study in Human Services: Criminal Justice The Certificate of Undergraduate Study (CUGS) in Human Services: Criminal Justice will introduce students who are not Human Services majors to both theoretical and practical approaches used by professionals working in a variety of human services agencies. It will be of particular interest to Criminal Justice majors seeking work in the Corrections field. An increased need for probation and parole officers is foreseen by the State of New Jersey, this is designed to help meet that need. The courses will provide an overview of the skills and perspectives best suited to assist them in applying their other coursework to real-world settings, meeting the needs of employers as they navigate our changing societies. It will also prepare them for positions as diversity trainers, human services providers, managers, and staff of human services agencies, and human rights organizations."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01100",
+                            "title": "Introduction to Human Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08332",
+                            "title": "Contemporary Sociological Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05175",
+                            "title": "Survey of Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08325",
+                            "title": "Deviant Behavior and Social Control - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05315",
+                            "title": "Criminal Justice and Social Conflict",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05210",
+                            "title": "Restorative Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05220",
+                            "title": "Victimology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Choose one course"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Michelle Mignot 856.256.5572 mignot@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

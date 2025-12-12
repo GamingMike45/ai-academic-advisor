@@ -1,0 +1,52 @@
+{
+    "name": "Certificate of Undergraduate Study in Sustainability Education & Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7497&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Sustainability Education & Leadership": [
+            "Certificate of Undergraduate Study in Sustainability Education & Leadership This Certificate of Undergraduate Study (CUGS) in Sustainability Education & Leadership will empower educators and pre-service teachers to: (a) meet the demands of our changing world; (b) instill sustainability values and competencies in the next generation; and (c) ensure students are equipped with the knowledge and skills to lead climate change and broader sustainability efforts both locally and globally, aligning with essential NJ state educational standards and global commitments while preparing students for meaningful careers and responsible citizenship."
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDSU",
+                            "course_number": "29210",
+                            "title": "Sustainability Education: An Introduction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "29211",
+                            "title": "Leading Sustainable Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "29212",
+                            "title": "Integrating Climate Change Education Across Contexts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94101",
+                            "title": "Planet in Peril: Environmental Science in the 21st Century",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Sustainability Education & Leadership, students must complete all courses required for the CUGS in Sustainability and Leadership with at least a 2.0 average. MaryBeth Walpole Advisor James Hall 856.256.4706 walpole@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

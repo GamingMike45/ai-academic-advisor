@@ -1,0 +1,126 @@
+{
+    "name": "Minor in Public Health & Wellness",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7297&returnto=1028",
+    "content": {
+        "Minor in Public Health & Wellness": [
+            "Minor in Public Health & Wellness Many professions in the health arena draw from practices learned from community health and public health. From prevention of chronic diseases to promotion of positive health behaviors, the Introduction to Public Health & Wellness Minor examines the issues facing communities today. The mission of public health at its core is to improve the health of the individual and the community at large. The Introduction to Public Health & Wellness Minor entails two required foundational classes followed by four elective courses. The elective courses allow students to emphasize in an area that will support their intended career path."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00200",
+                            "title": "Introduction to Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00344",
+                            "title": "US Health Care Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Path 1 - Intended for individuals who desire public health practice: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00303",
+                            "title": "Environmental Issues and Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00350",
+                            "title": "Health Behavior Theory and Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00340",
+                            "title": "Program Planning and Leadership in Health Promotion and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00415",
+                            "title": "Public Health Methods and Interventions",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Path 1 - Intended for individuals who desire public health practice: 12 s.h."
+            ]
+        },
+        "Path 2 - Intended for individuals desiring to work more in hospital or healthcare facilities: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00302",
+                            "title": "Global Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02215",
+                            "title": "Medical Anthropology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00345",
+                            "title": "US Health Care Policy, Ethics, and Advocacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00348",
+                            "title": "Public Health Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00301",
+                            "title": "Health and Diverse Populations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Path 2 - Intended for individuals desiring to work more in hospital or healthcare facilities: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Shari Willis Coordinator Herman D. James Hall 856.256.4500 ext. 53702 williss@rowan.edu Laurie Dwyer Advisor Herman D. James Hall 856.256.5835 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

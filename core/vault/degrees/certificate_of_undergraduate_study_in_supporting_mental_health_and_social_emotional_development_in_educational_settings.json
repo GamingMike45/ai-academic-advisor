@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Supporting Mental Health & Social Emotional Development in Educational Settings",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7445&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Supporting Mental Health & Social Emotional Development in Educational Settings": [
+            "Certificate of Undergraduate Study in Supporting Mental Health & Social Emotional Development in Educational Settings The Certificate of Undergraduate Study (CUGS) in Supporting Mental Health & Social Emotional Development in Educational & Professional Settings supports the development of content knowledge for students pursuing any initial teaching/educator certification program, other professionally related fields, and community stakeholders. This CUGS will fill the gap and knowledge for currently enrolled students in educator prep programs, and for those currently working in schools and agencies, while remaining current with educational and professional trends. Students will learn knowledge and practices that closely examine how mental health and other diagnoses affect the academic and social development of all individuals. This CUGS aims to educate, provide awareness, and give specific academic and social emotional strategies that educators, families, and community professionals can implement to assist in helping all individuals succeed. The CUGS in Supporting Mental Health & Social Emotional Development in Educational & Professional Settings is a part-time program offered in an accelerated online format."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COUN",
+                            "course_number": "26450",
+                            "title": "Mental Health Awareness and (Emotional) Crisis Management in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26451",
+                            "title": "Trauma Informed Practices to Promote Social Emotional Development in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26452",
+                            "title": "Neurodiverse Learning and Social Emotional Development in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26453",
+                            "title": "Promoting Self-Care and Wellness in Educational and Professional Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Program Coordinator/Advisor Contact Information Kara Ieva Herman D. James Hall 856.256.4305 ieva@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

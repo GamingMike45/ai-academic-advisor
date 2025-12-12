@@ -1,0 +1,319 @@
+{
+    "name": "Minor in Mathematics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7237&returnto=1028",
+    "content": {
+        "Minor in Mathematics": [
+            "Minor in Mathematics The study of Mathematics enables a person to understand the nature and functioning of different mathematical systems and the process of solving problems related to these areas. Moreover, the increasing need for mathematical analysis of modern-day problems will provide good employment opportunities for mathematically trained individuals in government and international agencies, education, business, and industry. People trained in mathematics are needed to solve many of the technical problems of the future. The Minor in Mathematics encourages and facilitates the acquisition of mathematical skills and concepts, thus providing an added dimension to a student’s program whatever that might be. Students wishing to Minor in Mathematics must take 21-22 semester hours, including 15-16 semester hours in required core courses and 6 semester hours in the approved math electives below. NOTES: 1) A 2.0 G.P.A. is required in the Minor courses. At least 6 credits must be taken at Rowan University; 2) A number of the elective courses require Discrete Math as a prerequisite. All courses denoted with an asterisk either have Discrete Math as a prerequisite or have another prerequisite for which Discrete Math is a prerequisite. Prerequisite override forms will not be signed without documentation of equivalent subject matter in another course."
+        ],
+        "Program Requirements": [
+            "Program Requirements In order to Minor in Mathematics, you MUST select Track 1 or Track 2."
+        ],
+        "Track I (not Engineering)": [
+            "Track I (not Engineering)"
+        ],
+        "Required courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01210",
+                            "title": "Linear Algebra",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses: 15 s.h. Take these four courses:"
+            ]
+        },
+        "Electives (at least 6 s.h.) chosen from:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01231",
+                            "title": "Ordinary Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01310",
+                            "title": "College Geometry *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01330",
+                            "title": "Introduction to Real Analysis I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01331",
+                            "title": "Introduction to Real Analysis II *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01332",
+                            "title": "Introduction to Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01340",
+                            "title": "Modern Algebra I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01341",
+                            "title": "Modern Algebra II *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01352",
+                            "title": "Theory of Numbers *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01354",
+                            "title": "Introduction to Topology *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01430",
+                            "title": "Introduction to Complex Analysis *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01386",
+                            "title": "Introduction to Partial Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03400",
+                            "title": "Applications of Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03411",
+                            "title": "Deterministic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03412",
+                            "title": "Stochastic Models in Operations Research *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02340",
+                            "title": "Elements of Statistical Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02360",
+                            "title": "Probability and Random Variables *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02361",
+                            "title": "Mathematical Statistics *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives (at least 6 s.h.) chosen from:"
+            ]
+        },
+        "Track 2 (Engineering)": [
+            "Track 2 (Engineering)"
+        ],
+        "Required courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01235",
+                            "title": "Mathematics for Engineering Analysis",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses: 16 s.h. Take these four courses:"
+            ]
+        },
+        "Electives (at least 6 s.h.) chosen from": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01310",
+                            "title": "College Geometry *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01330",
+                            "title": "Introduction to Real Analysis I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01331",
+                            "title": "Introduction to Real Analysis II *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01332",
+                            "title": "Introduction to Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01340",
+                            "title": "Modern Algebra I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01341",
+                            "title": "Modern Algebra II *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01352",
+                            "title": "Theory of Numbers *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01354",
+                            "title": "Introduction to Topology *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01386",
+                            "title": "Introduction to Partial Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01430",
+                            "title": "Introduction to Complex Analysis *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03400",
+                            "title": "Applications of Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03411",
+                            "title": "Deterministic Models in Operations Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03412",
+                            "title": "Stochastic Models in Operations Research *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02340",
+                            "title": "Elements of Statistical Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02360",
+                            "title": "Probability and Random Variables *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02361",
+                            "title": "Mathematical Statistics *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives (at least 6 s.h.) chosen from"
+            ]
+        },
+        "Total Required Credits for the Program: 21-22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21-22 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

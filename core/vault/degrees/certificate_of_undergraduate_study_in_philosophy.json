@@ -1,0 +1,316 @@
+{
+    "name": "Certificate of Undergraduate Study in Philosophy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7108&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Philosophy": [
+            "Certificate of Undergraduate Study in Philosophy The Certificate of Undergraduate Study in Philosophy (CUGS) is a valuable addition to any major. Philosophy courses impart and sharpen skills in close reading, theoretical reasoning and excellent writing, as well as helping students place their experience within a cross-cultural and historical context of thinking about fundamental human issues. These skills and this broader perspective help students do well on all graduate admissions tests, are attractive to employers, and help equip students for executive positions later in their careers. Students can choose specific philosophy courses related to their major field of study or other areas of interest. Students will develop an awareness of how their actions affect others on a local and global level. Elective courses include Biomedical Ethics, Philosophy of Science, Aesthetics, Philosophy & Gender, Environmental Ethics, and many other options. The Certificate of Undergraduate Study in Philosophy may be declared either in the Philosophy & World Religions Department in Bunce Hall (856-256-4075), Third Floor, or with Christine Larsen-Britt (larsen-britt@rowan.edu) of the College of Humanities & Social Sciences Dean’s Office."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Foundational Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09120",
+                            "title": "Introduction to Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09121",
+                            "title": "Introduction to Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09150",
+                            "title": "Introduction to Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09151",
+                            "title": "Introduction to Ethics - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09211",
+                            "title": "Ancient Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09213",
+                            "title": "Modern Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09110",
+                            "title": "The Logic of Everyday Reasoning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09130",
+                            "title": "Introduction to Symbolic Logic",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Course: 3 s.h. Choose one of the following"
+            ]
+        },
+        "Philosophy Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09240",
+                            "title": "Social and Political Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09241",
+                            "title": "Social and Political Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09310",
+                            "title": "Aesthetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09311",
+                            "title": "Aesthetics - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09329",
+                            "title": "Philosophy and Gender - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09392",
+                            "title": "Contemporary Moral Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09393",
+                            "title": "Contemporary Moral Problems- WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09200",
+                            "title": "Philosophy of Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09218",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09219",
+                            "title": "Existentialism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09228",
+                            "title": "American Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09231",
+                            "title": "Asian Thought",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09245",
+                            "title": "Philosophy of Sport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09324",
+                            "title": "Philosophy of Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09326",
+                            "title": "Philosophy of Mind",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09327",
+                            "title": "Philosophy and Race - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09346",
+                            "title": "Feminist Ethics - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09368",
+                            "title": "Philosophy of Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09370",
+                            "title": "Epistemology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09376",
+                            "title": "Philosophy of Medicine - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09380",
+                            "title": "Intermediate Symbolic Logic",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09440",
+                            "title": "Topics in Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09472",
+                            "title": "Topics in the History of Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11361",
+                            "title": "Ethics In and Out of Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11440",
+                            "title": "Topics in Philosophy and World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11469",
+                            "title": "Topics in Queer Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Philosophy Electives: 9 s.h. Choose 3 PHIL/PHRE courses (9 sh). At least one course (3 sh) must be at the 300 or 400-level. No courses may be taken P/NC.",
+                "200-Level Electives",
+                "PHRE 11269 - Introduction to Queer Theory Satisfies Humanistic Literacy (HUML) Requirement and Broad-Based Literacy (LIT) Requirement Credits: 3",
+                "300 and 400-Level Electives"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Christine Larsen-Britt Advisor 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Finance, Master of Science in Finance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7468&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Finance, Master of Science in Finance": [
+            "Accelerated Dual Degree: Bachelor of Science in Finance, Master of Science in Finance"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in Bachelor of Science in Finance. Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MS Courses taken as an Undergraduate student: 12 s.h.": [
+            "Required MS Courses taken as an Undergraduate student: 12 s.h. Students should choose four courses from the following list:"
+        ],
+        "Master of Science in Finance Core": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03510",
+                            "title": "Financial Statement Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04500",
+                            "title": "Financial Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04505",
+                            "title": "Advanced Financial Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04511",
+                            "title": "Quantitative Methods in Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04518",
+                            "title": "Derivative Securities and Financial Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04520",
+                            "title": "Financial Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04530",
+                            "title": "Multinational Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04540",
+                            "title": "Financial Institutions Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04560",
+                            "title": "Fixed Income Securities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04600",
+                            "title": "Investment Analysis and Portfolio Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Master of Science in Finance Core"
+            ]
+        },
+        "Required MS Courses taken as a Graduate Student: 18 s.h.": [
+            "Required MS Courses taken as a Graduate Student: 18 s.h. The remaining courses for the Master’s degree are as shown in Master of Science in Finance"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h. Graduate courses in the “Electives for the B.S. and Required Courses for the M.S. taken as an undergraduate” section above are counted in the 120 s.h. Undergraduate program. Requirements for Admission: Applicants to the Accelerated Dual Degree program will submit applications for admission to the graduate program in the fall semester of the junior year of the undergraduate program. Application requirements are as follows: A minimum overall GPA of 3.0 in undergraduate coursework A complete online Rowan Global application One letter of recommendation from an undergraduate professor Requirements for Graduation: To graduate from the accelerated program, students must have a 2.50 GPA in Business courses and a 2.00 overall GPA for the B.S., plus a 3.00 GPA with no grades below C and no more than two grades of C or C+ for the M.S. Contingency for Students who do not Complete the Master of Science program: Students who choose not to complete the Master’s in Finance will still be eligible to earn the B.S. in Finance.",
+                "Notes:"
+            ]
+        }
+    }
+}

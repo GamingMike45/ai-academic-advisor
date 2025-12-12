@@ -1,0 +1,631 @@
+{
+    "name": "Master of Science in Civil & Environmental Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7610&returnto=1028",
+    "content": {
+        "Master of Science in Civil & Environmental Engineering": [
+            "Master of Science in Civil & Environmental Engineering The Master of Science in Civil & Environmental Engineering program at Rowan University effectively prepares individuals to respond to the changing needs of today’s engineers. This program provides students with the necessary knowledge, skill set, and training to effectively contribute to the engineering workforce. Students have access to higher level courses leading to a graduate degree and are involved in professional development opportunities which increase the breadth of understanding and application of engineering principles. The Civil & Environmental Engineering program allows students to develop an interdisciplinary focus through their coursework and thesis topic. Graduate students work with faculty with expertise in transportation, geo-technology, structures, water resources, and the environment. Interdisciplinary areas include mechanics and materials, and sustainability. This program also includes the following focus areas: Mechanics and Materials; Sustainability; and Transportation Engineering. Students can choose between a thesis track and a coursework track. Students may also work on a project, which may be counted toward a coursework track degree. Most full-time students work on funded research projects, leading to a thesis. Most part-time students select the coursework track. In order to be eligible for a Research Assistantship, students must select the thesis track. Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined below. Thesis Track: The thesis option requires the completion of 30 semester hours, 6-9 of which are in thesis research/engineering project. Non-Thesis Track: The non-thesis option requires the completion of 30 semester hours of coursework."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis (or equivalent determined in consultation with Academic Advisor)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h. Students should select one class from the pre-approved Mathematics Bank and one course from either the pre-approved Business and Management Bank or the pre-approved Communication Bank."
+            ]
+        },
+        "Pre-Approved Mathematics Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01502",
+                            "title": "Linear Algebra and Matrix Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01510",
+                            "title": "Real Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01512",
+                            "title": "Complex Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01529",
+                            "title": "Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03512",
+                            "title": "Operations Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02513",
+                            "title": "Applied Stochastic Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02515",
+                            "title": "Applied Multivariate Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08505",
+                            "title": "Data Analysis for Civil Engineering Applications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Pre-Approved Mathematics Bank"
+            ]
+        },
+        "Pre-Approved Business and Management Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06502",
+                            "title": "International Business and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06510",
+                            "title": "Strategic Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07500",
+                            "title": "Prospective Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01501",
+                            "title": "Engineering Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01511",
+                            "title": "Strategic Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01512",
+                            "title": "Quality in Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01521",
+                            "title": "Construction Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01541",
+                            "title": "Engineering Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01542",
+                            "title": "Facilities Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01543",
+                            "title": "Systems for Engineering Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Pre-Approved Business and Management Bank"
+            ]
+        },
+        "Pre-Approved Communication Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "XEED",
+                            "course_number": "01601",
+                            "title": "Effective Teaching in Academic, Corporate and Government Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09702",
+                            "title": "Strategic Technical Writing and Winning Grant Proposals",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Pre-Approved Communication Bank"
+            ]
+        },
+        "Focused Graduate Coursework: 18 s.h.": [
+            "Focused Graduate Coursework: 18 s.h. Selecting coursework from a single bank helps ensure that graduate studies result in a focused program of study that will support future goals. Students may follow either the Thesis track or the Coursework-only track."
+        ],
+        "Thesis Track: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01599",
+                            "title": "Master’s Research and Thesis",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis Track: 18 s.h. M.S. Thesis approved by the graduate school 9 s.h. of Thesis Credits 9 s.h. of focused graduate coursework from either the Infrastructure or Environmental Bank. (ALL FROM THE SAME BANK)"
+            ]
+        },
+        "Coursework Track: 18 s.h.": [
+            "Coursework Track: 18 s.h. 18 s.h. of coursework from either the infrastructure, water/environmental, or CEE practice bank. (ALL FROM THE SAME BANK)"
+        ],
+        "Pre-Approved Course Banks": [
+            "Pre-Approved Course Banks"
+        ],
+        "Pre-Approved Water/Environment Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08505",
+                            "title": "Data Analysis for Civil Engineering Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08512",
+                            "title": "Advanced Environmental Treatment Process Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08522",
+                            "title": "Site Remediation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08531",
+                            "title": "Solid and Hazardous Waste Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08532",
+                            "title": "Pollutant Fate and Transport",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08533",
+                            "title": "Integrated Solid Waste Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08541",
+                            "title": "Advanced Surface Hydrology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08542",
+                            "title": "Advanced Hydrometeorology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08543",
+                            "title": "Advanced Water Resources Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08544",
+                            "title": "Hydraulic Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08547",
+                            "title": "Watershed Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08548",
+                            "title": "Water and Environmental Monitoring",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08635",
+                            "title": "Anaerobic Treatment Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08643",
+                            "title": "Coastal Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04510",
+                            "title": "Earth’s Environment and Natural Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04511",
+                            "title": "The Science of Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05560",
+                            "title": "Industrial Health and Safety",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05612",
+                            "title": "Environmental Support Systems: Fresh Water",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05613",
+                            "title": "Environmental Support Systems: Native Plants in the Landscape",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05610",
+                            "title": "Environmental Support Systems: Soils",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05605",
+                            "title": "Case Studies in Applied Environmental Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05660",
+                            "title": "Risk Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05630",
+                            "title": "Communicating Environmental Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Pre-Approved Water/Environment Bank"
+            ]
+        },
+        "Pre-Approved Infrastructure Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08505",
+                            "title": "Data Analysis for Civil Engineering Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08504",
+                            "title": "Engineering Estimating",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08552",
+                            "title": "Foundation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08553",
+                            "title": "Earth Retaining Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08554",
+                            "title": "Design of Geosynthetic Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08562",
+                            "title": "Advanced Transportation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08566",
+                            "title": "Transportation Systems Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08567",
+                            "title": "Transportation Safety System",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08568",
+                            "title": "Intelligent Transportation System",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08569",
+                            "title": "Advanced Pavement Rehabilitation Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08573",
+                            "title": "Advanced Structural Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08574",
+                            "title": "Advanced Structural Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08576",
+                            "title": "Advanced Portland Cement Concrete",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08583",
+                            "title": "Advanced Steel Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08584",
+                            "title": "Prestressed Concrete",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08585",
+                            "title": "Advanced Reinforced Concrete",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08586",
+                            "title": "Bridge Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08587",
+                            "title": "Masonry and Wood Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08658",
+                            "title": "Engineering Geology and Rock Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08673",
+                            "title": "Structural Reliability",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08674",
+                            "title": "Dynamics of Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01510",
+                            "title": "Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01580",
+                            "title": "Advanced Viscoelasticity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Pre-Approved Infrastructure Bank"
+            ]
+        },
+        "Pre-Approved CEE Practice Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08504",
+                            "title": "Engineering Estimating",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08522",
+                            "title": "Site Remediation Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08531",
+                            "title": "Solid and Hazardous Waste Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08537",
+                            "title": "Sustainable Facilities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08547",
+                            "title": "Watershed Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08587",
+                            "title": "Masonry and Wood Structures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01523",
+                            "title": "Cost Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01521",
+                            "title": "Construction Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01522",
+                            "title": "Construction Scheduling",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Pre-Approved CEE Practice Bank"
+            ]
+        },
+        "Additional Coursework: 6 s.h.": [
+            "Additional Coursework: 6 s.h. Students taking coursework from the CEE Practice Bank are strongly encouraged to take additional coursework also from this bank."
+        ],
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements Thesis Research/Engineering Project. (Students will register for Masters Research (see above) credit hours totaling between 6-9 s.h. Please discuss with your Academic Advisor.) Minimum Required Grades and Cumulative GPA The Master of Science in Civil & Environmental Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Mohammad Jalayer, Ph.D. Rowan Hall 856.256.5397 jalayer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

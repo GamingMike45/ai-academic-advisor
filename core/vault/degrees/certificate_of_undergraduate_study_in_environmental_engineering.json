@@ -1,0 +1,133 @@
+{
+    "name": "Certificate of Undergraduate Study in Environmental Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7056&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Environmental Engineering": [
+            "Certificate of Undergraduate Study in Environmental Engineering The Certificate of Undergraduate Study (CUGS) in Environmental Engineering offers students an opportunity to obtain additional specialized coursework in Environmental Engineering and related disciplines beyond that allowed by the BS program in Civil Engineering. The coursework is designed to facilitate immediate transference to pollution prevention design applications in the United States."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12-14 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08311",
+                            "title": "Environmental Engineering",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12-14 s.h. The requirements include the following four courses:"
+            ]
+        },
+        "Choose one Course from the Following List:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08412",
+                            "title": "Environmental Treatment Process Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08422",
+                            "title": "Site Remediation Engineering Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08431",
+                            "title": "Solid and Hazardous Waste Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08432",
+                            "title": "Pollutant Fate and Transport Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08433",
+                            "title": "Principles of Integrated Solid Waste Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one Course from the Following List:"
+            ]
+        },
+        "Choose two Courses from the Following List:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01305",
+                            "title": "Contaminants in the Environment",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01350",
+                            "title": "Field Methods in Environmental Science",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01490",
+                            "title": "Advanced Special Topics in Environmental Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "02410",
+                            "title": "Stream Ecology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94301",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two Courses from the Following List:"
+            ]
+        },
+        "Total Required Credits for the Program: 12-14 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-14 s.h. Note: CEE 08311 Environmental Engineering is a prerequisite for the program. Gilson R. Lomboy Advisor Rowan Hall Room 136 lomboy@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

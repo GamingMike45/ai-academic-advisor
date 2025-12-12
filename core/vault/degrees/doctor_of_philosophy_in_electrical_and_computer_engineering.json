@@ -1,0 +1,139 @@
+{
+    "name": "Doctor of Philosophy in Electrical & Computer Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7616&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Electrical & Computer Engineering": {
+            "requirements": [],
+            "notes": [
+                "Doctor of Philosophy in Electrical & Computer Engineering The Ph.D. in Electrical & Computer Engineering is a terminal degree program that is specifically designed to meet the changing needs of researchers, scholars, and scientists in academia, industry, and the government. The primary goal of this program is therefore to prepare students for careers in research and/or academics by providing an environment that closely reflects the realities and expectations encountered by today’s academicians, professional scientists, and research engineers. The program offers a highly flexible inter and multidisciplinary curricular structure, allowing specialization in any (or multiple) of the traditional or emerging areas of Electrical & Computer Engineering. Graduates emerge with a strong foundation in research methodologies, technical expertise, and the ability to apply their knowledge to real-world scenarios, making them valuable assets to academic institutions, industry organizations, and government agencies. Career Preparation and Readiness Experience (CPRE) CPRE requirements are designed to provide the students with a real-world environment that closely recreates the most important elements of their future career path, regardless of whether that path leads to an academic, industrial or government setting. CPRE consists of four components, which need to be completed before taking the Ph.D. Dissertation Defense: Teaching: Minimum of two mentored and/or independent teaching experiences (lecture and/or lab component) as agreed upon by the student’s primary Ph.D. advisor as well as the Department Head, and based on the student’s areas of interest and expertise. Students should have ideally completed the ENGR 01601 before being assigned teaching duties unless the student has prior teaching experience and/or demonstrated aptitude for teaching. Participating in proposal writing activities as guided and mentored by the student’s primary Ph.D. advisor Publishing an appropriate number of high-quality journal and/or conference papers (at least one journal and one conference paper must be accepted by the time of Ph.D. Defense) as determined by the student’s primary Ph.D. advisor and/or Advisory Committee. Appropriate service based on student’s interest: Ph.D. students will be expected to be appropriately involved in a relevant professional society of their choosing, and/or serve in an appropriate department or college level committee. Approximate Timeline Course requirements: First 4 semesters not counting summers Ethical and Responsible Conduct of Research training: First semester Graduate Seminar: Every semester, not counting summers Qualifier Exam: Within the first 4 semesters, not counting summers Candidacy/proposal Exam: Within 18 months of completing the qualifier exam CPRE requirements: As appropriate through regular progress in the program PhD dissertation defense: Within 10 semesters, not counting summers"
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements Minimum of 72 credits of graduate-level work beyond a bachelor’s degree, or 42 credits of graduate-level work beyond a Master’s degree in a related field are required. Of these 72 total credits, 42 must come from coursework including the 9 credits coming from the following required courses:"
+        ],
+        "At least one approved graduate-level Math class": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01502",
+                            "title": "Linear Algebra and Matrix Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01510",
+                            "title": "Real Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01529",
+                            "title": "Numerical Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02511",
+                            "title": "Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02513",
+                            "title": "Applied Stochastic Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02515",
+                            "title": "Applied Multivariate Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02585",
+                            "title": "Introduction to Bayesian Statistical Methods",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "At least one approved graduate-level Math class Certain math-intensive engineering courses may be used to satisfy this requirement (3 credits). Possible courses are:",
+                "Other approved graduate-level (500 or higher) advanced mathematics course taught by the department of Mathematics or College of Engineering with approval of dissertation advisor and graduate coordinator"
+            ]
+        },
+        "Other Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "XEED",
+                            "course_number": "01601",
+                            "title": "Effective Teaching in Academic, Corporate and Government Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09702",
+                            "title": "Strategic Technical Writing and Winning Grant Proposals",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Other Requirements"
+            ]
+        },
+        "Doctoral Research": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06510",
+                            "title": "Strategic Engineering Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Doctoral Research And another 33 semester hours (42-9=33) of technical electives chosen from a broad range of options, upon approval of dissertation advisor and graduate coordinator. Graduate courses taught outside of College of Engineering require preapproval of the student’s major advisor.",
+                "Any graduate-level Electrical and Computer Engineering course Any graduate-level course taught in the Henry M. Rowan College of Engineering Any approved graduate-level course taught in the College of Science & Mathematics Any approved graduate-level course taught in the School of Earth & Environment Any approved graduate-level course taught in the School of Osteopathic Medicine, the Cooper Medical School of Rowan University, or the Graduate School of Biomedical Science",
+                "Graduate courses taught outside of College of Engineering require preapproval of the student’s major advisor. All 42 credits of coursework must be completed with grades of B- or higher. A graduate course may be retaken one time, but a second retake must be approved by the student’s dissertation committee and the Electrical and Computer Engineering graduate coordinator. Of the 72 total credits, 30 must come from Doctoral Research, supervised by the student’s dissertation advisor."
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Transfer Credits If a student admitted to the program already has a Master’s degree, up to 30 credits from relevant and appropriate courses taken during the Master’s degree studies may be transferred, typically 21 course credits and 9 research credits. The student’s Advisory Committee (or the Advisor) will decide which credits will be transferred into the Ph.D. in Electrical & Computer Engineering program. Graduation/Exit/Thesis Requirements Ethical and Responsible Conduct of Research training (including human/animal subject training when applicable). All Ph.D. students will be required to complete all research compliance training required by the University for any research-active employee. Graduate seminar: Regular attendance and participation in (0-credit) graduate seminars (ENGR 01700 Graduate Seminar: What is Next in Engineering) will be required for students for each Fall and Spring semester they are in the program. This course will be graded on a Pass/Fail basis. Ph.D. Qualifier Examination: All students in the program will be required to pass the Ph.D. Qualifier Examination. This exam should be taken within the first four regular semesters (not counting summer) of study in the program. Students transferring into Ph.D. in Electrical & Computer Engineering program from another recognized Ph.D. program where they have already passed a comparable qualifier examination may be exempt from the Qualifier Examination based on the recommendation of the student’s Advisor and subject to the approval of the Graduate Coordinator and the Department Head. Ph.D. Candidacy (proposal) Examination: Ph.D. Students will be required to pass a Candidacy Exam, within 18 months of completing their Qualifier Examination. The Candidacy Examination is where the students propose their Ph.D. Dissertation topic. The Candidacy Exam will be an oral examination, designed to assess the originality, importance, technical, scientific and intellectual merits of the student’s dissertation topic, adequacy of student’s preliminary work as well as his/her ability to undertake the proposed work. The Candidacy Examination will be conducted and evaluated by the student’s full Ph.D. Advisory Committee. Students who pass their Candidacy Examination will be given the title “Ph.D. Candidate.” Career Preparation and Readiness Experience (CPRE): CPRE requirements are designed to prepare for the real-world environment they are likely to face upon graduation, and consist of teaching, grant writing, publishing and service. Students will be required to complete all CPRE components, the details of which are given below. Ph.D. Dissertation Defense: The Ph.D. in Engineering program will culminate in the Candidate’s oral defense of their dissertation topic. This exam will be conducted and evaluated by the student’s full Ph.D. Advisory Committee, who will assess the work for its completeness, technical and scientific accuracy, intellectual merits and broader impacts. The student will be expected to have completed the CPRE requirements before taking the Ph.D. Dissertation Defense. The portion of the exam that includes the Candidate’s presentation shall be open to the public (unless there are intellectual property considerations previously discussed with the Office of Research) Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Electrical & Computer Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Jie Li, Ph.D. Engineering Hall 856.256.5345 lijie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

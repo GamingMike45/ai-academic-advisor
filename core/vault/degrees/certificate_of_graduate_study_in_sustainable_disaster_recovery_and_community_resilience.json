@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in Sustainable Disaster Recovery & Community Resilience",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7712&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Sustainable Disaster Recovery & Community Resilience": [
+            "Certificate of Graduate Study in Sustainable Disaster Recovery & Community Resilience The Certificate of Graduate Study (COGS) in Sustainable Disaster Recovery & Community Resilience emphasizes the role of post-disaster recovery and sustainability.  Natural disasters (as well as non-natural disasters such as acts of terror and civil unrest in the aftermath of racial tension in the United States after the George Floyd death) such as floods, wildfires, earthquakes, and hurricanes result in devastating effects on people, economies, and the environment. This certificate of graduate study is designed to provide emergency managers with the necessary skills to help communities recover in a more sustainable and resilient manner to better understand the long-term disaster recovery and reconstruction challenges faced by communities affected by disasters."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00652",
+                            "title": "Continuity of Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00632",
+                            "title": "Disaster Recovery Strategies and Planning for Emergency Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00639",
+                            "title": "Post-Disaster Sustainable Recovery and Community Resilience",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. To be awarded the Certificate of Graduate Study in Sustainable Disaster Recovery & Community Resilience students must complete all courses required for the COGS in Sustainable Disaster Recovery & Community Resilience with at least a 2.0 average. Program Advisor DeMond S. Miller Campbell Library 5th Floor 856.256.4500 ext 53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

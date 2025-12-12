@@ -1,0 +1,323 @@
+{
+    "name": "Bachelor of Arts in Inclusive Education: Elementary Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7455&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Inclusive Education: Elementary Education": [
+            "Bachelor of Arts in Inclusive Education: Elementary Education The Bachelor of Arts in Inclusive Education prepares future teachers to meet the needs of ALL students in the classroom, including those from diverse racial, cultural, linguistic, socioeconomic backgrounds as well as students with disabilities. Candidates will earn two state certifications in this 4-year program 120 credit hour program: 1) an initial license in Elementary Education, and 2) a Teacher of Students with Disabilities (TOSD) endorsement. Graduates of this program will be able to implement content-rich interdisciplinary learning experiences which address the learning needs of all students, utilizing a strengths-based perspective to differentiate and adapt instruction for individual learners. Graduates of this program will also be able to create communities of learning based on social justice and culturally relevant pedagogical practice."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 47 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16100",
+                            "title": "Earth, People, and the Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02202",
+                            "title": "Introduction to Cultural Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02221",
+                            "title": "Human Variation",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01300",
+                            "title": "The Writer’s Mind - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01358",
+                            "title": "Teaching the Writer’s Workshop-WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08220",
+                            "title": "Sociology of the Family",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01201",
+                            "title": "Structures of Mathematics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01204",
+                            "title": "Structures of Mathematics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06218",
+                            "title": "Music and The Child",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09209",
+                            "title": "Child and Adolescent Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30311",
+                            "title": "Literacy Pedagogy I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "33220",
+                            "title": "Educational Technology",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "FNDS",
+                            "course_number": "21150",
+                            "title": "History of American Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08130",
+                            "title": "Disability as Diversity",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 47 s.h.",
+                "Any Biological or Physical Science lab course that satisfies the Scientific Literacy Credits: 4 Any Biological or Physical Science non-lab course Credits: 3 Any US History course Credits: 3"
+            ]
+        },
+        "Required Courses: 61 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BLED",
+                            "course_number": "40405",
+                            "title": "Current Policy and Practice in ESL and Bilingual Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40415",
+                            "title": "Understanding Immigrant, Bilingual, and English Learner Students",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INCL",
+                            "course_number": "02215",
+                            "title": "Foundation of Inclusive Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02330",
+                            "title": "Differentiating Instruction in the Inclusive Classroom",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02351",
+                            "title": "Clinical Experience I in Inclusive Education",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26451",
+                            "title": "Trauma Informed Practices to Promote Social Emotional Development in Educational Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "90432",
+                            "title": "Working with Families and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08360",
+                            "title": "Positive Behavioral Support Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08307",
+                            "title": "Assessment in Special and Inclusive Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02352",
+                            "title": "Clinical Experience II in Inclusive Education",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02325",
+                            "title": "Mathematics Strategies in the Inclusive Classroom",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30351",
+                            "title": "Literacy Pedagogy II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02322",
+                            "title": "Science Inquiry and Methods for the Inclusive Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02323",
+                            "title": "Social Studies Methods for the Inclusive Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30452",
+                            "title": "Advanced English Language Arts Methods for the Inclusive Classroom-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02324",
+                            "title": "Advanced Mathematics Methods for the Inclusive Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08308",
+                            "title": "Assistive Technology and Transition Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02444",
+                            "title": "Clinical Practice I in Inclusive Education",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08450",
+                            "title": "Clinical Practice in Special Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02446",
+                            "title": "Clinical Seminar for Inclusive Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02445",
+                            "title": "Clinical Practice II in Inclusive Education",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 61 s.h.",
+                "SPED 08415 - Specialized Instruction for Students with Exceptional Learning Needs Credits: 3",
+                "SPED 02340 - Teaching Autistic Students in Inclusive Classrooms Credits: 3"
+            ]
+        },
+        "Free Electives: 3 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Free Electives: 3 s.h. Any course satisfying the Literature requirement Credits: 3"
+            ]
+        },
+        "Total Credits Required for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits Required for the Program: 120 s.h. Students must receive a final grade of C- or better in all courses satisfying Non-Program requirements and a B- or better in all Program required courses including SPED 08130. Students must maintain a 3.0 GPA in their credits of the major and the College of Education’s performance assessment. Program Coordinator Kerry Cormier 856.256.4500 ext. 53834 cormierk@rowan.edu Advisor Lesley Mateo 856.256.5869 mateo@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

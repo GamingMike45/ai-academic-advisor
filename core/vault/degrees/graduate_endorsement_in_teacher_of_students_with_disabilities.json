@@ -1,0 +1,54 @@
+{
+    "name": "Graduate Endorsement in Teacher of Students with Disabilities",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7670&returnto=1028",
+    "content": {
+        "Graduate Endorsement in Teacher of Students with Disabilities": [
+            "Graduate Endorsement in Teacher of Students with Disabilities This program is designed for individuals who possess a standard instructional certificate, or possess/are eligible for CEAS and wish to obtain Teacher of Students with Disabilities certification in New Jersey. Students must teach full-time in a P-12 class setting to complete field-related assignments throughout this program. The program aims to provide advanced studies focusing on the educational, psychological, and sociological needs of children and youth with disabilities. Each course in the program builds on the earlier knowledge and skills gained in the candidate’s initial certification programs. The coursework and related field experiences are designed to foster an understanding of students with a range of strengths and learning needs, combined with pedagogical skills to support these needs and provide appropriate multi-tiered inclusive practices as well as strengths-based, tailored curriculum accommodations and modifications when necessary. Upon completing the program, candidates will be recommended for certification. Candidates who want to pursue a Master’s degree (MA in Special Education and Inclusive Practices) must apply through Rowan Global Student Services. Candidates will have the option of applying completed Graduate TOSD coursework towards the GE track or they may select from alternative track options to gain advanced content knowledge in other areas. Students who have completed the Certificate of Graduate Study in Special Education and want to pursue the certification of Teacher of Students with Disabilities need to reapply for this endorsement program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SELN",
+                            "course_number": "10581",
+                            "title": "Implementing Positive Behavior Supports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "10585",
+                            "title": "Educational Assessment in Special Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08515",
+                            "title": "Curriculum, Instruction, and Transition in Special Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 21 s.h.",
+                "SPED 08555 -  Education and Psychology of Students with Disabilities (first course) Credits: 3",
+                "READ 30530 - Teaching Literacy to Students with Disabilities Credits: 3",
+                "SPED 08540 - Technology For Students With Disabilities Credits: 3",
+                "SELN 10592 - Clinical Experience and Seminar in Special Education (Apply by the deadline; the Program Coordinator must confirm completion of other courses & see documentation of current P-12 classroom teaching with regular access to at least a few students with IEPs to be eligible for this culminating course in the track) Credits: 3",
+                "Note: As of Fall 2024, all students must take/show evidence of having completed the Praxis II SPED exam before taking/completing the final course in this program: Praxis II Special Education: Core Knowledge and Applications (5354)"
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Successful completion of required courses and comprehensive exam Minimum Required Grades and Cumulative GPA The GE in Teacher of Student with Disabilities is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Nicole M. Edwards, Ph.D. Herman D. James Hall 856.256.4500, ext.53797 edwardsn@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

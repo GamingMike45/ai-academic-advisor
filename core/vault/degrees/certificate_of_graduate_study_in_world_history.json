@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Graduate Study in World History",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7587&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in World History": [
+            "Certificate of Graduate Study in World History The Certificate of Graduate Study (COGS) in Global History is designed to offer students an opportunity to study history on a graduate level for professional or personal development. The courses will familiarize students with relevant primary and scholarly sources as well as up to date historical interpretations and methodologies in the field. Certificate of Graduate Study in Global History is 12 semester hours.  All credits must be in in areas other than United States history. Students seeking the COGS in Global History will be required to take 4 courses (from the list below) chosen by the student and approved by the graduate coordinator. All courses are 3 semester hours."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Course Offerings:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05531",
+                            "title": "Colloquium in Global History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05533",
+                            "title": "Colloquium in Global History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05535",
+                            "title": "Colloquium in Global History III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05581",
+                            "title": "African History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05582",
+                            "title": "Middle Eastern History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05584",
+                            "title": "Latin American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05585",
+                            "title": "East Asian History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05586",
+                            "title": "South and Southeast Asian History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05583",
+                            "title": "Russian History Seminar",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Course Offerings: Students will pick 4 courses (approved by the graduate director) from a list of world history courses.  We define world history as outside of United States and western European history."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Program Coordinator/Advisor Contact Information Stephen Hague Robinson Hall 856.256.4500 x53988 hague@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

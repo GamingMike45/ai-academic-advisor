@@ -1,0 +1,110 @@
+{
+    "name": "Certificate of Undergraduate Study in Automotive Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7072&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Automotive Engineering": [
+            "Certificate of Undergraduate Study in Automotive Engineering This CUGS will offer students the chance to increase their knowledge beyond the standard 120 credit Mechanical Engineering curriculum in the rapidly growing fields of automotive engine design, alternative vehicle powertrains, vehicle dynamics, and vehicle manufacturing. The program is particularly relevant with recent advancements in gasoline, diesel, hybrid electric, and battery electric powertrains, as well as in active suspensions, active vehicle dynamics/safety systems, and autonomous vehicles. This CUGS will be attractive to students who already have fundamental knowledge in Mechanical Engineering."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Students will be required to complete three required courses (9 s.h.):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10444",
+                            "title": "Automotive Engineering I - Internal Combustion Engines *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10445",
+                            "title": "Automotive Engineering - Powertrains *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10446",
+                            "title": "Automotive Engineering - Vehicle Dynamics *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students will be required to complete three required courses (9 s.h.):"
+            ]
+        },
+        "Students will complete one course (3 s.h.) from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10401",
+                            "title": "Introduction to Computer Integrated Manufacturing and Automation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10411",
+                            "title": "Introduction to Combustion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10422",
+                            "title": "Introduction to Computational Fluid Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10440",
+                            "title": "Introduction to Advanced Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10442",
+                            "title": "Mechatronics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10462",
+                            "title": "Intro to FEA with ANSYS",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10443",
+                            "title": "Design For X",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10433",
+                            "title": "Introduction to Renewable Energy: Photovoltaics & Energy Harvesting",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students will complete one course (3 s.h.) from the following list:",
+                "Other automotive engineering-related courses approved by the advisor."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Note: Program entry requires PHYS 00220. Up to 2 of the 4 courses in the CUGS may be applied towards the BS in Mechanical Engineering degree. * Pre-requisites for required courses: ME 10444 Automotive Engineering I - Internal Combustion Engines - ENGR 01291, ME 10301 ME 10445 Automotive Engineering - Powertrains - ME 10301 ME 10446 Automotive Engineering - Vehicle Dynamics - ENGR 01291 Program Coordinator/Advisor Contact Information Krishan Bhatia Associate Professor & CUGS Advisor Rowan Hall 856.256.5346 bhatia@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

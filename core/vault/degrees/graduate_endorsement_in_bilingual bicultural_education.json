@@ -1,0 +1,55 @@
+{
+    "name": "Graduate Endorsement in Bilingual/Bicultural Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7637&returnto=1028",
+    "content": {
+        "Graduate Endorsement in Bilingual/Bicultural Education": [
+            "Graduate Endorsement in Bilingual/Bicultural Education This program responds to the need for highly qualified teachers prepared to teach content in both the students’ native language and in English to the growing number of Multilingual Learners in schools. The program, approved by the New Jersey State Department of Education, includes 12 credits hours of formal instruction in the following topics: linguistics, language acquisition, development of literacy skills for the second (or additional) language learner, methods of teaching content in bilingual education, and theory and practice of bilingual education. Specific objectives emphasize the application of theory to practice, the development of long-range and short-range plans that integrate language and content, the design of appropriate authentic assessment instruments, and the use of technology to research content and instructional techniques."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BLED",
+                            "course_number": "40510",
+                            "title": "Issues of Language and Cultural Diversity in ESL/Bilingual Programs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40512",
+                            "title": "Linguistics and Second Language Acquisition for Teaching Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40521",
+                            "title": "Teaching Bilingual/Bicultural Education: Process and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40522",
+                            "title": "Integrating Language and Content in the ESL/Bilingual Education Classroom",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The GE in Bilingual/Bicultural Education is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator Contact Information Brooke Hoffman Herman D. James Hall 856.256.4750 hoffmanby@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

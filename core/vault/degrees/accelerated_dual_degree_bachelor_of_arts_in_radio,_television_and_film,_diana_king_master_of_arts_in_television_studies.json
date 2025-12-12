@@ -1,0 +1,58 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Radio, Television & Film, Diana King Master of Arts in Television Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7008&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Radio, Television & Film, Diana King Master of Arts in Television Studies": [
+            "Accelerated Dual Degree: Bachelor of Arts in Radio, Television & Film, Diana King Master of Arts in Television Studies The Accelerated Dual Degree Bachelor of Arts in Radio, Television & Film/Diana King Master of Arts in Television Studies allows exceptional, highly motivated students to complete both a bachelor’s and a master’s degree in five years rather than the normal six. In this ADD program, students begin taking graduate courses during their senior year, advancing their graduate studies while still at the undergraduate level and while paying undergraduate tuition and fees. Twelve graduate credits are applied to both the undergraduate and graduate requirements under this dual degree program. Application procedures and further information are available at: Accelerated BA/MA ."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Radio, Television, & Film Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "10512",
+                            "title": "Television Genre and History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10511",
+                            "title": "Research Methods in Television Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10514",
+                            "title": "Identity on Television",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h. Consult your advisor. The following are examples of courses to be taken."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 18 s.h.": [
+            "Required MA Courses taken as a Graduate student: 18 s.h. The remaining courses for the Master’s degree are as shown in Diana King Master of Arts in Television Studies"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

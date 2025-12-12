@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Elements of Business",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6958&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Elements of Business": [
+            "Certificate of Undergraduate Study in Elements of Business The Certificate of Undergraduate Study (CUGS) in Elements of Business is offered to students in the Pre-Business Track within the Exploratory Studies Program. Students who choose not to pursue a major or minor in Business, may receive this CUGS for completion of the required business coursework. This CUGS is not available to students with majors or minors offered by the Rohrer College of Business"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "The requirements include the following four courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BUS",
+                            "course_number": "01105",
+                            "title": "Business Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. RCB Minors/CUGS Advising Team Business Hall RCBMinors@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

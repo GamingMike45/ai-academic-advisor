@@ -1,0 +1,125 @@
+{
+    "name": "Doctor of Philosophy in Pharmaceutical Chemistry",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7530&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Pharmaceutical Chemistry": [
+            "Doctor of Philosophy in Pharmaceutical Chemistry Rowan’s Ph.D. in Pharmaceutical Chemistry is a terminal degree program that will provide students with the skills necessary to succeed in the pharmaceutical and biopharmaceutical industries. This program is highly interdisciplinary and will provide diverse research experiences for the students in: a) preparation of drugs (organic synthesis); b) chemical characterization (analytical chemistry); c) understanding the role of molecular modifications in determining structure-activity relationships (medicinal/biochemistry); d) in vitro and in vivo evaluation of biological targets (pharmacology); and e) understanding the mechanism of action and metabolism of the drug within the body (pharmacodynamics/kinetics). There will be an emphasis on independent supervised research that will culminate in significant new contributions to the field in the form of publications, presentations, or generation of new intellectual property."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07564",
+                            "title": "Advanced Organic Synthesis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07560",
+                            "title": "Advanced Biochemistry Lecture",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08510",
+                            "title": "Advanced Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09522",
+                            "title": "Advanced Bioanalytical Chemistry",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07592",
+                            "title": "Advanced Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07590",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05500",
+                            "title": "Teaching Pedagogy in Chemistry Instruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "06502",
+                            "title": "Responsible Conduct, Rigor, and Reproducibility in Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09603",
+                            "title": "Professional Development and Doctoral Candidacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09602",
+                            "title": "Graduate Seminar",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 21 s.h."
+            ]
+        },
+        "Laboratory/Research Courses: 51 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09601",
+                            "title": "PhD Dissertation Research",
+                            "credits": "1 to 9"
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "01700",
+                            "title": "PhD Dissertation Research Continuation",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Laboratory/Research Courses: 51 s.h. Students will take 51 credits of the below courses (repeated enrollment, as needed)."
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Foundation Courses Required: Two (2) semesters of General Chemistry, Two (2) semesters of Organic Chemistry Recommended: Analytical Chemistry/Quantitative Analysis and Biochemistry Graduation/Exit, Benchmark, and/or Thesis Requirements : Completion of University’s standard Ethical and Responsible Conduct of Research training. Regular attendance and participation in graduate seminars. Successful completion of Ph.D. Qualifier examination (specific details determined by advisory committee). Publication of at least one peer-reviewed conference or journal article or submission of at least two manuscripts to a peer-reviewed journal. Successful completion and defense of doctoral dissertation. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Pharmaceutical Chemistry is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Contact Information Subash C. Jonnalagadda 856.256.5452 PhDPharmChem@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

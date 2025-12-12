@@ -1,0 +1,150 @@
+{
+    "name": "Certificate of Undergraduate Study in Global Health Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6952&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Global Health Studies": [
+            "Certificate of Undergraduate Study in Global Health Studies The Certificate of Undergraduate Study (CUGS) in Global Health Studies is an interdisciplinary program designed to provide students with the opportunity to study the global and local forces (sociocultural, political, economic, biological, and environmental) that affect patterns of health and disease throughout the world. Knowledge gained in completing this CUGS will help prepare students to work in fields related to international health, including the government sector, international development, the non-profit/humanitarian sector, and international healthcare. The CUGS also offers a course of study and credential for students who wish to pursue graduate education."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Two Required Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02355",
+                            "title": "Global Health in Anthropological Perspective",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two Required Courses:"
+            ]
+        },
+        "Two of the following elective courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02221",
+                            "title": "Human Variation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02215",
+                            "title": "Medical Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02312",
+                            "title": "Anthropological Perspectives on Physical Growth and Development.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02420",
+                            "title": "Psychological Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04385",
+                            "title": "Constructing Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04351",
+                            "title": "Health Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05366",
+                            "title": "History of Medicine in Africa",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00302",
+                            "title": "Global Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25100",
+                            "title": "Global Challenges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09376",
+                            "title": "Philosophy of Medicine - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI (if not used as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing (if not used as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07321",
+                            "title": "Contemporary World Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08422",
+                            "title": "Social Determinants of Health: Theory, Method and Intervention",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two of the following elective courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Courses may be taken in any sequence. It should be noted that some elective courses do have prerequisites as established by the departments or programs that oversee them. According to University policy, students may only double count two courses from another single major, minor, or CUGS in fulfilling the requirements for this CUGS. Students in the CUGS should work with their academic advisor and with the coordinator of International Studies to determine the selection and sequence of coursework for the CUGS that best meets their needs. Dr. Carla Lewandowski Coordinator Campbell Library lewendowskic@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "name": "Certificate of Undergraduate Study in Music Composition",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7438&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Music Composition": [
+            "Certificate of Undergraduate Study in Music Composition The Certificate of Undergraduate Study (CUGS) in Music Composition consists of applied lessons in composition and elective courses in music history, music theory and computer music applications. The program is available to music BM, BA, and BS majors. The CUGS is intended to provide an opportunity for music majors outside of the composition program to gain experience composing music. Students interested in this CUGS must consult with the Coordinator of Composition before entering the CUGS."
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "02105",
+                            "title": "Secondary Applied Instrument (composition lessons: 4 semesters, 4 credits total)",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Take three of the following courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "04118",
+                            "title": "Music Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04103",
+                            "title": "Music Theory I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06115",
+                            "title": "Growth and Development of Jazz",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40122",
+                            "title": "Computer Technology and Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40111",
+                            "title": "Business of Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40201",
+                            "title": "History of Popular Music",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06335",
+                            "title": "History and Literature of Western Music Repertories III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04190",
+                            "title": "Music Composition and Theory for Media I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04290",
+                            "title": "Music Composition and Theory for Media II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Take three of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 13-14 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 13-14 s.h. Music majors may double count up to six credits of this CUGS with their major program. Alexandria Funkhauser, MA Senior Academic Advisor 856.256.5183 daniels@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Undergraduate Study in Geotechnical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7055&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Geotechnical Engineering": [
+            "Certificate of Undergraduate Study in Geotechnical Engineering The Certificate of Undergraduate Study (CUGS) in Geotechnical Engineering will allow students to take courses specific to Geotechnical Engineering as well as courses that will establish a background in the related field of Geology. This will allow students to graduate from Rowan University better prepared for a career specifically in geotechnical engineering than they would with just the BS degree, and provide them with an additional credential beyond the BS, yet prior to earning a MS degree."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08452",
+                            "title": "Foundation Engineering for Seniors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08453",
+                            "title": "Earth Retaining Systems for Seniors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01201",
+                            "title": "Mineralogy and Petrology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four courses:"
+            ]
+        },
+        "Choose one Course from the Following List:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01320",
+                            "title": "Sedimentology and Stratigraphy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01340",
+                            "title": "Tectonics and Structural Geology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one Course from the Following List:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Prerequisites for admission to the CUGS are CEE 08351 Geotechnical Engineering and GEOL 01101 Physical Geology. These courses also serve as prerequisites for all of the required or elective course listed above. Gilson R. Lomboy Advisor Rowan Hall Room 136 lomboy@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

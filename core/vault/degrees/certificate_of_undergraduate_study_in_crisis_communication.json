@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Undergraduate Study in Crisis Communication",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7502&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Crisis Communication": [
+            "Certificate of Undergraduate Study in Crisis Communication This 12-credit certificate prepares the student from any major of study to assess, prepare, and manage critical messages in both internal and external crisis situations that may affect industries across a wide variety of disciplines. A certificate in crisis communication allows students to experience the specialty area of crisis management/crisis communication and understand not only the theory but also the strategic practice of managing and disseminating information during emergencies or critical events. Crisis communicators allow an organization to minimize damage, maintain public trust, and protect its reputation. Students in this certificate program can serve an internship at a crisis communication agency for experiential learning."
+        ],
+        "Program Requirements: 12 s.h.": [
+            "Program Requirements: 12 s.h."
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "05320",
+                            "title": "Crisis Communication Survival Skills",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05321",
+                            "title": "Crisis Communication in Modern Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00410",
+                            "title": "Public Leadership in Crisis Management & Communications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "06354",
+                            "title": "News Trends and Media Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06324",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. Choose one course"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students will earn the CUGS with the completion of four courses (12 s.h.) with a grade of C- or better in each course. The courses are all elective options in the BA in Public Relations and the BA in Advertising. Courses may be taken in any order. Dr. Suzanne FitzGerald 856-256-4312 sparks@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

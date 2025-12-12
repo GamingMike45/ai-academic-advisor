@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Undergraduate Study in Women, Gender, & Media",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7187&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Women, Gender, & Media": [
+            "Certificate of Undergraduate Study in Women, Gender, & Media Women’s & Gender Studies is an interdisciplinary field that examines gender roles in the complex contexts of culture and society, raising important questions about social, political, economic, and cultural institutions. The Certificate of Undergraduate Study in Women, Gender, & Media fosters intellectual development and professional preparation by drawing upon academic areas such as art history, communications studies, film studies, and literature, broaden understanding of gender and diversity issues in media."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "The requirements include the following core course:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies OR Honors Women and Gender in Perspective",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The requirements include the following core course:"
+            ]
+        },
+        "And three electives drawn from the course list below:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03340",
+                            "title": "Survey of Women Artists",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04310",
+                            "title": "Images of Gender in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04320",
+                            "title": "Communicating Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And three electives drawn from the course list below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Melissa R. Klapper Coordinator Robinson Hall 216N 856.256.4500 ext. 53982 klapper@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

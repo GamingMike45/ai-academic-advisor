@@ -1,0 +1,145 @@
+{
+    "name": "Bachelor of Science in Geographic Information Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7274&returnto=1028",
+    "content": {
+        "Bachelor of Science in Geographic Information Science": [
+            "Bachelor of Science in Geographic Information Science The Bachelor of Science in Geographic Information Science (BSGIS) major is a professional degree program that prepares students for a range of careers dealing with geospatial technologies, modeling, and spatial problem-solving. Graduates of our program are well-prepared for positions in research laboratories, local, state, and federal agencies, private companies, planning departments, engineering firms, and many others. Our students are also excellently prepared for pursuing advanced graduate degree programs. The BSGIS program provides students with in-depth skills in GIS analysis and programming. The program has a special focus on web-based mapping, environmental sustainability and the emerging field of geodesign which coordinates well with our planning offerings."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Introductory Geography Requirements: 6 s.h": {
+            "requirements": [],
+            "notes": [
+                "Introductory Geography Requirements: 6 s.h Take two of the following courses:",
+                "GEOG 16100 - Earth, People, and the Environment (Satisfies Global Literacy (GLBL) Requirement) Credits: 3",
+                "GEOG 16110 - Cultural Geography (Satisfies Global Literacy (GLBL) Requirement) Credits: 3",
+                "GEOG 16140 - World Regional Geography (Satisfies Global Literacy (GLBL) Requirement) Credits: 3"
+            ]
+        },
+        "GIS Foundational Courses: 31 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS) *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16261",
+                            "title": "Cartography *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16290",
+                            "title": "History and Methods of Modern Geography *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16350",
+                            "title": "Quantitative and Qualitative Methods *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16360",
+                            "title": "Applications of Geographic Information Systems *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16365",
+                            "title": "Geospatial Measurement and Environmental Modeling *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16370",
+                            "title": "Drones, Planes, and Satellites *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16390",
+                            "title": "Geography Research Clinic/Studio *",
+                            "credits": "1 to 6"
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16490",
+                            "title": "Undergraduate Research Seminar in Geography (Senior Seminar) - WI (Satisfies Writing Intensive (WI) Attribute) *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "GIS Foundational Courses: 31 s.h. Take the following courses:",
+                "GEOG 16160 - Digital Earth: Mapping and Geographic Information Science (Satisfies Artistic (ARTL) Literacy Requirement) * Credits: 3"
+            ]
+        },
+        "GIS Electives: 6 s.h.": [
+            "GIS Electives: 6 s.h. Must complete two additional GIS or related courses (6 sh) chosen in consultation with your academic advisor."
+        ],
+        "Quantitative Methods Elective: 3-4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Quantitative Methods Elective: 3-4 s.h. Choose one of the courses below:",
+                "STAT 02260 - Statistics I (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 3",
+                "MATH 01130 - Calculus I (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 4"
+            ]
+        },
+        "Geography Program Electives: 12 s.h.": [
+            "Geography Program Electives: 12 s.h. Majors must take four additional courses (12 sh) offered within the department, selected in consultation with the academic advisor. It is imperative that these courses are chosen to complete a second major, minor, or CUGS offered by the Department."
+        ],
+        "Free Electives: 34-35 s.h.": [
+            "Free Electives: 34-35 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. For information related to this major or minor, please contact: Ashley York, Ph.D. 856.256.4811 yorka@rowan.edu Bachelor of Science GIS Graduation Requirements 2.00 Overall G.P.A. 2.5 Major G.P.A. GIS BS majors must complete all GIS Courses with a ‘C’ or better (classes marked with *).",
+                "Notes:"
+            ]
+        }
+    }
+}

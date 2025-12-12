@@ -1,0 +1,621 @@
+{
+    "name": "Bachelor of Fine Arts in Studio Art",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6981&returnto=1028",
+    "content": {
+        "Bachelor of Fine Arts in Studio Art": [
+            "Bachelor of Fine Arts in Studio Art A professional studio-intensive degree program for students who wish to prepare for a career in visual arts. The Bachelor of Fine Arts students experience a thorough grounding in fundamental principles and techniques, continuing into an emphasis in one or more specific art and design areas: ceramics, graphic design, illustration, metals & jewelry, painting, photography, printmaking, and sculpture. The students discover personal aesthetics and develop technical expertise and creative artistic strengths through a range of artistic problems that prepare them as practicing artists and/or provide the credentials for continued studies at the graduate level."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Major Requirements": [
+            "Major Requirements Major requirements must receive a grade of C or better."
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Non-Program Courses: 18 s.h. Courses in this area cannot be in the Major Department. Any Music, Theater or Dance Course that satisfies Artistic Literacy (ARTL) - Credits: 3"
+            ]
+        },
+        "Foundation Core: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "02100",
+                            "title": "Drawing I: Representational Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02105",
+                            "title": "Color and Design: Two Dimensional",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02200",
+                            "title": "Expressive Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02240",
+                            "title": "Introduction to Sculpture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundation Core: 15 s.h."
+            ]
+        },
+        "Review/Exhibition: 0 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "02222",
+                            "title": "Studio Core Portfolio Review",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09390",
+                            "title": "Work In Progress Review",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09490",
+                            "title": "B.F.A. Senior Thesis Exhibition",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Review/Exhibition: 0 s.h."
+            ]
+        },
+        "Art History: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03103",
+                            "title": "Art History Survey I: Prehistory to Medieval",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03104",
+                            "title": "Art History Survey II: Renaissance to Modern",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Art History: 12 s.h.",
+                "Additional 6 s.h. from the Art History electives"
+            ]
+        },
+        "Primary Studio: 12 s.h": [
+            "Primary Studio: 12 s.h Choose 4 classes in one area*"
+        ],
+        "Support Studio: 9 s.h.": [
+            "Support Studio: 9 s.h. Choose 3 classes in a supportive area *"
+        ],
+        "Additional Studio: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "02110",
+                            "title": "Figure Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09303",
+                            "title": "Professional Practices in Art I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09308",
+                            "title": "Color Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Studio: 30 s.h. The 30 credits must include the following three courses.",
+                "Additional 21 s.h. from the Art Studio Electives"
+            ]
+        },
+        "Electives:15 s.h.": [
+            "Electives:15 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Available Concentrations:": [
+            "Available Concentrations: Undergraduate Concentration in Animation Undergraduate Concentration in Contemporary Realist Art Undergraduate Concentration in Graphic Design Undergraduate Concentration in Illustration"
+        ],
+        "Art Elective Bank": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03103",
+                            "title": "Art History Survey I: Prehistory to Medieval",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03104",
+                            "title": "Art History Survey II: Renaissance to Modern",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03130",
+                            "title": "Art Appreciation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03220",
+                            "title": "Modern Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03241",
+                            "title": "History of Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03252",
+                            "title": "Concepts In Art Criticism - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03310",
+                            "title": "History of American Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03340",
+                            "title": "Survey of Women Artists",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03350",
+                            "title": "History of Graphic Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03425",
+                            "title": "Special Problems in Art History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02100",
+                            "title": "Drawing I: Representational Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02105",
+                            "title": "Color and Design: Two Dimensional",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02110",
+                            "title": "Figure Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02200",
+                            "title": "Expressive Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02220",
+                            "title": "Introduction to Painting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02260",
+                            "title": "Introduction to Printmaking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02301",
+                            "title": "Intermediate Sculpture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02315",
+                            "title": "Intermediate Painting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02317",
+                            "title": "Intermediate Printmaking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02318",
+                            "title": "Special Topics in Printmaking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02325",
+                            "title": "Intermediate Figure/Life Painting and Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02327",
+                            "title": "Introduction to Watercolor",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02400",
+                            "title": "Independent Study Credits: 0.5 to 9",
+                            "credits": null
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02414",
+                            "title": "Advanced Painting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09210",
+                            "title": "Introduction to Metals and Jewelry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09228",
+                            "title": "Introduction to Illustration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09240",
+                            "title": "Introduction to Ceramics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09251",
+                            "title": "Introduction to Figure Anatomy for the Artist",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09252",
+                            "title": "Introduction to Natural Science & Zoological Illustration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09303",
+                            "title": "Professional Practices in Art I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09304",
+                            "title": "Digital Painting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09308",
+                            "title": "Color Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09311",
+                            "title": "Intermediate Metals and Jewelry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09327",
+                            "title": "Visual Narrative",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09336",
+                            "title": "Intermediate Illustration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09343",
+                            "title": "Introduction to Graphic Design I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09344",
+                            "title": "Intermediate Graphic Design II: Typography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09346",
+                            "title": "Computer Aided Design (CAD): 3D Modeling for the Artist/Designer",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09349",
+                            "title": "Intermediate Graphic Design III: Visual Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09350",
+                            "title": "Intermediate Graphic Design IV: Packaging",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09352",
+                            "title": "Intermediate Ceramics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09354",
+                            "title": "Special Topics in Graphic Design",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09356",
+                            "title": "Introduction to Digital Rendering and Illustration Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09358",
+                            "title": "Web Design: Designing For The World Wide Web",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09360",
+                            "title": "Storyboarding & Animation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09361",
+                            "title": "Scientific and Medical Sculpture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09363",
+                            "title": "Advanced Graphic Design V: Publication Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09365",
+                            "title": "Motion Graphics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09366",
+                            "title": "Introduction to 3D Animation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09373",
+                            "title": "Advanced Problems in Biomedical Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09411",
+                            "title": "Advanced Metals and Jewelry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09419",
+                            "title": "Advanced Illustration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09430",
+                            "title": "Animation Practicum",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09436",
+                            "title": "3D Digital Fabrication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09450",
+                            "title": "Advanced Ceramics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09464",
+                            "title": "Advanced Graphic Design VIII: Identity Systems and Portfolio",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09490",
+                            "title": "B.F.A. Senior Thesis Exhibition",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09456",
+                            "title": "Biomedical Art Senior Thesis Exhibition and Portfolio Capstone",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARTG",
+                            "course_number": "01450",
+                            "title": "Internship",
+                            "credits": "3 to 9"
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "09375",
+                            "title": "Video Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11251",
+                            "title": "Introduction to Film Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11276",
+                            "title": "Intermediate Film Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11350",
+                            "title": "Intermediate Digital Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11380",
+                            "title": "Digital Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11406",
+                            "title": "Advanced Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09200",
+                            "title": "Theory and Analysis of Art Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09201",
+                            "title": "Community Art Education for Elementary through Middle Grades",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09202",
+                            "title": "Community Art Education for Secondary Grades",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09306",
+                            "title": "Special Topics in Art",
+                            "credits": "1 to 3"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Art Elective Bank",
+                "Art History Electives",
+                "Studio Electives",
+                "Non-Studio Art Electives"
+            ]
+        },
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. *Primary Studio and support courses are determined with academic and studio advisors. Studios include Ceramics, Graphic Design, Illustration, Metals/Jewelry, Painting, Photography, Printmaking, and Sculpture. Rachel Budmen Advisor budmen@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

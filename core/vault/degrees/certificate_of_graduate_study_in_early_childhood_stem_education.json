@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Graduate Study in Early Childhood STEM Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7642&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Early Childhood STEM Education": [
+            "Certificate of Graduate Study in Early Childhood STEM Education The Certificate of Graduate Study in Early Childhood STEM Education is designed to prepare early childhood educators to understand STEM content and to meaningfully address the issues and demands of science, technology, engineering, and math in early childhood contexts. The program will provide early childhood educators with the necessary knowledge and skills to advance change within school and community-based contexts."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECED",
+                            "course_number": "23531",
+                            "title": "Equity and Social Justice in Early Childhood STEM Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23532",
+                            "title": "Experimenting with Art and Matter in Early Childhood",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23533",
+                            "title": "Math, Engineering and Technology in Early Childhood",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23534",
+                            "title": "Environment and Nature in the Early Years",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23535",
+                            "title": "Inquiry for Early Childhood Educators",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Early Childhood STEM Education is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Zeynep Ercan 3043 Herman D. James Hall 856.256.4500, ext.3806 ercan@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "name": "Master of Science in Systems Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7977&returnto=1028",
+    "content": {
+        "Master of Science in Systems Engineering": [
+            "Master of Science in Systems Engineering The Electrical & Computer Engineering program provides students an opportunity to expand their skill sets in advanced and emerging topics of systems engineering interest through the Master of Science in Systems Engineering degree program. This interdisciplinary career-oriented program consists of 12 credits of required courses, 12 credits of courses from one of the several COGS, and 6 additional credits of electives. The program offers opportunities for stacked credentials through the existing certificates of graduate studies (COGS). In their program of study for M.S. in Systems Engineering, students choose any of the approved COGS in Combat Systems Engineering (a unique Rowan ECE offering that is not available anywhere else in the country), Machine Learning, Cybersecurity Engineering, Power Systems Engineering, Wind Energy Systems, Project Management, Engineering Analytics & Quality Control, Software Engineering, cybersecurity Principles, or others (the approved list appears below). Additional electives may be chosen from any of the approved COGS other than the one main COGS chosen, as well as other engineering and business courses, providing students with a unique flexibility and diversity of courses, allowing the students to custom design their MS in Systems Engineering to best fit their careers’ specific needs. The M.S. in Systems Engineering program can be completed in a thesis or professional (course-only/non-thesis) track. In the thesis track, 6 credits from 2 electives are replaced with the thesis work. With an appropriate selection of courses, BS in Electrical & Computer Engineering and MS in Systems Engineering (professional track) can be completed in a 4+1 BS/MS format."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09521",
+                            "title": "Fundamentals of Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09527",
+                            "title": "Advanced Model Based Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09528",
+                            "title": "Reliability in Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09568",
+                            "title": "Discrete Event Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10530",
+                            "title": "Reliability Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10561",
+                            "title": "Engineering Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06585",
+                            "title": "Engineering Quality Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03512",
+                            "title": "Operations Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09529",
+                            "title": "Project Management in Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01543",
+                            "title": "Systems for Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02525",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02526",
+                            "title": "Project Management for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02522",
+                            "title": "Systems Analysis and Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h.",
+                "Choose one of the following Reliability/Quality Control/Statistics courses:",
+                "And then choose one of the following Engineering/Project Management Courses:"
+            ]
+        },
+        "Elective COGS: 12 s.h.": [
+            "Elective COGS: 12 s.h. Choose and complete any one (1) of the below listed approved COGS with a four-course sequence for a total of 12 credits. Certificate of Graduate Study in Combat Systems Engineering Certificate of Graduate Study in Cybersecurity Engineering Certificate of Graduate Study in Cybersecurity Principles Certificate of Graduate Study in Engineering Analytics & Quality Control Certificate of Graduate Study in Machine Learning Certificate of Graduate Study in Power Systems Engineering Certificate of Graduate Study in Project Management Certificate of Graduate Study in Software Engineering Certificate of Graduate Study in Wind Energy"
+        ],
+        "Other Available Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09536",
+                            "title": "Systems On Chips: Design and Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09537",
+                            "title": "Microsystems and Microfabrication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09552",
+                            "title": "Digital Image Processing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09556",
+                            "title": "Advanced Embedded Software Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09568",
+                            "title": "Discrete Event Systems (if not already chosen above)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09573",
+                            "title": "Advanced Smart Sensors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01510",
+                            "title": "Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10533",
+                            "title": "Renewable Energy: Photovoltaics and Energy Harvesting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10540",
+                            "title": "Advanced Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10542",
+                            "title": "Advanced Mechatronics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10543",
+                            "title": "Advanced Design for X",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10561",
+                            "title": "Engineering Optimization (if not already chosen above)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10566",
+                            "title": "Soft Robotics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10582",
+                            "title": "Flight Dynmaics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06505",
+                            "title": "Entrepreneurship and Innovation *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06531",
+                            "title": "Sustainability Assessment *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06532",
+                            "title": "Topics in Sustainability Innovation and Problem Solving *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07510",
+                            "title": "Quality Analytics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09605",
+                            "title": "Supply Chain Strategy *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01620",
+                            "title": "Analytics for Supply Chain Management *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Other Available Electives: 6 s.h. Choose any two (2) graduate-level courses from any of the other COGS (other than the main COGS you have already picked) and/or “Other Available Electives” list below. Note that some of these courses may have prerequisites, and not all courses are offered every semester or year.",
+                "ECE 09538 - Nanoelectronics, Nanophotonics and Nanotechnology Credits: 3",
+                "Note: Courses indicated with an * are restricted to College of Business / Management/MIS/ENT students. These programs have approved MS in Systems Engineering students to take these courses subject to seat availability. If you are interested in taking one of these classes, please send an e-mail to GraduateBusinessStudies@rowan.edu with a registration request, identifying yourself as an M.S. in Systems Engineering student. They will typically respond within 24 business hours. All courses listed within a COGS are available to all students who declare that COGS, and therefore no additional permission is needed."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Minimum Grade and Cumulative GPA Requirements M.S. in Systems Engineering is a Category 3 graduate program. Grades in the required courses must be B- or better. No more than two elective courses with a “C” or “C+” may be counted towards graduation requirements. Grades of “C-” or lower cannot be used towards graduation requirements. Students must maintain a GPA of 2.7 or higher. A minimum cumulative GPA of 2.7 is also required to graduate. Up to 6 approved credits can be transferred into the M.S. in Systems Engineering program. Contact Information Robi Polikar polikar@rowan.edu 856.256.5372 Jie Li lijie@rowan.edu 856.256.5343",
+                "Notes:"
+            ]
+        }
+    }
+}

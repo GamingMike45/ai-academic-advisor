@@ -1,0 +1,127 @@
+{
+    "name": "Minor in Human Resource Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6970&returnto=1028",
+    "content": {
+        "Minor in Human Resource Management": [
+            "Minor in Human Resource Management The goal of the minor program is to provide non-Business majors with the opportunity to qualify for entry-level human resource management positions. The objective of the program is to understand the legal and regulatory environment of human resource management, to develop the capability of using state-of-the-art hiring and recruiting techniques, and to learn how to harmonize an organization’s compensation systems with its strategic goals. The program is based on the required human resource management coursework of the major in human resource management except that it has fewer required courses and fewer elective courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HRM",
+                            "course_number": "06302",
+                            "title": "Management of Human Resources",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "08220",
+                            "title": "Personnel Psychology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06425",
+                            "title": "Management of Compensation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "98337",
+                            "title": "Legal Aspects of Human Resource Management (WI)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h.",
+                "HRM 06315 - Recruitment and Selection Credits: 3"
+            ]
+        },
+        "Electives: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06361",
+                            "title": "Supervised Internship *",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01422",
+                            "title": "Field Experiences in Psychology *",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "06420",
+                            "title": "Principles of Training and Training Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HRM",
+                            "course_number": "16401",
+                            "title": "Labor and Employee Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06304",
+                            "title": "Organizational Change and Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05402",
+                            "title": "Psychology of Conflict and Conflict Resolution",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01329",
+                            "title": "Health Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01331",
+                            "title": "Occupational Health Psychology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 3 s.h. Select one (3 s.h.) courses from the list below"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. * The internship or field experience must involve human resource management duties in order to count towards the minor. To Apply Students must complete at least twelve (letter graded) credit hours at Rowan and hold at least a 2.5 GPA. Students must have completed or be currently enrolled in either HRM 06302 Management of Human Resources or PSY 08220 Personnel Psychology. Application for the minor can be made by sending an email to Dr. Joel Rudin, rudin@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

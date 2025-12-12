@@ -1,0 +1,115 @@
+{
+    "name": "Certificate of Undergraduate Study in Urban & Community Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7136&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Urban & Community Studies": [
+            "Certificate of Undergraduate Study in Urban & Community Studies The Certificate of Undergraduate Studies (CUGS) in Urban & Community Studies will train students in a deep understanding and analysis of the political, economic, and social roots of problems arising in urbanization, emphasizing the social phenomena of contemporary cities, the problems, and possible solutions in mass societies, and metropolitan and regional interdependence. With a tripling of the global population over the past 60 years and the drive for mass consumption, urban sociology provides a foundation best suited to address spatial and consumption issues for crowded populations, focusing on the social processes that create challenges and stratification in urban areas, including the pros and cons of urban planning, gentrification, mechanisms of social control, social stratification, socioeconomic stratification, race relations, racial and ethnic residential segregation and stratification, migration of immigrants/refugees/asylum-seekers from diverse religious and cultural backgrounds, contests over sanctuary cities, the ghettoization of immigrant/refugee groups, environmental pollution, lack of affordable housing, food deserts, and the crime arising in cities because of the poverty created by deindustrialization and joblessness. Electives from political science, economics, geography, and law & justice will provide additional perspectives on urban and community problems. Graduates will also understand the rise of cities, the creation of the suburbs, rural regions, and the implications of institutionalized inequalities in all three spaces for a democratic society. Career paths open to students with this training include regional and urban planners, urban administrators, public policy creators, lawyers, local and national politicians, governmental agency employees, special interest lobbyists in anti-discrimination/social movement organizations, economists, community developers, community and social service providers, educators, human resource personnel, communications, and research."
+        ],
+        "Program Requirements": [
+            "Program Requirements (15 with required courses prerequisite). History and Economics electives have additional prerequisites if they are chosen to complete the CUGS. The requirements include the following four (4) three (3) credit courses:"
+        ],
+        "The following course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08320",
+                            "title": "Urban Sociology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The following course: 3 s.h."
+            ]
+        },
+        "One of the following: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08405",
+                            "title": "Applied Community Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08431",
+                            "title": "Social Psychology of City Life",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "15322",
+                            "title": "Sociology of Population",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08441",
+                            "title": "Sociology of Migration: Contemporary Perspectives",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following: 3 s.h."
+            ]
+        },
+        "Two of the following: 6.s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04360",
+                            "title": "Urban Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05334",
+                            "title": "US Urban History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05274",
+                            "title": "Criminal Justice and Community Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two of the following: 6.s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. It is required to take Introduction to Sociology (prerequisite) prior to Urban Sociology in the first semester. It is recommended to take Urban Sociology before the other sociology course. Other courses may be taken in any order and/or concurrently; however, both history and economics courses have additional prerequisites which must be taken prior to taking the elective course. Nadine Sullivan Advisor Campbell Library, 5th Floor 856.256.4500 sullivann@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

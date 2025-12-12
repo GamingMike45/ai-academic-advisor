@@ -1,0 +1,76 @@
+{
+    "name": "Master of Professional Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7559&returnto=1028",
+    "content": {
+        "Master of Professional Studies": [
+            "Master of Professional Studies The Master of Professional Studies (M.P.S.) will provide students with the organizational leadership and analytical skills needed to secure stable administrative positions in areas such as healthcare, accounting, marketing, or management. The program is comprised of a core curriculum of vital strategies in project management, team building, and analytics, coupled with a focus on a concentrated area by applying an approved certificate of graduate study (see below) based on student preference. Studies are finalized with an application of skills in an action study course. Students who graduate from this program will be prepared to move forward within their current industry or transition to a new one by demonstrating in-depth analytical competencies, leadership skills, and the communication of thoughtful solutions."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MPS",
+                            "course_number": "22503",
+                            "title": "Foundations of Agile Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22551",
+                            "title": "Foundations of Data Analytics and Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22600",
+                            "title": "Project Management and Team Building",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22699",
+                            "title": "Action Study: Master of Professional Studies Research",
+                            "credits": "1 to 3"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h."
+            ]
+        },
+        "Required COGS Elective: 15 s.h.": [
+            "Required COGS Elective: 15 s.h. Elective credit in the MPS is completed by fulfilling all of the requirements of one 15 s.h. Certificate of Graduate Study.  Completion of one Certificant of Graduate Study is a requirement for the MPS and oversight is provided by the department/program offering the certificate. The list of COGS that fulfill MPS requirements include: Administrative Science Business Corporate Entrepreneurship First Responder Executive Leadership Management Information Systems Sustainable Business Where a COGS has less than 15 s.h. to complete, the student will be required to take the remaining semester hours as electives from the department/program that offers the COGS or other approved graduate electives, as chosen in conjunction with the Program Coordinator."
+        ],
+        "Certificate of Graduate Study in Administrative Science: 15 s.h.": [
+            "Certificate of Graduate Study in Administrative Science: 15 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Administrative Science."
+        ],
+        "Certificate of Graduate Study in Business: 9 s.h.": [
+            "Certificate of Graduate Study in Business: 9 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Business."
+        ],
+        "Certificate of Graduate Study in Corporate Entrepreneurship: 9 s.h.": [
+            "Certificate of Graduate Study in Corporate Entrepreneurship: 9 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Corporate Entrepreneurship."
+        ],
+        "Certificate of Graduate Study in First Responder Executive Leadership: 12 s.h.": [
+            "Certificate of Graduate Study in First Responder Executive Leadership: 12 s.h. For information regarding the COGS please visit Certificate of Graduate Study in First Responder Executive Leadership."
+        ],
+        "Certificate of Graduate Study in Management Information Systems: 10.5 s.h.": [
+            "Certificate of Graduate Study in Management Information Systems: 10.5 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Management Information Systems."
+        ],
+        "Certificate of Graduate Study in Sustainable Business: 9 s.h.": [
+            "Certificate of Graduate Study in Sustainable Business: 9 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Sustainable Business."
+        ],
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements Satisfy all course requirements as dictated by the academic department. Minimum Required Grades and Cumulative GPA The Master of Professional Studies is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Advisor Dennis Barrera Enterprise Center Third Floor 856-256-5582 barrerad@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

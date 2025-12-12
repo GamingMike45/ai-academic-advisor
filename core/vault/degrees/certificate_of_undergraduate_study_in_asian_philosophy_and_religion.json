@@ -1,0 +1,79 @@
+{
+    "name": "Certificate of Undergraduate Study in Asian Philosophy & Religion",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7110&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Asian Philosophy & Religion": [
+            "Certificate of Undergraduate Study in Asian Philosophy & Religion The Certificate of Undergraduate Study (CUGS) in Asian Philosophy & Religion is designed to complement and enrich a student’s major program, as well as to prepare students for graduate studies and professional careers. A Certificate in Asian Philosophy & Religion will appeal to students who are interested in learning Asian Philosophy & Religion. It will help students to gain knowledge and critical training in the area of Asian Philosophy & Religion, and acquire the in-depth understanding and appreciation of core aspects of Asian culture. It will enable students to readily take those jobs that increasingly require the knowledge of Asian culture in the areas such as education, business, government, health care, communication, public relations, and international affairs. No prior background in Philosophy or Religion Studies is required. Any student pursuing an undergraduate degree at Rowan University is eligible to apply. The Certificate of Undergraduate Study in Asian Philosophy & Religion may be declared either in the Philosophy & World Religions Department in Bunce Hall (856-256-4075), Third Floor or with Christine Larsen-Britt (larsen-britt@rowan.edu) of the College of Humanities & Social Sciences Dean’s Office."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Foundational Requirements: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09231",
+                            "title": "Asian Thought",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10230",
+                            "title": "Religions of Asia",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Requirements: 3 s.h."
+            ]
+        },
+        "Asian Philosophy & Religion Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10350",
+                            "title": "Spirituality and Healing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11440",
+                            "title": "Topics in Philosophy and World Religions (in Asian related topics)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Asian Philosophy & Religion Electives: 9 s.h. Choose three of the following courses. No courses may be taken P/NC."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Advisor Christine Larsen-Britt 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

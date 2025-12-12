@@ -1,0 +1,84 @@
+{
+    "name": "Certificate of Graduate Study in International Crisis Management & Security",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7713&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in International Crisis Management & Security": [
+            "Certificate of Graduate Study in International Crisis Management & Security The Certificate of Graduate Study (COGS) in International Crisis Management & Security is an interdisciplinary academic field that analyzes the causes of global conflict (war), systemic oppression, and explores processes by which crisis and security can be managed to maximize justice while minimizing violence. The COGS in International Crisis Management & Security is designed as a stand-alone credential.  While pursuing a master’s degree in Emergency & Threat Response Management, Criminal Justice, or Public Policy, students earning the graduate certificate will have the theoretical understanding of international crisis response, management and security operations."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00655",
+                            "title": "Threat Assessment in Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00651",
+                            "title": "Foundations of Global Threats, Risks and Response",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00633",
+                            "title": "Global Crisis Monitoring, Conflict Analysis and Early Warning Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses Students are required to select two (2) of the following courses:"
+            ]
+        },
+        "Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00531",
+                            "title": "Cyber Security Risk Analysis in Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00631",
+                            "title": "Security, Securitization, and Migration in Emergency Management and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08591",
+                            "title": "Social Dynamics of Political Violence, Insurgency and Civil Unrest",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses Select one (1) course from the list below"
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. To be awarded the Certificate of Graduate Study in International Crisis Management & Security, students must complete all courses required for the COGS in International Crisis Management & Security with at least a 2.0 average. Program Advisor DeMond Miller Campbell Library 5th Floor 856.256.4500 ext 53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

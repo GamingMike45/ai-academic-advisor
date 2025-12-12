@@ -1,0 +1,211 @@
+{
+    "name": "Doctor of Osteopathic Medicine/Doctor of Philosophy in Molecular Cell Biology & Neuroscience",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7978&returnto=1028",
+    "content": {
+        "Doctor of Osteopathic Medicine/Doctor of Philosophy in Molecular Cell Biology & Neuroscience": [
+            "Doctor of Osteopathic Medicine/Doctor of Philosophy in Molecular Cell Biology & Neuroscience"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Foundational Coursework: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00703",
+                            "title": "Molecular Cell Biology and Neuroscience Foundations I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00704",
+                            "title": "Molecular Cell Biology and Neuroscience Foundations II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Coursework: 8 s.h."
+            ]
+        },
+        "Skill Courses: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00812",
+                            "title": "Quantitative Methods",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00803",
+                            "title": "Scientific Writing",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Skill Courses: 4 s.h."
+            ]
+        },
+        "Focus Courses: 8-9 s.h.:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00810",
+                            "title": "Biomolecular Interactions",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00806",
+                            "title": "Graduate Genetics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00602",
+                            "title": "Antimicrobial Drugs: Mechanisms of Action & Resistance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00603",
+                            "title": "Immunology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00612",
+                            "title": "Principles of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00813",
+                            "title": "Neuroanatomy: Structure and Function of the Vertebrate Nervous System",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00815",
+                            "title": "Neuropharmacology and Behavior",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00814",
+                            "title": "Neurophysiology",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00817",
+                            "title": "Advanced Emerging Topics in Biomedical Science",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00804",
+                            "title": "Critical Readings in Molecular Cell Biology & Neuroscience",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00816",
+                            "title": "Research Topics in Neurobiology",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Courses: 8-9 s.h.:"
+            ]
+        },
+        "Additional Required Courses: Minimum of 54 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00910",
+                            "title": "Responsible Conduct in Research",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00901",
+                            "title": "Laboratory Rotation A - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00902",
+                            "title": "Laboratory Rotation B - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00903",
+                            "title": "Laboratory Rotation C - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00904",
+                            "title": "Laboratory Rotation D - MCBN",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00920",
+                            "title": "Advanced Graduate Research (taken twice for a total of 10 s.h.)",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00925",
+                            "title": "Summer Research Molecular Cell Biology and Neuroscience (taken at least once)",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00990",
+                            "title": "Summer Thesis Research/PhD (taken at least once)",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00999",
+                            "title": "Thesis Research/Ph.D. (taken at least 3 times for a total of 27 s.h.)",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Required Courses: Minimum of 54 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: Minimum of 74 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Minimum of 74 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

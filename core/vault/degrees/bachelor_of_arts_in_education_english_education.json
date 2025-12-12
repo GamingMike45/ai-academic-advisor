@@ -1,0 +1,204 @@
+{
+    "name": "Bachelor of Arts in Education: English Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7459&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Education: English Education": [
+            "Bachelor of Arts in Education: English Education Faculty in the Bachelor of Arts in English Education strive to transcend traditional rote forms of learning and model a more collaborative, interactive, and intellectually challenging pedagogy that is true to the richness and rigor of the academic disciplines they represent. As teacher candidates experience and participate in such learning environments in their education classes at Rowan, they develop the commitment, confidence, and ability to go into the field and create P-12 classroom environments in which students work actively with the teacher and with each other to investigate important and meaningful ideas in a particular academic discipline. Admission to Rowan University does not guarantee admission to the Bachelor of Arts in English Education program. Candidates must meet certain benchmarks at three separate transition points in the program (admission to the program; admission to Clinical Practice year; and graduation/certification)."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 22 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05100",
+                            "title": "The West in the World to 1600",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05150",
+                            "title": "United States to 1865",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05101",
+                            "title": "The West in the World since 1600",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05151",
+                            "title": "United States since 1865",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01113",
+                            "title": "General Biology: Human Focus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "SPED",
+                            "course_number": "08130",
+                            "title": "Disability as Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09210",
+                            "title": "Adolescent Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00103",
+                            "title": "Health and Wellness",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 22 s.h.",
+                "or A world language",
+                "or A world language"
+            ]
+        },
+        "Core Courses Required: 33 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30319",
+                            "title": "Teaching Reading and Writing in the Content Area",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40405",
+                            "title": "Current Policy and Practice in ESL and Bilingual Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40412",
+                            "title": "Linguistics and Second Language Acquisition for Teaching Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40415",
+                            "title": "Understanding Immigrant, Bilingual, and English Learner Students",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "40450",
+                            "title": "Schools & Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "01270",
+                            "title": "Humanities Teaching Methods I: Creating Supportive Learning Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "01272",
+                            "title": "Teaching Content in Diverse Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "50330",
+                            "title": "Humanities Teaching Methods II: English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "40462",
+                            "title": "Clinical Practice I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "40477",
+                            "title": "Effective Inclusive Instruction in English, Social Studies, and World Language Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "50331",
+                            "title": "Humanities Teaching Methods III: English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "40463",
+                            "title": "Clinical Practice II",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses Required: 33 s.h."
+            ]
+        },
+        "English Courses Required: 36 s.h.": [
+            "English Courses Required: 36 s.h. All English Education majors must complete the English Major Requirements as described Bachelor of Arts in English."
+        ],
+        "Free Electives: 20 s.h.": [
+            "Free Electives: 20 s.h."
+        ],
+        "Total Required Credits for the Program (with Gen Ed Courses): 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program (with Gen Ed Courses): 120 s.h. Students must earn a grade of at least a C minus in each course under Core Requirements and Sequences. C minus or above is required in all prerequisites to other courses. Students must maintain a 3.0 overall GPA to graduate with a B.A. in English Education.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Minor in Materials Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7246&returnto=1028",
+    "content": {
+        "Minor in Materials Science": {
+            "requirements": [],
+            "notes": [
+                "Minor in Materials Science The Minor in Materials Science is available to several majors at Rowan and is recommended for Physics majors intending to attend graduate school in a materials-related field or expecting to directly enter the workforce. A student seeking this minor must elect to take INTR 01486 - Interdisciplinary Materials Science  and two additional materials-related courses outside their major. (Abbreviated lists for BS Physics majors are provided below. Many other courses contain a materials science component and can be selected with the help of your advisor.)"
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Select two courses from the following partial list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06468",
+                            "title": "Principles Of Electrochemical Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06474",
+                            "title": "Fundamentals of Particle Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06300",
+                            "title": "Advanced Inorganic Chemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07405",
+                            "title": "Introduction to Polymer Chemistry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Select two courses from the following partial list:"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program:",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Graduate Study in Cannabinoid Chemistry",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7554&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Cannabinoid Chemistry": [
+            "Certificate of Graduate Study in Cannabinoid Chemistry The Certificate of Graduate Study (CUGS) in Cannabinoid Chemistry will prepare its students in the fundamental and underlying science necessary for the analysis of marijuana, cannabinoids, and related materials. Due to the increased nationwide trends toward legalization and prescription of medical marijuana, development of cannabis related therapies, and legalization of recreational marijuana (including in the State of NJ), there is a pressing need for scientists trained in the analysis of cannabinoid containing materials. This training would be useful to careers in health professions, food science, pharmaceuticals, and biotechnology."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07588",
+                            "title": "Advanced Natural Products Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07590",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09530",
+                            "title": "Advanced Chemical Analysis of Cannabinoids",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Restricted Electives: 3 - 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07557",
+                            "title": "Chemical Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07564",
+                            "title": "Advanced Organic Synthesis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07568",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07570",
+                            "title": "Organic Spectroscopy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07592",
+                            "title": "Advanced Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09510",
+                            "title": "Instrumental Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09522",
+                            "title": "Advanced Bioanalytical Chemistry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 3 - 4 s.h. Choose one of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Cannabinoid Chemistry is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Contact Information Kandalam Ramanujachary Science Hall 856.256.5451 chemistry@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

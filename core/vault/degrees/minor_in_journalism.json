@@ -1,0 +1,238 @@
+{
+    "name": "Minor in Journalism",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6994&returnto=1028",
+    "content": {
+        "Minor in Journalism": {
+            "requirements": [],
+            "notes": [
+                "Minor in Journalism This program is designed to address the needs of students who wish to combine two areas of academic study into one profession (such as business journalism or writing about the arts) or to increase their understanding of journalism from an academic standpoint, an option that may be particularly useful for education majors. The program consists of 21 credits, and students must complete College Composition I (COMP 01111) and College Composition II (COMP 01112) and achieve an overall 2.0 GPA in order to be admitted to the minor."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02205",
+                            "title": "Journalism Principles And Practices",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02310",
+                            "title": "News Reporting I-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02321",
+                            "title": "Digital Journalism I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "06425",
+                            "title": "Advanced Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02341",
+                            "title": "Broadcast News Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02323",
+                            "title": "Crime Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02312",
+                            "title": "Feature Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02324",
+                            "title": "Health Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02318",
+                            "title": "Investigative Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02410",
+                            "title": "Journalism Senior Seminar-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02313",
+                            "title": "Magazine Article Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02335",
+                            "title": "Media Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02311",
+                            "title": "News Reporting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02420",
+                            "title": "South Jersey News Service",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02307",
+                            "title": "On-Camera Field Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02325",
+                            "title": "Digital Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02314",
+                            "title": "Photojournalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03396",
+                            "title": "Sports Broadcasting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02326",
+                            "title": "Sports Broadcasting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03397",
+                            "title": "Sports Broadcasting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02327",
+                            "title": "Sports Broadcasting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02361",
+                            "title": "Sports Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02362",
+                            "title": "Sports Journalism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02363",
+                            "title": "Data Journalism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02305",
+                            "title": "TV Newscast",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06324",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "01407",
+                            "title": "Special Topics in Journalism",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 9 s.h. (choose three)"
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. Substitution of one course NOT on the above list of electives may be made with the approval of the Department Chair.",
+                "Notes:"
+            ]
+        }
+    }
+}

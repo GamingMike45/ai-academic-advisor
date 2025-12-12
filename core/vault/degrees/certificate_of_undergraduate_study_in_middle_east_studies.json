@@ -1,0 +1,148 @@
+{
+    "name": "Certificate of Undergraduate Study in Middle East Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7308&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Middle East Studies": [
+            "Certificate of Undergraduate Study in Middle East Studies The CUGS in Middle East Studies aims to develop students’ understanding of the history of the Middle East from the rise of Islam in the 7th century C.E. and the complexity of contemporary issues and problems; it also aims to develop skills that will help students professionally after they graduate."
+        ],
+        "Program Requirements": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05383",
+                            "title": "Islamic Civilization *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05363",
+                            "title": "Ottoman History *",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07345",
+                            "title": "Government and Politics of the Middle East",
+                            "credits": null
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05308",
+                            "title": "Modern Middle East *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Requirements The Middle East Studies CUGS requires 12 s.h. or four courses taken from at least two departments:"
+            ]
+        },
+        "Additional Elective Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12101",
+                            "title": "Elementary Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12102",
+                            "title": "Elementary Arabic II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12201",
+                            "title": "Intermediate Arabic I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARAB",
+                            "course_number": "12211",
+                            "title": "Intermediate Arabic II",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05383",
+                            "title": "Islamic Civilization (if not taken as a core course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05363",
+                            "title": "Ottoman History (if not taken as a core course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05308",
+                            "title": "Modern Middle East (if not taken as a core course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07345",
+                            "title": "Government and Politics of the Middle East (if not taken as a core course)",
+                            "credits": null
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05404",
+                            "title": "Arab-Israeli Conflict **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05444",
+                            "title": "Islamist Movements **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16347",
+                            "title": "Geography of the Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07489",
+                            "title": "Seminar in Political Science - WI * ***",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Elective Courses: Two electives at any level from courses listed below. Students enrolled in this CUGS may get a prerequisite waiver for any of the history courses listed.",
+                "LAWJ 05415 - Selected Topics in Criminal Justice Credits: 3",
+                "(i.e. only one language course may count towards the CUGS)."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. *Note: COMP 01112 - College Composition II is a prerequisite for this course. **Note: HIST 05306 - Historical Methods-WI is a prerequisite; non-History majors can receive a waiver completing COMP 01112 - College Composition II. ***Note: POSC 07360 - Methodology and Statistics in Political Science Research is a prerequisite) with approval of Dr. Somdahl, coordinator of the Middle East Studies CUGS, and a final paper written about the Middle East. Katrinka Somdahl Coordinator Robinson Hall somdahl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

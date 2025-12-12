@@ -1,0 +1,90 @@
+{
+    "name": "Certificate of Undergraduate Study in Global Literatures in English",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7096&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Global Literatures in English": [
+            "Certificate of Undergraduate Study in Global Literatures in English The Certificate of Undergraduate Study (CUGS) in Global Literatures in English is designed for students interested in English as a global language encompassing diverse perspectives, histories, and literary traditions. It will prepare students for careers in fields that value intercultural fluency and global understanding."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02101",
+                            "title": "Critical Methods I for English Majors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02202",
+                            "title": "Critical Methods II for English Majors",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Two of the following courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02475",
+                            "title": "Special Topics in Global Literatures in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02417",
+                            "title": "Special Topics in Literature (with a global focus)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02116",
+                            "title": "Introduction to Global Literatures in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02231",
+                            "title": "World Mythologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02473",
+                            "title": "Global Modernisms",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two of the following courses: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To earn a CUGS in Global Literatures in English, students must earn a C- or above in each of the four courses (12 s.h.). Christine Larsen-Britt Advisor 856.256.4068 larsen-britt@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

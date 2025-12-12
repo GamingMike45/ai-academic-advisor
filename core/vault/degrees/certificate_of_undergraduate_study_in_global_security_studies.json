@@ -1,0 +1,207 @@
+{
+    "name": "Certificate of Undergraduate Study in Global Security Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7048&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Global Security Studies": [
+            "Certificate of Undergraduate Study in Global Security Studies The Certificate of Undergraduate Study (CUGS) in Global Security Studies is designed to provide students with a strong introduction to this crucially important interdisciplinary field. Students take 1) two required courses that cover the range of issues and approaches in international security and 2) two electives drawn from theme-based banks relating to environmental security, health security, disaster response, and conflict and terrorism. This CUGS will enrich the academic experience of students who are interested in international issues and who want to pursue specialized graduate training or to work in the government sector (counterintelligence, national security, or diplomacy, for example), the military, intergovernmental agencies, the private sector, academic institutions, and the non-profit/humanitarian sector."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Two required courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07319",
+                            "title": "International Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25100",
+                            "title": "Global Challenges",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "IS",
+                            "course_number": "25310",
+                            "title": "Global Security Clinic",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two required courses:"
+            ]
+        },
+        "Choose 2 courses from 2 of the following banks (6 s.h.).": [
+            "Choose 2 courses from 2 of the following banks (6 s.h.). To ensure breadth, elective courses must be listed in different banks and offered by different departments. At least one course must be at the 300- or 400- level."
+        ],
+        "Global Security and the Environment Bank:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENST",
+                            "course_number": "94101",
+                            "title": "Planet in Peril: Environmental Science in the 21st Century",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01133",
+                            "title": "Climate, Catastrophes, Civilizations and Collapses",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08400",
+                            "title": "Environment, Policy and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies (if related to environmental security)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Global Security and the Environment Bank:"
+            ]
+        },
+        "Global Security and Health Bank:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00302",
+                            "title": "Global Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02355",
+                            "title": "Global Health in Anthropological Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07370",
+                            "title": "Special Topics in Political Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00444",
+                            "title": "Emerging Health Threats: Risks and Surveillance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies (if health-related)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Global Security and Health Bank:"
+            ]
+        },
+        "Disaster Response Bank:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00280",
+                            "title": "Global Catastrophes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00300",
+                            "title": "Bioterrorism and Weapons of Mass Destruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08328",
+                            "title": "Sociology of Disasters and Crisis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16334",
+                            "title": "The Geography of Natural Disasters",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies (if related to disaster response)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Disaster Response Bank:"
+            ]
+        },
+        "War, Conflict, and Terrorism Bank:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05444",
+                            "title": "Islamist Movements",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05329",
+                            "title": "Intelligence, Policing, and Counterterrorism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies (if global security-related)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "War, Conflict, and Terrorism Bank:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Courses may be taken in any sequence. It should be noted that some elective courses do have prerequisites as established by the departments or programs that oversee them. According to University policy, students may only double count two courses from another single major, minor, or CUGS in fulfilling the requirements for this CUGS. Students in the CUGS should work with their academic advisor and with the coordinator of International Studies to determine the selection and sequence of coursework for the CUGS that best meets their needs. Dr. Carla Lewandowski Coordinator Campbell Library lewandowskic@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Undergraduate Study in Crime Mapping & Crime Analysis",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7310&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Crime Mapping & Crime Analysis": [
+            "Certificate of Undergraduate Study in Crime Mapping & Crime Analysis The Certificate of Undergraduate Study (CUGS) in Crime Mapping & Crime Analysis will prepare students for careers as crime analysts by providing them with both hands-on and theoretical content that is relevant to crime analysis work. Geography, Planning, & Sustainability courses ensure that students are provided a background in spatial data, the operation of geographic information systems, and geographic concepts related to analyzing and displaying spatial data and information. Law & Justice courses provide students with experience performing actual crime analysis functions and how to take the results of analyses that are learned and present them in ways that are relevant and practical to police practitioners."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "The requirements include the following five courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05364",
+                            "title": "Critical Issues in American Law Enforcement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05381",
+                            "title": "Crime Mapping and Crime Analysis I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The requirements include the following five courses: Three of the five courses will serve as the foundation of the CUGS and will be taken early on in the pursuit of the CUGS. These courses may also be used to fulfill curriculum requirements of the Law & Justice Studies and Geography, Planning, & Sustainability degree programs. They will operate without prerequisites. These courses are:"
+            ]
+        },
+        "Additional Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05382",
+                            "title": "Crime Mapping and Crime Analysis II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Requirements Upon completion of these three courses, students will begin pursuing the remaining two advanced courses. These courses are:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. GEOG 16260 has a prerequisite of either GEOG 16260 or GEOG 16160. Students may fulfill either of these prerequisites; however, GEOG 16160 is a required course for successful CUGS completion. Crime Mapping and Crime Analysis II will have a prerequisite of Crime Mapping and Analysis I. In addition to this prerequisite, students have two options in fulfilling a second requirement before enrolling in Crime Mapping and Crime Analysis II. With instructor or program advisor approval, students may concurrently enroll in the prerequisite, GEOG 16260, and Crime Mapping and Crime Analysis II. To be awarded the CUGS in Crime Mapping & Crime Analysis, students must complete all courses required for the CUGS in Crime Mapping & Crime Analysis with at least a 2.0 average. Dr. Evan Sorg Campbell Library, Room 551 856.256.4500, ext. 53725 sorg@rowan.edu Advisor",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "name": "Certificate of Graduate Study in Computational Data Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7526&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Computational Data Science": [
+            "Certificate of Graduate Study in Computational Data Science The Certificate of Graduate Study (COGS) in Computational Data Science is intended for tech savvy industry managers who need to take advantage of big data opportunities. As a result of this program, students will be able to apply data analytics in any area of specialization. Students will be prepared to use algorithms, statistics, and technology to extract business intelligence from massive amounts of data, to manage streamed data or data stored in massive data warehouses and to visually analyze and present information."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DS",
+                            "course_number": "02510",
+                            "title": "Visual Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02505",
+                            "title": "Data Mining I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Electives Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02530",
+                            "title": "Advanced Database Systems: Theory and Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02570",
+                            "title": "Information Visualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02605",
+                            "title": "Data Mining II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02620",
+                            "title": "Data Warehousing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02625",
+                            "title": "Data Quality and Web/Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02630",
+                            "title": "Advanced Topics in Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07556",
+                            "title": "Machine Learning I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09555",
+                            "title": "Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02514",
+                            "title": "Decision Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02515",
+                            "title": "Applied Multivariate Data Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives Courses: 6 s.h. Choose two of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Computational Data Science is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Coordinator/Advisor Contact Information Anthony Breitzman Robinson Hall, Room 328P breitzman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Music - Master of Arts in Arts Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7501&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Music - Master of Arts in Arts Administration": [
+            "Accelerated Dual Degree: Bachelor of Arts in Music - Master of Arts in Arts Administration Overview The Accelerated Dual Degree: Bachelor of Arts in Music/Master of Arts in Arts Administration program is a program that combines a liberal arts degree with a focus in music with a masters program that prepares students for positions in arts organizations. Students complete both degrees in five years by taking graduate courses during the senior year of the Bachelor of Arts. This is a hybrid program where the Bachelor of Arts is taken in-person while Master of Arts courses are delivered online. By completing both degrees, students receive both a broad background in music studies along with practical and marketable business and administrative skills that prepare them for varied careers in the arts."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Music Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07530",
+                            "title": "Arts Administration Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07531",
+                            "title": "Producing and the Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07532",
+                            "title": "Arts Planning: An Elegant Process",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07533",
+                            "title": "Audience Development",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 18 s.h.": [
+            "Required MA Courses taken as a Graduate student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in Arts Administration"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h. Requirements for Admission: Admission to the accelerated dual degree program is open to any matriculated Rowan sophomore or junior student in the BA music program with a minimum GPA of 3.0 and with the approval of an arts subject matter academic advisor. Students matriculated into the Accelerated Dual Degree program will apply for admission to the graduate program in the fall semester of their junior year (minimum of 75 credit hours completed). Application requirements are as follows: All required major courses with a grade of C or better A complete Rowan Global application, including a personal statement 2 recommendation forms. Requirements for Graduation: Degree requirements for the BA in Music: Completion of a minimum of 120 semester hours of coursework, including all major requirements for the BA in music. Students must have a cumulative GPA of at least 2.0 in Rowan University coursework. (Transfer courses and credit do not count toward the Rowan GPA.) A minimum of 30 semester hours of coursework must be completed at or through Rowan University. Only those courses with grades of “D-” or above count toward degree requirements. Students must meet the Rowan Core and Rowan Experience Requirements, as well as 18 semester hours of Non-Program courses. Degree requirements for the MA in Arts Administration: Completion of all required courses. a 3.0 or higher GPA in all graduate courses. This is a category 2 program. Student Status : To maintain satisfactory progress in the program students must earn no grades on courses below 3.0 and maintain a cumulative GPA of at least 3.0. Students who enter the 4+1 program but do not maintain satisfactory progress or who simply choose not to continue pursuing the degree will be allowed to apply up to 12 credits of graduate coursework to undergraduate degree requirements in the allotted “free elective” bank. If the student “opts out” before 12 credits have been completed, any remaining credits needed for 120 credits required for the undergraduate degree will be selected through consultation between the advisor, the program/department, and the student.",
+                "Notes:"
+            ]
+        }
+    }
+}

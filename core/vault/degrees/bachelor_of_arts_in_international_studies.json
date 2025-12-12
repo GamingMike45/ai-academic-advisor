@@ -1,0 +1,203 @@
+{
+    "name": "Bachelor of Arts in International Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7173&returnto=1028",
+    "content": {
+        "Bachelor of Arts in International Studies": [
+            "Bachelor of Arts in International Studies International Studies is an interdisciplinary major designed to engage students in an in-depth examination of international politics, economics, history, society, and culture. Students will pursue one of five concentrations: International Business and Economics, Global and Comparative Perspectives, Global Health, Global Security, or Middle East and African Studies. International Studies majors in all concentrations will gain an understanding of major global issues and analyze their own society in a broader global context; they will also learn how to apply interdisciplinary approaches to global problems and issues and acquire strong research, critical thinking, and communication skills. Students considering a major in International Studies are encouraged to consult with their advisor early in their academic career so they can develop a coherent program of study within their concentration. International Studies majors are very strongly encouraged to study abroad for at least a semester in a country relevant to their area of concentration. Students should also consider pursuing a double major in International Studies and another discipline to enhance their career prospects; students can complete all requirements to double major in International Studies and virtually any major in the College of Humanities & Social Sciences and Communication & Creative Arts within four years (120 credits). With careful planning, International Studies majors with a concentration in International Business and Economics could potentially earn a double major in the Rohrer College of Business such as Marketing, Management, or Entrepreneurship with 130 credits. International Studies majors must have a minimum 2.0 overall G.P.A. to qualify for graduation."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses up to 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04101",
+                            "title": "An Introduction to Economics-A Macroeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04102",
+                            "title": "An Introduction to Economics-A Microeconomic Perspective",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses up to 27 s.h. (may also fulfill Rowan Core or General Education Requirements)",
+                "Four semesters of a foreign language– in the same language if available (up to 12 s.h.) Students may fulfill the language requirement by completing higher-level foreign language courses, e.g. students who pass the placement examination for first-year Spanish only need to complete second-year Spanish courses."
+            ]
+        },
+        "One of the following: (3 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16100",
+                            "title": "Earth, People, and the Environment",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following: (3 s.h.)"
+            ]
+        },
+        "One of the following Experiential Learning Courses: (0-6 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02490",
+                            "title": "Public Service Internship",
+                            "credits": "3 to 12"
+                        },
+                        {
+                            "subject": "SA",
+                            "course_number": "01470",
+                            "title": "Semester Abroad",
+                            "credits": "0 to 6"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20390",
+                            "title": "Interdisciplinary Case Studies in the Liberal Arts",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20395",
+                            "title": "Experiential Learning in the Humanities and Social Sciences",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following Experiential Learning Courses: (0-6 s.h.)"
+            ]
+        },
+        "Foundational Courses: 12 s.h.": [
+            "Foundational Courses: 12 s.h. (may also fulfill Rowan Core or General Education Requirements)"
+        ],
+        "The following: (6 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "IS",
+                            "course_number": "25100",
+                            "title": "Global Challenges",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05120",
+                            "title": "World History since 1500",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The following: (6 s.h.)"
+            ]
+        },
+        "Upper-Level and Capstone Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "IS",
+                            "course_number": "25300",
+                            "title": "Research Methods in International Studies - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07320",
+                            "title": "International Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25400",
+                            "title": "Senior Seminar in International Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-Level and Capstone Courses: 9 s.h."
+            ]
+        },
+        "Concentrations: 15 s.h.": [
+            "Concentrations: 15 s.h. Students choose one of the following concentrations: Undergraduate Concentration in International Business & Economics Undergraduate Concentration in Global Comparative Perspectives Undergraduate Concentration in Global Health Undergraduate Concentration in Global Security Undergraduate Concentration in Middle East & African Studies Students must choose one concentration, and they should work with their advisor to develop a coherent plan of study within it. This is especially important for students pursuing the Global & Comparative Perspectives concentration. Students are very strongly encouraged to study abroad for at least a semester in a country relevant to their concentration."
+        ],
+        "Free Electives: 57-63 s.h.": [
+            "Free Electives: 57-63 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Carla Lewandowski Coordinator Campbell Library 856.256.4500; ext. 53738 lewandowskic@rowan.edu Cynthia Finer Advisor Campbell Library, 5th Floor 856.256.4599 finer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

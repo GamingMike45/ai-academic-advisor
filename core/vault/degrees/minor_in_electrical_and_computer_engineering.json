@@ -1,0 +1,126 @@
+{
+    "name": "Minor in Electrical & Computer Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7060&returnto=1028",
+    "content": {
+        "Minor in Electrical & Computer Engineering": [
+            "Minor in Electrical & Computer Engineering The Minor in Electrical & Computer Engineering (ECE) offers students majoring in disciplines other than ECE the opportunity to become familiar with principles and design practices used to meet the multidisciplinary needs of modern technology. This minor is offered by the faculty of the ECE program and is designed to serve students from other engineering disciplines as well as those students with majors outside of engineering. It is assumed that students who pursue the ECE minor will obtain a mathematics background that is comparable to that required for a major in engineering. The ECE minor stipulates 11 semester credit hours of required courses that provide a fundamental grounding in ECE knowledge and design. These courses include an overview of ECE as a field, an introduction to digital circuit design, theory-based courses in both analog circuits and modern electronics. In addition to these fundamental courses, 3 elective courses assure the students an opportunity to emphasize a particular area of interest."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 11 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09101",
+                            "title": "Electrical and Computer Engineering: Solving Tomorrow’s Problems",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09203",
+                            "title": "Principles of Electric Circuit Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09241",
+                            "title": "Introduction to Digital Systems",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09311",
+                            "title": "Electronics I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 11 s.h."
+            ]
+        },
+        "Elective Courses: Choose any three of the following*: 9-10 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09303",
+                            "title": "Engineering Electromagnetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09414",
+                            "title": "Very Large Scale Integration Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09243",
+                            "title": "Computer Architecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09342",
+                            "title": "Introduction to Embedded Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09321",
+                            "title": "Systems and Control I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09341",
+                            "title": "Signals and Systems",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09351",
+                            "title": "Digital Signal Processing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09433",
+                            "title": "Electrical Communications Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI **",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: Choose any three of the following*: 9-10 s.h. *Choose any three of the listed 10 courses (or categories of courses). These courses are grouped into tracks. If you are interested in focusing on a specific area of ECE, you are encouraged to take more than one class in the related track. However, the three elective courses need not be from the same track, and any three of the listed 10 courses can be taken to broaden your ECE background and, hence, to satisfy the elective requirements of the ECE Minor.",
+                "Circuits & Electronics Track",
+                "Digital Systems / Computer Engineering Track",
+                "Signals, Systems & Communications Track",
+                "ECE Electives & Clinics",
+                "ECE 94XX - An approved ECE elective ***"
+            ]
+        },
+        "Total Required Credits for the Program: 20-21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 20-21 s.h. *Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the course description after clicking the link. ** If Senior Engineering Clinic is used as one of the ECE electives, the clinic must be strictly an ECE project, with an ECE faculty member serving as the project manager. Only one semester of clinic experience may be used as an elective. *** Please see ECE Minor coordinator or ECE Department Head for determining which ECE electives offered in any given semester are approved for Minor. Only one ECE elective may be used towards the ECE Minor, and this must be in addition to any electives the student’s major may require or used towards the electives in the student’s major. Advisor Qianqian Zhang 328 Engineering Hall 856.256.5379 zhangqia@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

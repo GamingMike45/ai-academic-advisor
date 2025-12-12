@@ -1,0 +1,81 @@
+{
+    "name": "Certificate of Undergraduate Study in Advanced Engineering Materials",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7073&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Advanced Engineering Materials": [
+            "Certificate of Undergraduate Study in Advanced Engineering Materials The CUGS in Advanced Engineering Materials will allow students to increase the depth and breadth of knowledge in materials for engineering, especially mechanical engineering, applications. The CUGS will offer students an opportunity to learn critical material properties, processes, characterization, and applications in engineering materials. It will allow students to learn in-depth knowledge of a wide variety of materials such as composites, nanomaterials, energy materials, and the latest materials used in additive manufacturing. This CUGS will allow students to take additional specialized coursework related to the field of Advanced Engineering Materials beyond the 120 credits mandated by the undergraduate program in Mechanical Engineering."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Choose two from the following “required” courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01283",
+                            "title": "Materials Science and Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10460",
+                            "title": "Introduction to Composite Materials",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two from the following “required” courses: 6 s.h.",
+                "ME 10455 - Introduction to Nanotechnology Credits: 3"
+            ]
+        },
+        "Choose two from the following “elective” courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ME",
+                            "course_number": "10433",
+                            "title": "Introduction to Renewable Energy: Photovoltaics & Energy Harvesting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10440",
+                            "title": "Introduction to Advanced Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06466",
+                            "title": "Polymer Processing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MSE",
+                            "course_number": "00510",
+                            "title": "Structure, Symmetry, and Properties of Materials",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two from the following “elective” courses: 6 s.h.",
+                "Other approved engineering materials-related courses by the advisor"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Program Coordinator/Advisor Contact Information Wei Xue Professor & CUGS Advisor Rowan Hall 856.256.5358 xuew@rowane.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

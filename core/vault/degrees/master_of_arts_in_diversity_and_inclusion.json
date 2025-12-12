@@ -1,0 +1,188 @@
+{
+    "name": "Master of Arts in Diversity & Inclusion",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7580&returnto=1028",
+    "content": {
+        "Master of Arts in Diversity & Inclusion": [
+            "Master of Arts in Diversity & Inclusion The Master of Arts in Diversity & Inclusion offers professionals expertise in understanding and developing long-term solutions to building diverse and inclusive communities. Grounded in ethnographic methodologies and culminating in an applied capstone, our program seeks to help educate transformational participant-leaders who inspire and empower their communities to learn, collaborate, and construct innovative answers. By basing our coursework in the Humanities & Social Sciences, students learn adaptable approaches to strengthen communities in a wide range of environments. The curriculum is designed to offer students a critical approach to understand and evaluate processes that shape and change community life and culture. Moreover, students will have the opportunity to critique and apply custom solutions during their graduate study."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DI",
+                            "course_number": "68501",
+                            "title": "Introduction to Diversity and Inclusion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02510",
+                            "title": "Qualitative Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09521",
+                            "title": "Philosophical Approaches to Diversity, Equity, and Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05519",
+                            "title": "Political and Social Movements in the U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02530",
+                            "title": "Diversity, Equity, and Inclusion in U.S. Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08578",
+                            "title": "Critical Race Theory: Application and Intervention",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 18 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CJ",
+                            "course_number": "09529",
+                            "title": "Community Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08575",
+                            "title": "Social Determinants of Health: Theory and Intervention in Urban Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08599",
+                            "title": "Urban Environmental Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08600",
+                            "title": "Social Experience of City Life and Urban Inequalities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05561",
+                            "title": "Early American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05562",
+                            "title": "Nineteenth Century American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05563",
+                            "title": "Twentieth Century American History Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01630",
+                            "title": "Writing Difference",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01541",
+                            "title": "Understanding and Writing Grants and Proposals",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90512",
+                            "title": "Examining Intersectionality in Critical Theories of Race, Class, Gender, Sexuality and Citizenship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90710",
+                            "title": "Power and Privilege: The Social Construction of Difference",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90513",
+                            "title": "History of Urban Education and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90534",
+                            "title": "Disability Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DI",
+                            "course_number": "68520",
+                            "title": "Topics in Diversity and Inclusion",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose 6 s.h. from the following:",
+                "Other approved graduate-level courses as approved by Program Coordinator Credits: 3"
+            ]
+        },
+        "Required Capstone Course: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DI",
+                            "course_number": "68590",
+                            "title": "Applied Diversity and Inclusion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DI",
+                            "course_number": "68591",
+                            "title": "Capstone in Applied Diversity and Inclusion",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Capstone Course: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Successful completion of capstone course and capstone project. Minimum Required Grades and Cumulative GPA The Master of Arts in Diversity & Inclusion is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator Rachael Shapiro Victoria Hall, Room 411 856.256.4386 shapiror@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

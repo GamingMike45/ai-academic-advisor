@@ -1,0 +1,61 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Geographic Information Science, Master of Science in Urban & Regional Planning",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7500&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Geographic Information Science, Master of Science in Urban & Regional Planning": [
+            "Accelerated Dual Degree: Bachelor of Science in Geographic Information Science, Master of Science in Urban & Regional Planning The Accelerated Dual Degree program offers students an opportunity to earn a BS in Geographic Information Science and an MS in Urban & Regional Planning in five years. The program combines a strong undergraduate degree focused on understanding and addressing community and environmental planning problems with the advanced perspective of urban and regional planning at the graduate level. Students graduating from this program will be extremely well-positioned to work in any planning position, thus bolstering the employment prospects of program graduates. Students interested in the program should contact the Coordinator for the Geographic Information Science Program in their freshman year. Students may be admitted into the program after they earn 60 credits, which usually corresponds to the end of the sophomore year. Transfer students who have fulfilled the requirements may also apply. Students admitted to the program will complete a total of 108 credits for the undergraduate program, and 12 credits of graduate coursework in urban and regional planning that is applied to the undergraduate degree. The student will then complete an additional 34 credits for the MS. The total semester hours required for the student to complete both the undergraduate BS in Geographic Information Science and an MS in Urban & Regional Planning is 154. Admission Applicants to the accelerated program will submit all application materials by January 15 of the spring semester of their third year at Rowan (nominally “junior” year). The graduate admissions committee in the Department of Geography, Planning & Sustainability will review the applications and students will be notified by February 1; Application for admission requires: A minimum overall GPA of 2.8 in undergraduate coursework A complete online application, including a personal statement A letter of nomination/recommendation from the Department of Geography, Planning & Sustainability"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in Bachelor of Science in Geographic Information Science Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MS Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16561",
+                            "title": "Cartography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16562",
+                            "title": "Web-Based GIS Mapping Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16565",
+                            "title": "Applications of Geographic Information Systems (GIS)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16661",
+                            "title": "Geovisualization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MS Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MS Courses taken as a Graduate student: 34 s.h.": [
+            "Required MS Courses taken as a Graduate student: 34 s.h. The remainder of the Master’s courses are as listed in Master of Science in Urban & Regional Planning"
+        ],
+        "Total Requirements for the Accelerated Dual Degree: 154 s.h.": [
+            "Total Requirements for the Accelerated Dual Degree: 154 s.h. Graduation To graduate from the accelerated BS/MS (non-thesis) dual degree program in GIS and Urban & Regional Planning, students must meet the following requirements: Completion of all program requirements for the BS in Geographic Information Science (maintain cumulative GPA of 2.0). Completion of all program requirements for the MS in Urban & Regional Planning (maintain cumulative GPA of 3.0 as well as obtain no grade less than B- in any of the graduate courses). Maintain satisfactory progress through the program. Upon completion of the requirements above, the student will be granted both a Bachelor of Science in Geographic Information Science and Master of Science in Urban & Regional Planning. Student Status Students enrolled in the accelerated BS/MS Program will pay undergraduate fees for the first four years of the program and they will start paying the graduate tuition starting in their fifth year. Students will be allowed to register for 6 s.h. of graduate courses for two semesters in their undergraduate senior year (nominally the fourth year). Students must maintain full time student status during the entire 5-year program. Students will be expected to maintain satisfactory progress through the program. Satisfactory progress will be defined by the following parameters: Earning at least a grade of B- in all the graduate courses. Any student who fails to maintain satisfactory progress as described above will be placed on probation within the program for one semester- if the performance still does not improve, they will be dropped from the graduate program. If the student has not already earned the BS in GIS, they will be re-admitted into the BS subject to the requirements of that program. Students with extenuating circumstances may request an exception to this requirement by obtaining written approval of the Program Coordinator of MS Pharmaceutical Sciences as well as their Undergraduate Advisor, and other approvals if needed under University policy. Students who enter the accelerated MS program but do not maintain satisfactory progress or opt-out of the MS degree will be allowed to apply up to 12 credits of Urban & regional Planning coursework credits as restricted or free electives toward the BS GIS degree. If the student opts out before 12 credits have been completed in the Urban & Regional Planning program, any remaining credits to make up the required 120 credits for the undergraduate BS GIS degree will be taken using traditional coursework at the Glassboro campus. For information related to this program, please contact: Ashley York, Ph.D. 856.256.4811 yorka@rowan.edu Megan Bucknum 856.256.4811 bucknum@rowan.edu",
+            "Notes:"
+        ]
+    }
+}

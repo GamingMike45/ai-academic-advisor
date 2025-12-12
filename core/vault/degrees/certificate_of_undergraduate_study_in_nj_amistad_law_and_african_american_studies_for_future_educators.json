@@ -1,0 +1,141 @@
+{
+    "name": "Certificate of Undergraduate Study in NJ Amistad Law & African American Studies for Future Educators",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7439&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in NJ Amistad Law & African American Studies for Future Educators": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in NJ Amistad Law & African American Studies for Future Educators Africana Studies is an interdisciplinary field that examines the historical and contemporary challenges, experiences, and contributions of Africans, African Americans, and African-descended people throughout the world. The Certificate of Undergraduate Study in NJ Amistad Law: African-American Studies for Future Educators provides content knowledge and preparation for future teachers to develop robust lesson plans on African American history. It will also strengthen the state-wide and local efforts to implement the 2002 Amistad Law, and give students a competitive advantage in the job market as the government increases its efforts to enforce the mandate. All courses listed are 3 s.h. each. Students must take AFST 11104 Introduction to Africana Studies to fulfill prerequisite requirements for most of the other required courses. Otherwise, courses may be taken in any sequence."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05376",
+                            "title": "African American History to 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05377",
+                            "title": "African American History since 1865",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02380",
+                            "title": "African American Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02123",
+                            "title": "Topics in Literature",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11104",
+                            "title": "Introduction to Africana Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05377",
+                            "title": "African American History since 1865 (if not taken as one of the requirements)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02123",
+                            "title": "Topics in Literature (if not taken as one of the requirements)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05373",
+                            "title": "Civil Rights/Black Power Movements",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08488",
+                            "title": "Critical Race Theory: Social Justice, Advocacy and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07324",
+                            "title": "The Politics of Race in American Society",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h.",
+                "HIST 05376 - African American History to 1865 (if not taken as one of the requirements) Credits: 3",
+                "HIST 05394 - Sub-Saharan Africa to 1800 (History majors are encouraged to take this course to fulfill one of their Global History requirements) Credits: 3",
+                "ENGL 02380 - African American Literature (if not taken as one of the requirements) Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Africana Studies Coordinator/History Department Chanelle Rose rosec@rowan.edu Valarie Lee Critical Literacy, Technology & Multilingual Education leev@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

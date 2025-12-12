@@ -1,0 +1,148 @@
+{
+    "name": "Master of Science in Applied Environmental Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7673&returnto=1028",
+    "content": {
+        "Master of Science in Applied Environmental Science": [
+            "Master of Science in Applied Environmental Science The Master of Science in Applied Environmental Science program will provide students with the skills and knowledge necessary to establish and advance their careers in environmental science in a wide range of professional settings including industry, consulting, education, and policy. Students will graduate from the program ready to apply adaptive management strategies to address and mitigate real world environmental problems. The M.S. in Applied Environmental Science will offer coursework that addresses the needs of environmental consulting companies and other potential employers such as those in the offshore wind industry. This M.S. will provide students with both the theoretical foundations and opportunities to apply techniques and methods that are standard in the field of environmental science. Students will be coming from a variety of backgrounds and so will choose foundational courses in consultation with an advisor, depending on their academic and professional backgrounds. The number of courses offered reflects the diversity of student preparation. Students who lack sufficient preparation in Environmental Science may need to take additional foundational courses without credit towards the degree. The MS in Applied Environmental Science is a 30- credit degree that prepares students for careers in Environmental Management. The MS in Applied Environmental Science curriculum is divided into three categories: Foundational coursework (9 s.h.) Required Courses (6 s.h.) Elective Courses (15 s.h.). The International option in Applied Environmental Science requires an international internship experience Students who pursue the optional International track must take an international internship (3 s.h.). Students who participate in international internships that award more than 3 s.h. may apply up to 6 s.h. towards their electives."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Foundational Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04510",
+                            "title": "Earth’s Environment and Natural Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04511",
+                            "title": "The Science of Climate Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "04512",
+                            "title": "Applied Ecosystem Services",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05610",
+                            "title": "Environmental Support Systems: Soils",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05612",
+                            "title": "Environmental Support Systems: Fresh Water",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05613",
+                            "title": "Environmental Support Systems: Native Plants in the Landscape",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 9 s.h. Choose 3 courses in consultation with advisor."
+            ]
+        },
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05605",
+                            "title": "Case Studies in Applied Environmental Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05685",
+                            "title": "Applied Environmental Science Graduate Clinic",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Required Course - Optional International Track: 3 s.h.": [
+            "Required Course - Optional International Track: 3 s.h. Consult Advisor."
+        ],
+        "Electives: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05550",
+                            "title": "Principles of Green Energy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05560",
+                            "title": "Industrial Health and Safety",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05620",
+                            "title": "Research Design in Environmental Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05630",
+                            "title": "Communicating Environmental Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05631",
+                            "title": "Protecting and Preserving Coastal Ecosystems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05656",
+                            "title": "Advanced Energy Transitions and Environmental Tradeoffs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "05660",
+                            "title": "Risk Assessment",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 15 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. MS. Applied Environmental Science 30 s.h. MS Applied Environmental Science (International Option) 30 s.h. The Master of Science in Applied Environmental Science is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Advisor Contact Information Christina Pellegrino 856.256.5541 pellegrinoc@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

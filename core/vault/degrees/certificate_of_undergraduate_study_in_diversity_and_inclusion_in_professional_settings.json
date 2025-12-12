@@ -1,0 +1,185 @@
+{
+    "name": "Certificate of Undergraduate Study in Diversity & Inclusion in Professional Settings",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6950&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Diversity & Inclusion in Professional Settings": [
+            "Certificate of Undergraduate Study in Diversity & Inclusion in Professional Settings The Certificate of Undergraduate Study (CUGS) in Diversity & Inclusion in Professional Settings deepens understanding about the causes and effects of diversity in the workplace and the potential for subtle bias affecting visible and non-visible minority groups. Valuable skills will be imparted for relating to diverse colleagues and collaborating on intercultural teams. A field placement in one of a variety of career areas provides practical experience observing and applying the principles learned."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following five (5) courses:"
+        ],
+        "Three core courses are required for all:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08488",
+                            "title": "Critical Race Theory: Social Justice, Advocacy and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08146",
+                            "title": "Identity, Culture, and Democracy: Being an American",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04360",
+                            "title": "Intercultural Communication",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Three core courses are required for all:"
+            ]
+        },
+        "One discipline-specific course from the following is required:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11104",
+                            "title": "Introduction to Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02275",
+                            "title": "Anthropology of Race and Ethnicity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04310",
+                            "title": "Images of Gender in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04320",
+                            "title": "Communicating Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01217",
+                            "title": "Engineering in a Global Context",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09326",
+                            "title": "Philosophy of Mind",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09531",
+                            "title": "Applied Ethics (advanced undergraduates may enroll)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09327",
+                            "title": "Philosophy and Race - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One discipline-specific course from the following is required:"
+            ]
+        },
+        "One practical application (field experience/internship) from the following is required (approved topics only):": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01303",
+                            "title": "Junior Engineering Clinic",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04355",
+                            "title": "Communication Studies Internship I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01311",
+                            "title": "Field Experiences in Human Services I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08494",
+                            "title": "Field Experience Seminar in Sociology - WI",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One practical application (field experience/internship) from the following is required (approved topics only):"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS in Diversity and Inclusion in Professional Settings, students must complete all required coursework in accordance with University requirements for good standing. Students may not double-count more than 2 courses for both their major and the CUGS. Tiago Forin Advisor Engineering Hall 128 forin@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

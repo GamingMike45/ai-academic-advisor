@@ -1,0 +1,64 @@
+{
+    "name": "Certificate of Graduate Study in Accounting",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7504&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Accounting": [
+            "Certificate of Graduate Study in Accounting The Accounting Certificate of Graduate Study (COGS) is designed so that students can expand their knowledge in specialized accounting subjects as well as obtain additional courses needed to reach the 150 credit requirement to be licensed as a CPA. The purpose of the COGS in Accounting can also serve those that wish to gain business expertise for career purposes, as well as an opportunity for aspirational applicants to take several classes before they apply to the MBA Program."
+        ],
+        "Program Requirements": {
+            "requirements": [],
+            "notes": [
+                "Program Requirements Accounting Certificate of Graduate Study at Rowan University requires the completion of 12 graduate semester hours (s.h.) made up of 4 courses. Students who have not earned a bachelor’s in accounting must take Financial and Managerial Accounting (ACC 03500), along with three (3) electives."
+            ]
+        },
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03507",
+                            "title": "Government and Not-For-Profit Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03510",
+                            "title": "Financial Statement Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03511",
+                            "title": "Introduction to Federal Taxation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03512",
+                            "title": "Advanced Accounting Information Systems and Business Process Controls",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03599",
+                            "title": "Special Topics in Accounting",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Choose four (4) from the following options."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses Foundations of Accounting (3.0 s.h.) or Principles of Accounting I and Principles of Accounting II Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Accounting is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

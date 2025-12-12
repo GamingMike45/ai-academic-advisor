@@ -1,0 +1,109 @@
+{
+    "name": "Master of Science in Teaching in Secondary Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7626&returnto=1028",
+    "content": {
+        "Master of Science in Teaching in Secondary Education": [
+            "Master of Science in Teaching in Secondary Education The Master of Science in Teaching (M.S.T.) in Secondary Education program offers the unique opportunity for students to pursue an initial New Jersey teaching certificate and a Master’s degree simultaneously. The program is designed to prepare individuals who have undergraduate degrees to be certified as subject-matter (K-12) teachers. Students whose undergraduate degree is in a content area (e.g., English, Social Studies, Spanish, French, etc.) may need to take as many as 30 additional credits in the desired content discipline necessary to meet certification requirements before being accepted into the program. Questions about appropriate undergraduate majors, academic sequences, or prerequisites should be directed to the program coordinator. The Subject-Matter program is designed for prospective social studies, English, or World Language (e.g., Spanish, French, German, Chinese, American Sign Language) teachers. The program can be completed in 12-24 months. Subject Matter Focus Areas The following focus areas are available in the Subject Matter Education program. (Candidates will officially declare their focus area at the time of application.): P-12 English P-12 World Language P-12 Social Studies There is also an option for Master of Science in Teaching in Theatre Education."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 36 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40512",
+                            "title": "Linguistics and Second Language Acquisition for Teaching Languages (Spanish students only)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40515",
+                            "title": "Understanding Immigrant-Origin Students: Language, Culture, and Mobility",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40510",
+                            "title": "Issues of Language and Cultural Diversity in ESL/Bilingual Programs",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60552",
+                            "title": "Teaching Content in Diverse Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60553",
+                            "title": "Humanities Teaching Methods I: Creating Supportive Learning Environments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60562",
+                            "title": "Clinical Practice I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60560",
+                            "title": "Humanities Teaching Methods II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "60577",
+                            "title": "Effective Inclusive Instruction in English, Social Studies, Theatre, and World Language Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60561",
+                            "title": "Humanities Teaching Methods III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60563",
+                            "title": "Clinical Practice II (Spring Field Placement)",
+                            "credits": 9
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 36 s.h.",
+                "SPED 08555 -  Education and Psychology of Students with Disabilities Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 36 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 36 s.h. Foundation Courses For a list of prerequisite courses for each focus area, please contact the Program Coordinator. Exam Requirements Pass the subject specified Praxis II exam at the minimum qualifying score. Graduation/Exit, Benchmark, and/or Thesis Requirements No thesis is required. Contact the Program Coordinator for graduation/exit and benchmark requirements. Minimum Required Grades and Cumulative GPA The Master of Science in Teaching is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Andrea Hawkman, PhD Herman D. James Hall 2068 856-256-4500 x4831 hawkman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

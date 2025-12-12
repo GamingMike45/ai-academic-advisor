@@ -1,0 +1,211 @@
+{
+    "name": "Minor in Film & Television Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7418&returnto=1028",
+    "content": {
+        "Minor in Film & Television Studies": {
+            "requirements": [],
+            "notes": [
+                "Minor in Film & Television Studies The Minor in Film & Television Studies is designed for students looking to expand their knowledge of these media forms to complement their major field of studies. It offers students critical approaches to the study of film and television in media aesthetics, history, and theory. Students will also build skills in research, writing, and analysis that can be applied to a range of scholarly and professional contexts. In this minor, students will take 18 credits (6 courses). Students begin with an introductory course in the analysis of media, critical thinking, and writing (RTF 03275 Applied Media Aesthetics). The minor also includes a film and television history core, which includes background on the development of film and television as art forms, industries, and critical aspects of media culture in both US and global contexts. Finally, students may customize and deepen their knowledge of specific areas of interest with three program electives."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Gateway Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03275",
+                            "title": "Introduction to Media Aesthetics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Gateway Course: 3 s.h."
+            ]
+        },
+        "Film & TV History Course: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03205",
+                            "title": "TV History and Appreciation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03206",
+                            "title": "TV History and Appreciation, 1960s-1970s",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03270",
+                            "title": "Film History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03271",
+                            "title": "Film History II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Film & TV History Course: 6 s.h. Select at least two of the following courses. You may take all 12 s.h. from this bank of courses toward completion of the Minor’s requirements."
+            ]
+        },
+        "Media, Culture & Identity Core: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03274",
+                            "title": "Queer Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03280",
+                            "title": "African American Film History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03294",
+                            "title": "Contemporary International Cinema",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03485",
+                            "title": "Deconstructing Disney: From Mickey to Marvel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10513",
+                            "title": "The Global Television Industry *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10514",
+                            "title": "Identity on Television *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Media, Culture & Identity Core: 3 s.h. Select at least one of the following courses. You may take up to 9 s.h. from this bank of courses toward completion of the Minor’s requirements."
+            ]
+        },
+        "Media Studies Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03276",
+                            "title": "Film/TV Theory and Criticism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04215",
+                            "title": "Fiction to Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03290",
+                            "title": "The Media Industries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03372",
+                            "title": "American Film Directors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03210",
+                            "title": "Evolution of Quality TV",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03377",
+                            "title": "Animation History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03378",
+                            "title": "The Hollywood Studio System",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03373",
+                            "title": "Film Noir",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03471",
+                            "title": "Techniques of Documentary Film Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03474",
+                            "title": "Film Censorship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10515",
+                            "title": "Special Topics *",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10516",
+                            "title": "Television Auteurs *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Media Studies Electives: 6 s.h. Select at least two elective courses. These courses may come from any of the above banks, as well as the following courses."
+            ]
+        },
+        "Note:": [
+            "Note: * 500-level courses are part of the Diana King Master of Arts in Television Studies. Undergraduates may take these courses under the Senior Privilege program with instructor permission. Students should expect a greater workload and more challenging material than encountered in an upper-division (300/400-level) undergraduate course."
+        ],
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

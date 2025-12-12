@@ -1,0 +1,302 @@
+{
+    "name": "Bachelor of Science in Data Analytics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6980&returnto=1028",
+    "content": {
+        "Bachelor of Science in Data Analytics": [
+            "Bachelor of Science in Data Analytics The Bachelor of Science in Data Analytics is an interdisciplinary program designed to meet the high and rising demand for data analytics professionals in the region and beyond. The program will equip its graduates with a strong background and skills in data collection, exploration, analysis, visualization, presentation, and dissemination. Through a structured curriculum that provides skills-based knowledge, students will be able to pursue a wide range of data analytics positions such as: data analyst, data-driven decision maker, functional analyst, data systems developer, business analyst, and analytics manager. The Bachelor of Science in Data Analytics is offered as a 3+1 program in partnership with Rowan College of South Jersey (RCSJ) and Rowan College of Burlington County (RCBC) and is an option for students who complete one of three associate’s degrees at RCSJ (Computer Information Systems, Computer Science, and Business Administration) or one of three associate’s degrees (Computer Science, Business Administration, Computer Management Information Systems) at RCBC. The third-year courses are taught by the county college and serve as the leveling year before students transfer into Rowan University for the fourth year."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this area cannot be in the Major Department."
+        ],
+        "Foundational Courses 24-25 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DS",
+                            "course_number": "01100",
+                            "title": "Introduction to Data Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving  - Python",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04210",
+                            "title": "Advanced Programming Workshop",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02265",
+                            "title": "Basics of Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses 24-25 s.h."
+            ]
+        },
+        "Upper-Level and Capstone Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02337",
+                            "title": "Applied Database Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10337",
+                            "title": "Applied Database Technologies",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06408",
+                            "title": "Visual Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02370",
+                            "title": "Introduction to Information Visualization",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02331",
+                            "title": "Data Mining for Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02339",
+                            "title": "Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02421",
+                            "title": "Big Data Tools and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "01350",
+                            "title": "Research Methods and Ethical Issues in Data Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "01491",
+                            "title": "Data Analytics Capstone I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "01492",
+                            "title": "Data Analytics Capstone II - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-Level and Capstone Courses: 27 s.h."
+            ]
+        },
+        "Elective Courses (selecte three from the list below): 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02325",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02328",
+                            "title": "Agile Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02301",
+                            "title": "Emerging Technologies I",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02302",
+                            "title": "Emerging Technologies II",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02311",
+                            "title": "Introduction to Statistical Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "01451",
+                            "title": "Risk Simulation Queuing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "01453",
+                            "title": "Forecasting Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "01454",
+                            "title": "Customer and Client Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00370",
+                            "title": "Research and Data Analysis in Emergency Management and Homeland Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses (selecte three from the list below): 9 s.h."
+            ]
+        },
+        "Free Electives: 32-33 s.h.": [
+            "Free Electives: 32-33 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Total Credits for Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for Program: 120 s.h. Program-Specific Graduation Requirements: A grade of C- or better in STAT 02260 Statistics I and MATH 03125 Calculus: Techniques and Applications or MATH 01130 Calculus I. To graduate from the program the student must fulfill all requirements of the BS in Data Analytics per the program guide and have an overall/cum. G.P.A. of at least 2.0 (only Rowan University courses count toward the G.P.A.). A minimum of 30 s.h. of coursework must be completed at/through Rowan University. Only grades of “D-” or above may apply to graduation requirements.",
+                "Notes:"
+            ]
+        }
+    }
+}

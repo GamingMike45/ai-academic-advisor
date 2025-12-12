@@ -1,0 +1,65 @@
+{
+    "name": "Certificate of Graduate Study in Sustainability Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7687&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Sustainability Studies": [
+            "Certificate of Graduate Study in Sustainability Studies The Certificate of Graduate Study (COGS) in Sustainability Studies offers students a credential demonstrating their understanding of applying sustainability concepts in the ‘real world’. Research in STEM fields has resulted in amazing advances in our societal ability to generate solutions to environmental challenges, but there is frequently a disconnect between the solutions and their implementation. The COGS in Sustainability Studies, and the courses that comprise the program, are aimed at helping STEM students understand avenues for implementing comprehensive sustainability solutions. Similarly, the University lacks a pathway for students pursuing graduate degrees in business, education, social sciences, humanities, or communication arts to include coursework on sustainability and environmental issues as a part of their education. The COGS in Sustainability Studies is also a useful avenue for these non-STEM students to strengthen their environment and sustainability skill set."
+        ],
+        "Declaration Requirements": [
+            "Declaration Requirements Students must have completed a bachelor’s degree in any field from an accredited college or university."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENST",
+                            "course_number": "94501",
+                            "title": "Sustainable Commerce",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94502",
+                            "title": "Sustainability Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94503",
+                            "title": "Perspectives on Environmental Regulation, Policy, and Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94504",
+                            "title": "Topics in Sustainability Innovation and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31587",
+                            "title": "Graduate Seminar in Food Systems Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses Students must take three of the five courses below - 9 s.h.",
+                "Though the courses are numbered sequentially, the order the courses are taken in does not matter. None of the courses have prerequisites."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. For information related to this program, please contact: Richard Federman 856.256.4811 federmanr@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

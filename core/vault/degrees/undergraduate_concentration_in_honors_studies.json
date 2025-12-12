@@ -1,0 +1,53 @@
+{
+    "name": "Undergraduate Concentration in Honors Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7365&returnto=1028",
+    "content": {
+        "Undergraduate Concentration in Honors Studies": [
+            "Undergraduate Concentration in Honors Studies"
+        ],
+        "Bantivoglio Honors Concentration, John H. Martinson Honors College": [
+            "Bantivoglio Honors Concentration, John H. Martinson Honors College The Thomas N. Bantivoglio Honors Concentration in the John H. Martinson Honors College is typically an eight (8) course program open to Rowan students in all academic majors. The Honors Concentration is designed for full-time students and classes are offered in-person. Classes are pro-rated for transfer students and other students who join the program after the first semester of their first year at Rowan. Students take their disciplinary major’s Honors classes as well as Honors courses that fulfill general education, Rowan Core, Rowan Experience, and free elective requirements. Participation in the Martinson Honors College provides students with a rich educational experience as well as co- and extracurricular activities designed to cultivate citizen scholars and is required through the HONR Participation course each term.  At graduation, Martinson Honors College graduates receive special recognition, and their accomplishments are highlighted in the Commencement Program and on their diplomas. Honors emphasizes interdisciplinary learning, enhanced classroom experiences, civic engagement, the importance of diversity, and active participation in a thriving community of intellectually curious students. Classes are small, so students can engage in active learning with professors committed to collaborative work. Students study topics such as climate change, marketing, medicine, time, and identity that are more effectively considered using perspectives from more than one discipline, and they are encouraged to supplement their major with concepts from other fields. Trips, special speakers, independent studies and research assistantships with faculty, competitive summer research experiences, participation at academic and professional conferences, and Honors special interest clubs enrich the curriculum as well. Other program benefits include the Honors First Year Experience, Peer Mentoring Program, Living Learning Communities, as well as extracurricular activities. Honors students also have priority registration, access to an Honors advisor, financial assistance to study abroad, free printing, and an Honors-only lounge and classrooms. Applications for admission to the Martinson Honors College are reviewed by the Dean, Assistant Dean, and the Honors Faculty Advisory Board. First-year student admissions are based on significant achievement in high school, participation in extracurricular activities, a 3.7 unweighted high school GPA, a letter of recommendation, and an essay. Applicants transferring from another college or university are eligible to apply having earned a 3.5 GPA or better from their transfer institution and must actively participate in our program for a minimum of four (4) semesters (fall and spring terms) and incorporate at least four (4) Honors courses/alternative course experiences. Rowan University students may apply in the fall semester if they have a GPA of 3.5 or higher and can complete at least four (4) semesters in the program before they graduate. The total number of required courses and semesters of Honors Participation for internal or external transfer students is determined by the number of semester they have left to complete at Rowan, with a minimum of four (4) courses and four (4) semesters. Graduation with Honors requires the successful completion of Honors coursework, an overall GPA of 3.5, and successful completion of the Honors Participation course each semester."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COMP",
+                            "course_number": "01111",
+                            "title": "College Composition I Honors #",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COMP",
+                            "course_number": "01112",
+                            "title": "College Composition II Honors #",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04205",
+                            "title": "Public Speaking Honors #",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "Any additional Honors course with the HONR Attribute for a total 8 Honors Courses *"
+            ]
+        },
+        "Total Required Credits for the Program: Varies*": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Varies* #Students transferring in this course(s) are required to take an additional Honors Course in its place. Engineering students are required to take appropriate Honors Engineering Clinics. *Prorated for transfer students and early graduates Dr. Lee Talley Dean Whitney Center 856.256.4775 honors@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

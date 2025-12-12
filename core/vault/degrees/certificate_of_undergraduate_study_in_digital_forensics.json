@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Digital Forensics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7224&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Digital Forensics": [
+            "Certificate of Undergraduate Study in Digital Forensics The Certificate of Undergraduate Study (CUGS) in Digital Forensics is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: EC Council: Digital Forensics Essentials EnCASE Certified Examiner EC Council: ECIH - Certified Incident Hacker EC Council: CHFI - Certified Hacking Forensics Investigator"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "03252",
+                            "title": "Foundations of Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03253",
+                            "title": "Applications for Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03352",
+                            "title": "Digital Incident Handling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03452",
+                            "title": "Advanced Digital Forensics Investigation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students seeking this CUGS are required to successfully complete (grade of D- or better) the four courses in the order listed below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Fred Stinchcombe Advisor Robinson Hall 328I 856.256.4805 stinchcombe@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

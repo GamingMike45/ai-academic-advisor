@@ -1,0 +1,184 @@
+{
+    "name": "Minor in Medical Social Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7047&returnto=1028",
+    "content": {
+        "Minor in Medical Social Science": [
+            "Minor in Medical Social Science There are many health professions other than physician or nurse that require a strong background in medical social science. These include but are not limited to public health, epidemiology, medical research, allied health, community health organizer. At present students interested in the health field can have a pre-med concentration, which relies heavily on math and science. They may take a special program in humanities, which concentrates on ethics. But they do not have an organized way to learn about the social factors influencing health behavior and delivery, gain experience through internships or field placement in health organizations, and explore the vast field of health beyond medical school. This minor offers an opportunity to explore medical social science and provide an experiential component for the student to determine if one of these is the career of interest. It can prepare students for health-related jobs at graduation or for graduate school in public health, urban health, allied health, and the like."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08120",
+                            "title": "Introduction to Sociology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08121",
+                            "title": "Introduction to Sociology for Premed Students",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08436",
+                            "title": "Sociology of Medicine",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08422",
+                            "title": "Social Determinants of Health: Theory, Method and Intervention",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02215",
+                            "title": "Medical Anthropology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Medical Social Science Bank: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02322",
+                            "title": "Sex and Sex Roles in a Cross Cultural Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08281",
+                            "title": "Sexuality and Society",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "SOC",
+                            "course_number": "08401",
+                            "title": "Human Service Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08353",
+                            "title": "Sociology of Complex Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08430",
+                            "title": "Case Management Intervention in Sociological Practice (recommended for careers in health organization)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02312",
+                            "title": "Anthropological Perspectives on Physical Growth and Development.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08403",
+                            "title": "Sociology of Death, Dying, and Bereavement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02221",
+                            "title": "Human Variation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08362",
+                            "title": "Sociology of Disability",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "15322",
+                            "title": "Sociology of Population (preparatory for epidemiology)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02355",
+                            "title": "Global Health in Anthropological Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02225",
+                            "title": "Arts and Medicine",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08494",
+                            "title": "Field Experience Seminar in Sociology - WI (in a medical setting)",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08422",
+                            "title": "Social Determinants of Health: Theory, Method and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08436",
+                            "title": "Sociology of Medicine",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Medical Social Science Bank: 12 s.h.",
+                "PSY 01108 - Essentials of Psychology for Pre-Health Students Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. Seran Schug Advisor Campbell Library, 5th floor 856.256.4500 ext. 53511 schug@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "name": "Certificate of Undergraduate Study in Middle School Mathematics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7437&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Middle School Mathematics": [
+            "Certificate of Undergraduate Study in Middle School Mathematics The Certificate of Undergraduate Study (CUGS) in Middle School Mathematics (5-8) provides a broad-based practice in the study of mathematics e.g. statistics, geometry, and algebraic thinking that complement courses in elementary education while enabling students to pursue certification in Middle School Mathematics. The teacher candidate will acquire specialized knowledge on building mathematical ideas and experiences drawing from connections and relationships with mathematics they learned in elementary school."
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01202",
+                            "title": "Introduction to Geometry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01204",
+                            "title": "Structures of Mathematics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Choose 1 Course from 2 of the following banks:": [
+            "Choose 1 Course from 2 of the following banks:"
+        ],
+        "Bank 1": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01115",
+                            "title": "Contemporary Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02102",
+                            "title": "Statistical Literacy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank 1"
+            ]
+        },
+        "Bank 2:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01124",
+                            "title": "Reasoning with Functions",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01122",
+                            "title": "Precalculus Mathematics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank 2:"
+            ]
+        },
+        "Bank 3:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications **",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I **",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank 3:"
+            ]
+        },
+        "Bank 4:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II **",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Bank 4:"
+            ]
+        },
+        "Total Credits in Program: 16-17 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits in Program: 16-17 s.h. To be awarded the CUGS in Middle School Mathematics, students must complete all courses required for the B.A. in Elementary Education program in addition to the CUGS in Middle School Mathematics with at least a 3.0 (C-) in all coursework. **These courses require that students pass the CLM portion of the Accu-placer test or are SAT exempt. Additional testing and fees required for 5-8th grade Math state certification if they pursue this CUGS. Erica Watson Brown Program Coordinator James Hall 3057 856.256.3812 watsonbrown@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

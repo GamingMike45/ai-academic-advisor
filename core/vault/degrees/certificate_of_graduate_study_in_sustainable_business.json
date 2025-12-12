@@ -1,0 +1,97 @@
+{
+    "name": "Certificate of Graduate Study in Sustainable Business",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7578&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Sustainable Business": [
+            "Certificate of Graduate Study in Sustainable Business The Certificate of Graduate Study (COGS) in Sustainable Business will offer graduate students a credential demonstrating their understanding of applying sustainability concepts in the ‘real world’. The COGS in Sustainability Business, and the courses that comprise the program, are aimed at helping students in diverse graduate disciplines understand avenues for implementing comprehensive sustainability solutions. The Sustainable Business COGS builds on the existing expertise in the Department of Geography, Planning & Sustainability in the School of Earth & Environment at Rowan. While the courses comprising the program are housed in the Department, the program should be attractive from graduate programs in STEM, business, education, social sciences, humanities, and communication arts departments at the University. The courses may be offered online."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Certificate of Graduate Study (COGS) Sustainable Business at Rowan University requires the completion of nine (9) graduate semester hours (s.h.) made up of three (3) courses."
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06530",
+                            "title": "Sustainable Commerce",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06531",
+                            "title": "Sustainability Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06532",
+                            "title": "Topics in Sustainability Innovation and Problem Solving",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h. Choose two (2) from the following options:"
+            ]
+        },
+        "And choose one (1) from the following options: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06530",
+                            "title": "Sustainable Commerce (if not taken as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06531",
+                            "title": "Sustainability Assessment (if not taken as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06532",
+                            "title": "Topics in Sustainability Innovation and Problem Solving (if not taken as a required course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06505",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06506",
+                            "title": "Corporate Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03507",
+                            "title": "Government and Not-For-Profit Accounting",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And choose one (1) from the following options: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS Sustainable Business is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

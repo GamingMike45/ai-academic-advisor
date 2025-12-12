@@ -1,0 +1,56 @@
+{
+    "name": "Graduate Certificate in Supervision",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7659&returnto=1028",
+    "content": {
+        "Graduate Certificate in Supervision": [
+            "Graduate Certificate in Supervision The Supervisor Certiﬁcation program is intended for public school teachers and administrators who wish to earn additional administrative credentials in their ﬁeld. The program prepares you to take on the authority and responsibility for the continuing direction and guidance of the work of instructional personnel. Working professionals appreciate the efficiency our part-time program, which is oﬀered in an accelerated online format. The program meets the requirements speciﬁed by the state of New Jersey and is designed for those who have already earned a Master’s degree and want to qualify as a supervisor in the public schools. Students outside the state of NJ must consult with their state department of education for certiﬁcation requirements."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28522",
+                            "title": "Instructional Leadership and Supervision",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28546",
+                            "title": "Educational Organizations and Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28510",
+                            "title": "Curriculum Design and Development for Instructional Leaders",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28511",
+                            "title": "Leading Curricular Implementation and Assessment for School Improvement *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses:",
+                "*(CURR 29590 - Curriculum Evaluation may be substituted here instead if needed)"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Minimum Required Grades and Cumulative GPA The Supervisor Certificate is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator Contact Information David T. Lindenmuth, Ed.D. Herman D. James Hall 856.256.4705 lindenmuth@rowan.edu Program Advisor Contact Information Miguel Greenup Herman D. James Hall 856.256.4500, ext.53637 greenup@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

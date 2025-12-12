@@ -1,0 +1,641 @@
+{
+    "name": "Bachelor of Science in Neuroscience",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7192&returnto=1028",
+    "content": {
+        "Bachelor of Science in Neuroscience": [
+            "Bachelor of Science in Neuroscience The Bachelor of Science in Neuroscience prepares students in an interdisciplinary field studying the nervous system and how it controls physiological functions such as behavior and cognition. Students will learn the subdisciplines of neurobiology, neuropsychology, and theoretical and computational neuroscience. Students will develop conceptual and hands-on training to apply their knowledge to careers in the field or continued graduate or professional studies."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 34-35 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00210",
+                            "title": "Physics I without Calculus",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00211",
+                            "title": "Physics II without Calculus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09376",
+                            "title": "Philosophy of Medicine - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09368",
+                            "title": "Philosophy of Science",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 34-35 s.h."
+            ]
+        },
+        "Major Requirements: 56 s.h.": [
+            "Major Requirements: 56 s.h."
+        ],
+        "Foundational Courses": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01108",
+                            "title": "Essentials of Psychology for Pre-Health Students",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses"
+            ]
+        },
+        "Mid-Level Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "10315",
+                            "title": "Physiological Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NEUR",
+                            "course_number": "01301",
+                            "title": "Introduction to Neuroscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NEUR",
+                            "course_number": "01302",
+                            "title": "Neuroanatomy and Physiology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-Level Courses"
+            ]
+        },
+        "Upper-level Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NEUR",
+                            "course_number": "01491",
+                            "title": "Neuroscience Research Clinic",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10480",
+                            "title": "Cognitive Neuroscience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01481",
+                            "title": "Cellular and Molecular Neuroscience",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-level Courses"
+            ]
+        },
+        "Restricted Elective Courses: 20 s.h.": [
+            "Restricted Elective Courses: 20 s.h. 20 s.h. total of Restricted Elective credits are required for the BS in Neuroscience. All courses listed below (unless otherwise noted) can apply towards the Restricted Elective requirement. Declaring a Concentration is optional but electives have been organized below into their respective concentrations."
+        ],
+        "Biosciences and Pharmaceutical Concentration": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07348",
+                            "title": "Biochemistry (Lecture And Lab) (required for concentration)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07490",
+                            "title": "General Aspects of Pharmacology (required for concentration)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07310",
+                            "title": "Introduction to Bioinformatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "05355",
+                            "title": "Bioinformatics: Biological Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "05360",
+                            "title": "Programming for Molecular Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07399",
+                            "title": "Bioinformatics: Biochemical Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01428",
+                            "title": "Developmental Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01445",
+                            "title": "Special Topics In Biological Sciences - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "07301",
+                            "title": "Comparative Vertebrate Anatomy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07492",
+                            "title": "Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07408",
+                            "title": "Advanced Biochemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07410",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01308",
+                            "title": "Special Topics in Molecular and Cellular Biosciences",
+                            "credits": "2 to 3"
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01334",
+                            "title": "Medical Biochemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "10345",
+                            "title": "Human Physiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "22450",
+                            "title": "Molecular Genetics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Biosciences and Pharmaceutical Concentration"
+            ]
+        },
+        "Behavioral Neuroscience Concentration": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01326",
+                            "title": "Perception",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02310",
+                            "title": "Learning and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10375",
+                            "title": "Drugs, the Brain, and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10415",
+                            "title": "Neuroplasticity and Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10425",
+                            "title": "Hormones, the Brain, and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10610",
+                            "title": "Psychopharmacology and Biological Bases of Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01327",
+                            "title": "Cognitive Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01423",
+                            "title": "Seminar in Psychology: Topics",
+                            "credits": "3 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Behavioral Neuroscience Concentration"
+            ]
+        },
+        "Computational/Theoretical Neuroscience Concentration": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II (required; only counts as a restricted elective for this concentration)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07310",
+                            "title": "Introduction to Bioinformatics (required for concentration)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NEUR",
+                            "course_number": "01450",
+                            "title": "Mathematical Modeling in Neuroscience (required for concentration)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "05360",
+                            "title": "Programming for Molecular Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "05355",
+                            "title": "Bioinformatics: Biological Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02480",
+                            "title": "Introduction to Data Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07399",
+                            "title": "Bioinformatics: Biochemical Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01301",
+                            "title": "Data Science for Biologists",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08410",
+                            "title": "Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Computational/Theoretical Neuroscience Concentration"
+            ]
+        },
+        "Additional Neuroscience Restricted Electives": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07357",
+                            "title": "Chemical Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07388",
+                            "title": "Natural Products Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07409",
+                            "title": "Advanced Biochemistry Laboratory",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07431",
+                            "title": "Advanced Topics In Biochemistry",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09322",
+                            "title": "Bioanalytical Chemistry",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09330",
+                            "title": "Chemical Analysis of Cannabinoids",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01458",
+                            "title": "Mammalogy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01360",
+                            "title": "Animal Behavior",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11330",
+                            "title": "Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01320",
+                            "title": "Introduction to Virology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01414",
+                            "title": "General Aspects of Infectious Agents",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01421",
+                            "title": "Fundamentals in Cell Culture Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "11338",
+                            "title": "Immunology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01301",
+                            "title": "Psychology of Scientific Thinking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01426",
+                            "title": "Research Experience in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01220",
+                            "title": "Translational Biomedical Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01315",
+                            "title": "Biomedical Technologies I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01370",
+                            "title": "Biomedical Technologies II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01450",
+                            "title": "Biomedical Frontiers Seminar I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01451",
+                            "title": "Biomedical Frontiers Seminar II",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Neuroscience Restricted Electives"
+            ]
+        },
+        "Free Electives: 20-21 s.h.": [
+            "Free Electives: 20-21 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Completion of 120 semester hours of course work, including the non-program, major and elective courses as well as all Rowan Core and Rowan Experience requirements, with a minimum GPA of 2.0 is mandatory for graduation. Students must receive a grade of C or better in all courses satisfying Major requirements. Gerald Hough Robinson Hall 116M 856.256.4500 x53404 hough@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

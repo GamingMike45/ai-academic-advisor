@@ -1,0 +1,433 @@
+{
+    "name": "Master of Science in Nursing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7571&returnto=1028",
+    "content": {
+        "Master of Science in Nursing": [
+            "Master of Science in Nursing The Master of Science in Nursing (M.S.N.) program at Rowan University was established to provide Registered Nurses in the greater Philadelphia/tri-state area with the skills to assume leadership roles in their respective organizations. Concentrations The Master of Science in Nursing program requires students to select a concentration. Each has different course requirements which are outlined below. All students must successfully complete the Master of Science in Nursing core maintain a GPA of 3.00 prior to being approved by the department to continue on to their concentration. The Master of Science in Nursing is a Category 2 program requiring a minimum of B- in all courses. Nurse Educator: The Master of Science: Nurse Educator concentration will supply Educators with the essentials to address many of today’s pressing needs in the healthcare arena. This MSN concentration will provide Graduate Nurses with a firm foundation of teaching/learning principles, curriculum design, and evaluation methods. As a Nurse Educator, you can remain at the bedside, become a staff educator, develop into a leader in your chosen area of expertise, and/or teach nursing to future nurses. Nurse Executive: The Master of Science: Nurse Executive concentration will prepare the current and future nursing leaders with the education to help them understand and respond to organizational dynamics of the current environment. Application of evidence-based best practice models to guide actions will be the key to accentuate success and result in sustainable change that is valued by organizations and all key stakeholders in healthcare in the 21st Century. Nurse Practitioner-Adult Gerontology Acute Care: The Nurse Practitioner program prepares Registered Nurses (RN) to sit for the concentration certification exam. The certifying agency determines eligibility for the exam. Nurse Practitioner-Family: The Nurse Practitioner (NP) program prepares Registered Nurses (RN) to sit for the specialty certification exam. The certifying agency determines eligibility for the exam. Psychiatric Mental Health Nurse Practitioner: The Nurse Practitioner program prepares Registered Nurses (RN) to sit for the concentration certification exam. The certifying agency determines eligibility for the exam. Abbreviations NP - Nurse Practitioner FNP - Family Nurse Practitioner AGACNP - Adult Gerontology Acute Care Nurse Practitioner PMHNP - Psychiatric Mental Health Nurse Practitioner"
+        ],
+        "Program Requirements": [
+            "Program Requirements All applicants to the Master of Science in Nursing program who meet the admission requirements are first admitted to the Master of Science in Nursing CORE which consists of seven graduate level courses taken by all MSN students regardless of their specialty track. Students must maintain a cumulative GPA of 3.0 in all MSN CORE courses in order to apply and be approved by the Department of Nursing to apply to a concentration. Admission to the concentration will only occur after core completion and faculty review/approval."
+        ],
+        "Required Core MSN Courses: 22 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05500",
+                            "title": "Integrated Information Technology in Health Care",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05501",
+                            "title": "Advanced Health Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05503",
+                            "title": "Advanced Nursing Research",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05504",
+                            "title": "Advanced Pathophysiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05505",
+                            "title": "Advanced Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05507",
+                            "title": "Leadership and Care Delivery Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05508",
+                            "title": "Special Issues and Trends in Nursing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core MSN Courses: 22 s.h."
+            ]
+        },
+        "Core Nurse Executive Courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05500",
+                            "title": "Integrated Information Technology in Health Care",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05503",
+                            "title": "Advanced Nursing Research",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05507",
+                            "title": "Leadership and Care Delivery Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05508",
+                            "title": "Special Issues and Trends in Nursing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Nurse Executive Courses: 16 s.h."
+            ]
+        },
+        "Core Nurse Practitioner Courses: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05516",
+                            "title": "Epidemiology Health Promotion and Disease Management",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05517",
+                            "title": "Nurse Practitioner Role: History, Practice Regulations, Reimbursement and Ethics",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Nurse Practitioner Courses: 4 s.h."
+            ]
+        },
+        "Required Adult Gerontology Acute Care NP Concentration: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05538",
+                            "title": "Adult Acute and Chronic Disease Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05533",
+                            "title": "AGACNP Adult Medicine Clinical I (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05534",
+                            "title": "Evidence Based Clinical Care for Adult Gerontologic Acute Care Nurse Practitioner I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05535",
+                            "title": "AGACNP Adult Medicine Clinical II (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05536",
+                            "title": "Evidence Based Clinical Care for Adult Gerontological Acute Care Nurse Practitioner II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05537",
+                            "title": "AGACNP Adult Medicine Clinical III (250 hours)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Adult Gerontology Acute Care NP Concentration: 18 s.h."
+            ]
+        },
+        "Total Required Credits for the Adult Gerontology Acute Care MP Concentration Program: 44 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Adult Gerontology Acute Care MP Concentration Program: 44 s.h."
+            ]
+        },
+        "Family NP Concentration Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05538",
+                            "title": "Adult Acute and Chronic Disease Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05545",
+                            "title": "FNP Clinical I (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05546",
+                            "title": "Women’s Health and Pediatrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05544",
+                            "title": "FNP Women’s Health/Pediatrics Clinical (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05532",
+                            "title": "FNP Across the Lifespan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05547",
+                            "title": "FNP Clinical II (250 hours)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Family NP Concentration Courses: 18 s.h."
+            ]
+        },
+        "Total Required Credits for Family NP Concentration: 44 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for Family NP Concentration: 44 s.h."
+            ]
+        },
+        "Core Nurse Practitioner Courses for the Psychiatric Mental Health Concentration: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05551",
+                            "title": "Theoretical Foundations of Psychotherapy Across the Lifespan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05553",
+                            "title": "Principles of Psychopharmacology Across the Lifespan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05552",
+                            "title": "Biopsychosocial Assessment and Differential Diagnosis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Nurse Practitioner Courses for the Psychiatric Mental Health Concentration: 9 s.h."
+            ]
+        },
+        "Psychiatric Mental Health NP Concentration Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05554",
+                            "title": "Behavior Theory I: Care of the Adult and the Older Adult and Family",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05555",
+                            "title": "Behavior Clinical Practicum I: Care of the Adult and the Older Adult and Family (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05556",
+                            "title": "Behavior Theory II: Care of the Adult and the Older Adult and Family",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05557",
+                            "title": "Behavior Clinical Practicum II: Care of the Adult and the Older Adult and Family (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05558",
+                            "title": "Behavior Theory III: Care of the Child and Adolescent and Family",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05559",
+                            "title": "Behavior Clinical Practicum III: Care of the Child and Adolescent and Family (250 hours)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Psychiatric Mental Health NP Concentration Courses: 18 s.h."
+            ]
+        },
+        "Total Required Credits for the Psychiatric NP Program: 53 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Psychiatric NP Program: 53 s.h."
+            ]
+        },
+        "Nurse Educator Concentration Courses: 16 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05502",
+                            "title": "Teaching and Learning in Nursing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05506",
+                            "title": "Learning Assessment in the Classroom and Clinical Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05513",
+                            "title": "Nursing Curricular Design and Evaluation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05514",
+                            "title": "Nurse Educator: Leadership, Quality, and Planned Change in the Practice Environment I (100 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05515",
+                            "title": "Nurse Educator: Leadership, Quality, and Planned Change in the Practice Environment II (200 Clinical Hours)",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Nurse Educator Concentration Courses: 16 s.h."
+            ]
+        },
+        "Total Required Credits for the Nurse Educator Program: 38 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Nurse Educator Program: 38 s.h."
+            ]
+        },
+        "Nurse Executive Concentration Courses: 23 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05561",
+                            "title": "The Role of the Nurse-Theory and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05560",
+                            "title": "Evidence Based Practice in Illness/Disease",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05562",
+                            "title": "Healthcare Organizational Structure",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05563",
+                            "title": "Philosophy and Ethics in Advanced Nursing Roles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05564",
+                            "title": "Healthcare Economics for Nursing Executives",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05565",
+                            "title": "Nurse Executive and Human Capital Issues",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05566",
+                            "title": "Nurse Executive Administration Practicum (150 Clinical Hours)",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Nurse Executive Concentration Courses: 23 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 39 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 39 s.h."
+            ]
+        },
+        "Total Required Credits for the MSN Program: 38-53 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the MSN Program: 38-53 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements 150 - 7500 Clinical Hours, depending on Concentration EBI Exit Survey GPA of 3.0 or higher Minimum Required Grades and Cumulative GPA The Master of Science in Nursing is a Category 2 program requiring a minimum of B- in all courses. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Advisor Contact Information Dr. Mary Ellen Santucci 856.256.5158 santucci@rowan.edu Dr. Matthew Kaspar (FNP Concentration Advisor) 856.256.5127 kaspar@rowan.edu Dr. Carmen McDonald (Nurse Executive Concentration Advisor) 856.256.5180 mcdonaldci@rowan.edu Dr. Melissa Mordecai (AGACNP Concentration Advisor) 856.256.5176 mordecai@rowan.edu Dr. Robert White (PMHNP Concentration Advisor) 856.256.5136 whiters@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Undergraduate Study in Medical Laboratory Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7428&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Medical Laboratory Science": [
+            "Certificate of Undergraduate Study in Medical Laboratory Science The Certificate of Undergraduate Study in Medical Laboratory Science provides the scientific and clinical training needed to enter the Clinical Laboratory workforce. Students who complete this degree will be well equipped for entry level positions in a variety of clinical settings."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 11 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09200",
+                            "title": "Clinical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03300",
+                            "title": "Hematology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03401",
+                            "title": "Immunohematology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 11 s.h."
+            ]
+        },
+        "Elective Courses: 3-4 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11330",
+                            "title": "Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01465",
+                            "title": "Animal Histology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "11338",
+                            "title": "Immunology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09202",
+                            "title": "Quality Assurance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3-4 s.h Choose one of the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 15-16 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15-16 s.h. To be awarded the CUGS in Medical Laboratory Sciences, students must complete all required courses and one approved elective. With pre-approval from the certificate advisor, a course in this guide could be replaced by CHEM 05435 CHEM 05435 - Cooperative Experience in Chemistry, if completing such course at a Clinical Laboratory. Discuss enrollment with the program director as it involves a multi-week, full-time rotation at a Clinical Laboratory Site. Such an experience is optimal if conducive with your schedule as it provides hands-on experience in the lab and increases job prospects due to this direct workplace experience. The interdisciplinary nature makes this CUGS suited for students majoring in Biomedical and Translational Sciences, Biological Sciences, Biochemistry, Biomedical Engineering, Mathematics, Computer science, and other science and engineering. Advisor Grace Farber 856-256-4344 farber@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

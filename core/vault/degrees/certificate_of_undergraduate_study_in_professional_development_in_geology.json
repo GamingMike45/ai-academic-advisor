@@ -1,0 +1,118 @@
+{
+    "name": "Certificate of Undergraduate Study in Professional Development in Geology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7718&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Professional Development in Geology": [
+            "Certificate of Undergraduate Study in Professional Development in Geology The Certificate of Undergraduate Study (CUGS) in Professional Development in Geology will reinforce students’ skills with a focus on applications within technical Geoscience careers. It will provide students additional opportunities to build practical and research skills. This CUGS is built around a required course that focuses on careers in the Geosciences and is enhanced by practical application courses. This CUGS is open to any matriculated BS or BA student in Geology."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course: 1 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01480",
+                            "title": "Professional Development in Geology",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course: 1 s.h."
+            ]
+        },
+        "Restricted Elective Bank 1: 2- 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01303",
+                            "title": "Advanced Topics in Geology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01470",
+                            "title": "Research Experience in Geology",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01471",
+                            "title": "Advanced Research Experience in Geology",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Elective Bank 1: 2- 3 s.h. Students choose one course from the following list."
+            ]
+        },
+        "Restricted Elective Bank 2: 3 - 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01301",
+                            "title": "Advanced Field Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01310",
+                            "title": "Geological Laboratory Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01350",
+                            "title": "Advanced Petrology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01353",
+                            "title": "Geochemistry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01400",
+                            "title": "Practical Experience in Geology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01421",
+                            "title": "Hydrogeology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Elective Bank 2: 3 - 4 s.h. Students choose one course from the following list."
+            ]
+        },
+        "Additional Restricted Electives: 6 - 9 s.h.": [
+            "Additional Restricted Electives: 6 - 9 s.h. Students must take an additional 2-3 courses from Bank # 1 and/or Bank # 2 (6-9 s.h.) to reach a minimum of 12 s.h."
+        ],
+        "Total Credits Required for the Program: 12-17 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits Required for the Program: 12-17 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

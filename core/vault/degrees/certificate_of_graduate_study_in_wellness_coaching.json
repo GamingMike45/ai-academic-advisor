@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Wellness Coaching",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7570&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Wellness Coaching": [
+            "Certificate of Graduate Study in Wellness Coaching This certificate is designed for professionals from a variety of backgrounds who desire to pursue a national certification in wellness coaching and to work as wellness coaches. This program is approved by the National Board of Health and Wellness Coaching (NBHWC). Graduates of the program will be prepared to sit for the NBHWC or other wellness coaching certification exam. The certificate may be earned on its own, or it can be credited towards the Master of Arts in Wellness & Lifestyle Management."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WLM",
+                            "course_number": "00541",
+                            "title": "Wellness Coaching and Behavior Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00600",
+                            "title": "Promoting Human Wellness Across the Lifespan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00580",
+                            "title": "Obesity and Diabetes Prevention and Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WLM",
+                            "course_number": "00621",
+                            "title": "Practicum in Wellness Coaching",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses Any three (3) credit undergraduate nutrition course and any four (4) credit Anatomy and Physiology course from an accredited institution. NUT 00200 and BIOL 10210 or BIOL 10212 are recommended. Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Wellness Coaching is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Dr. Leslie Spencer Herman D. James Hall 856.256.4500, ext. 53761 spencer@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

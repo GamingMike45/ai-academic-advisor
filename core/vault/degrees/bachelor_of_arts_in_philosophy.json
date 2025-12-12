@@ -1,0 +1,595 @@
+{
+    "name": "Bachelor of Arts in Philosophy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7103&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Philosophy": [
+            "Bachelor of Arts in Philosophy The Bachelor of Arts in Philosophy acquaints students with some of the world’s great intellectual traditions and contemporary writings. Students develop transferable skills in critical thinking, analysis, writing, and communication. Coursework includes the major subfields of philosophy, such as ethics and applied ethics, epistemology, social and political philosophy, aesthetics, and philosophy of science. Graduates are well prepared for a variety of careers and leadership roles, especially law, government, information technology, journalism, and business. Philosophy majors also regularly score in the top percentiles on graduate admission tests, including the Graduate Record Examination, the Law School Admission Test, and the Graduate Management Admission Test."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements Students must have a cumulative GPA of at least 2.0 in Rowan University coursework. (Transfer courses/credit do not count toward the Rowan University GPA.). A minimum of 30 sh of coursework must be completed at/through Rowan University. Only grades of “D-” or above may apply to graduation/degree requirements (Some programs may set higher minimums)."
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h."
+        ],
+        "Experiential Learning Requirement: 0-6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02290",
+                            "title": "Museum Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02315",
+                            "title": "Forensic Anthropology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02324",
+                            "title": "Archaeological Field Methods",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43495",
+                            "title": "Internship in Disaster Preparedness and Emergency Management",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "ECED",
+                            "course_number": "23320",
+                            "title": "Building Brains: Competency and Resiliency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04410",
+                            "title": "Internship in Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02490",
+                            "title": "Public Service Internship",
+                            "credits": "3 to 12"
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05495",
+                            "title": "Internship in History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSRV",
+                            "course_number": "01311",
+                            "title": "Field Experiences in Human Services I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02310",
+                            "title": "STREAM I: Social Studies, ELA, and the Arts",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "SA",
+                            "course_number": "01470",
+                            "title": "Semester Abroad",
+                            "credits": "0 to 6"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20390",
+                            "title": "Interdisciplinary Case Studies in the Liberal Arts",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20395",
+                            "title": "Experiential Learning in the Humanities and Social Sciences",
+                            "credits": "0 to 1"
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "IS",
+                            "course_number": "25350",
+                            "title": "Special Topics in International Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05356",
+                            "title": "Criminal Justice Internship I",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05357",
+                            "title": "Criminal Justice Internship II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "40450",
+                            "title": "Schools & Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08377",
+                            "title": "Field Research Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08494",
+                            "title": "Field Experience Seminar in Sociology - WI",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05499",
+                            "title": "Study Abroad",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Experiential Learning Requirement: 0-6 s.h. Students must complete an Experiential Learning course as a Non-program Elective. Students choose from a bank of experiential learning courses: 0-6 s.h."
+            ]
+        },
+        "Major Requirements: 30 s.h.": [
+            "Major Requirements: 30 s.h."
+        ],
+        "Foundational Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09120",
+                            "title": "Introduction to Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09121",
+                            "title": "Introduction to Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09150",
+                            "title": "Introduction to Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09151",
+                            "title": "Introduction to Ethics - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09211",
+                            "title": "Ancient Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09213",
+                            "title": "Modern Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 6 s.h. Choose two of the following courses:"
+            ]
+        },
+        "Logic Requirement: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09110",
+                            "title": "The Logic of Everyday Reasoning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09130",
+                            "title": "Introduction to Symbolic Logic (Introduction to Symbolic Logic recommended)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09380",
+                            "title": "Intermediate Symbolic Logic",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Logic Requirement: 3 s.h."
+            ]
+        },
+        "Philosophy Electives 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09120",
+                            "title": "Introduction to Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09121",
+                            "title": "Introduction to Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09150",
+                            "title": "Introduction to Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09151",
+                            "title": "Introduction to Ethics - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09240",
+                            "title": "Social and Political Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09241",
+                            "title": "Social and Political Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09310",
+                            "title": "Aesthetics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09311",
+                            "title": "Aesthetics - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09329",
+                            "title": "Philosophy and Gender - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09392",
+                            "title": "Contemporary Moral Problems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09393",
+                            "title": "Contemporary Moral Problems- WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09110",
+                            "title": "The Logic of Everyday Reasoning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09130",
+                            "title": "Introduction to Symbolic Logic",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09200",
+                            "title": "Philosophy of Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09211",
+                            "title": "Ancient Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09213",
+                            "title": "Modern Philosophy - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09218",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09219",
+                            "title": "Existentialism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09228",
+                            "title": "American Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09231",
+                            "title": "Asian Thought",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09261",
+                            "title": "Philosophical Perspectives on Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09324",
+                            "title": "Philosophy of Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09326",
+                            "title": "Philosophy of Mind",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09327",
+                            "title": "Philosophy and Race - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11269",
+                            "title": "Introduction to Queer Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09346",
+                            "title": "Feminist Ethics - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09368",
+                            "title": "Philosophy of Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09370",
+                            "title": "Epistemology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09376",
+                            "title": "Philosophy of Medicine - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09380",
+                            "title": "Intermediate Symbolic Logic",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09440",
+                            "title": "Topics in Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09472",
+                            "title": "Topics in the History of Philosophy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11310",
+                            "title": "Buddhism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11330",
+                            "title": "Daoism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11361",
+                            "title": "Ethics In and Out of Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11440",
+                            "title": "Topics in Philosophy and World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHRE",
+                            "course_number": "11469",
+                            "title": "Topics in Queer Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Philosophy Electives 18 s.h. Six additional Philosophy or PHRE courses - 18 S.H. (at least 9 S.H. must be upper-level)"
+            ]
+        },
+        "Capstone: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09495",
+                            "title": "Senior Seminar in Philosophy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Capstone: 3 s.h. Students must attend 2 career events prior to graduation."
+            ]
+        },
+        "Free Electives: 63 s.h.": [
+            "Free Electives: 63 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

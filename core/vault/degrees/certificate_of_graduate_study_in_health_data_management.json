@@ -1,0 +1,67 @@
+{
+    "name": "Certificate of Graduate Study in Health Data Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7539&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Health Data Management": [
+            "Certificate of Graduate Study in Health Data Management The Certificate of Graduate Study (COGS) in Health Data Management is designed to offer students the opportunity to understand how to handle health-related data and design and analyze experiments as they relate to health data. It is intended for researchers, statisticians, or data analysts who would like to play a part in the healthcare industry. It consists of 12 s.h. of coursework. Students seeking this COGS will be required to take two (2) required courses and two (2) restricted electives. The COGS is a stackable certificate, and students can apply their certificate credits toward the M.S. in Data Science. Students may also apply some of their certificate credits toward the M.S. in Computer Science. Students should consult with the program advisor for additional information."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "02625",
+                            "title": "Data Quality and Web/Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "03510",
+                            "title": "Patient Data Understanding",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Restricted Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DA",
+                            "course_number": "03511",
+                            "title": "Patient Data Privacy and Ethics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 6 s.h. Choose two of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses A sufficient computing and mathematics background evidenced by courses in Statistics, Linear Algebra, Object-Oriented Programming, and Data Structures and Algorithms. Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Health Data Management is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Anthony Breitzman Robinson Hall, Room 328P breitzman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "name": "Certificate of Undergraduate Study in Film & Television Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7432&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Film & Television Studies": {
+            "requirements": [],
+            "notes": [
+                "Certificate of Undergraduate Study in Film & Television Studies The 12-hour Certificate of Undergraduate Study (CUGS) in Film & Television Studies allows students from any major to expand their knowledge of these media forms. It offers students critical approaches to the study of film and television in media aesthetics, history, and theory. Students will also build skills in research, writing, and analysis that can be applied to a range of scholarly and professional contexts. Students begin with an introductory course in the analysis of media, critical thinking, and writing (RTF 03275 Applied Media Aesthetics) and then customize and deepen their knowledge of specific areas of interest with three program electives."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03275",
+                            "title": "Introduction to Media Aesthetics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course: 3 s.h."
+            ]
+        },
+        "Related Elective Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03270",
+                            "title": "Film History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03271",
+                            "title": "Film History II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03205",
+                            "title": "TV History and Appreciation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03206",
+                            "title": "TV History and Appreciation, 1960s-1970s",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03471",
+                            "title": "Techniques of Documentary Film Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03372",
+                            "title": "American Film Directors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03373",
+                            "title": "Film Noir",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03294",
+                            "title": "Contemporary International Cinema",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04215",
+                            "title": "Fiction to Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03280",
+                            "title": "African American Film History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03276",
+                            "title": "Film/TV Theory and Criticism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03378",
+                            "title": "The Hollywood Studio System",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03377",
+                            "title": "Animation History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03274",
+                            "title": "Queer Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03474",
+                            "title": "Film Censorship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03485",
+                            "title": "Deconstructing Disney: From Mickey to Marvel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "01402",
+                            "title": "Special Topics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Related Elective Courses: 9 s.h. Select three of the following courses."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

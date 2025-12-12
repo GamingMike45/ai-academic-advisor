@@ -1,0 +1,65 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Biomedical Engineering, Doctor of Osteopathic Medicine",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7482&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Biomedical Engineering, Doctor of Osteopathic Medicine": [
+            "Accelerated Dual Degree: Bachelor of Science in Biomedical Engineering, Doctor of Osteopathic Medicine Rowan University Graduation Requirements • Students must complete at least 120 s.h. (semester hours) of coursework that applies to their Rowan University degree • Students must have an overall/cum. G.P.A. of at least 2.0. (Only Rowan University courses count toward the G.P.A.) • A minimum of 30 s.h. of coursework must be completed at/through Rowan University • Only grades of “D-” or above may apply to graduation requirements (some programs may set higher minimums) • Students must apply for graduation and should do so for the term in which they will complete all program requirements."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in Bachelor of Science in Biomedical Engineering Please consult with your advisor to ensure you have taken all prerequisite courses"
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Transition into DO program": [
+            "Transition into DO program In addition to the coursework required for the BS Degree, successful transition into the DO program requires: • Pre-Requisite Coursework for Medical School Admission/Preparedness (see below) • MCAT Scores at or above the metric established by the combined program • Cumulative GPA at or above the requirement established by the combined program • Demonstration of continued participation and leadership in extracurricular activities and preparedness for a career in medicine • Completion of the standard application • Admissions interview"
+        ],
+        "Pre-Requisite Coursework Required for Accelerated Medical Program": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07548",
+                            "title": "Biochemistry Could also count as the approved out-of-discipline CCF course",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "14440",
+                            "title": "Introduction to Biochemistry - Lecture Only Could also count as the approved out-of-discipline CCF course",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I Could also count as Advanced Science Elective",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Pre-Requisite Coursework Required for Accelerated Medical Program Not explicitly required for BS Degree. These courses may fulfill requirements in the BS degree if applicable.",
+                "BIOL, MCB - One additional semester of biology coursework (with lab) to complete 1 full year of biology - Could also count as Advanced Science Elective",
+                "PSY 01107 - Essentials of Psychology Recommended - Could also fulfill Rowan Core requirements Credits: 3",
+                "Notes:"
+            ]
+        }
+    }
+}

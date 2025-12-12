@@ -1,0 +1,91 @@
+{
+    "name": "Certificate of Undergraduate Study in Spanish American Literature & Culture",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7165&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Spanish American Literature & Culture": [
+            "Certificate of Undergraduate Study in Spanish American Literature & Culture The Certificate of Undergraduate Study (CUGS) in Spanish American Literature & Culture may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). This program recognizes students’ completion of 12 s.h. in related coursework at the 300 and 400 levels. This Certificate in Spanish American Literature & Culture enhances the profile of all job applicants across all fields of study, as it represents Advanced-level proficiency and the ability to access the culture of Latin America through literature, with a view to giving students the in-depth knowledge that will serve them in their professional life in many fields, including diplomacy, translation, education and politics."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05301",
+                            "title": "Appreciation of Hispanic Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course"
+            ]
+        },
+        "Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05324",
+                            "title": "Spanish American Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05327",
+                            "title": "Spanish American Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05328",
+                            "title": "Spanish-American Theater",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05383",
+                            "title": "Spanish-American Short Story",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05426",
+                            "title": "Spanish-American Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses Choose three of the following"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, and study abroad. For more information visit our website, Department of World Languages or contact the Department for the latest details. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in Spanish American Literature & Culture. Marilyn S. Manley, Ph.D. Program Mentor Oak Hall, Room 110 856.256.4044 manley@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

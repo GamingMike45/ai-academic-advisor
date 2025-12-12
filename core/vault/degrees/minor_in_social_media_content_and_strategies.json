@@ -1,0 +1,109 @@
+{
+    "name": "Minor in Social Media Content & Strategies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7425&returnto=1028",
+    "content": {
+        "Minor in Social Media Content & Strategies": [
+            "Minor in Social Media Content & Strategies The Minor in Social Media Content & Strategies introduces students to the fundamentals of strategic social media use, including how to create content that drives traffic to the site and helps organizations meet their goals. The four required courses provide an overview of strategy, copywriting, and analytics, including a special course to develop digital messaging. Two elective courses allow students to explore courses from across the Ric Edelman College of Communication, Humanities, & Social Sciences to build a minor that suits their academic preferences."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04317",
+                            "title": "Social Media Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06324",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06356",
+                            "title": "Digital Public Relations Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05366",
+                            "title": "Social Media Content Creation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ADV",
+                            "course_number": "04433",
+                            "title": "Digital Advertising Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04315",
+                            "title": "Digital Media Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09317",
+                            "title": "Esports Streaming and Social Platforms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06306",
+                            "title": "Social Media and Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "01407",
+                            "title": "Special Topics in Journalism",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose any two of the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 18": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 Dr. Joseph Basso Department Chair, Department of Public Relations/Advertising 301 High Street 856.256.4312 basso@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

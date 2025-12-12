@@ -1,0 +1,59 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Public Relations, Master of Arts in Strategic Communication",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7001&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Public Relations, Master of Arts in Strategic Communication": [
+            "Accelerated Dual Degree: Bachelor of Arts in Public Relations, Master of Arts in Strategic Communication Overview This program provides a seamless transition between undergraduate and graduate coursework through a single five-year degree program to earn both degrees. Upon completion, graduates will possess both the theoretical and practical knowledge to perform duties relevant to work in the field, including positions with a strategic communication and management focus. Rowan University currently offers a Bachelor of Arts in Public Relations and a Master of Arts in Strategic Communication. The accelerated program allows students to obtain both degrees in 5 years (through 141 total credits), providing a cost-effective and efficient option."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Public Relations Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate ADD student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01547",
+                            "title": "Graduate Strategic Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01551",
+                            "title": "Graduate Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01561",
+                            "title": "Graduate Strategic Writing II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate ADD student: 12 s.h.",
+                "Graduate Elective"
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 21 s.h.": [
+            "Required MA Courses taken as a Graduate student: 21 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in Strategic Communication"
+        ],
+        "Total Required Credits for the Entire ADD Program: 141 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 141 s.h. Dr. Bokyung Kim Program Advisor 301 W. High Street kimb@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

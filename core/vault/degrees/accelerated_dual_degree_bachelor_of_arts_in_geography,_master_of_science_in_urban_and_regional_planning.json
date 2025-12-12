@@ -1,0 +1,64 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Geography, Master of Science in Urban & Regional Planning",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10893&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Geography, Master of Science in Urban & Regional Planning": [
+            "Accelerated Dual Degree: Bachelor of Arts in Geography, Master of Science in Urban & Regional Planning"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in Bachelor of Arts in Geography Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MS Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31580",
+                            "title": "Introduction to Planning: Past, Present, and Future",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31685",
+                            "title": "Planning Practice, Law, and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31589",
+                            "title": "Environment and Sustainability Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31686",
+                            "title": "Community Planning, Engagement, and Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MS Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MS Courses taken as a Graduate student: 34 s.h.": [
+            "Required MS Courses taken as a Graduate student: 34 s.h. The remainder of the courses are as listed in Master of Science in Urban & Regional Planning"
+        ],
+        "Total Required Credits for the Entire ADD Program: 154 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 154 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Undergraduate Study in Women, Gender, & Society",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7188&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Women, Gender, & Society": [
+            "Certificate of Undergraduate Study in Women, Gender, & Society Gender pervades all aspects of social life including, but by no means limited to, education, employment, marriage, and parenting. The interdisciplinary nature of the Certificate of Undergraduate Study in Women, Gender, & Society will provide a solid foundation to students who seek a better understanding of the social construction of gender. The study of how society shapes gender roles and vice-versa will enrich our students’ understanding of contemporary social phenomena. Embodiments of gender affect social relations across many vectors of institutional structures and personal relationships. The Certificate of Undergraduate Study in Women, Gender, & Society will equip students with the tools to analyze these issues and prepare them to assume leadership roles in their professional and personal lives."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "The requirements include the following core course:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "INTR",
+                            "course_number": "01130",
+                            "title": "Introduction to Women’s and Gender Studies OR Honors Women and Gender in Perspective",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "The requirements include the following core course:"
+            ]
+        },
+        "And three electives drawn from the course list below:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02322",
+                            "title": "Sex and Sex Roles in a Cross Cultural Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05423",
+                            "title": "Women in Early American History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05424",
+                            "title": "Women in Modern American History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09328",
+                            "title": "Philosophy and Gender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09329",
+                            "title": "Philosophy and Gender - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07311",
+                            "title": "Women and American Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01200",
+                            "title": "Psychology of Women and Cultural Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08370",
+                            "title": "Sociology of Women In Society",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And three electives drawn from the course list below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Melissa R. Klapper Coordinator Robinson Hall 216N 856.256.4500 ext. 53982 klapper@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

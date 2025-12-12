@@ -1,0 +1,158 @@
+{
+    "name": "Master of Fine Arts in Devised Performance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7988&returnto=1028",
+    "content": {
+        "Master of Fine Arts in Devised Performance": [
+            "Master of Fine Arts in Devised Performance The MFA program in Devised Performance is designed to train and launch the next generation of theatre professionals, adroit in creating original theatre with rigorous attention to quality using all the materials at their disposal: their bodies, voices, imaginations, and skills in collaboration and in creating surprising and arresting moments of live performance. The mission of the program is to expand and nourish the local, national, and international communities of forward-thinking theatre artists and to encourage the creation of groundbreaking original work. The Devised Performance program erases the lines of hierarchical artistic ownership in theatre and transforms the traditional norms and power structures central to the current regional theatre environment. Instead of working with pre-established texts, the program advocates creativity as dialogue rather than monologue; theatre-makers work together in an improvisational framework to create characters and performance texts wholly “owned” by creative ensembles. Rather than building new work around the spoken or written word, the program focuses intensively on the body and a physical approach to creating characters and theatrical ideas. The five-semester curriculum leverages a variety of disciplines and offers several channels of exploration in movement, voice, improvisation, and ensemble creation. The program is rooted in ensemble theatre practices and the embodied performance pedagogy of Jacques Lecoq, the French actor and movement coach who founded the internationally renowned theatre school École Internationale de théâtre Jacques Lecoq. Multiple Devised Performance faculty members have trained at the Lecoq school in Paris. Weekly seminars include masterclasses with theatre leaders, as well as poets, sculptors, videographers, and artists who work in a range of disciplines. Students are in studio class between 4 and 8 hours daily, pursuing courses that are designed to train the total theatre artist. Throughout each semester, students work collaboratively on projects, practicing theatre-making with their peers for faculty evaluation. The second year features several public performances. The program culminates in presentations of original student-created work."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 62 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07551",
+                            "title": "Devised Performance Ensemble I",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07574",
+                            "title": "Thinking Like a Producer Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07552",
+                            "title": "Devised Performance Ensemble II",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07571",
+                            "title": "Being a Critical Consumer of Live Art Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07573",
+                            "title": "History, Theory and Practice of Ensemble Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07553",
+                            "title": "Devised Performance Ensemble III",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07581",
+                            "title": "Foundations of Teaching and Learning Theory",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07572",
+                            "title": "Contemporary Art and Culture Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07554",
+                            "title": "Devised Performance Ensemble IV",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07582",
+                            "title": "Pedagogies of Performance/Teaching Methods",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07575",
+                            "title": "Creating and Leading a Healthy and Fulfilling Life as an Artist Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07555",
+                            "title": "Devised Performance Ensemble V",
+                            "credits": 9
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07583",
+                            "title": "Teaching Practicum",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07576",
+                            "title": "MFA Thesis Seminar",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07577",
+                            "title": "Performance Documentation Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 62 s.h."
+            ]
+        },
+        "Additional Requirements: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07563",
+                            "title": "Music Skills",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07561",
+                            "title": "Voice I Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07562",
+                            "title": "Voice II Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07590",
+                            "title": "Object Performance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Requirements: 15 s.h. Select from the following",
+                "Approval Music Theory Elective - (equivalent of 3 credits) Approval Music Performance Elective - (equivalent of 3 credits) Approval Visual Arts Toolkit Elective - (equivalent of 3 credits)"
+            ]
+        },
+        "Total Required Credits for the Program: 77 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 77 s.h. Minimum Required Grades and Cumulative GPA The Master of Fine Arts in Devised Performance requires a minimum GPA of 3.0.",
+                "Notes:"
+            ]
+        }
+    }
+}

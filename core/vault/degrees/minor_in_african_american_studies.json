@@ -1,0 +1,288 @@
+{
+    "name": "Minor in African American Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7170&returnto=1028",
+    "content": {
+        "Minor in African American Studies": [
+            "Minor in African American Studies The African American Studies Minor consists of interdisciplinary curricular offerings that engage faculty and students in critical analysis, reflection and transformational thinking about African Americans within the framework of the multicultural diversity and global connectedness of American society. The African American Studies Program dates back to the late 1960s when the Civil Rights Movement across the nation and the Southern New Jersey region led to the establishment of the King Scholar Program (The Educational Opportunity Fund or EOF Program) in the Fall of 1968. Following the offering of the first Black History course by the History Department in 1969 in response to Black student demands, a slow but steady growth in African American and African curricular offerings over the course of the next two decades culminated in the formal establishment of the African American Studies minor in 1989. To complete the 18 semester hours of course work required for the minor, students should take six semester hours of requirements and an additional twelve semester hours of electives selected from the related elective courses listed below. Overall, the 18 semester hours of course work completed for the minor must include offerings from at least three academic departments. Students interested in pursuing the minor are encouraged to sign up in the RU Office of Career Advancement and to contact the coordinator for further information and advisement."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Requirements: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05377",
+                            "title": "African American History since 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05397",
+                            "title": "Sub-Saharan Africa since 1800",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11104",
+                            "title": "Introduction to Africana Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Requirements: 6 s.h."
+            ]
+        },
+        "Electives: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "AFST",
+                            "course_number": "11304",
+                            "title": "Africana Social Thought",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "AFST",
+                            "course_number": "11350",
+                            "title": "Topics in Africana Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02335",
+                            "title": "Archaeology of Ancient Egypt",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02275",
+                            "title": "Anthropology of Race and Ethnicity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02116",
+                            "title": "Introduction to Global Literatures in English",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02200",
+                            "title": "Gender, Sexuality, and Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02218",
+                            "title": "Multiethnic Literatures of the United States",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02202",
+                            "title": "Introduction to Cultural Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05376",
+                            "title": "African American History to 1865",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05394",
+                            "title": "Sub-Saharan Africa to 1800",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05397",
+                            "title": "Sub-Saharan Africa since 1800",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05353",
+                            "title": "Imperialism and Colonialism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05322",
+                            "title": "Civil War and Reconstruction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05413",
+                            "title": "Comparative Race Relations",
+                            "credits": null
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05425",
+                            "title": "History of Feminisms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05401",
+                            "title": "Law and Human Rights",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05205",
+                            "title": "Minorities, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06115",
+                            "title": "Growth and Development of Jazz",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUSG",
+                            "course_number": "06220",
+                            "title": "The Singing Music of African-Americans",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40344",
+                            "title": "Hip Hop Culture: Music, Lifestyle, Fashion and Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07340",
+                            "title": "Civil Rights and Civil Liberties",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07324",
+                            "title": "The Politics of Race in American Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01200",
+                            "title": "Psychology of Women and Cultural Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01235",
+                            "title": "African American Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01105",
+                            "title": "The Psychology of Ethnic Identity and Community In America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01310",
+                            "title": "Psychology of Racism and Ethnocentrism: Causes, Development, Consequences, Solutions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03280",
+                            "title": "African American Film History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08230",
+                            "title": "Sociology of Minority Groups",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08330",
+                            "title": "Social Stratification",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08488",
+                            "title": "Critical Race Theory: Social Justice, Advocacy and Intervention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08146",
+                            "title": "World Dance Forms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07301",
+                            "title": "African, African-American Theatre: Intercultural Definitions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08311",
+                            "title": "African Influences in American Dance",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Chanelle Rose Coordinator Robinson Hall 216L 856.256.4500 ext. 53963 rosec@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

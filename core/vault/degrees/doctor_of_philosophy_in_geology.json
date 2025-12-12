@@ -1,0 +1,97 @@
+{
+    "name": "Doctor of Philosophy in Geology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7676&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Geology": [
+            "Doctor of Philosophy in Geology The Ph.D. in Geology, housed with the School of Earth & Environment, is a terminal degree program designed to prepare students for successful careers in scientific education and research. The program offers a highly flexible curriculum with an emphasis on developing the skills, expertise, and commitment necessary for graduates to become leaders in the scientific research community. The heart of the program is the Jean and Ric Edelman Fossil Park, a unique living laboratory offering opportunities for study in multiple subject matter areas within the geosciences and for inquiry into critical issues involving climate change, biodiversity, and sustainability. The Fossil Park is also a key forum for outreach to the community at large on these issues as well as on STEM education. The Fossil Park will have a state-of-the-art museum and visitor center, with the goal of official national accreditation for the museum as a type-specimen repository, where researchers, including Ph.D. students, can come and study the collections. The Ph.D. in Geology contributes directly to the advancement of the strategic pillar of Quality. The research activity associated with the program will elevate the reputation of the University, attracting high-caliber faculty, visiting scholars, post-doctoral researchers, and students and enhancing the quality of educational offerings at all levels. The program is composed of core courses in geology, electives, research; and the production of a research based dissertation. Students will develop a robust foundation in geology and selected areas of interest through coursework, and will then build on and expand their theoretical and methodological expertise through the conduct of their research. The program will offer three major areas of specialty in paleontology, planetary science (cosmochemistry, asteroid science, and meteoritics), and global climate interactions. The program of study will also include training in the professional and soft skills necessary for a successful career, including identification and pursuit of external funding, teaching, and outreach. The following courses make up the Doctor of Philosophy in Geology program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 72 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01701",
+                            "title": "Seminar in Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01702",
+                            "title": "Advanced Seminar in Geology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01703",
+                            "title": "Proposal Writing and Grant Management in Geology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01704",
+                            "title": "Communication and Ethics in Geology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01705",
+                            "title": "Graduate Colloquium",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01706",
+                            "title": "Advanced Graduate Colloquium",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01710",
+                            "title": "Fundamental Research I",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01711",
+                            "title": "Fundamental Research II",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01712",
+                            "title": "Topics in Graduate Geology (taken twice)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01713",
+                            "title": "Advanced Topics in Graduate Geology (taken twice)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01730",
+                            "title": "Dissertation Research in Geology (Total of 6 semesters of dissertation research required)",
+                            "credits": 5
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 72 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements: Students must successfully pass the Ph.D. qualification exam and candidacy exam. Students must complete and defend a doctoral dissertation. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Geology is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Professor Harold Connolly Discovery Hall 856.256.5261 connollyh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

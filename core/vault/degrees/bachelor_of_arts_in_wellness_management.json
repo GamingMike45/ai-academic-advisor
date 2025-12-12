@@ -1,0 +1,223 @@
+{
+    "name": "Bachelor of Arts in Wellness Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7293&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Wellness Management": [
+            "Bachelor of Arts in Wellness Management Wellness is a process of supporting, training and encouraging others in the pursuit of well-being in all dimensions of a person’s life, including the Social, Physical, Emotional, Occupational, Intellectual, Environmental and Spiritual. Personal health behavior is significant, as individuals are encouraged to adopt and maintain positive lifestyles through a variety of awareness, educational and motivational strategies. Personal behaviors must be supported by environments that are conducive to maintaining a healthy lifestyle. Our B.A. in Wellness Management Program incorporates the Dimensions of Wellness philosophy as endorsed by the National Wellness Institute (NWI) and is aligned with the Wellness Promotion Competency Model identified by the NWI to enable graduates meet the criteria to become Certified Wellness Practitioners. Students are prepared to manage and facilitate wellness programs that address the overall well-being of individuals and groups in worksite, healthcare and community settings. The B.A. in Wellness Management requires students to earn a minor from a selected list of approved minors available at the University that reflect and support the professional competencies identified for the major. These include minors in business, environmental planning and sustainability, sport psychology, nutrition, and communications. Our Wellness Management program is one of the first programs awarded the Distinguished Undergraduate Program Award by the National Wellness Institute."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01113",
+                            "title": "General Biology: Human Focus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10210",
+                            "title": "Human Anatomy and Physiology I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10212",
+                            "title": "Human Anatomy and Physiology II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h."
+            ]
+        },
+        "Foundational Courses: 17 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00200",
+                            "title": "Introduction to Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00262",
+                            "title": "Drugs, Alcohol, and Tobacco",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00200",
+                            "title": "Basic Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00116",
+                            "title": "Safety First Aid Basic Understanding of Athletic Injuries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00170",
+                            "title": "Stress Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00109",
+                            "title": "Adventure and Experiential Learning",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 17 s.h."
+            ]
+        },
+        "Mid-Level Courses: 17 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00301",
+                            "title": "Health and Diverse Populations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00348",
+                            "title": "Public Health Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00302",
+                            "title": "Global Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00360",
+                            "title": "Facility and Program Management in Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00302",
+                            "title": "Research Methods in Exercise Science-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00347",
+                            "title": "Wellness Programming for Children Seminar",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00351",
+                            "title": "Wellness Coaching Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-Level Courses: 17 s.h."
+            ]
+        },
+        "Upper-Level Courses: 17 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPW",
+                            "course_number": "00350",
+                            "title": "Health Behavior Theory and Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00340",
+                            "title": "Program Planning and Leadership in Health Promotion and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00420",
+                            "title": "Contemporary Issues in Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "UNIV",
+                            "course_number": "01488",
+                            "title": "Career Planning and Development",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00483",
+                            "title": "Senior Internship in Health and Exercise Science",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-Level Courses: 17 s.h."
+            ]
+        },
+        "Minor Course Selections: 18 s.h.": [
+            "Minor Course Selections: 18 s.h. All students in the B.A. in Wellness Management are required to earn a minor from an approved list.  These minors were chosen because they complement the knowledge and skills provided through the B.A. in WM to best prepare students for careers upon graduation.  The approved minors reflect the Core Competency Standards set for wellness professionals by the National Wellness Institute and trends in the future of wellness careers as identified by the Global Wellness Institute. College of Business Minor in Human Resource Management Minor in Marketing Minor in Entrepreneurship College of Communication & Creative Arts Minor in Special Events Communication School of Earth and Environment Minor in Environmental & Sustainability Studies Minor in Planning Department of Health & Exercise Science Minor in Nutrition Minor in Psychology of Sport & Exercise Minor in Public Health & Wellness Minor in Adventure Education Follow the links to find the most updated course lists for these minors.  All minors are 18 credits, although some may require prerequisites that add additional courses/credits to your academic program."
+        ],
+        "Free Electives: 24 s.h.": [
+            "Free Electives: 24 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Leslie Spencer Program Coordinator 856.256.4500 ext 53761 spencer@rowan.edu Laurie Dwyer Advisor Herman D. James Hall 856.256.5835 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

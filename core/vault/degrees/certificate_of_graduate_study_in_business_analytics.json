@@ -1,0 +1,49 @@
+{
+    "name": "Certificate of Graduate Study in Business Analytics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7513&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Business Analytics": [
+            "Certificate of Graduate Study in Business Analytics Business Analytics is the utilization of data to assist in solving business problems. Over time, decisions made with the help of analytics outperform decisions made solely on the basis of hunches or intuitions. Thanks to technological advances, all businesses now have the capability of applying business analytics, yet many lack the necessary expertise. While this COGS can be pursued independently as a standalone credential, it can also serve as a complementary offering to the MBA program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06603",
+                            "title": "Process Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07510",
+                            "title": "Quality Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "07600",
+                            "title": "Predictive Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Business Analytics is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "name": "Doctor of Philosophy in Biomedical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7603&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Biomedical Engineering": [
+            "Doctor of Philosophy in Biomedical Engineering The Doctor of Philosophy degree in Biomedical Engineering emphasizes intensive, novel research within a flexible graduate curriculum with a core focused on technical fundamentals. With faculty-mentored biomedical research, students are trained to apply engineering approaches to solve novel, contemporary biomedical problems in areas such as biomaterials engineering, tissue engineering, biomechanics, biomedical robotics, drug delivery, biomolecule detection, and other emerging fields. Students in the biomedical engineering doctoral program benefit from our close association with physicians at Virtua Health System, Rowan-Virtua University School of Osteopathic Medicine, and Cooper Medical School of Rowan University, which stimulates translation into the clinic. A growing business school on the main campus and access to the Office of Technology Commercialization and the Rowan Innovation Fund allows and fosters the progression of applied translational biomedical research into commercial products and processes."
+        ],
+        "Program Requirements": {
+            "requirements": [],
+            "notes": [
+                "Program Requirements The Doctor of Philosophy degree in Biomedical Engineering at Rowan University requires the completion of 72 hours of graduate level coursework and research credits as well as the successful completion of a novel research project completed under the mentorship of a faculty advisor culminating in a Doctoral Dissertation. The Doctoral Dissertation should demonstrate the student’s ability to effectively apply engineering principles to solve a contemporary biomedical problem. Coursework: Core Courses: Minimum of 12 s.h. (chosen in consult with advisor) Elective Courses: Minimum of 18 s.h. (chosen in consult with advisor) Research Credits: up to 42 s.h. Research & Dissertation: Successful defense of Doctoral Dissertation"
+            ]
+        },
+        "Biomedical Engineering Core Courses": [
+            "Biomedical Engineering Core Courses Students must choose a minimum of 12 s.h. from the following bank of courses. An advanced mathematics course is required. Course substitutions can be made with the approval of the student’s Dissertation committee."
+        ],
+        "Required Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11611",
+                            "title": "Biological Transport Phenomena",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11550",
+                            "title": "Advanced Biocompatibility and Immunoengineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11573",
+                            "title": "Biomaterials Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06586",
+                            "title": "Advanced Engineering Thermodynamics.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 12 s.h.",
+                "BME 11610 - Special Topics for Doctoral Students in Biomedical Engineering Credits: 3"
+            ]
+        },
+        "Biomedical Engineering Elective Courses": [
+            "Biomedical Engineering Elective Courses Students must choose 18 s.h. from the following bank of courses in consultation with their advisor. Please note: The following list of elective courses is not limiting; additional courses may be approved by the academic advisor. Core courses in excess of 12 s.h. count as electives."
+        ],
+        "Elective Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BME",
+                            "course_number": "11551",
+                            "title": "Advanced Mechanobiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11552",
+                            "title": "Advanced Cell Bioelectricity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11553",
+                            "title": "Regulatory Strategies in Biomedical Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11554",
+                            "title": "Advanced Stem Cell Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11555",
+                            "title": "Fundamentals of Synthetic Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11556",
+                            "title": "Advanced Nanoparticle Design and Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11568",
+                            "title": "Advanced Phenomena in Biomaterials Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11574",
+                            "title": "Advanced Topics in Controlled Release",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11590",
+                            "title": "Advanced Emerging Topics in Biomedical Engineering",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11602",
+                            "title": "Writing and Winning Grant Proposals in the Biomedical Field",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01510",
+                            "title": "Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08573",
+                            "title": "Advanced Structural Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08675",
+                            "title": "Fracture Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06518",
+                            "title": "Polymer Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06572",
+                            "title": "Biomedical Process Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06578",
+                            "title": "Tissue Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10505",
+                            "title": "Special Topics in Mechanical Engineering",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10522",
+                            "title": "Computational Fluid Dynamics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10550",
+                            "title": "Advanced Solid Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10570",
+                            "title": "Principles in Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01512",
+                            "title": "Complex Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01521",
+                            "title": "Nonlinear Differential Equations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03610",
+                            "title": "Applied Statistical Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03611",
+                            "title": "Special Topics in Biomathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 18 s.h."
+            ]
+        },
+        "Biomedical Engineering Research Courses: 42 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01799",
+                            "title": "Doctoral Research and Dissertation",
+                            "credits": "1 to 9"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Biomedical Engineering Research Courses: 42 s.h. Research hours are credited for laboratory research leading to a Doctoral Dissertation."
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. 72 credit hours of graduate level coursework and research hours. A minimum of 30 hours must come from core/elective coursework with a minimum of 12 of these coursework hours coming from Biomedical Engineering Core Courses. Credits beyond 30 may come from additional core/elective coursework or Ph.D. Dissertation Research hours (up to 42). Foundation Courses The following undergraduate courses are required. Prior to applying: Chemistry I, Physics I, Calculus I, and Calculus II Prior to starting the program: Calculus III, Differential Equations* and Linear Algebra* *Differential Equations and Linear Algebra may be taken during the first semester of residence (these courses are in addition to 30 hours of graduate coursework). For applicants with undergraduate majors that are not Biomedical Engineering or a closely related field, Biomedical Engineering Core undergraduate courses may be required for completion of the degree (these courses are in addition to 30 hours of graduate coursework). Graduation/Exit/Thesis Requirements Successful completion of Preliminary Exam, Qualifying Exam & Dissertation Defense Scholarship including: Peer reviewed journal papers, Conference presentations. BME Seminar attendance each semester (BME 11600, 0 credits) Safety and responsible conduct of research training Completion of two mentored TA assignments Students without comparable previous undergraduate coursework may be required to take undergraduate Biomedical Engineering Foundation courses in addition to their graduate coursework requirements. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Biomedical Engineering is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Graduate Program Chair Contact Information Rachel Riley Engineering Hall rileyr@rowan.edu Department Head Contact Information Mary Staehle Engineering Hall 856.256.5338 Staehle@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

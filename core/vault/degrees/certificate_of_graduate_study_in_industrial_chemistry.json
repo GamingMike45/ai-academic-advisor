@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Graduate Study in Industrial Chemistry",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7532&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Industrial Chemistry": [
+            "Certificate of Graduate Study in Industrial Chemistry The Certificate of Graduate Study (COGS) in Industrial Chemistry is intended for the students with a background in Chemistry, Biochemistry, Biological Sciences, and/or Chemical Engineering who wish to understand chemical industry procedures and practices generally employed in pharmaceutical drug development. Prospective students may be recent graduates of a bachelor’s degree program, or they may be older professionals seeking to update their skills. The certificate may be earned on its own, or it can be credited towards the Master of Science in Pharmaceutical Sciences."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07592",
+                            "title": "Advanced Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07593",
+                            "title": "Regulatory Affairs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07594",
+                            "title": "Good Laboratory Practice (GLP)/Good Manufacturing Practice (GMP) Techniques",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 3 - 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05530",
+                            "title": "Special Topics in Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07570",
+                            "title": "Organic Spectroscopy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09510",
+                            "title": "Instrumental Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09520",
+                            "title": "Advanced Supramolecular Chemistry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 - 4 s.h. Choose one of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 - 13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 - 13 s.h. Foundation Courses Required: Two semesters of General Chemistry, Two semesters of Organic Chemistry Recommended: Analytical Chemistry/Quantitative Analysis and Biochemistry Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Industrial Chemistry is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Contact Information Kandalam Ramanujachary Science Hall 856.256.5451 chemistry@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

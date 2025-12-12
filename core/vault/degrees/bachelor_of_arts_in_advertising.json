@@ -1,0 +1,270 @@
+{
+    "name": "Bachelor of Arts in Advertising",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7002&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Advertising": [
+            "Bachelor of Arts in Advertising"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements:": [
+            "Program Requirements:"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09110",
+                            "title": "The Logic of Everyday Reasoning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h. Courses in this section must not be in the Major Department"
+            ]
+        },
+        "Foundational Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ADV",
+                            "course_number": "04360",
+                            "title": "Integrated Marketing Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ADV",
+                            "course_number": "04330",
+                            "title": "Introduction to Advertising",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06350",
+                            "title": "Introduction to Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04375",
+                            "title": "Advertising Copywriting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06310",
+                            "title": "Introduction to Public Relations/Advertising Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04421",
+                            "title": "Account Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 21 s.h."
+            ]
+        },
+        "Upper Level and Capstone Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "06355",
+                            "title": "Public Relations/Advertising Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04432",
+                            "title": "Media Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04352",
+                            "title": "Advertising Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04434",
+                            "title": "Advertising Campaigns - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper Level and Capstone Courses: 12 s.h."
+            ]
+        },
+        "Field Experience: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ADV",
+                            "course_number": "04355",
+                            "title": "Advertising Practicum",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06360",
+                            "title": "Public Relations/Advertising Internship I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Field Experience: 3 s.h."
+            ]
+        },
+        "Related Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ADV",
+                            "course_number": "04420",
+                            "title": "Portfolio Preparation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04433",
+                            "title": "Digital Advertising Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06356",
+                            "title": "Digital Public Relations Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05320",
+                            "title": "Crisis Communication Survival Skills",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05321",
+                            "title": "Crisis Communication in Modern Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06307",
+                            "title": "Sports and Entertainment Event Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05318",
+                            "title": "Strategic Visual Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06324",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06425",
+                            "title": "Advanced Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06354",
+                            "title": "News Trends and Media Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06309",
+                            "title": "Sports Branding and Fan Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05350",
+                            "title": "Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05317",
+                            "title": "Strategic Public Relations in Health Care",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Related Electives: 6 s.h. Select two of the following courses.",
+                "PR 05219 - International Public Relations (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "PR 05221 - Contemporary Issues in Strategic Communication (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "ADV 04232 - Advertising Media Budgeting (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3"
+            ]
+        },
+        "Free Electives: 51 s.h.": [
+            "Free Electives: 51 s.h. To use free electives to build a minor, CUGS, or double major, consult with the program advisor."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Lori Brucker Program Advisor 856.256.4459 block@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

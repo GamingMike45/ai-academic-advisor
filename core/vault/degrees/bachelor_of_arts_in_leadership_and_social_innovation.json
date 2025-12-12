@@ -1,0 +1,130 @@
+{
+    "name": "Bachelor of Arts in Leadership & Social Innovation",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7031&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Leadership & Social Innovation": [
+            "Bachelor of Arts in Leadership & Social Innovation The Bachelor of Arts in Leadership & Social Innovation prepares students to work in newer industries by providing services for specific groups such as start-ups, foundations, not-for-profits, grass-roots organizations, community organizations and small technology firms as well as work with newer technologies in established markets such as business, government, and policy organizations. All students will be prepared to understand leadership and organizations, diversity, the design and evaluation of organizational initiatives, and grant acquisition and management. Students will also acquire the skills to lead within organizations, to work with diverse groups, to plan and evaluate organizational initiatives and to find, evaluate, secure and manage grants. The BA includes a year-long internship in which students gain skills and experience in organizations that align with their specialization area."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 24 s.h.": [
+            "Non-Program Courses: 24 s.h. Courses in this section cannot be in the major department. Any courses that meet the ARTL, GLBL, HUML, QNTL, SCIL, LIT, WI and RS requirements"
+        ],
+        "Major Courses Required: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28100",
+                            "title": "Leadership and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28205",
+                            "title": "Leadership Seminar I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28305",
+                            "title": "Leadership Seminar II (Capstone)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28110",
+                            "title": "Leading Among Diverse Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28120",
+                            "title": "Grant Acquisition and Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28130",
+                            "title": "Designing and Evaluating Organizational Initiatives",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Major Courses Required: 18 s.h."
+            ]
+        },
+        "Specialization Requirements: 18 s.h.": [
+            "Specialization Requirements: 18 s.h. (Each student must choose at least one sequence.)"
+        ],
+        "Access, Success, & Equity for Education Innovation:": [
+            "Access, Success, & Equity for Education Innovation: Certificate of Undergraduate Study in Access, Success & Equity for Educational Innovation"
+        ],
+        "African American Studies": [
+            "African American Studies Minor in African American Studies"
+        ],
+        "Asian Studies": [
+            "Asian Studies Minor in Asian Studies"
+        ],
+        "Entrepreneurship": [
+            "Entrepreneurship Minor in Entrepreneurship"
+        ],
+        "Jewish Studies": [
+            "Jewish Studies Minor in Jewish Studies"
+        ],
+        "Management & Leadership": [
+            "Management & Leadership Certificate of Undergraduate Study in Management & Leadership"
+        ],
+        "Mobile Application Development": [
+            "Mobile Application Development Certificate of Undergraduate Study in Mobile Application Development"
+        ],
+        "New Media": [
+            "New Media Minor in New Media"
+        ],
+        "Public Policy": [
+            "Public Policy Certificate of Undergraduate Study in Public Policy"
+        ],
+        "Social Justice & Social Change": [
+            "Social Justice & Social Change Certificate of Undergraduate Study in Social Justice & Social Change"
+        ],
+        "Supporting Mental Health & Social Emotional Development": [
+            "Supporting Mental Health & Social Emotional Development Certificate of Undergraduate Study in Social Justice & Social Change"
+        ],
+        "Sustainability Education & Leadership Innovation": [
+            "Sustainability Education & Leadership Innovation Undergraduate Concentration in Sustainability Education & Leadership Innovation"
+        ],
+        "Sustainable Urbanism": [
+            "Sustainable Urbanism Certificate of Undergraduate Study in Sustainable Urbanism"
+        ],
+        "Women’s & Gender Studies": [
+            "Women’s & Gender Studies Minor in Women’s & Gender Studies"
+        ],
+        "Free Electives: 51 s.h.": [
+            "Free Electives: 51 s.h. Try to use at least 12 s.h. to build an area of expertise relevant to your program."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Students must earn a grade of at least a C- in each course under Core Requirements and Sequences. C- or above is required in all prerequisites to other courses. Students must maintain a 2.5 GPA in their 39 credits of the major, and a 2.0 overall GPA to graduate with a BA in Leadership & Social Innovation. Transfer courses of 300 level or above that correlate with Rowan’s courses will be accepted in the major.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "name": "Post-Baccalaureate Certificate in Cartography & Geographic Information Systems",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7675&returnto=1028",
+    "content": {
+        "Post-Baccalaureate Certificate in Cartography & Geographic Information Systems": {
+            "requirements": [],
+            "notes": [
+                "Post-Baccalaureate Certificate in Cartography & Geographic Information Systems Students who wish to enter the program must meet with the program advisor to plan their curriculum. Students in consultation with the advisor, select a total of 22 s.h. Student transferring in credits must complete at least 10 of the total required s.h. while enrolled in the program, including the GEOG 16390 - Geo Research Clinic 1-s.h. portfolio requirement."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Introductory Geography & Environment Course Credits: 3.s.h.": {
+            "requirements": [],
+            "notes": [
+                "Introductory Geography & Environment Course Credits: 3.s.h. Introductory Geography & Environment Course Credits: 3.s.h. Students must take any 100 or 200 level courses (excluding those listed as “GIS Core Courses” below) within the Geography, Planning & Sustainability program in consultation with program advisor."
+            ]
+        },
+        "GIS Core Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16261",
+                            "title": "Cartography",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "GIS Core Courses: 9 s.h."
+            ]
+        },
+        "GIS Program Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16290",
+                            "title": "History and Methods of Modern Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16390",
+                            "title": "Geography Research Clinic/Studio",
+                            "credits": "1 to 6"
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16490",
+                            "title": "Undergraduate Research Seminar in Geography (Senior Seminar) - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "GIS Program Electives: 9 s.h. Students must take three additional courses in consultation with an advisor (9 S.h.). Courses are typically chosen from the GIS course bank but substitutions can be made by the advisor to better address the student’s interest. One or more of the following course can also count as GIS program electives it they are taken with the defined GIS focus that is approved by the advisor."
+            ]
+        },
+        "Research Clinic Portfolio: 1 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16390",
+                            "title": "Geography Research Clinic/Studio",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Research Clinic Portfolio: 1 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 22 s.h. For information related to this program, please contact: Ashley York 856.256.4811 yorka@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

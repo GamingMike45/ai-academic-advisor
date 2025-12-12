@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Russian",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7161&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Russian": [
+            "Certificate of Undergraduate Study in Russian The Certificate of Undergraduate Study (CUGS) in Russian may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856-256-4459 / advise@rowan.edu). This program recognizes students’ completion of 12 s.h. in Russian, which corresponds to Intermediate-level proficiency in the language. Intermediate-level proficiency in a world language is a valuable credential, as it represents the ability to live independently in a foreign country with a substantial degree of success. In general, according to the American Council on the Teaching of Foreign Languages (ACTFL), Intermediate-level speakers are able to create with the language, combining and recombining learned material to provide personal information, speak in sentences on a variety of familiar topics, ask questions, initiate, sustain and conclude a simple social or transactional task. For more information visit our website, Department of World Languages or contact the Department for the latest details."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RUSS",
+                            "course_number": "06101",
+                            "title": "Elementary Russian I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RUSS",
+                            "course_number": "06102",
+                            "title": "Elementary Russian II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RUSS",
+                            "course_number": "06201",
+                            "title": "Intermediate Russian I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RUSS",
+                            "course_number": "06211",
+                            "title": "Intermediate Russian II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four, 3 s.h. courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Students may satisfy program requirements through coursework completed at Rowan University, transfer credits obtained from coursework at other institutions, and study abroad. Credits obtained from higher level coursework in Russian may also be transferred in to substitute for any of the four courses listed above. A placement interview is strongly recommended for students with existing proficiency in Russian. For placement interview information, please contact Ms. Olga Greendlinger (greendlinger@rowan.edu); students may earn the credits for any courses skipped via the Authorization for Credit by Examination process and these credits also count toward the program. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students planning to study abroad must meet with the Advisor to determine course equivalents. Non-matriculated students may also earn the Certificate of Undergraduate Study (CUGS) in Russian. Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

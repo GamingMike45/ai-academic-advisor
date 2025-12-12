@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Advanced Manufacturing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7068&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Advanced Manufacturing": [
+            "Certificate of Undergraduate Study in Advanced Manufacturing The CUGS in Advanced Manufacturing will prepare graduates to gain employment in the advanced manufacturing sector both in New Jersey and nationwide. This CUGS will allow students to increase the depth and breadth of knowledge in the advanced manufacturing area, including additive manufacturing (3D printing). Students must complete four (4) courses (12 sch), of which no more than two (2) courses (6 sch) may be counted towards a degree or another certificate. Administrating program faculty may approve or add courses to the list."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01283",
+                            "title": "Materials Science and Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10342",
+                            "title": "Quality and Reliability in Design and Manufacture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10440",
+                            "title": "Introduction to Advanced Manufacturing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10474",
+                            "title": "Introduction to Additive Manufacturing and Characterization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Program Coordinator/Advisor Contact Information Anu Osta Associate Teaching Professor & CUGS Advisor Rowan Hall 856.256.5252 osta@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

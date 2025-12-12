@@ -1,0 +1,84 @@
+{
+    "name": "Minor in Chemistry",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7202&returnto=1028",
+    "content": {
+        "Minor in Chemistry": [
+            "Minor in Chemistry A chemistry minor is available for any student wishing a coherent sequence of chemistry courses. The minor is not availablefor Physical Sciences B.S. students specializing in chemistry or Biochemistry majors. Transfer students must complete atleast 8 s.h. of the minor at Rowan University."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Requirements: 23-24 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06105",
+                            "title": "Advanced College Chemistry I (Lecture and Lab)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06106",
+                            "title": "Advanced College Chemistry II (Lecture and Lab)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07201",
+                            "title": "Organic Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09249",
+                            "title": "Analytical Chemistry",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Requirements: 23-24 s.h.",
+                "And one other 300/400 level course that has Organic Chemistry II as a prerequisite."
+            ]
+        },
+        "Total Required Credits for the Program: 23-24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 23-24 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

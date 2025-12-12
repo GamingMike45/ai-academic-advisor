@@ -1,0 +1,133 @@
+{
+    "name": "Master of Science in Histopathology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7520&returnto=1028",
+    "content": {
+        "Master of Science in Histopathology": [
+            "Master of Science in Histopathology"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Foundation Coursework: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MBS",
+                            "course_number": "00501",
+                            "title": "Biochemistry and Molecular Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00502",
+                            "title": "Cell Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00503",
+                            "title": "Systems Physiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00611",
+                            "title": "Histology I: Basic Tissue Types",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00910",
+                            "title": "Responsible Conduct in Research",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundation Coursework: 12 s.h."
+            ]
+        },
+        "Practical Coursework: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MHP",
+                            "course_number": "00610",
+                            "title": "Basic Laboratory Techniques-Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00612",
+                            "title": "Histology II: Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00614",
+                            "title": "Basic Laboratory Animal Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00615",
+                            "title": "Advanced Animal Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00650",
+                            "title": "Histopathology Internship (taken twice for total of 6 s.h.)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Practical Coursework: 21 s.h."
+            ]
+        },
+        "Additional Advanced Coursework: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MHP",
+                            "course_number": "00613",
+                            "title": "Histology III: Organ Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00609",
+                            "title": "Mechanisms of Disease",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00616",
+                            "title": "Topics in Pathology",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Additional Advanced Coursework: 8 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 41 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 41 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

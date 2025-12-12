@@ -1,0 +1,53 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Writing Arts, Master of Arts in Writing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7012&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Writing Arts, Master of Arts in Writing": [
+            "Accelerated Dual Degree: Bachelor of Arts in Writing Arts, Master of Arts in Writing The accelerated Bachelor of Arts in Writing Arts/Master of Arts in Writing allows exceptional, highly motivated students to complete both a bachelor’s and a master’s degree in five years rather than the normal six. In this Accelerated Dual Degree program, students begin taking graduate courses during their senior year, advancing their graduate studies while still at the undergraduate level and while paying undergraduate tuition and fees. Twelve graduate credits are applied to both the undergraduate and graduate requirements under this dual degree program. Application procedures and further information are available at: Accelerated BA/MA."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Writing Arts Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01554",
+                            "title": "Core I: Theories and Techniques of Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01559",
+                            "title": "Core II: Research Methods for Writers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h.",
+                "Graduate Level Writing Course Credits: 3 Graduate Level Writing Course Credits: 3"
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 18 s.h.": [
+            "Required MA Courses taken as a Graduate student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in Writing"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Construction Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7036&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Construction Management": [
+            "Certificate of Undergraduate Study in Construction Management The Construction Management certificate is designed for students who are seeking a fundamental understanding of the construction industry, its stakeholders, and processes. Construction project terminology along with emerging topics will also be studied."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CM",
+                            "course_number": "01301",
+                            "title": "Fundamentals of the Construction Industry I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01302",
+                            "title": "Fundamentals of the Construction Industry II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01303",
+                            "title": "Project Building Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01304",
+                            "title": "Project Administration",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Construction Management, students must complete all courses required for the CUGS in Construction Management with a grade of C or better. The certificate should be taken in a sequential manner because the Fundamentals I and II courses are the pre-requisites for the Project Building Systems and Project Administration courses. Alejandro Rodriguez Advisor 856-256-5300 rodrigueza1@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

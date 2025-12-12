@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Graduate Study in Creative Writing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7682&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Creative Writing": [
+            "Certificate of Graduate Study in Creative Writing By participating in a curriculum that combines the writing workshop model with the study of craft through a close reading of published texts, students will engage in the advanced practices of the genres of their choice. They will learn to engage in a process of composition that, when combined with the development of a critical vocabulary, allows students to give, receive, and use criticism in their revisions. As they discover and develop their individual style, voice, and literary vision, they will acquire the discipline and the creative and organizational strategies necessary to prepare for and advance them toward publication."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02505",
+                            "title": "Poetry Workshop",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01558",
+                            "title": "Fiction Workshop",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02515",
+                            "title": "Creative Nonfiction Workshop",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02520",
+                            "title": "Writing the Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02523",
+                            "title": "Writing the Memoir",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01623",
+                            "title": "Writing Stories for Children and Young Adults",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "02525",
+                            "title": "Writing Genre Fiction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "07500",
+                            "title": "The Essay: Art and Craft",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10517",
+                            "title": "The Writer’s Room",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10523",
+                            "title": "Graduate Screenwriting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10527",
+                            "title": "Episodic Screenwriting I: Creating the Series",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "10528",
+                            "title": "Episodic Screenwriting II: Writing the Pilot",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Choose three (3) from the following options. Two courses (6 s.h.) must have the subject designation MAWR."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Creative Writing is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Katie Budris Department of Writing Arts Victoria Hall, Room 405 856.256.4858 budris@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

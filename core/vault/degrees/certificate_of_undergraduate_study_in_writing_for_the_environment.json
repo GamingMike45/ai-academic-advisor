@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Undergraduate Study in Writing for the Environment",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7022&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Writing for the Environment": [
+            "Certificate of Undergraduate Study in Writing for the Environment The Certificate of Undergraduate Study (CUGS) offers the opportunity to combine knowledge about and advocacy for environmental issues with the reading, writing, and communication skills necessary for success in a variety of academic fields and professional careers. It will enable students to forge connections between the sciences, social sciences, humanities, and creative arts and nurture the skills they need to advocate for environmental issues that are important to them and their communities."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Writing Arts Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01325",
+                            "title": "Scientific Writing and Rhetoric",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01326",
+                            "title": "Writing for Nonprofits-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Writing Arts Bank: 6 s.h. Students must take 2 of the following three-credit courses:"
+            ]
+        },
+        "Environmental Studies Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01335",
+                            "title": "Environmental Writing and Rhetoric-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94102",
+                            "title": "Human Nature: Intro to Environmental and Sustainability Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94303",
+                            "title": "Environmental Advocacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08400",
+                            "title": "Environment, Policy and Society",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Environmental Studies Bank: 6 s.h. Students must take 2 of the following three-credit courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. While Environmental Advocacy (ENST 94303) has ENST 94102 as a prerequisite, for students enrolled in this CUGS, the Department of Geography, Planning, & Sustainability will waive major restrictions and prerequisite restrictions to ensure students are able to enroll in the course. Students should contact the Department of Geography, Planning, & Sustainability to ensure this requirement will be waive, enabling them to enroll in ENST 94303. To be awarded the CUGS in Writing for the Environment, students must complete all courses required for the CUGS with at least a 2.0 average. Ted Howell Advisor 260 Victoria Street howelle@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

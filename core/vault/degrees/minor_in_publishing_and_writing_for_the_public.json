@@ -1,0 +1,139 @@
+{
+    "name": "Minor in Publishing & Writing for the Public",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7015&returnto=1028",
+    "content": {
+        "Minor in Publishing & Writing for the Public": [
+            "Minor in Publishing & Writing for the Public The Publishing & Writing for the Public Minor offers students an opportunity to study and create across publics, genres, and issues, and publish across multiple industries, communities, and media. Students will explore working in the publishing industry to gain a comprehensive understanding of and practice with the author as client, the text as a dynamic document, and the written work as product. Students as writers will explore the complex relationship between writing, rhetoric, and the public sphere, so as to gain agency as entrepreneurial and socially engaged writers who create, reach, and impact audiences meaningfully. The primary bank of courses focuses on publishing practices, and the secondary bank emphasizes rhetorical approaches for engaging and creating audiences. This Minor is unique in that it emphasizes the relationship between writers and publics and helps them to orient themselves toward a profession in publishing. Students will be able to indicate this formal program of study on their resumes and transcripts, thereby indicating to employers that a student has special competencies within this area."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01355",
+                            "title": "Editing for Publication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01356",
+                            "title": "Self Publishing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01566",
+                            "title": "Editing the Literary Journal (with senior privilege)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01567",
+                            "title": "Professions in Publishing (with senior privilege)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h.: Choose any three of the following*"
+            ]
+        },
+        "Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01335",
+                            "title": "Environmental Writing and Rhetoric-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01375",
+                            "title": "Writing about Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04313",
+                            "title": "Environmental Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04290",
+                            "title": "Rhetorical Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04315",
+                            "title": "Digital Media Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02321",
+                            "title": "Digital Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01320",
+                            "title": "Internship I in Writing Arts",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01312",
+                            "title": "Research Practicum in Writing Arts II",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01321",
+                            "title": "Internship II in Writing Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01308",
+                            "title": "Spoken Word Poetry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 9 s.h. Choose the remaining three courses from the above list or from following list; courses taken from required list cannot be double-counted*"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: *Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the course description after clicking the link. Amy Woodworth Chair Victoria Hall 856.256.4847 woodworth@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

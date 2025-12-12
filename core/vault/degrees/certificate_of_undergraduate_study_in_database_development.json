@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Database Development",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7430&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Database Development": [
+            "Certificate of Undergraduate Study in Database Development The Certificate of Undergraduate Study (CUGS) in Database Development is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: DP-900: Microsoft Azure Data Fundamentals MySQL 8.0 Database Developer | 1Z0-909 MySQL 8.0 Database Administrator | 1Z0-908 Oracle Database Foundations | 1Z0-006"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "02230",
+                            "title": "Database Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "02250",
+                            "title": "Database Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "02330",
+                            "title": "Database Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "02400",
+                            "title": "Database Warehouse Principles",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses Students are required to take the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

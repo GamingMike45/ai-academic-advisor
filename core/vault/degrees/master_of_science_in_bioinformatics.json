@@ -1,0 +1,316 @@
+{
+    "name": "Master of Science in Bioinformatics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7516&returnto=1028",
+    "content": {
+        "Master of Science in Bioinformatics": [
+            "Master of Science in Bioinformatics The Master of Science in Bioinformatics (M.S.) produces highly trained students who are prepared to immediately contribute in the pharmaceutical, biotechnology, and biomedical fields. Bioinformatics is a multidisciplinary field of study that focuses on the use of computational information tools in the investigation and analysis of biological, biomedical, and biochemical systems. The goal of the field is to use information generated in the lab or clinic for future applications, research, and development. The M.S. in Bioinformatics at Rowan University provides hands-on experience so students can perform novel research. This includes advanced training in theory and laboratory settings to allow students to diversify into other biomedical research fields. This program includes the following three (3) focus areas: Biochemistry, Biological Sciences and Computer Science. Tracks The program includes two tracks. Each has different course and graduation exit requirements which are outlined below. Thesis Track: Thesis Track students enroll in 12 s.h. of core courses, a minimum of 12 - 15 s.h. of thesis courses, and 3 - 6 s.h. of restricted electives, depending on focus area selected. Non-Thesis Track: Non-Thesis Track students enroll in 12 s.h. of core courses and 18 s.h. of restricted electives, depending on focus area selected. Non-thesis students may choose to take a maximum of 6 s.h. of thesis research courses. Rowan University undergraduates majoring in the Bachelor of Science in Bioinformatics program can apply to the accelerated Bachelor of Science/Master of Science Advanced Dual Degree (4+1) program, allowing them to earn both the Bachelor of Science and Master of Science degrees in five years."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BINF",
+                            "course_number": "05555",
+                            "title": "Bioinformatics: Advanced Biological Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07500",
+                            "title": "Bioinformatics Seminar",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07595",
+                            "title": "Bioinformatics: Advanced Biochemical Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01541",
+                            "title": "Bioinformatics - Advanced Computational Aspects",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses: 12 s.h."
+            ]
+        },
+        "Restricted Electives: 3 - 18 s.h.": [
+            "Restricted Electives: 3 - 18 s.h. Thesis Track students choose 3 - 6 s.h. from the following list, depending on focus area selected. Non-Thesis Track students choose 18 s.h. from the following list, depending on focus area selected. Non-thesis students may choose to take a maximum of 6 s.h. of thesis research courses."
+        ],
+        "Focus Area: Biochemistry": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07557",
+                            "title": "Chemical Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07560",
+                            "title": "Advanced Biochemistry Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07568",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07570",
+                            "title": "Organic Spectroscopy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07590",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07592",
+                            "title": "Advanced Pharmaceutical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08505",
+                            "title": "Advanced Biophysical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08510",
+                            "title": "Advanced Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09510",
+                            "title": "Instrumental Analysis",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Biochemistry"
+            ]
+        },
+        "Focus Area: Biological Sciences": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BINF",
+                            "course_number": "05560",
+                            "title": "Advanced Programming for Molecular Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07510",
+                            "title": "Bioinformatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01510",
+                            "title": "Molecular Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01520",
+                            "title": "Cellular Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01530",
+                            "title": "Organismal Foundations of Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01540",
+                            "title": "Biological Networks and Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CBS",
+                            "course_number": "01570",
+                            "title": "Computational Methods and Data Analysis in Biological Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01514",
+                            "title": "Infectious Agents",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01521",
+                            "title": "Graduate Cell Culture Techniques",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01538",
+                            "title": "Graduate Immunology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01550",
+                            "title": "Graduate Molecular Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00570",
+                            "title": "Advanced Molecular Biophysics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00571",
+                            "title": "Advanced Biophysics: Fundamentals of Biomaterials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TBS",
+                            "course_number": "01570",
+                            "title": "Advanced Topics in Biomedical Instrumentation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Biological Sciences"
+            ]
+        },
+        "Focus Area: Computer Science": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01501",
+                            "title": "Essentials of Computer Science I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01502",
+                            "title": "Essentials of Computer Science II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02505",
+                            "title": "Data Mining I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DS",
+                            "course_number": "02510",
+                            "title": "Visual Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02605",
+                            "title": "Data Mining II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02625",
+                            "title": "Data Quality and Web/Text Mining",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07556",
+                            "title": "Machine Learning I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Focus Area: Computer Science"
+            ]
+        },
+        "Thesis Research Courses: 12-15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BINF",
+                            "course_number": "07501",
+                            "title": "MS Thesis Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07502",
+                            "title": "MS Thesis Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07503",
+                            "title": "MS Thesis Research III",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07504",
+                            "title": "MS Thesis Research IV",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07505",
+                            "title": "MS Thesis Research V",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis Research Courses: 12-15 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses Applicants must have successfully completed the following courses at an accredited institution: Calculus I, Statistics I, and at least two semesters of Chemistry, Physics, Biology, and/or Computer Science. To prepare students for focus area electives, students may be advised to take one or more undergraduate courses in their concentration area in consultation with the Program Advisor. Graduation/Exit, Benchmark, and/or Thesis Requirements All thesis track students must conduct a formal seminar presenting their research or about a focus area topic. If thesis track is chosen, students must successfully complete and defend a Master’s Thesis based on work done in their coursework with a Research Advisor. Minimum Required Grades and Cumulative GPA The Master of Science in Bioinformatics is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Academic Advisor Benjamin Carone 856.256.4500, ext.53587 carone@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

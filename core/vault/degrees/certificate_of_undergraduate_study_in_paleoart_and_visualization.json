@@ -1,0 +1,120 @@
+{
+    "name": "Certificate of Undergraduate Study in Paleoart & Visualization",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7268&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Paleoart & Visualization": [
+            "Certificate of Undergraduate Study in Paleoart & Visualization The Certificate of Undergraduate Study (CUGS) in Paleoart & Visualization is a coordinated program featuring courses from the Department of Geology and the Biomedical Art & Visualization Program. This CUGS offers an introduction to the science of paleontology and the techniques of reconstructing prehistoric life and environments. Students can also focus on their personal interests within these fields with a flexible program offering multiple course options. This flexibility will allow this CUGS to be interesting and useful to students from diverse backgrounds and with varied artistic and career goals. It is open to any matriculated or non-matriculated student with an interest in paleontology and art from any degree program."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 7 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01313",
+                            "title": "Breathing Life into Fossils: The Science of Paleoart",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09252",
+                            "title": "Introduction to Natural Science and Zoological Illustration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09252",
+                            "title": "Introduction to Natural Science & Zoological Illustration",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 7 s.h."
+            ]
+        },
+        "Students must take ONE of the following courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09361",
+                            "title": "Scientific and Medical Sculpture",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BMV",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09361",
+                            "title": "Scientific and Medical Sculpture (former title: Medical Sculpture & Forensic Reconstruction)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take ONE of the following courses: 3 s.h."
+            ]
+        },
+        "Students select one courses from the following: 3-4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01102",
+                            "title": "Earth Through Time",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01110",
+                            "title": "Dinosaurs and Their World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01112",
+                            "title": "Motion of Life",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students select one courses from the following: 3-4 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 13-14 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 13-14 s.h. Dr. Harold Connolly Advisor Discovery Hall 226 856.256.5261 connollyh@rowan.edu Dr. Zachary Boles Faculty Contact Discovery Hall 319 856.256.5262 bolesz@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

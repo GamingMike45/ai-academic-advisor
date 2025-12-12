@@ -1,0 +1,118 @@
+{
+    "name": "Doctor of Philosophy in Creativity",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10855&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Creativity": [
+            "Doctor of Philosophy in Creativity Students define an interdisciplinary research topic and are guided through three years of dissertation development by a committee specifically tailored to each project. Committee members may include Rowan University faculty in addition to others from different universities and research institutions in the U.S. or abroad to ensure each student is guided by a team of esteemed professionals and academics whose accomplishments are known and respected in their fields and particularly suited to the individual student’s needs.  Students will benefit from the graduate education infrastructure and experience available at Rowan as a comprehensive public research university, including graduate student support services, access to publication venues, and exposure to the work and research settings of theoretical, applied, practical, creative, and clinical scholars. The PhD in Creativity is a hybrid, low-residency program comprising 48 semester hours (as necessary to fulfill the required 72 semester hours beyond the bachelor’s degree) completed over a three-year period via a cohort model.  The curriculum of the PhD in Creativity conforms to a typical doctoral program structure with two principal components: seminar courses and colloquium experiences, as well as dissertation research and writing."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 23 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10801",
+                            "title": "Creativity Immersion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10821",
+                            "title": "Dissertation Proposal Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10822",
+                            "title": "Dissertation Literature",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10831",
+                            "title": "Dissertation Methods I",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10832",
+                            "title": "Dissertation Methods II",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10835",
+                            "title": "Creativity Paradigms I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10836",
+                            "title": "Creative Paradigms II",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 23 s.h. Methodology and Seminar/Colloquium Experiences"
+            ]
+        },
+        "Required Thesis/Dissertation Courses: 25 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10841",
+                            "title": "Dissertation Research I",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10842",
+                            "title": "Dissertation Research II",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10843",
+                            "title": "Dissertation Research III",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10851",
+                            "title": "Dissertation Writing I",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10852",
+                            "title": "Dissertation Writing II",
+                            "credits": 5
+                        },
+                        {
+                            "subject": "CRTY",
+                            "course_number": "10891",
+                            "title": "Dissertation Defense",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Thesis/Dissertation Courses: 25 s.h. Dissertation Research and Writing"
+            ]
+        },
+        "Thesis & Defense": [
+            "Thesis & Defense Conferral of the doctorate will occur only after submission of a doctoral dissertation and approval by the candidate’s dissertation committee of the written thesis and oral defense. This process and all forms are regulated by Rowan University’s School of Graduate Studies and outlined in the Thesis & Dissertation Manual.",
+            "Notes:"
+        ]
+    }
+}

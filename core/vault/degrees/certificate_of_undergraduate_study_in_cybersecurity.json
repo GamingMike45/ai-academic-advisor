@@ -1,0 +1,133 @@
+{
+    "name": "Certificate of Undergraduate Study in Cybersecurity",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7221&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Cybersecurity": [
+            "Certificate of Undergraduate Study in Cybersecurity The Certificate of Undergraduate Study (CUGS) in Cyber Security is designed to increase student knowledge in all areas of cyber security including targeted phishing scams, data theft, and other online vulnerabilities. More and more companies actively seek graduates with expertise in cyber security and bemoan the scarcity of graduates with these key skills. This CUGS would be very attractive to many employers looking to keep their companies safe in the new cyber-world. The educational goal of this CUGS is to develop graduates with a technical foundation in cyber security focused on the protection and defense of computer systems. Students will be able to articulate the core concepts of information assurance, asset protection and cyber defense. Also, this CUGS can develop graduates who are able to identify, analyze and remediate security breaches. This CUGS is NOT available to Computer Science majors or Computing & Informatics Majors"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09485",
+                            "title": "Introduction to Engineering Cyber Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03201",
+                            "title": "Security+",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses Students must select one of the following:"
+            ]
+        },
+        "Students must take three courses from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "10200",
+                            "title": "Fundamentals of Network Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10344",
+                            "title": "Concepts of Computing Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03215",
+                            "title": "Penetration Testing Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03218",
+                            "title": "Ethical Hacking Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03252",
+                            "title": "Foundations of Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03253",
+                            "title": "Applications for Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03315",
+                            "title": "Advanced Penetration Testing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03352",
+                            "title": "Digital Incident Handling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03410",
+                            "title": "Cyber Defense",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03418",
+                            "title": "Advanced Topics in Ethical Hacking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02318",
+                            "title": "Information Systems Risk Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take three courses from the following list:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Vahid Heydari Coordinator Robinson Hall 856.256.4805 heydari@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Certificate of Undergraduate Study in Cannabis Commercialization",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6961&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Cannabis Commercialization": [
+            "Certificate of Undergraduate Study in Cannabis Commercialization The Certificate of Undergraduate Study (CUGS) in Cannabis Commercialization provides a sequence of courses that combines entrepreneurship courses focusing on entrepreneurial skillset and mindset development with cannabis industry-specific courses. The structure allows students to focus their interests on whatever aspect of the cannabis industry is of most interest to them (retail, medicinal, chemical, product, etc.)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06351",
+                            "title": "Entrepreneurship in the Cannabis Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06352",
+                            "title": "Business Models in Cannabis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06361",
+                            "title": "Supervised Internship in Entrepreneurship (Must be cannabis-related)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06333",
+                            "title": "Special Topics in Entrepreneurship (Must be cannabis-related)",
+                            "credits": "0 to 6"
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06404",
+                            "title": "Independent Study (Must be cannabis-related)",
+                            "credits": "1 to 6"
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06346",
+                            "title": "Social Entrepreneurship",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h.",
+                "CANN XXXXX - Any Cannabis prefixed Course Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Cannabis Entrepreneurship, students must complete all courses with at least a 2.5 average.",
+                "Notes:"
+            ]
+        }
+    }
+}

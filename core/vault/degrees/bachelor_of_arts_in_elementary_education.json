@@ -1,0 +1,189 @@
+{
+    "name": "Bachelor of Arts in Elementary Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7460&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Elementary Education": [
+            "Bachelor of Arts in Elementary Education The Bachelor of Arts in Education, with Concentration in Elementary Education (K-6) has four required strands of study: 1) General Education courses, 2) Core Education courses, 3) the Professional Concentration sequence, and 4) Dual Major requirements where Elementary Education Concentration candidates are required to complete major requirements in one of ten certification-eligible dual majors, or select the option for no dual major and complete the program with electives required for a Certificate of Undergraduate Study. Students accepted into the Concentration are expected to adhere to the prescribed sequence of courses and to consult with their advisors in Education at least once a semester."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 47 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography (Satisfies Global Literacy (GLBL) requirement)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography (Satisfies Global Literacy (GLBL) requirement)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00103",
+                            "title": "Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01204",
+                            "title": "Structures of Mathematics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09209",
+                            "title": "Child and Adolescent Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "33220",
+                            "title": "Educational Technology",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "01220",
+                            "title": "Context of Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 47 s.h. Courses in this section cannot be in the major department.",
+                "GEOG 16100 - Earth, People, and the Environment (Satisfies Global Literacy (GLBL) requirement) Credits: 3",
+                "MATH 01201 - Structures of Mathematics I (Satisfies Quantitative Literacy (QNTL) requirement) Credits: 3",
+                "FNDS 21150 - History of American Education (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "EDUC 21230 - Characteristics of Knowledge Acquisition (Satisfies Rowan Seminar (RS) requirement) Credits: 3",
+                "SPED 08130 - Disability as Diversity (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "Any Biological or Physical Science Lab course that satisfies the Scientific Literacy Credits: 4 Any Sociology Course Credits: 3 Any US History Course: Credits 3 Any Bio or Physical Science Course Credits: 3 Any Artistic Literacy Course Credits: 3 Any Broad-Based Literature Credits:3"
+            ]
+        },
+        "Required Courses: 34 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02448",
+                            "title": "Clinical Practice II in Elementary Education",
+                            "credits": 10
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02211",
+                            "title": "Positive Learning Environments in Elementary Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02350",
+                            "title": "Instruction and Assessment in the Elementary Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02312",
+                            "title": "Teaching Social Studies in the Elementary Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02304",
+                            "title": "Teaching Science in the Elementary Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02303",
+                            "title": "Mathematics for Elementary Teachers: Shapes Space and Data Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02311",
+                            "title": "Differentiating Instruction in Elementary Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02308",
+                            "title": "Clinical Experience in the Elementary Classroom",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ELEM",
+                            "course_number": "02310",
+                            "title": "Clinical Practice I in Elementary Education",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "INCL",
+                            "course_number": "02440",
+                            "title": "Diversity Seminar",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30351",
+                            "title": "Literacy Pedagogy II",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 34 s.h."
+            ]
+        },
+        "Singular Major Requirement: 30 s.h.": [
+            "Singular Major Requirement: 30 s.h. Students who are not going to do a Dual Major select a Certificate of Undergraduate Study (from the list below) to fulfill remaining credits to reach 120 s.h. Certificate of Undergraduate Study in Bilingual Education Certificate of Undergraduate Study in Teaching English as a Second Language Education Certificate of Undergraduate Study in Writing Studies for Educators Certificate of Undergraduate Study in Social Studies for Middle School Educators Certificate of Undergraduate Study in Access, Success & Equity for Educational Innovation Certificate of Undergraduate Study in American Sign Language Certificate of Undergraduate Study in Middle School Mathematics Teacher of Reading Endorsement"
+        ],
+        "Total Required Credits (No Dual Major): 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits (No Dual Major): 120 s.h."
+            ]
+        },
+        "Dual Major Requirements": [
+            "Dual Major Requirements Elementary Education majors may choose one of the following dual majors: Bachelor of Arts in American Studies Bachelor of Arts in Chemistry Bachelor of Arts in English Bachelor of Arts in Geography Bachelor of Arts in History Bachelor of Arts in Liberal Studies  (See advising guide for restrictions.) Bachelor of Arts in Literacy Studies Bachelor of Arts in Mathematics Bachelor of Arts in Spanish Bachelor of Arts in Writing Arts"
+        ],
+        "Total Required Credits for the Program Depending on Dual Major Requirements: 120-139 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program Depending on Dual Major Requirements: 120-139 s.h."
+            ]
+        },
+        "Additional Information": [
+            "Additional Information Acceptance into the certification programs with a cumulative GPA of 3.0 is required. Pass the subject specified Praxis II exam at the minimum qualifying score. To graduate, candidates must achieve a minimum professional area GPA of 3.0 and only grades of C- or above may apply to graduation/degree requirements. Elementary Education Program Coordinator Erica Watson Brown Herman D. James Hall 856.256.4500 ext. 53812 watsonbrown@rowan.edu Elementary Education Program Advisor Charles Foster Herman D. James Hall 856.256.4420 fosterc@rowan.edu Elementary Education Program Advisor Lindsay Rosato Herman D. James Hall 856.256.4420 rosatol@rowan.edu",
+            "Notes:"
+        ]
+    }
+}

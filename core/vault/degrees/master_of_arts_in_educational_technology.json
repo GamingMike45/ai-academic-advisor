@@ -1,0 +1,88 @@
+{
+    "name": "Master of Arts in Educational Technology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7629&returnto=1028",
+    "content": {
+        "Master of Arts in Educational Technology": [
+            "Master of Arts in Educational Technology The Master of Arts in Educational Technology program will offer graduate-level students the expertise and proficiencies needed to incorporate the existing and emerging educational technologies into their classroom and school organization. Individuals completing this online program will not only be skilled in the use of technology resources in the classroom, they will be prepared to assume leadership roles in educational technology in preschool to twelfth grades. Through intensive seven-week* online courses, graduate level students will be able to complete the program in two years. This graduate program is intended for educators and educational leaders who place a high value on successful teaching and learning through the use of educational technology. The purpose of the program is to help teacher leaders and administrators reflect on educational technology best practices and discover ways to expertly infuse technology into teaching so as to improve student learning and engagement. Additionally, students in the program will investigate the philosophical, psychological, sociological, and educational implications of emerging technology tools and their impact on schools. Current relationships between theory and practice, along with future technologies, will be examined. Teachers in the state of New Jersey may apply to the Master of Arts in Educational Technology program through the New Jersey Teacher Outreach Program (NJTOP®)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 33 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33580",
+                            "title": "Introduction to Educational Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33584",
+                            "title": "Digital Citizenship in 21st Century Schools",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33510",
+                            "title": "Emerging Technology Tools and the Curriculum",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33585",
+                            "title": "Internet in the Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33561",
+                            "title": "Leading for Effective Educational Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33550",
+                            "title": "Learning through Gamification",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33531",
+                            "title": "Coding and Logical Thinking to Support Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33570",
+                            "title": "Researching and Analyzing Educational Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33600",
+                            "title": "Seminar in Educational Technology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 33 s.h.",
+                "SPED 08540 - Technology For Students With Disabilities * Credits: 3",
+                "EDTC 33540 - Developing Online Resources for P-12 Students Credits: 3",
+                "* NOTE SPED 08540  is an eight-week online course."
+            ]
+        },
+        "Total Required Credits for the Program: 33 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33 s.h. Foundation Courses None Graduation/Exit/Thesis Requirements Students will be required to create an e-portfolio demonstrating the key projects that they created in the required courses. An additional requirement for this capstone project would be to create a P-12 student-facing portion of the site and an educational leader-facing portion. Minimum Required Grades and Cumulative GPA The Master of Arts in Educational Technology is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Yu-Chun Kuo, Ph.D. Herman D. James Hall 856.256.4500, ext.53825 kuo@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

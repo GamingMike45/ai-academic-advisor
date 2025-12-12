@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Undergraduate Study in Statistics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7239&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Statistics": [
+            "Certificate of Undergraduate Study in Statistics The availability of big data drives a high demand for people to analyze and interpret these data. Statistician is a title sparking interest across all kinds of industries. Jobs in statistics are also growing fast as companies seek to fill more data-driven roles. The Certificate of Undergraduate Study (CUGS) in Statistics provides a sequence of courses that introduces students to analyzing data with modern tools and is designed to equip students with the analytical tools and capacities to needed interact with real-world data in a research environment while also accommodating the foundation in the field. Statistics utilizes mathematics, yet it is a distinct discipline in many important dimensions. While both disciplines feature critical thinking and problem solving, statistics requires its own set of analytic tools, and is by nature an interdisciplinary field. This interdisciplinary quality stems from the fact that a significant portion of all applied scientific and business research relies heavily on statistical methods for purposes of inference and modeling through data analysis. Hence, there are a large number of pre-requisite credit hours (6-12) of mathematics and computer science courses. However, students in the targeted majors (STEM or business) are required to take some of the pre-requisite courses for their major, so must only take an additional 0-6 credit hours of pre-requisites outside their respective major. The CUGS in Statistics is only available to students outside the Mathematics Major. The Mathematics majors can either pick the statistics concentration or minor in statistics and operational research."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include taking four courses in the following groups:"
+        ],
+        "Students must take one of (3-4 s.h):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02284",
+                            "title": "Statistics for the Biomedical Sciences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02290",
+                            "title": "Probability and Statistical Inference for Computing Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02320",
+                            "title": "Concepts in Statistical Data Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take one of (3-4 s.h):"
+            ]
+        },
+        "Students must take both of (6 s.h.):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02340",
+                            "title": "Elements of Statistical Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02350",
+                            "title": "Regression Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take both of (6 s.h.):"
+            ]
+        },
+        "Students must take one of (3 s.h):": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02371",
+                            "title": "Design of Experiments: Analysis of Variance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03411",
+                            "title": "Deterministic Models in Operations Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students must take one of (3 s.h):"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. Ik Jae Lee Advisor Robinson Hall 228J 856.256.4844 leei@rowan.edu To be awarded the CUGS in Statistics, students must complete all courses required for the CUGS in Statistics with at least a 2.0 average.",
+                "Notes:"
+            ]
+        }
+    }
+}

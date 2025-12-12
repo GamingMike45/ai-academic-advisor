@@ -1,0 +1,97 @@
+{
+    "name": "Certificate of Undergraduate Study in Materials Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7051&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Materials Engineering": [
+            "Certificate of Undergraduate Study in Materials Engineering The Certificate of Undergraduate Study (CUGS) in Materials Engineering seeks to provide recognition for students’ completion of 12 credits in materials science and engineering-related courses. Proficiency in this area is a valuable credential, as graduating science and engineering students with materials expertise are in demand for jobs in academia, industry, government labs, and the non-profit arenas."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01303",
+                            "title": "Junior Engineering Clinic (must be taken twice for a total of 4 s.h.) (must be materials-related*)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI (must be taken twice for a total of 4 s.h.) (must be materials-related*)",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06381",
+                            "title": "Chemical Engineering Materials",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following five courses:",
+                "Chemical Engineering or Chemistry elective** Out of discipline elective**"
+            ]
+        },
+        "**Elective Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06466",
+                            "title": "Polymer Processing - CHEM ENG",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07470",
+                            "title": "Organic Spectroscopic Analysis - CHEM & BIOCHEM",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08410",
+                            "title": "Survey of Molecular Modeling Methods - CHEM & BIOCHEM",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07405",
+                            "title": "Introduction to Polymer Chemistry - CHEM & BIOCHEM",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01283",
+                            "title": "Materials Science and Manufacturing - MECH ENG",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "**Elective Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. *Determination of which clinic projects count towards the CUGS in Materials Engineering is up to the discretion of the CUGS program advisor. Approval is granted on an individual basis, following consultation with the clinic project manager. Clinic projects that involve components related to the discovery, design, or characterization of materials, with an emphasis on solids, will qualify for CUGS credit. **The two electives for the CUGS are chosen from an approved list. Available electives depend on the semester offering with Engineering and the Department of Chemistry & Biochemistry. Approval is up to the discretion of the CUGS program advisor and is determined based on the relevance of the course content. Joseph F. Stanzione, III Advisor Henry M. Rowan Hall 856.256.5356 stanzione@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "name": "Certificate of Undergraduate Study in Marine Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7263&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Marine Sciences": [
+            "Certificate of Undergraduate Study in Marine Sciences The Certificate of Undergraduate Study (CUGS) in Marine Sciences introduces students to the interdisciplinary study of the ocean. Marine sciences integrates the physical, chemical, geological, and biological features and processes of oceans. Students completing this program will gain a foundational understanding of ocean systems and the tools used to collect samples and data in oceans. The CUGS in Marine Sciences ties together and builds upon existing course offerings across the departments of Biology, Environmental Science, and Geology to create a comprehensive program of study that introduces undergraduate students to the study of marine science. The CUGS in Marine Sciences is intended to serve undergraduate students in STEM disciplines from both academic units including, for example, environmental science, geology, and biological sciences."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following 3 required courses and 1 elective course:"
+        ],
+        "Required Courses: 11 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01120",
+                            "title": "Oceans in Crisis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "18360",
+                            "title": "Marine Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01385",
+                            "title": "Oceans",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 11 s.h."
+            ]
+        },
+        "One Elective Course: 3-4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EVSC",
+                            "course_number": "01386",
+                            "title": "Climate and Coasts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01250",
+                            "title": "Ocean-Atmosphere Interactions",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOL",
+                            "course_number": "01136",
+                            "title": "Water Planet: Exploring the Hydrosphere",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One Elective Course: 3-4 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 14-15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 14-15 s.h. To be awarded the CUGS in Marine Science, students must complete all courses required for the CUGS in Marine Science with at least a 2.0 average. Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the course description after clicking the link.",
+                "Notes:"
+            ]
+        }
+    }
+}

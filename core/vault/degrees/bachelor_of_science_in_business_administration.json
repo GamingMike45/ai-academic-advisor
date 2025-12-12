@@ -1,0 +1,152 @@
+{
+    "name": "Bachelor of Science in Business Administration",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7449&returnto=1028",
+    "content": {
+        "Bachelor of Science in Business Administration": [
+            "Bachelor of Science in Business Administration Rowan University Graduation Requirements for all Majors / Degrees Students must complete at least 120 semester hours (sh) of coursework that apply to their Rowan University degree. ● Students must have a cumulative GPA of at least 2.0 in Rowan University coursework. (Transfer courses/credit do not count toward the RU GPA.) ● A minimum of 30 sh of coursework must be completed at/through Rowan University. ● Only grades of “D-” or above may apply to graduation/degree requirements. (Some programs may set higher minimums.) ● Students must meet the Rowan Core and Rowan Experience Requirements. o An individual course can potentially satisfy one Rowan Core literacy and/or multiple Rowan Experience attributes. o Rowan Core and Rowan Experience designations are listed in course details in Section Tally (www.rowan.edu/registrar) and may also be searched on that site under “Attributes.” A list of Rowan Core courses is here: https://confluence.rowan.edu/display/AS/Rowan+Core+Course+List. ● Students must apply for graduation and should do so for the term in which they will complete all program requirements. Program-Specific Graduation Requirements for this Major / Degree ● Students must have an overall GPA of 2.5 or better in all courses that satisfy major requirements."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 16-19 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "03125",
+                            "title": "Calculus: Techniques and Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I (Satisfies Quantitative Literacy (QNTL) Requirement)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "UNIV",
+                            "course_number": "01488",
+                            "title": "Career Planning and Development",
+                            "credits": "1 to 3"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 16-19 s.h. Courses in this section must be either: Rowan Core (or former gen. ed.) courses; Rowan Experience courses; or required pre-requisites (not included in the major).",
+                "ECON 04101 - An Introduction to Economics-A Macroeconomic Perspective (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "ECON 04102 - An Introduction to Economics-A Microeconomic Perspective (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "(Satisfies Quantitative Literacy (QNTL) Requirement)",
+                "(Satisfies Quantitative Literacy (QNTL) Requirement)",
+                "CS XXXXX - Any Gen Ed Computer Science Course Credits: 3 s.h. (Satisfies Quantitative Literacy (QNTL) Requirement)"
+            ]
+        },
+        "Major Requirements:": [
+            "Major Requirements:"
+        ],
+        "Business Foundational Courses: 27 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03210",
+                            "title": "Principles of Accounting I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03211",
+                            "title": "Principles of Accounting II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04300",
+                            "title": "Principles of Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06305",
+                            "title": "Operations Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06402",
+                            "title": "Business Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Business Foundational Courses: 27 s.h."
+            ]
+        },
+        "Concentration in Global Business & Leadership - 33 s.h.": [
+            "Concentration in Global Business & Leadership - 33 s.h. Undergraduate Concentration in Global Business & Leadership"
+        ],
+        "Free Electives: 32-35 s.h.": [
+            "Free Electives: 32-35 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. 1 The Rowan Core requirements are waived for transfer students with an earned A.A. or A.S. degree from a NJ community/county college.",
+                "Notes:"
+            ]
+        }
+    }
+}

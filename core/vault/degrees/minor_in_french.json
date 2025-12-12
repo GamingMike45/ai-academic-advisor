@@ -1,0 +1,64 @@
+{
+    "name": "Minor in French",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7148&returnto=1028",
+    "content": {
+        "Minor in French": [
+            "Minor in French The French Minor, which may be declared in the Department of World Languages, Oak Hall 107, or by contacting the University Advising Center, Savitz Hall, Suite 323 (856.256.4459 / advise@rowan.edu ), offers a flexible curriculum with many opportunities for the selection of courses in French language, civilization, culture, and literature. It provides a general background for future professional studies and advanced degrees in French and work in a wide variety of fields, such as social, administrative and governmental work, as well as international business. This 18 s.h. minor is open to all students. A placement interview is strongly recommended for students with previous knowledge of French so that students may begin the minor at the appropriate level. For placement interview information, please contact Prof. Caesar Dommar at dommar@rowan.edu. Students may earn the credits for any skipped courses via the Authorization for Credit by Examination process and these credits are counted in fulfillment of minor requirements. All courses must be passed with a letter grade of “C-” or better and no courses may be taken P/NC. Students may transfer credits into the French Minor, including from Study Abroad and up to 9 s.h. from the CLEP Exam in French (equivalent to Elementary French I & II and Intermediate French I - contact the Testing Center, testingservices@rowan.edu, in the Academic Success Center, Savitz Hall, Suite 304, for more information). Students planning to Study Abroad must meet with their French Advisor in order to determine course equivalents."
+        ],
+        "Program Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "FREN",
+                            "course_number": "02101",
+                            "title": "Elementary French I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FREN",
+                            "course_number": "02102",
+                            "title": "Elementary French II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FREN",
+                            "course_number": "02201",
+                            "title": "Intermediate French I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FREN",
+                            "course_number": "02211",
+                            "title": "Intermediate French II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FREN",
+                            "course_number": "02212",
+                            "title": "French Reading and Composition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FREN",
+                            "course_number": "02305",
+                            "title": "Oral French",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Requirements Any 18 s.h. of French (with the exception of courses taught in English) can fulfill the requirements for the minor; prerequisites are strictly enforced. Though many variants exist, a basic course sequence beginning with Elementary French I for beginners follows."
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Caesar Dommar Program Mentor Oak Hall, Room 204 856.256.5848 dommar@rowan.edu Harold Thompson Advisor thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

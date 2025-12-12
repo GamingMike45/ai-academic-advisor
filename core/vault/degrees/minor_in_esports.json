@@ -1,0 +1,103 @@
+{
+    "name": "Minor in Esports",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7417&returnto=1028",
+    "content": {
+        "Minor in Esports": [
+            "Minor in Esports The Esports Minor will be an interdisciplinary minor between the Ric Edelman College of Communication, Humanities & Social Sciences and the School of Professional Studies. The minor offers students the opportunity to acquire and develop foundational knowledge of the media and industries that support professional, competitive video gaming. Students will train in the areas of communication, production, and critical reflection essential to careers in esports. This minor is offered by the faculty of the Journalism Department and School of Professional Studies. It is designed to serve students from other Sports Communication & Media (Sports CaM) disciplines as well as those students with majors outside of Sports CaM. The Esports Minor connects the esports coursework across the Sport Communication & Media Esports Concentration (C609) and CUGS (U193) to the esports coursework available in the Professional Studies CUGS. This allows students to pursue a variety of majors and other minors that pair with the unique careers available in the esports industry. Students develop forward-thinking skills and foundational industry-specific knowledge in a developing academic and professional field. The Esports minor stipulates 9 semester credit hours of required courses that provide a fundamental grounding in esports business knowledge, global culture, and historic development. These courses include an introduction to esports business, a DEI-focused, theory-based course, and extensive coverage of esports’ history. In addition to these fundamental courses, four elective courses provide students with the opportunity to focus on a particular area of interest."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09315",
+                            "title": "Esports Characters and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09319",
+                            "title": "Evolution of Esports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09201",
+                            "title": "Foundations of Esports",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Electives: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09316",
+                            "title": "Esports Reporting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09317",
+                            "title": "Esports Streaming and Social Platforms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09318",
+                            "title": "Esports Coverage: Shoutcasting and In-Game Observing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03250",
+                            "title": "Esports Operations and Strategy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03280",
+                            "title": "Esports Funding and Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03301",
+                            "title": "Esports Business Development and Sponsorships",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03350",
+                            "title": "Esports Metrics and Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 12 s.h. Choose four courses."
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h. Dr. Kacey Doran Sponsor Department of Journalism; Sports Communication & Media Program 856-256-4049 dorank@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

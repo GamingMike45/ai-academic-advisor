@@ -1,0 +1,56 @@
+{
+    "name": "Minor in Biological Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7195&returnto=1028",
+    "content": {
+        "Minor in Biological Science": [
+            "Minor in Biological Science The Minor in Biology consists of 23-24 semester hours. In keeping with the policy of the Biology major, any Biology grade below a C will not count towards the Minor."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01104",
+                            "title": "Introduction to Evolution and Scientific Inquiry *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01106",
+                            "title": "Introduction to Genetics *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01203",
+                            "title": "Introduction to Cell Biology *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01204",
+                            "title": "Introduction to Ecology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "Two (2) additional Biology courses, both of which must be 300-level or above."
+            ]
+        },
+        "Total Required Credits for the Program: 23-24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 23-24 s.h. *Transfer students who have taken the equivalent of BIOL 01100 - Biology I and BIOL 01101 - Biology II at another institution are required to take BIOL 01202 - Biological Skills for Transfer Students, which will allow them to take BIOL 01204. This will complete the introductory sequence and allow them to take most Biology electives.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Chief School Administrator",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7654&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Chief School Administrator": [
+            "Certificate of Advanced Graduate Study in Chief School Administrator"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses: 30 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDST",
+                            "course_number": "27801",
+                            "title": "Leadership for Social Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27802",
+                            "title": "Inquiry I: Theory to Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27803",
+                            "title": "Reforming Organizations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27805",
+                            "title": "Public Policy, Ethics, and Contemporary Issues",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27807",
+                            "title": "Sustainable Institutional Change",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27820",
+                            "title": "Educational Leadership for Equity and Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27821",
+                            "title": "Instructional Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27822",
+                            "title": "Equitable Finance and Budgeting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "27823",
+                            "title": "Building Board and Community Relationships",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDSU",
+                            "course_number": "28602",
+                            "title": "Field Service in Supervision: District Internship",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 30 s.h."
+            ]
+        },
+        "Total Credits Required for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits Required for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The CAGS in Chief School Administrator is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Miguel Greenup 856.256.4779 greenup@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

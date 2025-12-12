@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Holistic Nursing Practice",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7305&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Holistic Nursing Practice": [
+            "Certificate of Undergraduate Study in Holistic Nursing Practice The Certificate of Undergraduate Study (CUGS) in Holistic Nursing Practice is designed as a professional development opportunity for currently licensed Registered Nurses. The curriculum focus is founded on the scope and standards for the specialty practice of holistic nursing. Holistic Nursing: Scope and Standards of Practice, 3rd Edition (2018) reflects a consensus of the most current thinking in the specialty and provides a blueprint for holistic nursing philosophy, theory, principles, education, research, and practices. The certificate program incorporates all of the foundational philosophical beliefs, theories, and practices in addition to new developments and advancements in the field of holistic nursing. The four courses in the program for holistic nursing provide the learners with a foundational resource for the specialty and key resources as a preparation of the national certification examination as an option if they wanted to do so."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "03405",
+                            "title": "Health Care Policy and Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03409",
+                            "title": "Holistic Therapeutic Healing and Cultural Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03407",
+                            "title": "Holistic Nursing Education and Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03408",
+                            "title": "Holistic Nurse Self-Reflection and Self-Care",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Holistic Nursing Practice, students must complete all courses required for the CUGS in Holistic Nursing Practice with at least a 2.0 grade point average. Carmen McDonald Senior Lecturer Department of Nursing 856.256.5180 mcdonaldc@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

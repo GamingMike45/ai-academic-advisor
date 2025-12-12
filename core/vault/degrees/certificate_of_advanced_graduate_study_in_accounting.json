@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Accounting",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7506&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Accounting": [
+            "Certificate of Advanced Graduate Study in Accounting Certificate of Advanced Graduate Study (Post-MBA CAGS) Overview Completion of a Certificate of Advanced Graduate Study (CAGS) will afford Rowan MBA alumni as well as MBA graduates of other AACSB accredited universities the opportunity to complete an area of concentration or complete a new concentration. The Post MBA CAGS provides MBA graduates an opportunity to prepare themselves for opportunities in a rapidly changing workplace by enrolling in concentrations related to their current or expected career paths."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03507",
+                            "title": "Government and Not-For-Profit Accounting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03510",
+                            "title": "Financial Statement Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03511",
+                            "title": "Introduction to Federal Taxation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03512",
+                            "title": "Advanced Accounting Information Systems and Business Process Controls",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03599",
+                            "title": "Special Topics in Accounting",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses Choose three (3) graduate business courses beginning with ACC 03500 such as the following options:"
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark & Thesis Requirements None Minimum Required Grades and Cumulative GPA The CAGS in Accounting is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

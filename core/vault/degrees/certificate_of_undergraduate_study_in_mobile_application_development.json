@@ -1,0 +1,111 @@
+{
+    "name": "Certificate of Undergraduate Study in Mobile Application Development",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7230&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Mobile Application Development": [
+            "Certificate of Undergraduate Study in Mobile Application Development The Certificate of Undergraduate Study (CUGS) in Mobile Application Development is designed to offer students the opportunity of a specialized study with the skills required to develop software applications on current platforms used on millions of mobile devices (i.e. smart phones and tablets) around the world. The educational goals of this CUGS are to provide students with experience with the stages of mobile application development (i.e. user interface design, permissions and security, graphics and video resources) with varying languages and frameworks on a selected mobile platform."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": [
+            "Required Courses: 12 s.h. Students seeking this CUGS will be required to complete a total of 4 courses in 1 of the 2 different mobile technologies. This CUGS is available to all majors. No previous experience or knowledge of computing technologies is required."
+        ],
+        "Domain #1: Android": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10271",
+                            "title": "Introduction to Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04372",
+                            "title": "Advanced Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04471",
+                            "title": "Topics in Mobile Programming",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #1: Android"
+            ]
+        },
+        "Domain #2: iOS": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04103",
+                            "title": "Computer Science and Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "10275",
+                            "title": "Introduction to iOS Application Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04376",
+                            "title": "Advanced iOS Application Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04471",
+                            "title": "Topics in Mobile Programming",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Domain #2: iOS"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. Coordinator - TBD Robinson Hall 856.256.4805",
+                "Notes:"
+            ]
+        }
+    }
+}

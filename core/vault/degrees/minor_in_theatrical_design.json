@@ -1,0 +1,132 @@
+{
+    "name": "Minor in Theatrical Design",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7085&returnto=1028",
+    "content": {
+        "Minor in Theatrical Design": [
+            "Minor in Theatrical Design This minor provides non-theatre majors with sufficient coursework in theatre design to seek a position as a set and/or lighting designer or general theatrical technician."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07359",
+                            "title": "Fundamentals of Entertainment Technology I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07247",
+                            "title": "Costume Construction",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07310",
+                            "title": "Foundations of Theatrical Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07230",
+                            "title": "Stagecraft Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07231",
+                            "title": "Stagecraft II Credits: 1.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07232",
+                            "title": "Stagecraft III Credits: 1.5",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required: 12 s.h."
+            ]
+        },
+        "Elect 3 s.h. of the following graphics electives:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07300",
+                            "title": "Drawing and Rendering for the Theatre",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07305",
+                            "title": "Drafting, CAD and Model Making for the Theatre",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07210",
+                            "title": "Introduction to CAD for Entertainment Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elect 3 s.h. of the following graphics electives:"
+            ]
+        },
+        "Elect 3 s.h. of the following design electives:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07353",
+                            "title": "Stage Lighting Design and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07356",
+                            "title": "Costume Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07350",
+                            "title": "Scene Design Studio",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elect 3 s.h. of the following design electives:"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. The courses, THD 07130 The Living Theatre or THD 07201 Introduction to Theatre and Dance are recommended in order to give the student a broad introduction and background in the art of theatre. Thomas Fusco Advisor Tohill Theatre 856.256.4036 fusco@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

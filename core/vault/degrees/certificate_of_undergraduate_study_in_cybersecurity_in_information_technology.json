@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Cybersecurity in Information Technology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7222&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Cybersecurity in Information Technology": [
+            "Certificate of Undergraduate Study in Cybersecurity in Information Technology The Certificate of Undergraduate Study (CUGS) in Cybersecurity in Information Technology is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: CompTIA Security+ IT Fundamentals CompTIA A+ CYSA: CompTIA Cybersecurity Analyst+"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "03201",
+                            "title": "Security+",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "01110",
+                            "title": "Information Technology Foundations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "01111",
+                            "title": "Computer Hardware and Operations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03410",
+                            "title": "Cyber Defense",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students seeking this CUGS are required to successfully complete (grade of D- or better) the four courses listed below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Fred Stinchcombe Advisor Robinson Hall 328I 856.256.4805 stinchcombe@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

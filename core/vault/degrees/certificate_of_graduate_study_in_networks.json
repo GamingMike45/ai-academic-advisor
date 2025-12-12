@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Graduate Study in Networks",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7540&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Networks": [
+            "Certificate of Graduate Study in Networks The Certificate of Graduate Study (COGS) in Networks is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the graduate level. It consists of 12 s.h. of coursework. Students seeking this COGS will be required to take one (1) required course and three (3) restricted electives. The COGS is a stackable certificate, and students can apply their certificate credits toward the M.S. in Computer Science. Students may also apply some of their certificate credits toward the M.S. in Cybersecurity. Students should consult with the program advisor for additional information."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "09510",
+                            "title": "Computer Networks",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 3 s.h."
+            ]
+        },
+        "Restricted Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "03580",
+                            "title": "Cloud Computing and the Internet of Things",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09605",
+                            "title": "Wireless Networks and Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09612",
+                            "title": "Network Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "09675",
+                            "title": "TCP/IP and Internet Protocols and Technologies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 9 s.h. Choose three of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Networks is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Shen-Shyang Ho Robinson Hall, Room 328Q 856.256.4805 hos@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "name": "Certificate of Undergraduate Study in Power Systems Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7064&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Power Systems Engineering": [
+            "Certificate of Undergraduate Study in Power Systems Engineering The U.S. electricity grid is poised for a dramatic transformation, enabled by smart grid technologies, to address national and worldwide existential necessities: meeting the increasing electric energy needs, reducing the reliance on fossil fuels, and thus restoring and boosting the economy. The U.S. Department of Energy’s (DoE) Quadrennial Energy Review (QER) found that 1.5 million new jobs across the energy sector will need to be filled over the next several years, with many of these positions paying 50 to 80 percent more than the average annual salary. However, achieving the goals of “Smart Grid” is hampered by a growing shortage of qualified electric power and energy engineers. According to the U.S. Senate Committee on Energy and Natural resources, 77% of energy companies find it difficult to hire qualified employees. This Certificate of Undergraduate Study (CUGS) in Power Systems Engineering in intended to meet this unmet demand in graduating qualified engineers. The Certificate of Undergraduate Study (CUGS) in Power Systems Engineering consists of four (4) undergraduate courses laying a strong technical foundation in electric power systems focused on the operation of emerging systems. Through this four-class sequence, students will be able to articulate the core concepts of conventional system analysis, different renewable system analysis, electricity market and different smart grid enabling techniques. Power Systems Engineering CUGS will provide students with breadth and depth in theoretical foundations of emerging power systems, as well as practical hands-on project experience. As a result of this CUGS, we expect our graduates to be particularly marketable, attracting many employers looking to hire highly qualified smart-grid ready power engineers. Additionally, this CUGS also provides access to non-engineering students, who are interested in pursuing this program, to Rowan Engineering’s signature hallmark, the Senior Engineering Clinic (2 credits, to be taken twice over two semesters, for a total of 4 credits, providing year-long project experience, counting as one of the electives for the CUGS), where students work on real-world power systems problems under ECE faculty’s supervision. The students will need to take one of several specific sections of Senior Engineering Clinic that focus on power systems related projects."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09408",
+                            "title": "Power System Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09410",
+                            "title": "Alternate Energy Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 6-7 s.h.": [
+            "Elective Courses: 6-7 s.h. Choose either two courses (strongly recommended) from Knowledge Area 1 OR choose one from Knowledge Area 1 and one from Knowledge Area 2"
+        ],
+        "Knowledge Area 1 (Courses with immediate relevance to Power Systems)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09472",
+                            "title": "Smart Grid",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09473",
+                            "title": "Smart Sensors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09415",
+                            "title": "Fundamentals of Emerging Electricity Market",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09416",
+                            "title": "Power Electronic Converter Fundamentals",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Knowledge Area 1 (Courses with immediate relevance to Power Systems)"
+            ]
+        },
+        "Knowledge Area 2 (supportive courses of relevance)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01403",
+                            "title": "Senior Engineering Clinic - WI (must be taken twice, 2 credits each) *",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09485",
+                            "title": "Introduction to Engineering Cyber Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09455",
+                            "title": "Introduction to Machine Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10461",
+                            "title": "Introduction to Engineering Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09422",
+                            "title": "Systems and Control II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Knowledge Area 2 (supportive courses of relevance) If only one course is taken from Knowledge Area 1, choose any one of the following. If you take two courses from Knowledge Area 1 (recommended), then the following is not required"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. * Must be enrolled in one of the specific sections of Senior Engineering Clinic that focuses on power systems topics. The list of ENGR 01403 sections that qualify as elective of this CUGS are announced each semester. ENGR 01403 should be taken at least one semester later than ECE 09408 Power System Engineering. ENGR 01403 must be taken twice over two semesters to provide a year-long major experience in solving real-world power systems related problems. Sequence of Coursework: ECE 09408 must be taken first which is the prerequisite of the second required course ECE 09410 Alternate Energy Systems, and other electives. Both of these two required courses provide the necessary background for the students to be successful in the following electives and Senior Engineering Clinic. Double counting policy: For all CUGS offered by the ECE Department, at most two courses can be double counted to satisfy the CUGS and the B.S. in ECE degree requirements. Therefore, ECE students pursuing this or any other CUGS must take at least two courses above and beyond their BS in ECE degree requirements. Clinics may not be used to satisfy the elective requirements of more than one CUGS. Non-ECE students who pursue this CUGS should follow the course double-counting policies of the department in which their major resides. Admission Requirements / Foundation Courses (prerequisites to CUGS courses) Students applying to this CUGS must have completed the following fundamental courses (or their equivalents) with a minimum GPA of 3.0 or must have relevant career or other experience that includes background in these areas. ECE 09203 Principles of Electric Circuit Analysis, MATH 01235 Mathematics for Engineering Analysis or (MATH 01210 Linear Algebra and MATH 01230 Calculus III/Ordinary Differential Equations); STAT 02290 Probability and Statistical Inference for Computing Systems or STAT 02360 Probability and Random Variables or STAT 02286 Probability and Statistics for Electrical and Computer Engineering; and any prerequisites of the courses that make up this course sequence. Program Coordinator/Advisor Contact Information Jie Li Engineering Hall 856.256.5345 lijie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

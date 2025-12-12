@@ -1,0 +1,139 @@
+{
+    "name": "Minor in Technical & Professional Writing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7016&returnto=1028",
+    "content": {
+        "Minor in Technical & Professional Writing": [
+            "Minor in Technical & Professional Writing This 18-hour minor allows students to study techniques and strategies used in genres of technical and professional writing, including within technical, medical, scientific, nonprofit, and other professional contexts. Students will learn to write in various professional and technical genres, such as reports, proposals, instructions, and educational materials, and will learn to compose for a variety of audiences. A particular focus of the minor will be in learning to communicate complex information to lay audiences. Towards this end, students will gain skills in audience analysis, document design, style and editing, and research. Students will become more aware of theories and strategies of writing through close rhetorical analysis of professional and technical exemplary texts."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01325",
+                            "title": "Scientific Writing and Rhetoric",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01326",
+                            "title": "Writing for Nonprofits-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01330",
+                            "title": "Medical Writing and Rhetoric-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01355",
+                            "title": "Editing for Publication",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Choose any three of the following*"
+            ]
+        },
+        "Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01250",
+                            "title": "Tutoring Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01322",
+                            "title": "Writing for the Workplace-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01335",
+                            "title": "Environmental Writing and Rhetoric-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02313",
+                            "title": "Magazine Article Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01320",
+                            "title": "Internship I in Writing Arts",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01321",
+                            "title": "Internship II in Writing Arts",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HSC",
+                            "course_number": "08200",
+                            "title": "Developing Health and Scientific Literacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04393",
+                            "title": "Rhetoric of Science, Technology, and Medicine-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 9 s.h. Choose the remaining three courses from the above list or from following list; courses taken from required list cannot be double-counted*"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. *Students must ensure that they have the appropriate prerequisites for any of the classes. Prerequisites for each class can be found in the course description after clicking the link. Amy Woodworth Chair 260 Victoria Street 856.256.4847 woodworth@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

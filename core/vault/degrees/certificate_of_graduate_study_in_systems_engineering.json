@@ -1,0 +1,157 @@
+{
+    "name": "Certificate of Graduate Study in Systems Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7980&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Systems Engineering": [
+            "Certificate of Graduate Study in Systems Engineering Systems engineering involves the design, integration, and management of complex and large-scale systems over their life cycles. As such, Systems Engineering bridges many of the existing engineering disciplines, as design, integration, and management of complex, large-scale systems are common to all engineering disciplines. While the nation’s institutions of higher education graduate a sufficient number of professionals in core traditional engineering disciplines, there is an unmet need for qualified professionals who have the necessary knowledge and skills to integrate such complex and large-scale systems across different disciplines. Furthermore, while there are master’s level graduate programs in Systems Engineering, not all professionals have the time to pursue a full-length MS program, and hence, they would prefer a shorter certificate program that focuses on core areas. This Certificate of Graduate Studies program in Systems Engineering is designed to meet this growing demand by providing a strong foundation, skills, and knowledge on which the participants can build a successful career. The COGS in Systems Engineering consists of the four core courses of the M.S. in Systems Engineering. Therefore, students who complete this COGS can easily complete their M.S. in Systems Engineering simply by taking the relevant electives in any of the focus areas of the M.S. in Systems Engineering."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09521",
+                            "title": "Fundamentals of Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09527",
+                            "title": "Advanced Model Based Systems Engineering",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Choose one from the following Reliability/Quality Control/Statistics Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09528",
+                            "title": "Reliability in Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09568",
+                            "title": "Discrete Event Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10530",
+                            "title": "Reliability Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10561",
+                            "title": "Engineering Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06587",
+                            "title": "Process Optimization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06588",
+                            "title": "Advanced Process Control Automation and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03511",
+                            "title": "Operations Research I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03512",
+                            "title": "Operations Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02510",
+                            "title": "Introduction to Statistical Data Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one from the following Reliability/Quality Control/Statistics Courses"
+            ]
+        },
+        "And then choose one from the following Engineering/Project Management Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09529",
+                            "title": "Project Management in Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01543",
+                            "title": "Systems for Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02525",
+                            "title": "Project Management *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02526",
+                            "title": "Project Management for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02522",
+                            "title": "Systems Analysis and Design *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And then choose one from the following Engineering/Project Management Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Courses indicated with an* are restricted to College of Business / Management/ MIS/ ENT students. These programs have approved COGS in Systems Engineering students to take these courses subject to seat availability. If you are interested in taking one of these classes, please send an e-mail to GraduateBusinessStudies@rowan.edu with a registration request, identifying yourself as a COGS in Systems Engineering student. They will typically respond within 24 business hours. Students need at least a B- in each of the required courses but an overall GPA of 3. 0 to successfully complete this program.",
+                "Notes:"
+            ]
+        }
+    }
+}

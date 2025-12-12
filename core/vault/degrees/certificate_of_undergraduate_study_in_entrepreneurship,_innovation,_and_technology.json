@@ -1,0 +1,116 @@
+{
+    "name": "Certificate of Undergraduate Study in Entrepreneurship, Innovation, & Technology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6962&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Entrepreneurship, Innovation, & Technology": [
+            "Certificate of Undergraduate Study in Entrepreneurship, Innovation, & Technology The Certificate of Undergraduate Study (CUGS) in Entrepreneurship, Innovation, & Technology provides a sequence of courses that combines entrepreneurship courses focusing on entrepreneurial skillset and mindset development with courses relevant for aspiring technologists and innovators."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06450",
+                            "title": "Technology Entrepreneurship",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06361",
+                            "title": "Supervised Internship in Entrepreneurship (Must be technology related)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06344",
+                            "title": "Global Entrepreneurship Growth Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02301",
+                            "title": "Emerging Technologies I",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02302",
+                            "title": "Emerging Technologies II",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10430",
+                            "title": "Computing and Informatics Capstone Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "99300",
+                            "title": "Computer Field Experience",
+                            "credits": "3 to 12"
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10275",
+                            "title": "Introduction to iOS Application Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04376",
+                            "title": "Advanced iOS Application Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09311",
+                            "title": "Electronics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09351",
+                            "title": "Digital Signal Processing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h.",
+                "XXX XXXXX - Other Technology courses - as approved by Program Director Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Entrepreneurship, Innovation, & Technology, students must complete all courses with at least a 2.5 GPA.",
+                "Notes:"
+            ]
+        }
+    }
+}

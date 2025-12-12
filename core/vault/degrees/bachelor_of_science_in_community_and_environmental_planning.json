@@ -1,0 +1,172 @@
+{
+    "name": "Bachelor of Science in Community & Environmental Planning",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7272&returnto=1028",
+    "content": {
+        "Bachelor of Science in Community & Environmental Planning": [
+            "Bachelor of Science in Community & Environmental Planning The Bachelor of Science in Community & Environmental Planning major is a professional degree program that prepares students for positions in local, state, and federal agencies, private companies, planning departments, engineering firms, and many others as well as graduate education in planning. The program introduces students to the diversity of the planning profession while providing an understanding of the broader purpose of planning and the opportunity to focus on practice and application through research and studio credits. It is intended to serve high-achieving students interested in advanced careers in the diverse and dynamic field of planning. The program at Rowan has a special focus on sustainable community design, land conservation, and the specific planning practices and challenges of the region."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Introduction to Planning & the Environment: 6 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Introduction to Planning & the Environment: 6 s.h.",
+                "PLAN 31100 - Earth, People, Environment (Satisfies Global Literacy (GLBL) Requirement) Credits: 3",
+                "PLAN 31280 - Introduction to City Planning (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3"
+            ]
+        },
+        "Community & Environmental Planning Core: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31380",
+                            "title": "Planning History, Theory, and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31383",
+                            "title": "Metropolitan/Regional Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31386",
+                            "title": "Land Use and Conservation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31385",
+                            "title": "New Jersey Applied Planning Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31389",
+                            "title": "Environmental / Sustainable Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Community & Environmental Planning Core: 18 s.h."
+            ]
+        },
+        "Planning Methods and Practice Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16350",
+                            "title": "Quantitative and Qualitative Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31351",
+                            "title": "Planning Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31486",
+                            "title": "Community Planning, Engagement, and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31390",
+                            "title": "Planning Clinic (120 hours)",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Planning Methods and Practice Courses: 15 s.h. Take the following courses:",
+                "GEOG 16160 - Digital Earth: Mapping and Geographic Information Science (Satisfies Artistic (ARTL) Literacy Requirement) Credits: 3"
+            ]
+        },
+        "Planning Program Electives: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16333",
+                            "title": "Suburbia: People, Place, and Politics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Planning Program Electives: 15 s.h. Choose 5 elective program classes (15 s.h.) in consultation with your academic advisor. It is highly recommended that courses chosen contribute to completing a minor such as GIS Minor, Sustainability Science Minor, or Environmental Studies Minor."
+            ]
+        },
+        "Capstone Experiences in Planning: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31490",
+                            "title": "Research Seminar in Planning-WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31495",
+                            "title": "Planning Studio-WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Capstone Experiences in Planning: 6 s.h."
+            ]
+        },
+        "Free Electives: 33 s.h.": [
+            "Free Electives: 33 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or non-program courses."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Bachelor of Science Community & Environmental Planning Graduation Requirements 2.00 Overall G.P.A. 2.5 Major G.P.A. Bachelor of Science Community & Environmental Planning majors must complete all Planning Courses with a ‘C’ or better (classes marked with *). For information related to this major or minor, please contact: John Hasse, Ph.D., AICP 856.256.4812 hasse@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

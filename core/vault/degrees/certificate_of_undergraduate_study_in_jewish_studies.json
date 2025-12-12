@@ -1,0 +1,164 @@
+{
+    "name": "Certificate of Undergraduate Study in Jewish Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7183&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Jewish Studies": [
+            "Certificate of Undergraduate Study in Jewish Studies The Certificate in Undergraduate Study (CUGS) in Jewish Studies is a multi-departmental program designed to complement and enhance a student’s major program, as well as to prepare students for graduate studies and professional careers, including those in Jewish studies, clergy, ethnic/racial studies, leadership in multicultural and religious organizations. Its purpose is to allow students to study in greater depth the historical, sociological and religious context of contemporary Jews and Jewish life. The CUGS provides an interdisciplinary survey of issues related to contemporary Jews and a comparison to other ethnic and cultural groups in the United States and abroad."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following: A total of 12 credit hours are required to complete the CUGS. The Jewish focus courses must provide at least 6 credit hours, but may provide all 12 credit hours required. Up to 6 credits may come from the “contextual focus” courses."
+        ],
+        "Jewish focus courses (each worth 3 credits) include:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10301",
+                            "title": "Judaism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10214",
+                            "title": "Religions of the Western World",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08365",
+                            "title": "Contemporary Jewish Life",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Jewish focus courses (each worth 3 credits) include:"
+            ]
+        },
+        "And one of the following courses which focus on a specific period in Jewish history:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05406",
+                            "title": "Nazi Germany and the Holocaust",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08399",
+                            "title": "Sociology of the Holocaust - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And one of the following courses which focus on a specific period in Jewish history:",
+                "HONR 05390 - Selected Topics Credits: 3 to 6"
+            ]
+        },
+        "Contextual focus courses (each worth 3 credits) include": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10340",
+                            "title": "Topics in World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08320",
+                            "title": "Urban Sociology",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Contextual focus courses (each worth 3 credits) include"
+            ]
+        },
+        "One of the following courses": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "REL",
+                            "course_number": "10100",
+                            "title": "World Religions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "REL",
+                            "course_number": "10240",
+                            "title": "Introduction to the Bible",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following courses"
+            ]
+        },
+        "One of the following courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05308",
+                            "title": "Modern Middle East",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16347",
+                            "title": "Geography of the Middle East",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05404",
+                            "title": "Arab-Israeli Conflict",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following courses:",
+                "or POSC 07345 Government and Politics of the Middle East"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. David Weinfeld Advisor Laural Hall 217 weinfeld@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

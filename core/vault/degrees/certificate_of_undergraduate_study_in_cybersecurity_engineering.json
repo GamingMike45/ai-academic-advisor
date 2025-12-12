@@ -1,0 +1,127 @@
+{
+    "name": "Certificate of Undergraduate Study in Cybersecurity Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7065&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Cybersecurity Engineering": [
+            "Certificate of Undergraduate Study in Cybersecurity Engineering The ever-changing cyber space and number of threat actors in cyberspace are growing exponentially as we as a nation, both publicly and privately, become more reliant on technology, data, and a secure cyber arena. This growing area of concern, nationally, from both private and public organizations has reached a point where supply is well short of demand, with no end in sight for the growing need for graduates to enter the space in the fight against the bad actors. This Certificate of Undergraduate Study (CUGS) in Cybersecurity Engineering is designed to meet the growing needs of our students as well as our industrial partners asking for this content, specifically in terms of hardware and engineering aspects of cybersecurity. This particular CUGS and its courses are designed for undergraduate students, with projects in each of its required courses that are commensurate with their background. While most cybersecurity programs are typically focused on the software side of cybersecurity, this COGS in Cybersecurity Engineering adds engineering and hardware aspects to provide a more modern and comprehensive coverage. The CUGS also includes an elective that can be chosen from a wide range of relevant undergraduate courses offered by the CS Department. The CUGS in Cybersecurity Engineering consists of three required courses focusing on hardware aspects as well as an elective that may be taken from a bank of engineering and computer science courses. The completion of this CUGS will provide students with the necessary skill sets to start a career in cybersecurity and/or pursue a more advanced education or degree program in related fields."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09485",
+                            "title": "Introduction to Engineering Cyber Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09487",
+                            "title": "Intro to IoT Hardware Engineering and Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09488",
+                            "title": "Introduction to Cloud Hardware Architecture and Security",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses:"
+            ]
+        },
+        "Elective - Choose any course from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECE",
+                            "course_number": "09402",
+                            "title": "Topics in Electrical and Computer Engineering (must be relevant and preapproved)",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09427",
+                            "title": "Introduction to Model Based Systems Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09480",
+                            "title": "Introduction to Internet of Things",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03201",
+                            "title": "Security+",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03215",
+                            "title": "Penetration Testing Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03218",
+                            "title": "Ethical Hacking Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03252",
+                            "title": "Foundations of Computer Forensics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03270",
+                            "title": "Introduction to Intrusion Detection",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "03410",
+                            "title": "Cyber Defense",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "03351",
+                            "title": "Cyber Security: Fundamentals, Principles and Applications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective - Choose any course from the following list: Additional courses will be added to this elective bank as they become available."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Double counting policy: For all CUGS offered by the ECE Department, at most two courses can be double counted to satisfy the CUGS and the B.S. in ECE degree requirements. Therefore, ECE students pursuing this or any other CUGS must take at least two courses above and beyond their BS in ECE degree requirements. Non-ECE students who pursue this CUGS should follow the course double-counting policies of the department in which their major resides. Admission Requirements / Foundation Courses (prerequisites to CUGS courses) Students applying to this CUGS must have completed the following fundamental courses (or their equivalents) with a minimum GPA of 3.0 or must have relevant career or other experience that includes background in these areas. ECE 09342 Introduction to Embedded Systems and any prerequisites of the courses that make up this course sequence. Program Coordinator/Advisor Contact Information Robi Polikar Engineering Hall 856.256.5372 polikar@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

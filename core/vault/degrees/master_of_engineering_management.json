@@ -1,0 +1,142 @@
+{
+    "name": "Master of Engineering Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7609&returnto=1028",
+    "content": {
+        "Master of Engineering Management": [
+            "Master of Engineering Management The Master of Engineering Management (M.E.M.) is designed for engineers to develop management and leadership skills. Students in this program receive knowledge of managerial basics such as organizational behavior and teamwork, quantitative decision making, and operational system design. The combination of courses from Rowan’s Henry M. Rowan College of Engineering and the Rohrer College of Business, provide an effective balance of innovative technical knowledge and managerial skills required to understand both the engineering and business aspects of technology. The M.E.M. program is online and designed for working professionals to conveniently attend class and complete their engineering management career goals in five consecutive semesters."
+        ],
+        "Program Requirements": [
+            "Program Requirements The M.E.M. Program requires 30 semester credit hours (SCH) of graduate-level coursework. Six (6) courses must be taken from the required M.E.M. classes listed below. In addition, students must complete four (4) electives, which are grouped in tracks."
+        ],
+        "Required Courses for All Tracks: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EM",
+                            "course_number": "01501",
+                            "title": "Engineering Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01511",
+                            "title": "Strategic Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01512",
+                            "title": "Quality in Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01541",
+                            "title": "Engineering Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01543",
+                            "title": "Systems for Engineering Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02526",
+                            "title": "Project Management for Engineers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses for All Tracks: 18 s.h."
+            ]
+        },
+        "Required Track Courses: 12 s.h.": [
+            "Required Track Courses: 12 s.h. Master of Engineering Management students must complete the four courses in their selected track. (Track is selected during the application process.)"
+        ],
+        "Construction Management Track Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08504",
+                            "title": "Engineering Estimating",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01521",
+                            "title": "Construction Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01522",
+                            "title": "Construction Scheduling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01523",
+                            "title": "Cost Engineering",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Construction Management Track Courses"
+            ]
+        },
+        "Project Management Track Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01542",
+                            "title": "Facilities Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Project Management Track Courses"
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses An undergraduate degree must be successfully completed at an accredited institution. Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The Master of Engineering Management is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Coordinator/Advisor Contact Information Steven Chin, Ph.D., P.E. Vice Dean Engineering Hall 856.256.5300 chin@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

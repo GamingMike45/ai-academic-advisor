@@ -1,0 +1,85 @@
+{
+    "name": "Certificate of Undergraduate Study in Social, Behavioral, & Legal Impact of Cannabis Legislation",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6955&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Social, Behavioral, & Legal Impact of Cannabis Legislation": [
+            "Certificate of Undergraduate Study in Social, Behavioral, & Legal Impact of Cannabis Legislation The Certificate of Undergraduate Study (CUGS) in The Social, Behavioral, & Legal Impact of Cannabis Legislation will provide students with a multidisciplinary perspective of cannabis legislation, history, policy and process. Social institutions will be examined, as well as addressing the differential impacts of cannabis legislation on the issue of social inequality. The course selections are designed to address a growing demand by people interested in entering the competitive and rapidly expanding cannabis industry or as individuals involved with business, service, and/or legal aspects of the industry."
+        ],
+        "Program Requirements": [
+            "Program Requirements The requirements include the following four courses:"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CANN",
+                            "course_number": "03101",
+                            "title": "Cannabis History, Culture, and Social Institutions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CANN",
+                            "course_number": "03201",
+                            "title": "Cannabis Legislation and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CANN",
+                            "course_number": "03301",
+                            "title": "Cannabis Industry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Three of the four courses will serve as the foundation of the CUGS. They will operate without prerequisites. These courses are:"
+            ]
+        },
+        "Elective Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CAS",
+                            "course_number": "01425",
+                            "title": "The Study of Family and Alcoholism/Drug Abuse",
+                            "credits": null
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05322",
+                            "title": "Drugs and Crime in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10375",
+                            "title": "Drugs, the Brain, and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CAS",
+                            "course_number": "01250",
+                            "title": "Psychopharmacology/Physiology of Addiction",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3 s.h. To complete the requirements of the CUGS, students may choose from one of the four courses offered below to meet their specific areas of interest. These courses are:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in the Social-Behavioral Impact of Cannabis Legislation, students must complete all courses required as outlined with at least a 2.0 average. Program Advisor Kimberly Houser, Ph.D. 856.256.4500 x53739 houser@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

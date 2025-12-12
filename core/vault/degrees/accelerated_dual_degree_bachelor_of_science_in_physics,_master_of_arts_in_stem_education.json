@@ -1,0 +1,73 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Physics, Master of Arts in STEM Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7487&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Physics, Master of Arts in STEM Education": [
+            "Accelerated Dual Degree: Bachelor of Science in Physics, Master of Arts in STEM Education"
+        ],
+        "Overview": [
+            "Overview The Department of Physics & Astronomy and the Department of STEAM Education have created this accelerated program to provide a seamless transition between undergraduate and graduate coursework for students wishing to pursue teacher certification in physics. The program will allow qualified students to complete both programs and earn their initial certification in five years."
+        ],
+        "3.5 + 1.5 Undergraduate Program Requirements": [
+            "3.5 + 1.5 Undergraduate Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Science in Physics Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60501",
+                            "title": "STEM: Teaching and Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60510",
+                            "title": "Teaching STEM in Diverse Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 21 s.h.": [
+            "Required MA Courses taken as a Graduate student: 21 s.h. As listed in the Master of Arts in STEM Education"
+        ],
+        "Total Required Credits for the Entire 3.5 + 1.5 Program: 141 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire 3.5 + 1.5 Program: 141 s.h."
+            ]
+        },
+        "Requirements for Admission:": {
+            "requirements": [],
+            "notes": [
+                "Requirements for Admission: Applicants to the Accelerated Degree program will submit applications for admission to the graduate program in the fall semester of their sophomore year of the undergraduate program. Application requirements are as follows: A minimum overall GPA of 3.0 in undergraduate coursework A complete online Rowan Global application, including a personal statement 2 recommendation forms Upon reaching senior standing, students must have maintained a cumulative GPA of 3.0 to continue in the accelerated degree program. Students must meet the required minimum grade of their undergraduate content major and any undergraduate education courses taken must be passed successfully with a minimum of a C-. If the minimum GPA and overall physics course grades are not met, the student will be removed from the accelerated degree program and placed in the regular B.A. in Physics program. They will be eligible to apply for readmission into the accelerated degree program upon earning a minimum cumulative GPA of 3.0. Students must also follow through with the previously noted application requirements. To ensure flexibility for students, they can apply through the spring of their junior year with the same requirements as indicated above. However, for those students who submit applications in their junior year, they will need to ensure that they address courses required to earn initial NJ certification to teach in the public schools: Adolescent Development (PSY 09210); Characteristics of Knowledge Acquisition (FNDS 21230) or Educational Psychology (PSY 22215); Health and Wellness (HLTH 00103) or a Biology course. Undergraduate benchmarks must also be met by the end of their senior year. These are: Cumulative GPA of at least 3.0 Students must meet the required minimum grade of their undergraduate content major, and any undergraduate education courses taken must be passed successfully with a minimum of a C-. Completion of the following courses: SMED 60550: Schools & Society: Foundations for Secondary Teaching (3 credits) and STEM 60510 Teaching STEM in Diverse Settings (3 credits); STEM 60501 - STEM: Teaching & Research Methods I (3 Credits) and READ 30520 - Adolescent Literacies (3 Credits). Grades C- or better in any undergraduate education courses. Courses required for the MA in STEM Education may only be attempted twice. Grades for Graduate courses being taken as part of matriculation in the senior year for MA STEM must have a minimum of B- each. Submission of passing scores for*Praxis II in Physics: Content Knowledge, test code 5266, and General Science Knowledge (5436) by April 30th deadline before entering Clinical Practice I (Required score: 145 and 141 consecutively). See: https://www.nj.gov/education/certification/testing/req/ Completed Full-Year Residency application in the College of Education designated database system (Between November 1 and November 30 during senior year). Note: Students will be placed in the 7 most southern NJ counties for their Clinical Practice Placement: Burlington, Camden, Gloucester, Atlantic, Cumberland, Salem, and Cape May. No exceptions will be made. Requirements for Graduation: Students must meet requirements for graduation with a Bachelor of Science or Arts in Physics and complete all the requirements for the Master of Arts in STEM Education Program. Contingency for Students who do not Complete the Master of Arts program : Students who enter the accelerated Master of Arts in STEM Education but do not maintain satisfactory progress or who simply choose not to continue pursuing the degree will be allowed to apply up to 12 credits of graduate coursework to the Bachelor of Arts or Science in Physics sciences program. If the student “opts out” before 12 credit hours have been completed, any remaining credits needed to complete the 120 semester hour undergraduate degree will be selected through consultation between the advisor, the program/department, and the student. Students will still be eligible to earn the B.S. in Physics Program Advisor Michalina Zelazny James Hall zelazny@rowan.edu Program Coordinator Dr.  Issam Abi-El-Mona James Hall abi-el-mona@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

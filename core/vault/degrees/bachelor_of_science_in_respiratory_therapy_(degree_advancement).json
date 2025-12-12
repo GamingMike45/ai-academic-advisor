@@ -1,0 +1,106 @@
+{
+    "name": "Bachelor of Science in Respiratory Therapy (Degree Advancement)",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7289&returnto=1028",
+    "content": {
+        "Bachelor of Science in Respiratory Therapy (Degree Advancement)": [
+            "Bachelor of Science in Respiratory Therapy (Degree Advancement) The Bachelor of Science in Respiratory Therapy (Degree Advancement) program (BSRT-DA) responds to the ongoing need to enhance the existing knowledge and skills of the respiratory therapy workforce. Trends in the profession, developments in healthcare services, and the COVID-19 pandemic have combined to create unprecedented demand for a bachelor’s degree program. This 100 % online RRT to BSRT Degree Advancement program is designed for students and working therapists who have earned at least an associate degree and are holding a currently active RRT credential. The program offers professional, forward-thinking courses of study and additional coursework as needed, leading to the Bachelor of Science in Respiratory Therapy.  The Degree Advancement Bachelor of Science in Respiratory Therapy program (CoARC program number 510025) holds Provisional Accreditation from the Commission on Accreditation for Respiratory Care (www.coarc.com). Admission Requirements The BSRT-DA program requires the following for consideration of admission to the program: Students with an earned associate’s degree or equivalent from an accredited CoARC respiratory therapy program and a verified Registered Respiratory Therapist credential may apply for admission to the program. Students must fulfill the general education requirements of Rowan Core, either through the transfer of credits or completion of courses at Rowan University. Additional coursework may be required, depending on the number of credits transferred to Rowan University. Students must meet Rowan University requirements for graduation, including general education and minimum GPA requirements, along with program requirements. Course of Study Rowan University requires a minimum of 120 credits to be taken within approved general education and major coursework in order to graduate with a Bachelor’s degree. To obtain the Bachelor of Science in Respiratory Therapy, all students complete the following coursework: 60 credits minimum from the associate’s degree or equivalent 30 credits in free electives or general education/Rowan Core 30 credits in respiratory therapy program coursework"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09400",
+                            "title": "Introduction to Clinical Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09401",
+                            "title": "Evidence-based Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09460",
+                            "title": "Advanced Concepts in Respiratory and Critical Care",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09461",
+                            "title": "Introduction to Disease Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09462",
+                            "title": "Ethics and End of Life Issues",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51301",
+                            "title": "Healthcare Delivery and Quality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09463",
+                            "title": "Polysomnography and Topics in Sleep Medicine",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09464",
+                            "title": "Leadership in Respiratory Care",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RESP",
+                            "course_number": "09465",
+                            "title": "Capstone",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses"
+            ]
+        },
+        "Total Hours: 30 s.h.": [
+            "Total Hours: 30 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Mitchell O’Shea Director of Degree Advancement and Partner Relations osheam@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

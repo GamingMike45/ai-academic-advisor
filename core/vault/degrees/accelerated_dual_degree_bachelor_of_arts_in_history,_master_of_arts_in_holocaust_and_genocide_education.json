@@ -1,0 +1,82 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in Holocaust & Genocide Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7471&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in Holocaust & Genocide Education": [
+            "Accelerated Dual Degree: Bachelor of Arts in History, Master of Arts in Holocaust & Genocide Education"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in History Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HGS",
+                            "course_number": "70507",
+                            "title": "Introduction to Holocaust and Genocide Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HGS",
+                            "course_number": "70537",
+                            "title": "Holocaust and Genocide Education Program Evaluation and Creation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Choose two from the following:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05522",
+                            "title": "Colloquium in European History I - Holocaust History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05531",
+                            "title": "Colloquium in Global History I - Comparative Genocides",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05523",
+                            "title": "Colloquium in European History II - Holocaust and Genocide Historiography",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose two from the following:"
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 18 s.h.": [
+            "Required MA Courses taken as a Graduate student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in Holocaust & Genocide Education"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

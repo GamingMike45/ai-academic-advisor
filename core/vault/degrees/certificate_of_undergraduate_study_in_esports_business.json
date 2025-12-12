@@ -1,0 +1,73 @@
+{
+    "name": "Certificate of Undergraduate Study in Esports Business",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7431&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Esports Business": [
+            "Certificate of Undergraduate Study in Esports Business The Certificate in Undergraduate Studies (CUGS) in Esports Business will provide students with the strategic guidance and leadership skills to move competitive electronic gaming teams through different leagues and generate revenue to grow. The program is comprised of a core curriculum of strategic growth, organizational leadership and financial management all within the field of organized Esports. Students who earn this certificate will be prepared to move forward within their current industry or transition to administrative Esports by demonstrating in-depth analytical competencies, leadership skills, and the communication of thoughtful solutions."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09201",
+                            "title": "Foundations of Esports",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses Students are required to complete the following course first:"
+            ]
+        },
+        "Then complete the following four courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03250",
+                            "title": "Esports Operations and Strategy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03280",
+                            "title": "Esports Funding and Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03301",
+                            "title": "Esports Business Development and Sponsorships",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ESBN",
+                            "course_number": "03350",
+                            "title": "Esports Metrics and Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Then complete the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Program Advisor Dennis Barrera 856.256.5582 barrerad@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

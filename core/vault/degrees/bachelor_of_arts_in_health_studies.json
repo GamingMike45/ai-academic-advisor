@@ -1,0 +1,154 @@
+{
+    "name": "Bachelor of Arts in Health Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7292&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Health Studies": [
+            "Bachelor of Arts in Health Studies The Bachelor of Arts in Health Studies provides a degree completion program for those students that have an Associate’s Degree within a Medical Technology (MT) or Clinical Medical Assistant (CMA) profession (e.g., ultrasound, radiology, paramedic, dental hygiene, etc). Students must also have a certification in one of these areas to apply to this program. Individuals with an AAS in a healthcare tech. related area may also be eligible and should contact the program advisor to ascertain eligibility. This program will provide students with critical professional skills not covered in the Associate’s Degree program that will make them highly competitive in the job market. These skills include but are not limited to: professionalism, adaptability, problem-solving, leadership, multicultural sensitivity, and planning and organization. The first two years of this program are fulfilled by completing an AAS degree. Some general education requirements will transfer to Rowan University from the AAS degree to fulfill some of the BA in Health Studies degree requirements. The overall credit distribution for the final two years of this program is as follows: 33 major semester hours, 15 general education semester hours (or enough to meet Rowan University requirements), and 12 free elective semester hours. Students must fulfill the general education requirements of Rowan Core, either through the transfer of credits or completion of courses at Rowan University. Additional coursework may be required, depending on the amount of credits transferred to Rowan University. The Bachelor of Arts in Health Studies is available through a 3+1 partnership with Rowan College at Burlington County (RCBC). This pathway offers four specialized tracks: Associate of Applied Science (AAS) in Dental Hygiene, Diagnostic Medical Sonography, Paramedic Science, or Radiography. Students complete their AAS and a total of 90 credits at RCBC before transferring to Rowan University to fulfill the remaining requirements for the BA degree. Course of Study Rowan University requires a minimum of 120 credits to be taken within approved general education and major coursework in order to graduate with a Bachelor’s degree. To obtain the Bachelor of Arts in Health Studies all students complete the following coursework: 60 credits minimum for AAS degree 27 credits in free electives at Rowan and/or in general education (Rowan Core) credits 33 credits of Health Studies major coursework"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Transfer in of AAS credits: 60": [
+            "Transfer in of AAS credits: 60"
+        ],
+        "Major Required Courses: 33 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HPW",
+                            "course_number": "00350",
+                            "title": "Health Behavior Theory and Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02215",
+                            "title": "Medical Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02221",
+                            "title": "Human Variation",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HCM",
+                            "course_number": "51201",
+                            "title": "Healthcare Informatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00422",
+                            "title": "Health Care Organization Leadership",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HPW",
+                            "course_number": "00340",
+                            "title": "Program Planning and Leadership in Health Promotion and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01322",
+                            "title": "Writing for the Workplace-WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HES",
+                            "course_number": "00116",
+                            "title": "Safety First Aid Basic Understanding of Athletic Injuries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00170",
+                            "title": "Stress Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00262",
+                            "title": "Drugs, Alcohol, and Tobacco",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00200",
+                            "title": "Introduction to Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00200",
+                            "title": "Basic Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00301",
+                            "title": "Health and Diverse Populations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00344",
+                            "title": "US Health Care Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00303",
+                            "title": "Environmental Issues and Health",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Major Required Courses: 33 s.h."
+            ]
+        },
+        "Elective Courses: 27 s.h.": [
+            "Elective Courses: 27 s.h."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. BA in Health Studies Prerequisite Courses AAS degrees are accepted as providing pre-requisite course credits for the BA in Health Studies pending a review of the transcripts of applicants to the program and/or based on cooperative agreements with AAS degree-granting institutions. Graduation/Exit, Benchmark, and/or Thesis Requirements Program exit includes successful completion of all required coursework totaling 120 credits, and an overall GPA of 2.0 or better per Rowan University policy. Students will receive a Bachelor of Arts in Health Studies degree, awarded by Rowan University. Shari Willis Program Coordinator Herman D. James Hall 856.256.4500 ext. 53702 williss@rowan.edu Talia Musero Advisor Enterprise Center 856.256.5576 musero@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

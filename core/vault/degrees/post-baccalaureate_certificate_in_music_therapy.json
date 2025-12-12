@@ -1,0 +1,145 @@
+{
+    "name": "Post-Baccalaureate Certificate in Music Therapy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7565&returnto=1028",
+    "content": {
+        "Post-Baccalaureate Certificate in Music Therapy": [
+            "Post-Baccalaureate Certificate in Music Therapy Rowan University’s Music Therapy Post-Baccalaureate Certificate is intended for students who have already completed a Bachelor’s in Music. This program will be offered in conjunction with the Bachelor of Music, Concentration in Music Therapy. Students in the program will be prepared to become a Board-Certified Music Therapist and to continue in graduate studies in Music Therapy."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 38 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MUS",
+                            "course_number": "98101",
+                            "title": "Foundations of Music Therapy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98208",
+                            "title": "Psychology of Music",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98301",
+                            "title": "Principles of Music Therapy I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98401",
+                            "title": "Principles of Music Therapy II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98310",
+                            "title": "Music Therapy Research Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98409",
+                            "title": "Therapeutic Principles for Music Therapist",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98303",
+                            "title": "Music Therapy Practicum I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98403",
+                            "title": "Music Therapy Practicum II",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98404",
+                            "title": "Music Therapy Practicum III",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98410",
+                            "title": "Residency in Music Therapy *",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98205",
+                            "title": "Clinical Piano Skills I",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98212",
+                            "title": "Clinical Piano Skills II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98206",
+                            "title": "Clinical Guitar Skills",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98207",
+                            "title": "Recreative and Compositional Applications to Music Therapy",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98213",
+                            "title": "Receptive Applications to Music Therapy",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "98307",
+                            "title": "Improvisational Applications to Music Therapy",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09305",
+                            "title": "Developmental Psychopathology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03200",
+                            "title": "Psychological Disorders",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 38 s.h."
+            ]
+        },
+        "Note:": {
+            "requirements": [],
+            "notes": [
+                "Note: *MUS 98410 - Residency in Music Therapy is taken in two semesters, for a total of 4 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 38 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 38 s.h. Foundation Courses PSY 01107 - Essentials of Psychology, PSY 03200 - Psychological Disorders, PSY 09305 - Developmental Psychopathology Graduation/Exit, Benchmark, and Thesis Requirements This program requires successful completion of the Residency in Music Therapy Capstone course, which includes a 1040-hour internship Minimum Required Grades and Cumulative GPA The Post-Baccalaureate Certificate in Music Therapy is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Program Coordinator/Advisor Contact Information Andrea McGraw Hunt Wilson Hall 856.256.4032 hunta@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

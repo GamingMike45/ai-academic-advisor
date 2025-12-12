@@ -1,0 +1,108 @@
+{
+    "name": "Certificate of Undergraduate Study in Entrepreneurial & Independent Media",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6995&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Entrepreneurial & Independent Media": [
+            "Certificate of Undergraduate Study in Entrepreneurial & Independent Media This Certificate of Undergraduate Study (CUGS) is designed to teach students how to benefit from advances in digital technology to create and distribute high-quality media on a small budget. In this CUGS, students learn both the media and business aspects of producing, marketing, and generating revenue their own media products and platforms, including blogs, podcasts, ebooks, YouTube channels, audiobooks, etc. Students also learn about startup protocols for more traditional types of media. The CUGS in Entrepreneurial & Independent Media consists of four courses totaling 12 credits. Three courses will be required and the fourth will be drawn from a bank of electives."
+        ],
+        "Major Requirements": [
+            "Major Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02366",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06324",
+                            "title": "Social Media Management and Metrics",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses (must take all three):"
+            ]
+        },
+        "Electives:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04317",
+                            "title": "Social Media Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02321",
+                            "title": "Digital Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06342",
+                            "title": "Financing and Legal Aspects of Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01356",
+                            "title": "Self Publishing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: (choose one)"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Carl Hausman Advisor 6 East High Street, Room 108 856.256.4049 hausman@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

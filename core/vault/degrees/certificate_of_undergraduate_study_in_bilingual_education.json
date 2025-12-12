@@ -1,0 +1,79 @@
+{
+    "name": "Certificate of Undergraduate Study in Bilingual Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7025&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Bilingual Education": [
+            "Certificate of Undergraduate Study in Bilingual Education This program enables students to gain the expertise and instructional certification to become educators in bilingual, P-12 settings. In bilingual classrooms in the US, all students have the same home language background (e.g., Spanish, Mandarin), and the teacher speaks both that language and English as a means of instruction. Bilingual education is currently a critical teaching shortage area both in NJ and across the US. Students in this program must already have an initial teaching license or must be enrolled concurrently in an initial teaching certification program in an area that can be taught in a bilingual setting (e.g., P-3; K-5; Mathematics; Social Studies; Health and PE; Music; Art; Science, etc.)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BLED",
+                            "course_number": "40405",
+                            "title": "Current Policy and Practice in ESL and Bilingual Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40412",
+                            "title": "Linguistics and Second Language Acquisition for Teaching Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40421",
+                            "title": "Teaching Bilingual/Bicultural Education: Process and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40422",
+                            "title": "Integrating Language, Literacy, and Content in ESL and Bilingual Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40424",
+                            "title": "Biliteracies and Translanguaging in the Bilingual Education Classroom",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses:"
+            ]
+        },
+        "Recommended Elective:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "05301",
+                            "title": "American English Grammar",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Recommended Elective:"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: To be awarded the CUGS in Bilingual Education, students must complete all courses required for the CUGS with no grade lower than a B-. To apply for NJ teaching certification, students must present evidence of passing oral and written language proficiency tests (OPI & WPT) in English and in the language of bilingual instruction. Information regarding these tests may be found on the Language Testing International website or by contacting the program coordinator via email. (Exceptions: Candidates for certification who pass the Department-approved basic skills test may be exempt from taking the written English language proficiency test (WPT) requirement.) Program Coordinator Catherine Michener James Hall 856.256.4845 michenerc@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

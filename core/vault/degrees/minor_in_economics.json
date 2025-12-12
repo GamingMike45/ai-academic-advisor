@@ -1,0 +1,49 @@
+{
+    "name": "Minor in Economics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7117&returnto=1028",
+    "content": {
+        "Minor in Economics": [
+            "Minor in Economics"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04101",
+                            "title": "An Introduction to Economics-A Macroeconomic Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04102",
+                            "title": "An Introduction to Economics-A Microeconomic Perspective",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Economics Electives: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Economics Electives: 15 s.h. The student, in consultation with his/her Economics Advisor, must select the remaining 15 s.h. from the courses offered by the Economics curriculum. No less than 6 s.h. must be at the junior/senior level. Principles of Economics: Global Perspective (ECON 04303) is not counted as a junior/senior-level elective course. Both Intermediate Macroeconomics (ECON 04301) and Intermediate Microeconomics (ECON 04302) are strongly recommended."
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

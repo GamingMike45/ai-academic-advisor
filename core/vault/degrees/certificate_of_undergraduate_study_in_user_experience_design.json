@@ -1,0 +1,66 @@
+{
+    "name": "Certificate of Undergraduate Study in User Experience Design",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7986&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in User Experience Design": [
+            "Certificate of Undergraduate Study in User Experience Design The User Experience ( UX) Design Certificate of Undergraduate Study ( UX CUGS) will teach students how to take the complexity and limitations of human information processing into account when designing software. They will gain an appreciation of the cognitive, physical, environmental, and social aspects in design, and understand the impact of cognitive biases. This will be attractive to Psychology students and Computer Science students and to other students who are interested in learning how to improve productivity and effectiveness by designing user interfaces that are both usable and useful. Graduates from this program will be attractive to employers in the software development sector and will have an advantage over peers in applying to graduate programs in Human Factors. The UX CUGS includes four 3- 3-credit required courses."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "10271",
+                            "title": "Introduction to Android Programming",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "10275",
+                            "title": "Introduction to iOS Application Programming",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "09400",
+                            "title": "Introduction to Human Factors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09401",
+                            "title": "Human Factors Methodology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04444",
+                            "title": "Human-Computer Interaction",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

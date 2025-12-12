@@ -1,0 +1,102 @@
+{
+    "name": "Master of Science in Anatomical Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7515&returnto=1028",
+    "content": {
+        "Master of Science in Anatomical Sciences": [
+            "Master of Science in Anatomical Sciences"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANS",
+                            "course_number": "00501",
+                            "title": "Clinically Integrated Human Anatomy",
+                            "credits": 8
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00503",
+                            "title": "Systems Physiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00611",
+                            "title": "Histology I: Basic Tissue Types",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANS",
+                            "course_number": "00503",
+                            "title": "Teaching Practicum in Human Anatomy Dissection I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANS",
+                            "course_number": "00504",
+                            "title": "Human Anatomy in Diagnostic Imaging",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANS",
+                            "course_number": "00506",
+                            "title": "Teaching Practicum in Human Anatomy Dissection II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "MCBN",
+                            "course_number": "00813",
+                            "title": "Neuroanatomy: Structure and Function of the Vertebrate Nervous System",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "ANS",
+                            "course_number": "00505",
+                            "title": "Human Developmental Anatomy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANS",
+                            "course_number": "00507",
+                            "title": "Teaching Practicum in Human Anatomy Dissection III",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00613",
+                            "title": "Histology III: Organ Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00616",
+                            "title": "Topics in Pathology",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "First Semester (Fall)",
+                "Second Semester (Spring)",
+                "Third Semester (Summer)",
+                "Fourth Semester (Fall)",
+                "Fifth Semester (Spring)"
+            ]
+        },
+        "Total Required Credits for the Program: 33 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 33 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

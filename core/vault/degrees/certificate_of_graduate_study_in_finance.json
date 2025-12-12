@@ -1,0 +1,103 @@
+{
+    "name": "Certificate of Graduate Study in Finance",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7505&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Finance": [
+            "Certificate of Graduate Study in Finance The Finance Certificate of Graduate Study (COGS) offers students the opportunity to pursue quantitative and analytical concepts and tools that are valuable in corporate, non-profit, and personal finance settings. The Finance COGS is a valuable stand-alone credential for those seeking to refresh skills in their current finance-related roles. The Finance COGS program also serves as a micro-credential on the way toward earning a degree that allows students to sample content before being formally admitted into Rowan’s Master of Science in Finance (MSF) or Master of Business Administration (MBA) with a Finance Area of Concentration."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Finance Certificate of Graduate Study at Rowan University requires the completion of 9 graduate semester hours (s.h.) made up of three (3) courses."
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "FIN",
+                            "course_number": "04511",
+                            "title": "Quantitative Methods in Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03510",
+                            "title": "Financial Statement Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04500",
+                            "title": "Financial Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04600",
+                            "title": "Investment Analysis and Portfolio Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04530",
+                            "title": "Multinational Financial Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04518",
+                            "title": "Derivative Securities and Financial Risk Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04560",
+                            "title": "Fixed Income Securities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04520",
+                            "title": "Financial Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04505",
+                            "title": "Advanced Financial Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04540",
+                            "title": "Financial Institutions Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04512",
+                            "title": "Capital Budgeting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04510",
+                            "title": "Independent Study: Finance",
+                            "credits": "1 to 6"
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Choose three (3) from the following options."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses Calculus: Techniques & Applications Foundations of Accounting or Principles of Accounting I and Principles of Accounting II Principles of Economics: A Survey or Macroeconomics and Microeconomics Principles of Finance Statistics I Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Finance is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Director Contact Information Jennifer Maden Assistant Dean and Director of Graduate Studies Business Hall 856.256.5220 maden@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

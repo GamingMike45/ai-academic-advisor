@@ -1,0 +1,119 @@
+{
+    "name": "Minor in Computer Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7212&returnto=1028",
+    "content": {
+        "Minor in Computer Science": [
+            "Minor in Computer Science The Minor in Computer Science requires students to take the following core courses:"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04113",
+                            "title": "Introduction to Object Oriented Programming",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04114",
+                            "title": "Object Oriented Programming and Data Abstraction",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04215",
+                            "title": "Computer Laboratory Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04222",
+                            "title": "Data Structures and Algorithms",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06205",
+                            "title": "Computer Organization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses:"
+            ]
+        },
+        "Students then select one (1) additional elective course from the following list:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04315",
+                            "title": "Programming Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04321",
+                            "title": "Software Engineering I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06210",
+                            "title": "Advanced Computing Technologies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "06395",
+                            "title": "Operating Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07210",
+                            "title": "Foundations of Computer Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "07340",
+                            "title": "Design and Analysis of Algorithms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01332",
+                            "title": "Introduction to Numerical Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Students then select one (1) additional elective course from the following list:",
+                "Any restricted electives from the Bachelor of Science in Computer Science"
+            ]
+        },
+        "Note:": [
+            "Note: A grade of C- or better is required in all prerequisite courses A minimum grade point average of 2.0 is required in the courses completed"
+        ],
+        "Total Required Credits for the Program: 23-24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 23-24 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

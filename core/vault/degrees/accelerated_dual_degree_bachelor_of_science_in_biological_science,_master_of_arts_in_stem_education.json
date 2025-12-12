@@ -1,0 +1,67 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Biological Science, Master of Arts in STEM Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7480&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Biological Science, Master of Arts in STEM Education": [
+            "Accelerated Dual Degree: Bachelor of Science in Biological Science, Master of Arts in STEM Education"
+        ],
+        "Overview": [
+            "Overview The Department of Biological & Biomedical Sciences and the Department of Content Area Teacher Education (CATE) have created this accelerated program to provide a seamless transition between undergraduate and graduate coursework for students wishing to pursue teacher certification in Biology. The program will allow qualified students to complete both programs and earn their initial certification in five years."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements": [
+            "Undergraduate Program Requirements As listed in Bachelor of Science in Biological Sciences Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60501",
+                            "title": "STEM: Teaching and Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60510",
+                            "title": "Teaching STEM in Diverse Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 21 s.h.": [
+            "Required MA Courses taken as a Graduate student: 21 s.h. As listed in Master of Arts in STEM Education"
+        ],
+        "Total Required Credits for the Entire ADD Program: 153 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 153 s.h. Requirements for Admission: Once admitted to the undergraduate major, students may apply to the Accelerated program. Admission to the ADD Program is contingent upon meeting specific timelines with educational requirements. It is essential that students consult with the undergraduate ADD program advisor at the earliest opportunity to ensure they meet all eligibility criteria and avoid missing critical deadlines. Early application is essential to maximize the likelihood of acceptance and to allow sufficient time for any necessary preparations. Therefore, students are strongly advised to contact the advisor promptly to secure their position in the ADD program. Students should be aware that application submissions to the Accelerated program must happen at the latest by mid-second term (March) of their junior year. To be admitted to the program, students must meet the following requirements: A minimum overall GPA of 3.0 in undergraduate coursework Students must meet the required minimum grade for their undergraduate content major, and any undergraduate education courses taken must be passed successfully with a minimum grade of C-. Junior Admission: Students who have completed their first two years and/or 60 credits must meet the criteria below: Achieve and maintain an Overall/ Cumulative GPA of 3.0 or above (non-negotiable/non-appealable) Grades C- or better in any undergraduate education courses. Required courses for entry into the MA in STEM Education program may only be attempted twice. Must achieve a minimum of a B- in all MA STEM graduate courses Submission of Matriculation packet to STEM Education- Accelerated advisor by August 1st prior to entry into Senior year Submission of NJDOE Criminal Background check by August 1st prior to entry into the Senior year Submission of a clear TB test by August 1st prior to entry to the Senior year. Mantoux (TB) Tests: School districts are now requiring current TB tests for all field placements. Please visit http://www.rowan.edu/colleges/education/ofe/mantoux.html for details. Attend an advising session with the College of Education Advisor Submission of passing scores for Praxis II in Biology: Content Knowledge, test code (5236) and General Science Knowledge (5436) by April 30th deadline (senior year) before entering Clinical Practice I (Required score: 154 and 141 consecutively) See: https://www.nj.gov/education/certification/testing/req/. Students who meet the above criteria can complete an application, which includes: Meet entry requirements for the BA/ BS Biology Program, please see: https://csm.rowan.edu/departments/bbs/academic-programs/undergraduate/bio-ba.html and https://sites.rowan.edu/student-success/global-learning-andpartnerships/3plus1_partnerships/biological-sciences.html Students enrolled in the Accelerated Dual Degree in Biology and STEM Education may take up to 12 credits of graduate courses as undergraduates. Students must meet with the relevant Program Advisor prior to moving onto the graduate portion of the program. Requirements for Graduation: Students must meet requirements for graduation with a Bachelor of Science or Arts in Biology and complete all the requirements for the Master of Arts in STEM Education Program. Contingency for Students who do not Complete the Master of Arts program: Students who enter the accelerated Master of Arts in STEM Education but do not maintain satisfactory progress or who simply choose not to continue pursuing the degree will be allowed to apply up to 12 credits of graduate coursework to the Bachelor of Arts or Science in Biological Sciences program. If the student “opts out” before 12 credit hours have been completed, any remaining credits needed to complete the 120 hour undergraduate degree will be selected through consultation between the advisor, the program/department, and the student. Program Advisor Michalina Zelazny James Hall zelazny@rowan.edu Program Coordinator Dr.  Issam Abi-El-Mona James Hall abi-el-mona@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

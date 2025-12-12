@@ -1,0 +1,249 @@
+{
+    "name": "Bachelor of Science in Public Health & Wellness",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7296&returnto=1028",
+    "content": {
+        "Bachelor of Science in Public Health & Wellness": [
+            "Bachelor of Science in Public Health & Wellness The Public Health & Wellness program will prepare students to understand and address the conditions and behaviors that advance or impede the public’s health. Through rigorous coursework, research experiences, and community engagement, our students will learn to use evidence-based and theory-driven practices to advance the health and well-being of all people in communities, locally, nationally, and globally. Public Health & Wellness graduates will be qualified to enter various professions within public health, government and non-government agencies as well as be able to pursue further graduate study. The B.S. in Public Health & Wellness is in the process of becoming accredited by the Council on Education in Public Health."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses 21 s.h": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02215",
+                            "title": "Medical Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01113",
+                            "title": "General Biology: Human Focus",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10210",
+                            "title": "Human Anatomy and Physiology I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10212",
+                            "title": "Human Anatomy and Physiology II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses 21 s.h",
+                "BIOL L0210 - Human Anatomy and Physiology I - Laboratory Credits: 0",
+                "BIOL L0212 - Human Anatomy and Physiology II - Laboratory Credits: 0"
+            ]
+        },
+        "Foundational Courses 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00200",
+                            "title": "Introduction to Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00200",
+                            "title": "Basic Nutrition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00301",
+                            "title": "Health and Diverse Populations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00302",
+                            "title": "Global Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00303",
+                            "title": "Environmental Issues and Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00344",
+                            "title": "US Health Care Systems",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses 18 s.h."
+            ]
+        },
+        "Mid-Level Courses 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPW",
+                            "course_number": "00350",
+                            "title": "Health Behavior Theory and Counseling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HCM",
+                            "course_number": "51255",
+                            "title": "Data Analytics in Healthcare Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00301",
+                            "title": "Health and Diverse Populations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00304",
+                            "title": "Grant Writing for Public Health-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00345",
+                            "title": "US Health Care Policy, Ethics, and Advocacy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00348",
+                            "title": "Public Health Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00355",
+                            "title": "Research Methods in Health Professions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HPW",
+                            "course_number": "00351",
+                            "title": "Wellness Coaching Seminar",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "HES",
+                            "course_number": "00347",
+                            "title": "Wellness Programming for Children Seminar",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Mid-Level Courses 21 s.h."
+            ]
+        },
+        "Upper-Level Courses 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HPW",
+                            "course_number": "00340",
+                            "title": "Program Planning and Leadership in Health Promotion and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00300",
+                            "title": "Implementation and Assessment in Public Health",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00415",
+                            "title": "Public Health Methods and Interventions",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00410",
+                            "title": "Senior Seminar in Public Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HLT",
+                            "course_number": "00483",
+                            "title": "Internship in Public Health and Wellness",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "NUT",
+                            "course_number": "00350",
+                            "title": "Community Nutrition",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-Level Courses 21 s.h."
+            ]
+        },
+        "Free Electives 12 s.h": [
+            "Free Electives 12 s.h As part of your Public Health & Wellness curriculum, you will select 12 credits from this list of courses below. You can select any of the courses, but note that some may have pre-requisites that you would need to take as part of your course selection. Courses have been divided into themes that some students may wish to pursue. Students may wish to select courses in only one theme and have the possibility of pursuing a concentration, Certificate of Undergraduate Study (CUGS), or minor. Students interested in going this optional route should speak with their Academic Advisor for more information and guidance."
+        ],
+        "Available Concentrations": [
+            "Available Concentrations Undergraduate Concentration in Emergency Management for Public Health Wellness Undergraduate Concentration in Geographic Information Systems for Public Health & Wellness Certificate of Undergraduate Study in Disaster Public Health Preparedness & Emergency Response Operations Undergraduate Concentration in Spanish for Public Health & Wellness Certificate of Undergraduate Study in Food Systems Planning Undergraduate Concentration in Health Communication & the Discourse of Medicine Undergraduate Concentration in Contexts of Environmental Health Undergraduate Concentration in Community Nutrition Undergraduate Concentration in Global Public Health"
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Shari Willis Co-Program Coordinator Herman D. James Hall 856.256.4500 ext. 53702 williss@rowan.edu Leslie Spencer Co-Program Coordinator Herman D. James Hall 856.256.4500 ext. 53761 spencer@rowan.edu Laurie Dwyer Advisor Herman D. James Hall 856.256.5835 dwyerl@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Minor in Political Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7113&returnto=1028",
+    "content": {
+        "Minor in Political Science": [
+            "Minor in Political Science The minor program in political science supplements the curriculum of students majoring outside of political science; it helps students expand their career options into such fields as law, journalism, social studies teaching, business, government, and intelligence. The minor requires 21 s.h. of political science courses. Twelve of those semester hours are in basic courses which are required of all who pursue a political science minor, while the other nine are political science electives that students can tailor to their particular career or intellectual interests."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07110",
+                            "title": "American Government",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07200",
+                            "title": "Survey of Western Political Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07230",
+                            "title": "Comparative Political Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07320",
+                            "title": "International Relations",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Electives: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Electives: 9 s.h. The student, in consultation with the student’s Political Science advisor, must select the remaining 9 s.h. from the courses offered by the Political Science curriculum. No less than 6 s.h. must be at the junior/senior level. NOTE: Credits for the Public Service Internship (EDPA 02490) do not count toward the political science minor."
+            ]
+        },
+        "Total Required Credits for the Program: 21 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 21 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

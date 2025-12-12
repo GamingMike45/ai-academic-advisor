@@ -1,0 +1,52 @@
+{
+    "name": "Certificate of Graduate Study in School Public Relations",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7679&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in School Public Relations": [
+            "Certificate of Graduate Study in School Public Relations The School Public Relations Certificate of Graduate Study (COGS) provides students with a broad overview of School Public Relations and a focus on several essential components of the field. By investigating and assessing real world case studies, students will develop an understanding of the need for formal planning and evaluation of an educational organization’s public relations initiatives. Students can use the coursework from this Certificate of Graduate Study and apply it toward the Master of Arts in Strategic Communication program."
+        ],
+        "Program Requirements": [
+            "Program Requirements The School Public Relations Certificate of Graduate Study is a part-time program offered in an accelerated online format. It requires the completion of 9 graduate semester hours (3 courses) which are possible to complete in only 2 to 3 consecutive semesters. The courses that make up the School Public Relations Certificate of Graduate Study may also be applied towards Rowan University’s Master of Arts in Strategic Communication program or the IMC & New Media Certificate program."
+        ],
+        "Coursework": [
+            "Coursework The following courses make up the School Public Relations Certificate of Graduate Study program. Each course is scheduled in 8 week modules with each week of work starting every Tuesday at 8:00 a.m. and ending every Monday at midnight (Eastern Standard Time)."
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAPR",
+                            "course_number": "98503",
+                            "title": "School Public Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01547",
+                            "title": "Graduate Strategic Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01570",
+                            "title": "Graduate Media Metrics and Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in School Public Relations is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Bokyung Kim 301 High Street 856.256.4293 kimb@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "name": "Master of Science in Human Factors",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10863&returnto=1028",
+    "content": {
+        "Master of Science in Human Factors": [
+            "Master of Science in Human Factors The Master of Science in Human Factors ( MSHF) will provide individuals with the opportunity to acquire an excellent graduate level education in Human Factors that prepares them to work in variety of positions in the human factors/ ergonomics domain including human factors ( HF) psychologist, HF engineer, HF researcher, HF specialist, usability engineer, industrial engineer, quality and safety engineer, systems engineer, user experience researcher, user experience designer, and occupational health and safety specialist. The MSHF is designed for individuals with a bachelor’s degree in any discipline and will prepare students for successful careers in industry or for doctoral programs in experimental, cognitive, or human factors psychology. Students will complete courses on-site and maintain a portfolio of projects they complete while in the program. Students will have the option of completing a master’s thesis, which may be either on-site or at the sponsoring company’s location, if applicable. Students who elect not to write a thesis will be required to complete a project in the Human Factors field approved by the program coordinator. Non-thesis track students will also be required to pass a final, comprehensive exam. Employers of part-time students may elect to sponsor their students’ theses or skill-development experience, which could be fully or partially performed during the workday. The MSHF is a 36-credit-hour program with an optional thesis track. Seven courses are required to fulfill the master’s degree. The remaining five courses can be fulfilled by electives within the Psychology Department, thesis credits, or courses from other graduate programs ( e.g., Computer Science). Two elective courses need to be Psychology electives. Courses outside the department not listed below must be appropriate to the degree, and the student must obtain permission from their advisor and program coordinator, as well as meet any prerequisites for the course. This will allow students some freedom to customize their degree experience to fit the HF field they want to pursue. Students enrolled in the thesis track will use 6 credits of Master’s Thesis Research ( PSY09699, 2 semesters at 3 sh each) to replace two of these elective courses. All students will curate a portfolio of class projects they complete throughout the program. The portfolio will be reviewed by faculty in the program as a benchmark for graduation."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "09500",
+                            "title": "Fundamentals of Human Factors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09526",
+                            "title": "Sensation and Perception",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09527",
+                            "title": "Human Cognition",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 9 s.h."
+            ]
+        },
+        "Statistics & Methods Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "09600",
+                            "title": "Experimental Methods in Human Factors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09524",
+                            "title": "Applied Statistics in Psychology I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09525",
+                            "title": "Applied Statistics in Psychology II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Statistics & Methods Courses: 12 s.h."
+            ]
+        },
+        "Elective Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "04580",
+                            "title": "Human Centered Computing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09601",
+                            "title": "Applications of Human Factors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09523",
+                            "title": "Graduate Seminar in Psychology (Repeatable with different topics)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 15 s.h. The field of Human Factors specializes in understanding how humans interact with technology, despite the diverse landscape of technology. Students are taught fundamental concepts of the field through the required coursework with the expectation that they could find employment in one of many disciplines. The electives allow students to take courses in their area of interest, including courses not listed here, but will provide the necessary education to excel in their employment. For example, a student interested in User Experience research might take the course Human-Centered Computing (CS 04580) and, as a prerequisite for that course, might take other courses in computer science to hone their computer programming skills. Likewise, a student interested in the healthcare applications of human factors might take an appropriate health sciences course. Also, the HF faculty in the psychology department might offer special topics courses through the Graduate Seminar in Psychology (PSY 09523).",
+                "Various courses outside department with program coordinator permission - Credits 1-3"
+            ]
+        },
+        "Supervised Thesis: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "09699",
+                            "title": "Master’s Thesis Research Credits: 1 TO 6",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Supervised Thesis: 6 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 36 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 36 s.h. Tracks Students will request which track they desire to pursue; however, that request may not be met depending on the demands for faculty advisors and/ or the student meeting program benchmarks within their first year. Non-thesis Track: Students in the non-thesis track will complete 36 credit hours of traditional (non-thesis) courses. In addition to the coursework, non-thesis track students are required to complete an extracurricular project to add to their portfolio and a comprehensive exam. The external project must be completed outside of the program coursework. This could be done as part of an internship, as part of the student’s full-time employment, or as part of a collaboration with a faculty member in a non-thesis study. This project is meant to give students experience leading HF research and may be completed as part of the student’s employment. Projects must be approved by the program coordinator. The comprehensive exam is analogous to the Board-Certified Professional Ergonomist exam, the industry standard for certification, and will help prepare students for this certification exam if they choose to pursue it after graduation. Thesis Track: Students in the thesis track will complete 30 credit hours of traditional courses, a final portfolio of projects completed as part of coursework, and 6 credit hours of thesis work. The 6 credits of thesis work must be distributed over two semesters, 3 credits each semester. If more hours of thesis are required, the student must obtain advisor and program coordinator approval, and these hours will be above and beyond the 36 credit hours required for the program. Students should consult with their advisors as to when thesis credits should be taken. Students must successfully propose and defend their thesis to a committee and follow all guidelines in the Thesis and Dissertation Manual. Graduation/ Exit, Benchmark, and/ or Thesis Requirements -A total of 36 credit hours is required for degree completion. -Satisfactory progress on project/ thesis as determined by advisor and/ or program coordinator after completion of 18 credit hours For thesis track: thesis topic chosen, literature review complete, and prospectus defense completed or scheduled within the next three months. For non-thesis track: project identified, project approved by Program Coordinator, and work already begun or set to begin within the next three months. -Successful review of the project portfolio by the faculty panel in the final semester of the program. Portfolio should reflect that the student has applied relevant HF skills and knowledge inside and outside the core curriculum required for the master’s degree. For Thesis Track Only: -Successful prospectus defense. - Successful thesis defense as determined by the thesis committee according to Rowan University standards outlined in the Thesis and Dissertation Manual and completion of all thesis requirements in the last semester of the program. For Non-thesis Track Only: - A score of at least 80% on a comprehensive exam. Minimum Required Grades and Cumulative GPA The MSHF is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories.",
+                "Notes:"
+            ]
+        }
+    }
+}

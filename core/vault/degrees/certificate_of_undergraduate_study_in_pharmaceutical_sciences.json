@@ -1,0 +1,109 @@
+{
+    "name": "Certificate of Undergraduate Study in Pharmaceutical Sciences",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7204&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Pharmaceutical Sciences": [
+            "Certificate of Undergraduate Study in Pharmaceutical Sciences The Certificate of Undergraduate Study (CUGS) in Pharmaceutical Sciences provides a sequence of courses that combine chemistry and biochemistry topics of relevance to the study of pharmaceutical design, synthesis, testing, and analysis. These courses will provide a strong foundation for students interested in pursuing employment within the local pharmaceutical and biotechnology industries and for those wishing to pursue chemistry and biomedically oriented graduate education (e.g., Ph.D., M.D., D.O., and Pharm.D.)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07407",
+                            "title": "Advanced Biochemistry Lecture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07490",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07492",
+                            "title": "Pharmaceutical Chemistry",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: The requirements include the following three courses:"
+            ]
+        },
+        "And one of the following courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07357",
+                            "title": "Chemical Biology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07410",
+                            "title": "Medicinal Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07464",
+                            "title": "Advanced Organic Chemistry I- WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07465",
+                            "title": "Physical Organic Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "08410",
+                            "title": "Survey of Molecular Modeling Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09322",
+                            "title": "Bioanalytical Chemistry",
+                            "credits": null
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05430",
+                            "title": "Advanced Topics in Chemistry *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07431",
+                            "title": "Advanced Topics In Biochemistry *",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "And one of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. *Advanced Topics in Chemistry (CHEM 05430) and Advanced Topics in Biochemistry (CHEM 07431) cover special topics in individual areas of chemistry and biochemistry, respectively. In order to apply this course to this CUGS, the topics covered in a taken Advanced Topics course must be related to Pharmaceutical Science and be pre-approved by the CUGS coordinator. To be awarded the CUGS in Pharmaceutical Sciences, students must complete all courses required for the CUGS in Pharmaceutical Science with at least a 2.0 average. All required and optional courses in this CUGS require Organic Chemistry II (CHEM 07201) as a prerequisite. Required course Advanced Biochemistry Lecture requires Biochemistry (CHEM 07348 or BIOL 14348) as a prerequisite. As such, these prerequisites will largely limit this CUGS to those majoring in Biochemistry, Chemistry, Biological Sciences, Bioinformatics, Biophysics, Translational Biomedical Sciences, Molecular and Cellular Biology, Biomedical Engineering, and Chemical Engineering. Subash Jonnalagadda Department Head Science Hall 130C 856-256-5452 jonnalagadda@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

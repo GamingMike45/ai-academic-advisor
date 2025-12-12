@@ -1,0 +1,79 @@
+{
+    "name": "Graduate Certificate in Student Assistance Coordination",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7669&returnto=1028",
+    "content": {
+        "Graduate Certificate in Student Assistance Coordination": [
+            "Graduate Certificate in Student Assistance Coordination The Graduate Certificate in Student Assistance Coordination is intended for individuals who want to be certified as student assistance coordinators. A Student Assistance Coordinator provides in-school assessment, crisis intervention, and counseling and referral services to any student experiencing personal, family, or peer difficulties. Student Assistance Coordinator’s work with students, their families, and community resources in many New Jersey school districts to address substance abuse issues, social and emotional issues, and behavioral problems experienced by school-age children. The certificate may be earned on its own or it can be credited towards the Master of Arts in Counseling Educational Settings. Master of Arts in Counseling in Educational Settings students interested in obtaining the certificate are encouraged to contact the program coordinator for additional information."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COUN",
+                            "course_number": "26523",
+                            "title": "Counseling Interviewing Skills and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05502",
+                            "title": "Fundamentals of Drug and Alcohol Abuse and Dependency",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09512",
+                            "title": "Developmental Psychology of Alcohol and Drug Abuse",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26520",
+                            "title": "Design and Coordination of Developmental Counseling Programs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "03518",
+                            "title": "Psychological Evaluation and Counseling Services to Combat Alcohol and Drug Abuse",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDAM",
+                            "course_number": "27559",
+                            "title": "Law and Ethics for School Leadership",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26597",
+                            "title": "Intervention and Referral Services/School Teams and Community Resources",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COUN",
+                            "course_number": "26527",
+                            "title": "Practicum in Counseling in Educational Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 24 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 24 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 24 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The Graduate Certificate in Student Assistance Coordination is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Dr. Zalphia Wilson-Hill Herman D. James Hall wilson-hill@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

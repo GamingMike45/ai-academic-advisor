@@ -1,0 +1,79 @@
+{
+    "name": "Certificate of Undergraduate Study in Counterterrorism & Emergency Response Operations",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7131&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Counterterrorism & Emergency Response Operations": [
+            "Certificate of Undergraduate Study in Counterterrorism & Emergency Response Operations This 15 credit hour interdisciplinary Certificate of Undergraduate Study (CUGS) in Counterterrorism & Emergency Response Operations is designed to provide an understanding of the fundamental framework and principles which guide the response to terrorism activities. Specifically, the program analyzes the role and function of counterintelligence and the intelligence community. It will emphasize terrorist cultures, terrorist history and organization, terrorist capabilities, terrorist finance, and international money-laundering, threat assessment, intelligence operations, incident command systems, border security, emergency response, joint operations, surveillance and communications systems, cyberterrorism, weapons of mass destruction, counterterrorist operations, and applications to specific terrorist organizations and threats; the strengths and weaknesses of counterterrorist tools, including intelligence, diplomacy, law enforcement, and military force; the policy challenges in erecting security countermeasures and managing terrorist incidents; issues of civil liberties and morality in countering terrorism; the role of the public and the media; and proposals for revising U.S. counterterrorist programs."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05329",
+                            "title": "Intelligence, Policing, and Counterterrorism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05326",
+                            "title": "International Terrorism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "43420",
+                            "title": "Risk Analysis for Disaster Preparedness and Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00300",
+                            "title": "Bioterrorism and Weapons of Mass Destruction",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Choose one from the following: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00451",
+                            "title": "Counterterrorism and National Security Issues: Theory and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08490",
+                            "title": "Social Dynamics of Political Violence, Insurgency and Civil Unrest",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one from the following: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS, all courses must be passed with a minimum grade of C-. Appropriate course substitutions, with the approval of the CUGS advisor, for SOC 08491 and LAWJ 05326 can be made from the following curricula: Law & Justice Studies (LAWJ), Sociology (SOC), History (HIST), International Studies (INTS), Political Science (POLSCI). All other courses are required to earn the CUGS. Also note, DPEM 0420 and DPEM 00300 has DPEM 00101 as a prerequisite or enrollment by permission of the instructor. DeMond S. Miller Advisor Campbell Library 856.256.4500 ext 53517 millerd@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

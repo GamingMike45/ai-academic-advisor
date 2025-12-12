@@ -1,0 +1,229 @@
+{
+    "name": "Bachelor of Science in Chemical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7045&returnto=1028",
+    "content": {
+        "Bachelor of Science in Chemical Engineering": [
+            "Bachelor of Science in Chemical Engineering"
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01235",
+                            "title": "Mathematics for Engineering Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06100",
+                            "title": "Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "06101",
+                            "title": "Chemistry II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07200",
+                            "title": "Organic Chemistry I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "COMP",
+                            "course_number": "01111",
+                            "title": "College Composition I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01102",
+                            "title": "First-Year Engineering Clinic II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06201",
+                            "title": "Principles of Chemical Processes I",
+                            "credits": 2
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06202",
+                            "title": "Principles of Chemical Processes II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06203",
+                            "title": "Principles of Chemical Processes (can be taken in place of CHE 06201 and CHE 06202)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06241",
+                            "title": "Chemical Engineering Fluid Mechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06317",
+                            "title": "Chemical Engineering Technologies",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06307",
+                            "title": "Transport Phenomena",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06314",
+                            "title": "Separation Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06310",
+                            "title": "Chemical Engineering Thermodynamics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06315",
+                            "title": "Chemical Engineering Thermodynamics II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01303",
+                            "title": "Junior Engineering Clinic (must be taken twice for a total of 4 s.h.)",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06381",
+                            "title": "Chemical Engineering Materials",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06316",
+                            "title": "Chemical Reaction Engineering",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06385",
+                            "title": "Chemical Engineering Modeling",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06403",
+                            "title": "Unit Operations Experimental Design and Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06405",
+                            "title": "Process Dynamics and Control",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06401",
+                            "title": "Chemical Process Component Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06406",
+                            "title": "Chemical Plant Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06407",
+                            "title": "Chemical Process Safety",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses",
+                "ENGR 01101 - First-Year Engineering Clinic I-RS (This course also fulfills the Rowan Seminar requirement) Credits: 2",
+                "ENGR 01201 - Sophomore Engineering Clinic I * (This course also fulfills the Rowan Core Communicative Literacy requirement) Credits: 4",
+                "ENGR 01202 - Sophomore Engineering Clinic II * (This course also fulfills the Rowan Core Communicative Literacy requirement) Credits: 4",
+                "ENGR 01403 - Senior Engineering Clinic - WI (must be taken twice for a total of 4 s.h.) (This course also fulfills the Rowan Experience Writing Intensive requirement) Credits: 2",
+                "Approved Chemical Engineering Electives I, II, III Approved Advanced Chemistry Elective Rowan Core Electives in Artistic, Global, and Humanistic Literacies (courses may also be used to fulfill the Rowan Experience Broad-Based Literature requirement)"
+            ]
+        },
+        "Available Concentrations": [
+            "Available Concentrations The following concentratons are available Undergraduate Concentration in Biological Engineering Undergraduate Concentration in Materials"
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Kenneth Lau Department Head Henry M. Rowan Hall 856.256.5312 laukk@rowan.edu Kevin Dahm Undergraduate Program Chair Henry M. Rowan Hall 856.256.5318 dahm@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

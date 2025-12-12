@@ -1,0 +1,139 @@
+{
+    "name": "Certificate of Undergraduate Study in Sustainable Urbanism",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7287&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Sustainable Urbanism": [
+            "Certificate of Undergraduate Study in Sustainable Urbanism Two global imperatives make knowledge of sustainable urbanism a critical topic in the 21st century: first, the majority of the world’s population is now urban; and second, the cumulative effects of urban life are generating the most pressing global environmental problems facing humanity. Cities, in short, are both the cause of major environmental problems and the solution. With our population expected to reach 9.6 billion by 2050, humanity’s future is hinged upon our ability to make cities sustainable: the capacity to meet the needs of the present, without comprising the needs of future generations. To support humanity in the 21st century, we must re-think the processes of urban environments in regard to both their built form and social practices. This Certificate of Undergraduate Study (CUGS) emphasizes the social and place-based dimensions of sustainability, from issues of social equity to the role of communication technologies and aesthetics. Students in disciplines such as business, engineering, political science, psychology, communication, the natural sciences, and education will be exposed to key concepts, practices, and technologies in sustainability and their application to urban environments. This certificate in sustainable urbanism will position students from diverse disciplines for employment in the burgeoning green economy."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31280",
+                            "title": "Introduction to City Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course: 3 s.h."
+            ]
+        },
+        "Program Electives Bank: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENST",
+                            "course_number": "94102",
+                            "title": "Human Nature: Intro to Environmental and Sustainability Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94201",
+                            "title": "Sustainability Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94302",
+                            "title": "Technology and the Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94400",
+                            "title": "Environmental Impact Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16301",
+                            "title": "Natural Resources, Capitalism, and Society",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16304",
+                            "title": "Population Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16307",
+                            "title": "Transportation Planning and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16308",
+                            "title": "Sensing the Sustainable City",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16309",
+                            "title": "Smell Studio: Art, Nature, Place",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16312",
+                            "title": "Cultural Landscapes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16333",
+                            "title": "Suburbia: People, Place, and Politics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31387",
+                            "title": "Food Systems Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31389",
+                            "title": "Environmental / Sustainable Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31486",
+                            "title": "Community Planning, Engagement, and Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Electives Bank: 9 s.h. Students must take any three courses from the following list: 9 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Sustainable Urbanism, students must complete all courses required for the CUGS in Sustainable Urbanism with at least a 2.0 average. This CUGS is available to students not enrolled in the Community & Environmental Planning B. S. or Minor programs. Jen Kitson Coordinator Westby 209H 856.256.4817 kitson@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

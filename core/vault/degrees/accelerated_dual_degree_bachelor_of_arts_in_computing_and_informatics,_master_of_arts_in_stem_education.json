@@ -1,0 +1,64 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Computing & Informatics, Master of Arts in STEM Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=10867&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Computing & Informatics, Master of Arts in STEM Education": [
+            "Accelerated Dual Degree: Bachelor of Arts in Computing & Informatics, Master of Arts in STEM Education"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Computing & Informatics Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "STEM",
+                            "course_number": "60501",
+                            "title": "STEM: Teaching and Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60510",
+                            "title": "Teaching STEM in Diverse Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 21 s.h.": [
+            "Required MA Courses taken as a Graduate student: 21 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in STEM Education"
+        ],
+        "Total Required Credits for the Entire ADD Program: 141 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 141 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "name": "Minor in Management Information Systems",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6975&returnto=1028",
+    "content": {
+        "Minor in Management Information Systems": [
+            "Minor in Management Information Systems Information systems are an integral part of all organizations. In today’s digital era, technology is no longer just the purview of the IT function in an organization. Technology has cross-functional importance, and students in all business majors need to have knowledge of information systems and how they are used to support business operations and achieve organizational strategy. Students in the minor will take four required courses and choose two courses from a variety of electives depending on their area of interest."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02234",
+                            "title": "Management Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02338",
+                            "title": "Design of Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02322",
+                            "title": "Principles of System Design",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Electives: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02315",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "01211",
+                            "title": "Principles of Information Security",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02325",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02339",
+                            "title": "Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02327",
+                            "title": "Network Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02332",
+                            "title": "E-Business - Information Systems Perspectives",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02301",
+                            "title": "Emerging Technologies I",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02302",
+                            "title": "Emerging Technologies II",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02331",
+                            "title": "Data Mining for Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02428",
+                            "title": "Business Web Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03320",
+                            "title": "Accounting Information Systems",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 6 s.h. Select two (6 s.h.) courses from the list below:"
+            ]
+        },
+        "Total Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits for the Program: 18 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

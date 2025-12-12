@@ -1,0 +1,156 @@
+{
+    "name": "Master of Science in Medical Laboratory Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7518&returnto=1028",
+    "content": {
+        "Master of Science in Medical Laboratory Science": [
+            "Master of Science in Medical Laboratory Science The Master of Science in Medical Laboratory Science will provide advanced scientific, analytical, and administrative training preparing graduates for leadership careers in Medical Laboratory Science. Students who complete this degree will be well equipped for managerial positions in a variety of clinical settings."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 23 - 25 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03502",
+                            "title": "Practicum in Clinical Lab Science",
+                            "credits": 6
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03503",
+                            "title": "Lab Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05502",
+                            "title": "Clinical Laboratory Science Seminar",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07593",
+                            "title": "Regulatory Affairs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09500",
+                            "title": "Advanced Clinical Chemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "09502",
+                            "title": "Quality Assurance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "04501",
+                            "title": "Clinical Statistics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 23 - 25 s.h.",
+                "CHEM 09501 - Advanced Clinical Chemistry Laboratory (optional) Credits: 1"
+            ]
+        },
+        "Restricted Electives: 9 - 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MBS",
+                            "course_number": "00603",
+                            "title": "Immunology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01538",
+                            "title": "Graduate Immunology",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03501",
+                            "title": "Advanced Immunohematology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MBS",
+                            "course_number": "00617",
+                            "title": "Immunohematology",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "11507",
+                            "title": "Advanced Molecular Microbiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07594",
+                            "title": "Good Laboratory Practice (GLP)/Good Manufacturing Practice (GMP) Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "INTR",
+                            "course_number": "06502",
+                            "title": "Responsible Conduct, Rigor, and Reproducibility in Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00611",
+                            "title": "Histology I: Basic Tissue Types",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MHP",
+                            "course_number": "00613",
+                            "title": "Histology III: Organ Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "03500",
+                            "title": "Advanced Hematology",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Restricted Electives: 9 - 12 s.h. Choose at least three of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 32 - 37 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 32 - 37 s.h. Graduation/Exit, Benchmark, and/or Thesis Requirements Conferral of the master’s degree will occur after successful completion of all required courses and elective credits. Course grade and overall GPA requirements described below. Minimum Required Grades and Cumulative GPA Graduation will require completion of all coursework with a minimum 3.0 GPA. Program Coordinator/Academic Advisor Grace Farber, PhD 856.256.4344 farber@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

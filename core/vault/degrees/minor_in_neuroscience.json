@@ -1,0 +1,218 @@
+{
+    "name": "Minor in Neuroscience",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7254&returnto=1028",
+    "content": {
+        "Minor in Neuroscience": {
+            "requirements": [],
+            "notes": [
+                "Minor in Neuroscience This minor (M261) is designed for students interested in the study of how the brain and the rest of the nervous system function and the different effects it can have on the body and/or mind. Within this minor, students have the ability to focus primarily on biologically-oriented fields such as molecular, structural, and chemical neuroscience, which focuses on the physical structures and neurotransmitters that the nervous system uses to communicate. Students also have the option to choose a more psychology-oriented direction that covers how the brain and nervous system influence feelings, thoughts, behaviors, and how an organism processes information. Students interested in the Minor in Neuroscience should contact the Program Coordinator in the Fall of their Sophomore year and take PSY 10315 - Physiological Psychology during their sophomore year."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Requirements": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01106",
+                            "title": "Introduction to Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01101",
+                            "title": "Foundations in Biology for Biomedical Sciences I",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01203",
+                            "title": "Introduction to Cell Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01102",
+                            "title": "Foundations in Biology for Biomedical Sciences II",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "10315",
+                            "title": "Physiological Psychology (grade of B+ or higher)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10480",
+                            "title": "Cognitive Neuroscience (grade of B+ or higher)",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MCB",
+                            "course_number": "10481",
+                            "title": "Cellular and Molecular Neuroscience (grade of B+ or higher)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Requirements"
+            ]
+        },
+        "Upper-level Electives (6-8 credits)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01430",
+                            "title": "Advanced Cell Biology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01360",
+                            "title": "Animal Behavior",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01465",
+                            "title": "Animal Histology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01475",
+                            "title": "Biology Lab/Field Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "07301",
+                            "title": "Comparative Vertebrate Anatomy",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10401",
+                            "title": "Animal Physiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "22335",
+                            "title": "Advanced Genetics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "05355",
+                            "title": "Bioinformatics: Biological Applications",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "07490",
+                            "title": "General Aspects of Pharmacology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "01334",
+                            "title": "Medical Biochemistry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MCB",
+                            "course_number": "10345",
+                            "title": "Human Physiology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01326",
+                            "title": "Perception",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01422",
+                            "title": "Field Experiences in Psychology",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01426",
+                            "title": "Research Experience in Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "02310",
+                            "title": "Learning and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10375",
+                            "title": "Drugs, the Brain, and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10415",
+                            "title": "Neuroplasticity and Learning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10425",
+                            "title": "Hormones, the Brain, and Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "10610",
+                            "title": "Psychopharmacology and Biological Bases of Behavior (with Senior Priviledge)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper-level Electives (6-8 credits) Two upper-level electives chosen from the following list in Biological Sciences and Psychology (at least 1 from outside Psychology)",
+                "Or other approved coursework"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: Gerald Hough Advisor Robinson Hall 856.256.4500 x53404 hough@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

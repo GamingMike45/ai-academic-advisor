@@ -1,0 +1,175 @@
+{
+    "name": "Doctor of Philosophy in Engineering Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7622&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Engineering Education": [
+            "Doctor of Philosophy in Engineering Education The Ph.D. in Engineering Education program is a terminal degree program that is designed to meet the changing needs of researchers, scholars, and scientists in academia, industry, and the government with an interest in engineering education. The primary goal of this program is therefore to prepare students for careers in research and/or academics by providing an environment that closely reflects the realities and expectations encountered by today’s academicians, professional scientists, and research engineers. The program offers a highly flexible inter and multidisciplinary curricular structure, allowing specialization in any (or multiple) of the traditional or emerging areas of Engineering Education. Graduates emerge with a strong foundation in research methodologies, technical expertise, and the ability to apply their knowledge to real-world scenarios, making them valuable assets to academic institutions, industry organizations, and government agencies. The Ph.D. in Engineering Education has the following program goals: Candidates will obtain a solid foundation of engineering education research methods and apply these methods to addressing research questions relevant to real-world engineering problems Students will learn the skills of oral technical communications and effective teaching for disseminating and imparting knowledge both in academic and non-academic settings Students will learn the skills of professional writing for disseminating engineering education knowledge, and preparing effective grant applications for seeking external funding from a variety of sponsors that fund Engineering Education Research Students will learn how to identify unsolved problems in engineering education, formulate research questions, create a study using appropriate education research methods, analyze results and draw conclusions"
+        ],
+        "Program Requirements": [
+            "Program Requirements The Rowan University Doctor of Philosophy in Engineering Education program requires the completion of coursework, research requirements, dissertation, and dissertation defense. For a student who possesses a bachelor’s degree, a minimum of 72 semester hours of graduate-level coursework will be required. For a student who possesses a master’s degree in a related field, a minimum of 42 semester hours (credits) of graduate-level coursework beyond the master’s degree will be required. Up to 30 of the credits earned in pursuit of the master’s degree may be transferable. Students who do not possess a master’s degree in engineering are required to complete 30 semester hours of engineering disciplinary graduate level coursework. As part of meeting this requirement, students are strongly encouraged to complete a disciplinary MS degree in one of the other engineering departments at Rowan"
+        ],
+        "Required Engineering Education Core Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "XEED",
+                            "course_number": "01650",
+                            "title": "Engineering Education Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "XEED",
+                            "course_number": "01660",
+                            "title": "Research Design in Engineering Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90812",
+                            "title": "Qualitative Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "XEED",
+                            "course_number": "01601",
+                            "title": "Effective Teaching in Academic, Corporate and Government Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90810",
+                            "title": "Quantitative Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "XEED",
+                            "course_number": "01602",
+                            "title": "Experiential Engineering Education Graduate Research Seminar Credits: 0 TO 1",
+                            "credits": null
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Engineering Education Core Courses: 15 s.h."
+            ]
+        },
+        "Approved Graduate Engineering Education Elective Courses 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90710",
+                            "title": "Power and Privilege: The Social Construction of Difference",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90800",
+                            "title": "Current Issues and Research in Access, Success, and Equity in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90811",
+                            "title": "Multivariate Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90814",
+                            "title": "Advanced Qualitative Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90816",
+                            "title": "Mixed Methods Research Methods in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90833",
+                            "title": "Public Policy and Analysis in Postsecondary Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90835",
+                            "title": "Theoretical and Conceptual Frameworks in Higher Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDST",
+                            "course_number": "24504",
+                            "title": "Action Research in Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33550",
+                            "title": "Learning through Gamification",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDTC",
+                            "course_number": "33580",
+                            "title": "Introduction to Educational Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HGS",
+                            "course_number": "70507",
+                            "title": "Introduction to Holocaust and Genocide Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HGS",
+                            "course_number": "70527",
+                            "title": "Colloquium in Holocaust and Genocide Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HGS",
+                            "course_number": "70537",
+                            "title": "Holocaust and Genocide Education Program Evaluation and Creation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01591",
+                            "title": "Independent Graduate Study in Engineering",
+                            "credits": "0 to 4"
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06617",
+                            "title": "Diversity in Higher Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIED",
+                            "course_number": "06618",
+                            "title": "Procedures and Evaluation in Research",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Approved Graduate Engineering Education Elective Courses 6 s.h. Engineering Education Electives (minimum 6 s.h.). Students will take a minimum of 6 s.h. of engineering education electives. The following list represents a broad range of options that can be taken with the approval of the student’s dissertation advisor and graduate coordinator. Courses outside of this list may be taken towards the minimum 6 s.h. with approval of the Experiential Engineering Education graduate committee and the student’s advisor. Additional engineering education electives may be selected (beyond 6 s.h.) based on the discretion of the PhD advisor in order to obtain more specialization in the desired field of study."
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.*": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h.* *Minimum of 72 credits of graduate-level work beyond a bachelor’s degree or 42 credits of graduate-level work beyond a master’s degree in a related field are required. Of these 72 total credits, 42 must come from the following: Engineering Education Core Courses (15 credits) Engineering Education Elective Courses (minimum 6 credits) Doctoral Research (at least 12 credits up to a maximum of 21 credits) At least 21 course credits must be obtained from graduate only classes (600-level classes, or 500-level classes with no corresponding 400-level equivalent offered at the same time). A maximum of 21 credits will come from “Research.” Up to 9 Research credits may come from ENGR 01599. Students who complete their Master’s degree with thesis elsewhere may be considered to have taken 9 credits of ENGR 01599. All remaining Research credits must come from ENGR 01799. Graduation/Exit/Thesis Requirements Complete a minimum of 72 credits of graduate-level work beyond a bachelor’s degree OR a minimum of 42 credits of graduate-level work beyond a master’s degree Students must complete a minimum of 30 credits of engineering disciplinary graduate-level coursework. As part of meeting these requirements, students are strongly encouraged to complete a disciplinary MS degree in one of the other engineering departments at Rowan. And at least 21 additional credits must come from graduate-only courses (500-level courses with no concurrent 400-level students in class or 600-level courses) as stipulated in the Engineering Education coursework list. And at least 12 additional credits need to be dissertation research OR a minimum of 42 credits of graduate-level work beyond a Master’s degree (assuming that all MS degree credits are relevant to a graduate-level engineering program). Completion of all the University’s standard Ethical & Responsible Conduct of Research training (including human subject training when applicable) Regular attendance and participation in (0-credit) graduate seminars Successful completion of a Ph.D. Qualifier examination* Successful completion of a Ph.D. Candidacy (proposal) examination* Successful completion of the Career Preparation & Readiness Experience that consists of teaching, grant writing, and publishing* Successful completion of a Ph.D. dissertation defense* Acceptance of the Ph.D. dissertation by the School of Graduate Studies* *The specific details, nature and scope of these examinations (e.g., format of the exam) and requirements (e.g. number of journal publications, conference publications, patents, number of teaching assignments) will be determined by the student’s Doctor of Philosophy in Engineering committee and/or department policies for student’s home department as aligned with the Henry M. Rowan College of Engineering policies. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Engineering Education is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator Contact Information Experiential Engineering Education Kaitlin Mallouk Engineering Hall 856.256.5387 ExEEdGradCoordinator@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

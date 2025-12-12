@@ -1,0 +1,94 @@
+{
+    "name": "Certificate of Advanced Graduate Study in Adult Gerontology Acute Care Nurse Practitioner",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7572&returnto=1028",
+    "content": {
+        "Certificate of Advanced Graduate Study in Adult Gerontology Acute Care Nurse Practitioner": [
+            "Certificate of Advanced Graduate Study in Adult Gerontology Acute Care Nurse Practitioner The Certificate of Advanced Graduate Study (CAGS) in Adult Gerontology Acute Care Nurse Practitioner is designed to allow a registered nurse with at least a Master’s of Science in Nursing (MSN) to obtain a nurse practitioner certification by completing the required coursework to prepare for the certification exam."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": [
+            "Required Courses:"
+        ],
+        "Nurse Practitioner Core Courses: 4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05516",
+                            "title": "Epidemiology Health Promotion and Disease Management",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05517",
+                            "title": "Nurse Practitioner Role: History, Practice Regulations, Reimbursement and Ethics",
+                            "credits": 2
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Nurse Practitioner Core Courses: 4 s.h."
+            ]
+        },
+        "MSN Core Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "05538",
+                            "title": "Adult Acute and Chronic Disease Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05533",
+                            "title": "AGACNP Adult Medicine Clinical I (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05534",
+                            "title": "Evidence Based Clinical Care for Adult Gerontologic Acute Care Nurse Practitioner I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05535",
+                            "title": "AGACNP Adult Medicine Clinical II (250 hours)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05536",
+                            "title": "Evidence Based Clinical Care for Adult Gerontological Acute Care Nurse Practitioner II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05537",
+                            "title": "AGACNP Adult Medicine Clinical III (250 hours)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "MSN Core Courses: 18 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 22 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 22 s.h. Foundation Courses A GAP analysis will be performed on every applicant’s MSN transcript. The coordinator of the particular concentration will determine which CORE courses are needed prior to entering the concentration. Graduation/Exit, Benchmark, and/or Thesis Requirements Exit Survey is required. Minimum Required Grades and Cumulative GPA The Certificate of Advanced Graduate Study in Adult Gerontology Acute Care Nurse Practitioner is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Dr. Melissa Mordecai 856.256.5176 mordecai@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "name": "Doctor of Philosophy in Chemical Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7606&returnto=1028",
+    "content": {
+        "Doctor of Philosophy in Chemical Engineering": [
+            "Doctor of Philosophy in Chemical Engineering The Ph.D. in Chemical Engineering is a doctoral degree program specifically designed to prepare students for advanced and specialized careers in research and development in industry, the government, and academia. Students partner with our faculty to explore new ideas, create new knowledge, and address societal challenges by applying theory and experimentation in our state-of-the-art facilities. This program offers research opportunities in a diverse range of focus areas that include: additive manufacturing; artificial intelligence; bioengineering; bio-based processing; catalysis; crystallization; experimental design and data analysis; machine learning; pharmaceutical engineering; polymers and composites; process design and optimization; reaction engineering; renewable energy; sustainability; and tissue engineering."
+        ],
+        "Program Requirements": [
+            "Program Requirements The Rowan University Doctor of Philosophy in Chemical Engineering program requires the completion of coursework, teaching assistantships, research requirements, qualifying and candidacy examinations, dissertation, and dissertation defense. For a student who possesses a bachelor’s degree, a minimum of 72 semester hours of graduate-level coursework will be required. For a student who possesses a master’s degree in a related field, a minimum of 42 semester hours (credits) of graduate-level coursework beyond the master’s degree will be required. Up to 30 of the credits earned in pursuit of the master’s degree may be transferable with advisor approval. Timeline As students will enter the program at many different points, some with a BS in Chemical Engineering, some with an MS in Chemical Engineering, and others with a BS or MS in another related field, it is not practical to provide a common timeline for all incoming students. However, there are some commonalities: Chemical Engineering Core Courses: should be completed by the end of the second year Ethical & Responsible Conduct of Research and Laboratory Safety training must be completed in the first semester, prior to beginning any laboratory work. Chemical Engineering Graduate Seminar - every semester not counting summers PhD Dissertation defense - within 10 semesters not counting summers."
+        ],
+        "Required Core Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06514",
+                            "title": "Transport Phenomena for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06515",
+                            "title": "Advanced Reactor Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06586",
+                            "title": "Advanced Engineering Thermodynamics.",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses: 9 s.h."
+            ]
+        },
+        "Graduate Math Requirements: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Graduate Math Requirements: 3 s.h. Select one of the following:",
+                "Other 500-level advanced mathematics course taught by the Department of Mathematics College of Engineering course with approval of dissertation advisor and ChE Graduate program advisor."
+            ]
+        },
+        "Graduate Writing Requirements: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06519",
+                            "title": "Research Methods and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECE",
+                            "course_number": "09702",
+                            "title": "Strategic Technical Writing and Winning Grant Proposals",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Graduate Writing Requirements: 3 s.h. Select one of the following:"
+            ]
+        },
+        "Graduate Technical Electives: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06510",
+                            "title": "Strategic Engineering Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Graduate Technical Electives: 15 s.h. Select five of the following:",
+                "Any 500-level Chemical Engineering course not included in the Chemical Engineering Core Any 500-level course taught in the Henry M. Rowan College of Engineering Any 500-level course taught in the College of Science & Mathematics Any 500-level course taught in the School of Earth & Environment Any graduate level course taught in the School of Osteopathic Medicine, the Cooper Medical School of Rowan University, or the Graduate School of Biomedical Science"
+            ]
+        },
+        "Doctoral Research: 42 s.h.": [
+            "Doctoral Research: 42 s.h. Research that culminates into the submission of a written dissertation approved and signed by all committee members and accepted by the graduate school, and the passing of an oral dissertation defense. Generation of scholarly works including peer-reviewed journal papers, conference presentations and proceedings and grant proposals. Minimum requirements will be established by the student’s dissertation committee."
+        ],
+        "Other Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CHE",
+                            "course_number": "06501",
+                            "title": "Chemical Engineering Seminar",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Other Requirements Full compliance with requirements for training in safety, responsible conduct of research, teaching effectiveness, and any others required by Rowan University or the Department of Chemical Engineering. Full participation in the Chemical Engineering Seminar by enrolling each Fall and Spring semester in the following:"
+            ]
+        },
+        "Total Required Credits for the Program: 72 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 72 s.h. Graduation/Exit/Thesis Requirements Completion of a minimum of 72 credits of graduate level work beyond bachelor’s degree OR minimum of 42 credits of graduate level work beyond master’s degree Completion of all the University’s standard training required by the University and Department including Ethical & Responsible Conduct of Research (including human/animal subject training when applicable) and Laboratory Safety Regular enrollment, attendance, and participation in the Chemical Engineering Seminar (0-credit) Successful completion of a Ph.D. Qualifier examination* Successful completion of a Ph.D. Candidacy (Proposal) examination* Successful completion of the Career Preparation & Readiness Experience that consists of teaching, grant writing, publishing and service* Successful completion of a Ph.D. dissertation defense* Successful completion of a Ph.D. dissertation* *The specific details, nature and scope of these examinations (e.g., format of the exam) and requirements (e.g. number of journal publications, conference publications, patents, number of teaching assignments) will be determined by the student’s dissertation committee and/or Department policies as aligned with the Henry M. Rowan College of Engineering policies. Minimum Required Grades and Cumulative GPA The Doctor of Philosophy in Chemical Engineering is a Category 2 program. Under this program, the student must earn no grades lower than a B- and must achieve a cumulative grade point average (GPA) of at least 3.0 out of 4.0. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Graduate Program Chair Kirti Yenkie Henry M. Rowan Hall 856.256.5375 yenkie@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

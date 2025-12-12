@@ -1,0 +1,473 @@
+{
+    "name": "Bachelor of Arts in Law & Justice Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7099&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Law & Justice Studies": [
+            "Bachelor of Arts in Law & Justice Studies Students are required to earn a C- or better in all Law & Justice Studies major courses. Rowan students majoring in fields other than Law & Justice Studies may elect to take courses in the department either as part of their general education requirements, as recommended requirements, as free electives, or as a minor in Law & Justice Studies."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07100",
+                            "title": "Introduction to Government and Politics",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09150",
+                            "title": "Introduction to Ethics (Satisfies Humanistic Literacy (HUML) Requirement)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09241",
+                            "title": "Social and Political Philosophy - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PSY",
+                            "course_number": "01301",
+                            "title": "Psychology of Scientific Thinking",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department.",
+                "SOC 08221 - Social Problems (Satisfies Global Literacy (GLBL) Requirement) Credits: 3",
+                "POSC 07110 - American Government (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "PHIL 09120 - Introduction to Philosophy (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "PSY 01107 - Essentials of Psychology (Satisfies Humanistic Literacy (HUML) Requirement) Credits: 3",
+                "STAT 02102 - Statistical Literacy (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 3"
+            ]
+        },
+        "Required Core Courses: 24 s.h.": [
+            "Required Core Courses: 24 s.h."
+        ],
+        "One of the following: (3 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05469",
+                            "title": "Seminar in Law/Justice - WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05467",
+                            "title": "Seminar in Law-WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05461",
+                            "title": "Seminar in Corrections-WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05468",
+                            "title": "Seminar in Police Science - WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05465",
+                            "title": "Seminar in Social Justice-WI (Satisfies Writing Intensive (WI) Attribute)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "One of the following: (3 s.h.)"
+            ]
+        },
+        "All of the following: (18 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05175",
+                            "title": "Survey of Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05255",
+                            "title": "Criminal Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05356",
+                            "title": "Criminal Justice Internship I",
+                            "credits": "3 to 6"
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05369",
+                            "title": "Theories of Crime and Criminality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05380",
+                            "title": "Criminal Justice Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05401",
+                            "title": "Law and Human Rights",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "All of the following: (18 s.h.)"
+            ]
+        },
+        "Law & Justice Electives: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05120",
+                            "title": "Introduction to Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05285",
+                            "title": "Criminal Investigation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05290",
+                            "title": "Forensic Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05287",
+                            "title": "Police Use of Force",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05364",
+                            "title": "Critical Issues in American Law Enforcement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05381",
+                            "title": "Crime Mapping and Crime Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05360",
+                            "title": "Organized Crime",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05382",
+                            "title": "Crime Mapping and Crime Analysis II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05276",
+                            "title": "Parole, Probation and Community Corrections",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05324",
+                            "title": "Sentencing and the Rights of the Convicted",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05337",
+                            "title": "Treatment of the Offender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05343",
+                            "title": "Offender Re-entry, Reintegration and Recidivism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05342",
+                            "title": "Counseling and Guidance of the Offender",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05395",
+                            "title": "The Incarceration Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05305",
+                            "title": "Law and Evidence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05310",
+                            "title": "Criminal Jurisprudence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05312",
+                            "title": "Criminal Procedure II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05320",
+                            "title": "Civil Aspects of Law Enforcement",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05335",
+                            "title": "Criminal Procedure I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05205",
+                            "title": "Minorities, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05210",
+                            "title": "Restorative Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05220",
+                            "title": "Victimology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05274",
+                            "title": "Criminal Justice and Community Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05315",
+                            "title": "Criminal Justice and Social Conflict",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05330",
+                            "title": "Problems In World Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05346",
+                            "title": "Women, Crime and Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05379",
+                            "title": "The “Political Prisoner”",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05280",
+                            "title": "Homeland Security",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05323",
+                            "title": "Maritime Crime and Criminality",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05325",
+                            "title": "Comparative And International Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05329",
+                            "title": "Intelligence, Policing, and Counterterrorism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05326",
+                            "title": "International Terrorism",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05327",
+                            "title": "Terrorism in the U.S.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05225",
+                            "title": "Media and Crime",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05229",
+                            "title": "Introduction to Gangs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05250",
+                            "title": "The Scholarship of Criminal Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05288",
+                            "title": "Casino Crime",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05295",
+                            "title": "Religion, Crime and Punishment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05306",
+                            "title": "Cannabis Legalization and Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05322",
+                            "title": "Drugs and Crime in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05350",
+                            "title": "Mass Murder",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05357",
+                            "title": "Criminal Justice Internship II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05361",
+                            "title": "Introduction to Juvenile Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05367",
+                            "title": "Theories Of Justice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05392",
+                            "title": "Criminal Justice Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "LAWJ",
+                            "course_number": "05399",
+                            "title": "Crime Prevention Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Law & Justice Electives: 12 s.h. Take four of the following courses. (Students can take ANY four elective courses from any category or multiple categories.)",
+                "Policing",
+                "Corrections",
+                "Courts/Law",
+                "Social Justice",
+                "Terrorism, Homeland Security, and Global Issues in Criminal Justice",
+                "Additional Law & Justice Courses",
+                "LAWJ 05415 - Selected Topics in Criminal Justice Credits: 3"
+            ]
+        },
+        "Available Concentration": [
+            "Available Concentration This concentration is only available to Law & Justice Majors. Undergraduate Concentration in Community Corrections"
+        ],
+        "Free Electives: 57 s.h.": [
+            "Free Electives: 57 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Total semester hours in program: 120 s.h.": [
+            "Total semester hours in program: 120 s.h.",
+            "Notes:"
+        ]
+    }
+}

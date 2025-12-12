@@ -1,0 +1,427 @@
+{
+    "name": "Minor in Geographic Inquires into Global Issues",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7281&returnto=1028",
+    "content": {
+        "Minor in Geographic Inquires into Global Issues": [
+            "Minor in Geographic Inquires into Global Issues"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: Must take:",
+                "Select any two courses from the Geographic Studies Bank listed below (note: courses selected cannot double count for fulfilling geography core requirements) Select any two courses from the Regional Bank listed below Select any one other Geography course in consultation with the academic advisor."
+            ]
+        },
+        "Note:": [
+            "Note: Note: (A study abroad experience, field course, or internship related to global issues is strongly recommended and can be used to fulfill the above requirements with prior approval, but is not required at this time. Foreign Language courses are also highly recommended for this minor.)"
+        ],
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. For information related to this program, please contact: Charles McGlynn, PhD 856.256.4811 mcglynn@rowan.edu"
+            ]
+        },
+        "Geography, Planning, & Sustainability Course Banks": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16100",
+                            "title": "Earth, People, and the Environment (also falls under Geosciences Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography (also falls under Regional Geography Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16240",
+                            "title": "US and Canada (also falls under Regional Geography Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16290",
+                            "title": "History and Methods of Modern Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16301",
+                            "title": "Natural Resources, Capitalism, and Society (also falls under Planning Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16303",
+                            "title": "Political Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16304",
+                            "title": "Population Geography (also falls under Planning Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16312",
+                            "title": "Cultural Landscapes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16490",
+                            "title": "Undergraduate Research Seminar in Geography (Senior Seminar) - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16491",
+                            "title": "Independent Study in Geography",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16591",
+                            "title": "Independent Study in Geography",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16241",
+                            "title": "Geography of New Jersey (also falls under Planning Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16342",
+                            "title": "Geography of Europe",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16343",
+                            "title": "Geography of Asia",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16344",
+                            "title": "Geography of Latin America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16345",
+                            "title": "Geography of Africa",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16346",
+                            "title": "Geography of Russia and its Neighbors",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16130",
+                            "title": "Earth Sciences Laboratory I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16331",
+                            "title": "Geography of the National Parks",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16334",
+                            "title": "The Geography of Natural Disasters",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16370",
+                            "title": "Drones, Planes, and Satellites (also falls under Geospatial Techniques Bank and Planning Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16131",
+                            "title": "Principles of Earth Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16133",
+                            "title": "Meteorology",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science (also falls under Planning Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16261",
+                            "title": "Cartography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16350",
+                            "title": "Quantitative and Qualitative Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16360",
+                            "title": "Applications of Geographic Information Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16361",
+                            "title": "Geovisualization (also falls under Planning Bank and Sustainable Built Environments Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16365",
+                            "title": "Geospatial Measurement and Environmental Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16375",
+                            "title": "Remote Sensing of the Environment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16462",
+                            "title": "Web-Based GIS Mapping",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16565",
+                            "title": "Applications of Geographic Information Systems (GIS)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16308",
+                            "title": "Sensing the Sustainable City",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31280",
+                            "title": "Introduction to City Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31380",
+                            "title": "Planning History, Theory, and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31383",
+                            "title": "Metropolitan/Regional Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31384",
+                            "title": "Water Resources Planning (also falls under Sustainable Built Environments Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31386",
+                            "title": "Land Use and Conservation (also falls under Sustainable Built Environments Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31385",
+                            "title": "New Jersey Applied Planning Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31387",
+                            "title": "Food Systems Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31389",
+                            "title": "Environmental / Sustainable Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31486",
+                            "title": "Community Planning, Engagement, and Design (also falls under Sustainable Built Environments Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31495",
+                            "title": "Planning Studio-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16302",
+                            "title": "Urban Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16307",
+                            "title": "Transportation Planning and Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94400",
+                            "title": "Environmental Impact Assessment (also falls under Environmental Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94101",
+                            "title": "Planet in Peril: Environmental Science in the 21st Century",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94102",
+                            "title": "Human Nature: Intro to Environmental and Sustainability Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94202",
+                            "title": "Environmental Science Research Methods and Data Analysis",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94301",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94302",
+                            "title": "Technology and the Environment (also falls under Sustainable Built Environments Bank)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENST",
+                            "course_number": "94401",
+                            "title": "Senior Seminar in Environmental and Sustainability Studies-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16390",
+                            "title": "Geography Research Clinic/Studio",
+                            "credits": "1 to 6"
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08311",
+                            "title": "Environmental Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08312",
+                            "title": "Environmental Engineering II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08342",
+                            "title": "Water Resources Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08412",
+                            "title": "Environmental Treatment Process Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08432",
+                            "title": "Pollutant Fate and Transport Principles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08422",
+                            "title": "Site Remediation Engineering Principles",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Geography, Planning, & Sustainability Course Banks Below is a list of Geography, Planning & Sustainability course banks. Consult with advisor to choose electives.",
+                "Geographic Studies Bank",
+                "GEOG 16250 - Selected Topics in Geography and Environment Credits: 1 to 3",
+                "Regional Geography Bank",
+                "Geosciences Bank",
+                "Geospatial Techniques Bank",
+                "Planning Bank",
+                "Environmental Bank",
+                "Sustainable Built Environments Bank",
+                "Notes:"
+            ]
+        }
+    }
+}

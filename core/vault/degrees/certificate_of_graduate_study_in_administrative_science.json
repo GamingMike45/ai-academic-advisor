@@ -1,0 +1,72 @@
+{
+    "name": "Certificate of Graduate Study in Administrative Science",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7594&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Administrative Science": [
+            "Certificate of Graduate Study in Administrative Science"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MPS",
+                            "course_number": "22512",
+                            "title": "Complex Organization Dynamics: Leadership and Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "DPEM",
+                            "course_number": "00692",
+                            "title": "Labor Relations and Collective Bargaining",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MPS",
+                            "course_number": "22510",
+                            "title": "Diversity and Labor Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22511",
+                            "title": "Organizational Decision Making and Strategic Planning",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22513",
+                            "title": "Personnel Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MPS",
+                            "course_number": "22514",
+                            "title": "Non-Profit Organization Development and Management",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 15 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. Foundation Courses Graduation/Exit, Benchmark, and Thesis Requirements Minimum Required Grades and Cumulative GPA For details regarding satisfactory academic progress and graduation requirements, please visit University Policies. Advisor Dennis Barrera 856.256.5582 barrera@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

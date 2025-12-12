@@ -1,0 +1,195 @@
+{
+    "name": "Master of Arts in Equity, Access & Success in Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7638&returnto=1028",
+    "content": {
+        "Master of Arts in Equity, Access & Success in Education": [
+            "Master of Arts in Equity, Access & Success in Education The objective of Rowan University’s Master of Arts (M.A.) in Equity, Access, & Success in Education is to prepare urban educators, community organizers, policymakers, school leaders, and youth-focused change agents to understand the contradictions of current school systems and meaningfully address the educational and broader socioeconomic disparities that many communities too often face. The program meets its primary objective through a focus on students understanding and applying a range of critical perspectives to study urban education and communities including from historical, legal, sociological, and political economic lenses. There are no certifications attached to the program. The program culminates in a master’s degree."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90510",
+                            "title": "Power and Privilege: The Social Construction of Difference",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90512",
+                            "title": "Examining Intersectionality in Critical Theories of Race, Class, Gender, Sexuality and Citizenship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90513",
+                            "title": "History of Urban Education and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90514",
+                            "title": "Education Reform in the US: Theories of Change",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students must choose 12 s.h. from the bank of courses."
+            ]
+        },
+        "Curriculum & Pedagogy Concentration Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90530",
+                            "title": "Curriculum Theories in Urban Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90532",
+                            "title": "Working with Families and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90533",
+                            "title": "Critical Pedagogy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90534",
+                            "title": "Disability Studies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Curriculum & Pedagogy Concentration Courses: 12 s.h. Students must choose 12 s.h. from the bank of courses.",
+                "CASE 90531 - Critical Consciousness: Sharing Power and Voice with Students Credits: 3"
+            ]
+        },
+        "English as a Second Language Concentration Courses with Certification: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BLED",
+                            "course_number": "40510",
+                            "title": "Issues of Language and Cultural Diversity in ESL/Bilingual Programs",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40512",
+                            "title": "Linguistics and Second Language Acquisition for Teaching Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40520",
+                            "title": "Planning, Teaching, and Assessment in ESL Classrooms",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BLED",
+                            "course_number": "40522",
+                            "title": "Integrating Language and Content in the ESL/Bilingual Education Classroom",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "English as a Second Language Concentration Courses with Certification: 15 s.h.",
+                "BLED 40515 - Understanding Immigrant-Origin Students: Language, Culture, and Mobility Credits: 3"
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90550",
+                            "title": "Urban Education and Community Studies Special Topics",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90551",
+                            "title": "Artistic Expression in Action: Building Stronger Communities Through Fine Arts Outreach",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h."
+            ]
+        },
+        "Research Course: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90520",
+                            "title": "Participatory Research Methods in Context",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90521",
+                            "title": "Ethnography in Urban Settings",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Research Course: 6 s.h. Students must choose 6 s.h. from the bank of courses."
+            ]
+        },
+        "Thesis Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90524",
+                            "title": "Capstone Thesis Project",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Thesis Courses: 3 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 39-42 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 39-42 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Satisfy all course requirements as dictated by the academic department. Earn an official cumulative GPA of 3.0 on Rowan’s 4.0 scale. Satisfy program exit project as outlined by the academic department. Any other requirements for graduation from Rowan University. Minimum Required Grades and Cumulative GPA The Master of Arts in Urban Education & Community Studies is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator/Advisor Contact Information Sherry Knight Herman D. James Hall 856.256.4500 x53811 knightse@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

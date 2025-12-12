@@ -1,0 +1,127 @@
+{
+    "name": "Certificate of Undergraduate Study in Business Analytics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6968&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Business Analytics": [
+            "Certificate of Undergraduate Study in Business Analytics The Certificate of Undergraduate Study (CUGS) in Business Analytics provides a sequence of courses that combines Computer Science topics (such as information visualization and data mining) with Business topics (such as decision-making tools for managers and visual business intelligence), enabling students to harness the power of information technology to solve today’s complex business problems."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06407",
+                            "title": "Business Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course: 3 s.h."
+            ]
+        },
+        "Electives: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ACC",
+                            "course_number": "03301",
+                            "title": "Accounting Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ACC",
+                            "course_number": "03411",
+                            "title": "Advanced Auditing and Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "02370",
+                            "title": "Introduction to Information Visualization",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06311",
+                            "title": "Foundations of Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06350",
+                            "title": "Analytics for Quality Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06408",
+                            "title": "Visual Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02331",
+                            "title": "Data Mining for Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02338",
+                            "title": "Design of Database Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02339",
+                            "title": "Business Intelligence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09384",
+                            "title": "Research Methods in Marketing-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09388",
+                            "title": "Advanced Marketing Research Methods",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SCL",
+                            "course_number": "01382",
+                            "title": "Supply Chain Analytics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "FIN",
+                            "course_number": "04310",
+                            "title": "Financial Analytics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: 9 s.h. Choose 3 courses."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Business Analytics, students must complete all courses required for the CUGS in Business Analytics with at least a 2.5 average. The pre-requisites for MGT 06407 Business Analytics make this CUGS best suited for students majoring or minoring in Business. James Roh Advisor Business Hall 336 856.256.5143 roh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

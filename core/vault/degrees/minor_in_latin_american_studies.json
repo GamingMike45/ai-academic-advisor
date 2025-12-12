@@ -1,0 +1,227 @@
+{
+    "name": "Minor in Latin American Studies",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7184&returnto=1028",
+    "content": {
+        "Minor in Latin American Studies": [
+            "Minor in Latin American Studies The Minor in Latin American Studies, which may be declared in the World Languages Department, offers students both breadth and depth, encouraging them to draw connections between different academic approaches in order to understand the diversity, influence, and complexity of Latin America. The cultural competence gained through this program will prepare students to interact with and contribute to diverse populations with greater cultural awareness and sensitivity. Furthermore, the interdisciplinary foundation that this program provides will also enhance students’ preparation for a wide variety of careers both in Latin America and with Latino populations at home in the U.S., such as in foreign and public service, international sales and business, humanitarian work, government, politics, international law, and global health care. This 18 s.h. minor is open to all students. For more information, visit our website, Department of World Languages or contact the Department for the latest details."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05350",
+                            "title": "Modern Latin America",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16344",
+                            "title": "Geography of Latin America",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 6 s.h."
+            ]
+        },
+        "Required Spanish Language Proficiency: 0 - 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05211",
+                            "title": "Spanish Reading and Conversation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Spanish Language Proficiency: 0 - 3 s.h.",
+                "or STAMP 4S Spanish Placement Exam result indicating equivalent proficiency (placement into fifth-semester, Spanish Reading and Comp. SPAN 05212)"
+            ]
+        },
+        "Elective Courses: 9-12 s.h.": [
+            "Elective Courses: 9-12 s.h. Choose three or four of the following courses from at least three different categories (three electives are selected if “Spanish Reading and Conversation,” above, is taken; if not, four electives are chosen from below):"
+        ],
+        "Category 1: Native Americans in Latin America:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02210",
+                            "title": "Natives of South America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02326",
+                            "title": "The Maya",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "QUEC",
+                            "course_number": "10100",
+                            "title": "Modern Descendants of the Incas: Quechua Language, Culture, and History",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Category 1: Native Americans in Latin America:",
+                "HONR 05390 - Selected Topics Credits: 3 to 6"
+            ]
+        },
+        "Category 2: History of Latin America:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05347",
+                            "title": "Colonial Latin America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05362",
+                            "title": "History of Mexico",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05409",
+                            "title": "Latin American Revolutions and Reform",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05411",
+                            "title": "Topics in Latin American History",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Category 2: History of Latin America:"
+            ]
+        },
+        "Category 3: Latino and Hispanic Literature in English:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02365",
+                            "title": "U.S. Latino/a Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05100",
+                            "title": "Masterpieces of Hispanic Literature in English Translation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Category 3: Latino and Hispanic Literature in English:"
+            ]
+        },
+        "Category 4: Hispanic Language, Literature, and Culture in Spanish:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05212",
+                            "title": "Spanish Reading and Composition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05324",
+                            "title": "Spanish American Civilization and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05301",
+                            "title": "Appreciation of Hispanic Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05327",
+                            "title": "Spanish American Poetry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05328",
+                            "title": "Spanish-American Theater",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05383",
+                            "title": "Spanish-American Short Story",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05426",
+                            "title": "Spanish-American Novel",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05440",
+                            "title": "Special Topics in World Languages",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPAN",
+                            "course_number": "05452",
+                            "title": "Internship in Spanish",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Category 4: Hispanic Language, Literature, and Culture in Spanish:"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. Marilyn S. Manley, Ph.D. Program Mentor Oak Hall North, Room 110 856.256.4044 manley@rowan.edu Harold Thompson Advisor 856.256.5719 thompsonh@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

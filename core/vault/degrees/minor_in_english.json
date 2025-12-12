@@ -1,0 +1,40 @@
+{
+    "name": "Minor in English",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7094&returnto=1028",
+    "content": {
+        "Minor in English": [
+            "Minor in English"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02101",
+                            "title": "Critical Methods I for English Majors",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required course: 3 s.h."
+            ]
+        },
+        "Electives courses: 15 s.h.": [
+            "Electives courses: 15 s.h. Students must take five additional English courses (totaling 15 additional s.h.). Two of these courses (totaling 6 s.h.) can be 100-level Rowan Core English courses. One of these (3 s.h.) must be at the 300-level or higher."
+        ],
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. C- is the minimum grade for each English course. The minimum overall GPA within the major is 2.0.",
+                "Notes:"
+            ]
+        }
+    }
+}

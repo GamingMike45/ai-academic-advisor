@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Project Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6978&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Project Management": [
+            "Certificate of Undergraduate Study in Project Management The Certificate of Undergraduate Study (CUGS) in Project Management will equip individuals with the practical knowledge and skills required to coordinate, facilitate, manage, and lead projects and other initiatives. The CUGS will also help prepare students for the Certified Associate in Project Management (CAPM) certificate, an entry level certification for project practitioners."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required courses:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MIS",
+                            "course_number": "02325",
+                            "title": "Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02328",
+                            "title": "Agile Project Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02329",
+                            "title": "Project Management Associate Exam Prep",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Project Management, students must complete all courses required for the CUGS in Project Management with at least a 2.5 average. The CUGS in Project Management is geared towards students in any major who are interested in developing professional project management skills that many employers look for. To declare the CUGS in Project Management for business majors, contact your assigned advisor. To declare the CUGS in Project Management for non-business majors, email: rcbminors@rowan.edu. Faculty Coordinator Yide Shen Business Hall 369 856.256.5489 shen@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

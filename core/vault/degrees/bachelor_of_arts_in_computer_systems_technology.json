@@ -1,0 +1,61 @@
+{
+    "name": "Bachelor of Arts in Computer Systems Technology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7209&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Computer Systems Technology": [
+            "Bachelor of Arts in Computer Systems Technology The Specialized Bachelor of Arts in Computer Systems Technology will include various certifications and credentials. The degree is designed for students who are seeking flexible, applicable, industry-specific education that is paired with nationally recognized certifications and credentials. The BA in CST degree is designed to meet the increasing demand by equipping students with a variety of technology-driven skills, and is suited for several student populations, including 1) those seeking to advance their careers with a bachelor’s degree, 2) graduates from a NJ County College Associates degree programs 3) organizations who are looking to provide their employees with an undergraduate degree option that can be tailored to meet the needs of various industries. The courses in the program can be taken in a fully online format, although courses can also be offered as traditional face to face courses. As the major requirements largely consist of the completion of five Certificates of Undergraduate Studies, this degree can be completed in a stackable manner, by completing individual CUGS and then applying those to the bachelor’s degree."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the major department."
+        ],
+        "Required Courses: 63 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01104",
+                            "title": "Introduction to Programming and Problem Solving",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 63 s.h."
+            ]
+        },
+        "Required CUGS for this Major/Degree: (60 s.h.)": [
+            "Required CUGS for this Major/Degree: (60 s.h.) Students should select and complete any 5 CUGS in their entirety. In case of overlap (i.e., a course that is part of multiple CUGS), students must select additional courses from the list below so that the total unique credits equal 60 semester hours. Certificate of Undergraduate Study in Advanced Network Technology Certificate of Undergraduate Study in Azure Fundamentals Certificate of Undergraduate Study in Cybersecurity in Information Technology Certificate of Undergraduate Study in Database Development Certificate of Undergraduate Study in Database Fundamentals Certificate of Undergraduate Study in Digital Forensics Certificate of Undergraduate Study in Ethical Hacking Certificate of Undergraduate Study in Intrusion Detection & Prevention Certificate of Undergraduate Study in Linux Systems Administration Certificate of Undergraduate Study in Management Information Systems Certificate of Undergraduate Study in Network Fundamentals Certificate of Undergraduate Study in Operating Systems Fundamentals Certificate of Undergraduate Study in Project Management"
+        ],
+        "Free Electives: 30 s.h.": [
+            "Free Electives: 30 s.h."
+        ],
+        "Available Concentrations:": [
+            "Available Concentrations: Undergraduate Concentration in Cybersecurity Undergraduate Concentration in Cybersecurity Defense (BA) Undergraduate Concentration in DevOps"
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Students must complete at least 120 semester hours (sh) of coursework that apply to their Rowan University degree. Students must have a cumulative GPA of at least 2.0 in Rowan University coursework. (Transfer courses/credit do not count toward the RU GPA.) A minimum of 30 sh of coursework must be completed at/through Rowan University. Only grades of “D-” or above may apply to graduation/degree requirements. (Some programs may set higher minimums.) Students must meet the Rowan Core and Rowan Experience Requirements.",
+                "Notes:"
+            ]
+        }
+    }
+}

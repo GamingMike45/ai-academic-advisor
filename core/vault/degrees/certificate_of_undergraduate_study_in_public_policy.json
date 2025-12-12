@@ -1,0 +1,127 @@
+{
+    "name": "Certificate of Undergraduate Study in Public Policy",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7114&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Public Policy": [
+            "Certificate of Undergraduate Study in Public Policy The Certificate of Undergraduate Study (CUGS) in Public Policy provides students with a fundamental understanding of critical tools for effective policy analysis, including formal program evaluation, cost-benefit analysis, and an introduction to policy-relevant statistics. The flexible course study enables students to take a range of courses (on health, labor, environmental, and social policies), preparing them for employment or graduate degree training."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02410",
+                            "title": "Public Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 3 s.h. The requirements include the following course:"
+            ]
+        },
+        "Elective Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "POSC",
+                            "course_number": "07220",
+                            "title": "State and Local Government",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07323",
+                            "title": "The Politics of Poverty: Class, Gender, and Race in America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "POSC",
+                            "course_number": "07385",
+                            "title": "Environmental Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "02320",
+                            "title": "Public Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EDPA",
+                            "course_number": "07333",
+                            "title": "Social Policy and the Welfare State",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04210",
+                            "title": "Environmental Economics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04215",
+                            "title": "Current Economic Problems & Policies *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04307",
+                            "title": "Economic Development M/G *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04310",
+                            "title": "Global Economics - M/G *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04315",
+                            "title": "Public Finance *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04345",
+                            "title": "Labor Economics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04351",
+                            "title": "Health Economics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ECON",
+                            "course_number": "04360",
+                            "title": "Urban Economics *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 9 s.h. The CUGS in Public Policy also will require any 3 of the following courses:"
+            ]
+        },
+        "Total Required Credits for the Program:": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: *Prerequisites: ECON 04101 An Introduction to Economics-A Macroeconomic Perspective and ECON 04102 An Introduction to Economics-A Microeconomic Perspective To be awarded the CUGS in Public Policy, students must complete all courses required for the CUGS in Public Policy with at least a 2.0 average. The flexibility and broad applicability of the CUGS in Public Policy makes it relevant to all majors who seek to add a policy component to their course of study. Kathy S. Javian, Ph.D. Advisor Robinson Hall 317 856.256.4866 javian@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "name": "Minor in Sports, Society & Civic Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7707&returnto=1028",
+    "content": {
+        "Minor in Sports, Society & Civic Leadership": [
+            "Minor in Sports, Society & Civic Leadership This Minor, Sports, Society & Civic Leadership recognizes students’ completion of 18 s.h. in an interdisciplinary program. Students will gain comprehension in analyzing how sport shapes, and is shaped by, cultural understandings of what it means to be human, as well as how sport can serve as a tool for personal and communal identity formation and broader societal impact. Students will find that the program encourages them to be engaged in their communities, to be critical thinkers and leaders in civic engagement through sports, as well as developing their writing and communication skills. This academic background will set students apart for how jobs within a variety of sports fields are looking for holistically trained students in thinking about the field and its impact in society, including but not limited to non-profits, community sports organizations, leagues, communications, public relations, sports management, esports, event planning, social media, psychology, leagues, and more."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Course: 3 s.h.": [
+            "Required Course: 3 s.h."
+        ],
+        "Two Courses from the Sports Humanities Elective: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SSCL",
+                            "course_number": "05340",
+                            "title": "Special Topics *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05392",
+                            "title": "Digital Public History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02245",
+                            "title": "Sport and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05391",
+                            "title": "History of Sports, Politics, and Society in Latin America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02123",
+                            "title": "Topics in Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two Courses from the Sports Humanities Elective: 6 s.h. Choose two of the following (3 s.h. each):"
+            ]
+        },
+        "Sports Communication Elective: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "06306",
+                            "title": "Social Media and Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06309",
+                            "title": "Sports Branding and Fan Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04223",
+                            "title": "Sports Communication, Culture and Identity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04327",
+                            "title": "Women and Nonbinary Identities in Sports Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04323",
+                            "title": "Images of Athletes in Popular Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09315",
+                            "title": "Esports Characters and Communities",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09110",
+                            "title": "Philadelphia Sports Past and Present",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09304",
+                            "title": "Special Topics in Sports Communication and Media",
+                            "credits": "1 to 3"
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02361",
+                            "title": "Sports Journalism I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Sports Communication Elective: 3 s.h. Choose one of the following (3 s.h. each):"
+            ]
+        },
+        "Two additional Electives: 6.s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ECON",
+                            "course_number": "04363",
+                            "title": "Sports Economics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "05320",
+                            "title": "Introduction to Sport and Exercise Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05399",
+                            "title": "Digital History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05392",
+                            "title": "Digital Public History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05378",
+                            "title": "History of Camden",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Two additional Electives: 6.s.h. Choose any two of the following or additional selections from either of the lists above (3 s.h. each):"
+            ]
+        },
+        "Total Required Credits for the Program: 18 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 18 s.h. * This course must have a humanities focus to be counted in this list. Can be taken more than once if the topic changes. Advisors Debbie Sharnak Robinson Hall 856.256.4500 x 53995 sharnak@rowan.edu or Julie Richmond 301 High Street Richmondj@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

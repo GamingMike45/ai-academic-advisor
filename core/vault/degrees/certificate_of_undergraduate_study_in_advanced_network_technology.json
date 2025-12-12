@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Advanced Network Technology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7232&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Advanced Network Technology": [
+            "Certificate of Undergraduate Study in Advanced Network Technology The Certificate of Undergraduate Study (CUGS) in Advanced Network Technology is designed to offer students the opportunity of a specialized study to provide students with experience in key courses of this discipline at the undergraduate level. This CUGS prepares students to sit for the following certification exams: CCNA: Cisco Certified Network Engineer"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CST",
+                            "course_number": "09320",
+                            "title": "Network Architectures, Models, and Protocols",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "09325",
+                            "title": "Network Communication and Configuration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "09430",
+                            "title": "Switching, Routing and Wireless Essentials",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CST",
+                            "course_number": "09435",
+                            "title": "Enterprise Networking, Security, and Automation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. Students seeking this CUGS are required to successfully complete (grade of D- or better) the four courses in the order listed below:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Advisor Mike Chu Robinson Hall 328K 856.256.4805 chum@rowan.edu This CUGS, being an advanced CUGS, has a course outside the listed courses noted above.",
+                "Notes:"
+            ]
+        }
+    }
+}

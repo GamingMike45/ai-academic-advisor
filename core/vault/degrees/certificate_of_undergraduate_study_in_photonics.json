@@ -1,0 +1,118 @@
+{
+    "name": "Certificate of Undergraduate Study in Photonics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7248&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Photonics": [
+            "Certificate of Undergraduate Study in Photonics Photonics is a growing industry; demand in areas of optical design, instrumentation design, and application use, and laser-based communication systems is high, and the current workforce is declining. While a generalized physics degree can permit entry-level employment, this Certificate of Undergraduate Study (CUGS) provides the training to expand the available opportunities in the field."
+        ],
+        "Program Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00340",
+                            "title": "Optics and Light",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00345",
+                            "title": "Introduction to Optical Design",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00321",
+                            "title": "Electricity and Magnetism II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00347",
+                            "title": "Laser Physics",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Requirements The requirements include the following four courses:"
+            ]
+        },
+        "Math & Physics Requirements": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01130",
+                            "title": "Calculus I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01131",
+                            "title": "Calculus II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01230",
+                            "title": "Calculus III",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00220",
+                            "title": "Introductory Mechanics",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00222",
+                            "title": "Introductory Electricity and Magnetism",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00300",
+                            "title": "Modern Physics",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Math & Physics Requirements Note that the CUGS will require one to have a strong math (12 sh) and physics (16 sh) background, to enter the program.This means the student must have the following course equivalencies in their background:"
+            ]
+        },
+        "Program Corequisite": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PHYS",
+                            "course_number": "00320",
+                            "title": "Electricity and Magnetism I",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Program Corequisite The following course can be considered a co-req for the program so long as it is completed before the student enters Electricity & Magnetism II (PHYS 00321)."
+            ]
+        },
+        "Total Required Credits for the Program: 13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 13 s.h. Robert Chimenti Program Coordinator Science Hall 101D chimenti@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

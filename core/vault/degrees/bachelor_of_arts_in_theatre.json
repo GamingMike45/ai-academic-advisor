@@ -1,0 +1,189 @@
+{
+    "name": "Bachelor of Arts in Theatre",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7083&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Theatre": [
+            "Bachelor of Arts in Theatre The Rowan Bachelor of Arts in Theatre features five distinct concentrations in Acting, Musical Theatre, Theatre Education/Pre-Teaching, Directing, and Design/Technical Theatre, which prepare students to work in the professional field or to pursue graduate study."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": [
+            "Non-Program Courses: 18 s.h. Courses in this section cannot be in the Major department."
+        ],
+        "Foundational Courses: 39 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07240",
+                            "title": "Practicum - Performance Ensemble (taken six times for a total of 3 s.h.) Credits: 0 to 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07241",
+                            "title": "Practicum - Production Ensemble (taken six times for a total of 3 s.h.) Credits: 0 to 0.5",
+                            "credits": null
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07111",
+                            "title": "Colloquium in Theatre I Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07112",
+                            "title": "Colloquium in Theatre II Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07113",
+                            "title": "Colloquium in Theatre III Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07114",
+                            "title": "Colloquium in Theatre IV Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07115",
+                            "title": "Colloquium in Theatre V Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07116",
+                            "title": "Colloquium in Theatre VI Credits: 0.5",
+                            "credits": null
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07201",
+                            "title": "Introduction to Theatre and Dance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07105",
+                            "title": "Introduction to Performance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07230",
+                            "title": "Stagecraft Fundamentals",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "08140",
+                            "title": "Dance Improvisation I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07202",
+                            "title": "Script Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07369",
+                            "title": "Devising",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07107",
+                            "title": "Introduction to Design for Performance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07339",
+                            "title": "Theatre History I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07340",
+                            "title": "Theatre History II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational Courses: 39 s.h."
+            ]
+        },
+        "Select one of the following courses: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "08436",
+                            "title": "Dance History - WI Satisfies Writing Intensive (WI) Attribute",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07360",
+                            "title": "Musical Theatre",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07440",
+                            "title": "Contemporary World Theatre - WI Satisfies Writing Intensive (WI) Attribute & Lit Attribute",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Select one of the following courses: 3 s.h."
+            ]
+        },
+        "Theatre Studies Optional Concentrations": [
+            "Theatre Studies Optional Concentrations Choose one Concentration below based on completing a successful audition and faculty review. Available concentrations Undergraduate Concentration in Acting Undergraduate Concentration in Directing Undergraduate Concentration in Musical Theatre Undergraduate Concentration in Pre-Teaching Undergraduate Concentration in Design & Technical"
+        ],
+        "Free Electives: 54 s.h.": [
+            "Free Electives: 54 s.h."
+        ],
+        "Total Credits in Bachelor of Arts Degree in Theatre: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Credits in Bachelor of Arts Degree in Theatre: 120 s.h. Anthony Hostetter, Ph.D. Director Wilson Hall 856.256.4500 x53394 hostettera@rowan.edu Rachel Budmen Advisor 856.256.4537 budmen@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

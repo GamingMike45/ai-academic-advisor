@@ -1,0 +1,64 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Arts in Geology, Master of Arts in STEM Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7024&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Arts in Geology, Master of Arts in STEM Education": [
+            "Accelerated Dual Degree: Bachelor of Arts in Geology, Master of Arts in STEM Education Overview The Department of Geology and the Department of CATE have created this accelerated program to provide a seamless transition between undergraduate and graduate coursework for students wishing to pursue teacher certification in Earth Science. The program will allow qualified students to complete both programs and earn their initial certification in five years."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Arts in Geology Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Dual Degree Undergraduate Program Requirements": [
+            "Accelerated Dual Degree Undergraduate Program Requirements"
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SMED",
+                            "course_number": "60550",
+                            "title": "Schools and Society: Foundations for Secondary Teaching",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60501",
+                            "title": "STEM: Teaching and Research Methods I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STEM",
+                            "course_number": "60510",
+                            "title": "Teaching STEM in Diverse Settings",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30520",
+                            "title": "Adolescent Literacies",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 21 s.h.": [
+            "Required MA Courses taken as a Graduate student: 21 s.h. As listed in Master of Arts in STEM Education"
+        ],
+        "Total Required Credits for the Entire Accelerated Dual Degree Program: 141 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire Accelerated Dual Degree Program: 141 s.h. Requirements for Admission: Applicants to the Accelerated Degree program will submit applications for admission to the graduate program in the fall semester of their sophomore year of the undergraduate program. Application requirements are as follows: A minimum overall GPA of 3.0 in undergraduate coursework A complete online Rowan Global application, including a personal statement 2 recommendation forms Upon reaching senior standing, students must have maintained a cumulative GPA of 3.0 to continue in the accelerated degree program. Students also must have earned a grade of at least “C-” in all geology courses. If the minimum GPA and overall course grades in geology are not met, the student will be removed from the accelerated degree program. They will be eligible to apply for readmission into the accelerated degree program upon earning a minimum cumulative GPA of 3.0. Students must also follow through with the previously noted application requirements. To ensure flexibility for students, they can apply through the spring of their junior year with the same requirements as indicated above. However, for those students who submit applications in their junior year, they will need to ensure that they address courses required to earn initial NJ certification to teach in the public schools: Adolescent Development (PSY 09210); Health and Wellness (HLT 00103), or a Biology course or a Nutrition course. Undergraduate benchmarks must also be met by the end of their senior year. These are: Cumulative GPA of at least 3.0 Students must meet the required minimum grade for their undergraduate content major, and any undergraduate education courses taken must be passed successfully with a minimum grade of C-. Passing score of 153 on Praxis II Earth Science: Content Knowledge (5571) and 152 on GeneralScience Knowledge (5435) tests with Submission of passing score in *Praxis II in Earth Science: Content Knowledge; test code 5572 and General Science Knowledge (5436) by April 30th deadline (of senior year) prior to entering Clinical Practice I https://www.nj.gov/education/certification/testing/req/. Submit a completed Full-Year Residency application in the College of Education designated database system (Between November 1 and November 30 during senior year). Note: Students will be placed in the 7 most southern NJ counties for their Clinical Practice Placement: Burlington, Camden, Gloucester, Atlantic, Cumberland, Salem, and Cape May. No exceptions will be made. Requirements for Graduation: To graduate from the accelerated program, students must have a 2.00 GPA per university guidelines for the BA, then earn a 3.0 GPA and earn a “Basic” on all indicators of the Final Performance Evaluation in the Residency I and II courses. Contingency for Students who do not Complete the Master of Arts program: Students who choose not to complete the Master’s portion of the program will still be eligible to earn the BA in Geology. Students who enter the accelerated Master of Arts in STEM Education but do not maintain satisfactory progress or who simply choose not to continue pursuing the degree will be allowed to apply up to 12 credits of graduate coursework to the Bachelor of Arts in Geology program. If the student “opts out” before 12 credit hours have been completed, any remaining credits needed to complete the 120-semester-hour undergraduate degree will be selected through consultation between the advisor, the program/department, and the student.",
+                "Notes:"
+            ]
+        }
+    }
+}

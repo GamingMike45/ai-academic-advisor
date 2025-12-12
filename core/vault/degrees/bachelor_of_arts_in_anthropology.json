@@ -1,0 +1,400 @@
+{
+    "name": "Bachelor of Arts in Anthropology",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7123&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Anthropology": [
+            "Bachelor of Arts in Anthropology The Bachelor of Arts in Anthropology, through a four-field approach (cultural, physical/biological, linguistic, and archaeology), prepares students for a variety of career opportunities in research, teaching, development, advocacy, health care among diverse populations, consumer research, community-based organizations, non-profits, and public service. Anthropology Majors will have the option of concentrating their studies in one of four subfield tracks. These are physical/forensic anthropology, public culture/museum studies, medical anthropology, and archaeology/cultural resource management. The BA Anthropology degree will also support those students who wish to pursue further study in graduate or professional schools. By acquiring an anthropological perspective on diversity, culture, and ethnography as well as developing strong social and natural scientific research skills, students will expand their career opportunities."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "STAT",
+                            "course_number": "02102",
+                            "title": "Statistical Literacy (Satisfies Quantitative Literacy (QNTL) Requirement)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02280",
+                            "title": "Biometry (Satisfies Quantitative Literacy (QNTL) Requirement)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16110",
+                            "title": "Cultural Geography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16140",
+                            "title": "World Regional Geography",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09341",
+                            "title": "Biomedical Ethics-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09151",
+                            "title": "Introduction to Ethics - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09218",
+                            "title": "Environmental Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09222",
+                            "title": "Business Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHIL",
+                            "course_number": "09346",
+                            "title": "Feminist Ethics - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 18 s.h. Any Foreign Language Second Semester or higher in the same foreign language",
+                "ANTH 02301 - Human Evolution (Satisfies Scientific Literacy (SCIL) Requirement) Credits: 3",
+                "STAT 02260 - Statistics I (Satisfies Quantitative Literacy (QNTL) Requirement) Credits: 3",
+                "Any Humanistic or Global History Course - Credits: 3 Any Rowan Core course - 3 s.h."
+            ]
+        },
+        "Foundational courses: 15 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02250",
+                            "title": "Introduction to Anthropological Linguistics (Global Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02251",
+                            "title": "Language & Culture",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02202",
+                            "title": "Introduction to Cultural Anthropology (Global Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02203",
+                            "title": "Introduction to Archeology (Scientific Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02221",
+                            "title": "Human Variation (Scientific Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02295",
+                            "title": "Introduction to Qualitative Research (Scientific Literacy)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundational courses: 15 s.h."
+            ]
+        },
+        "Upper level and capstone courses: 10 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02315",
+                            "title": "Forensic Anthropology (lab)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02324",
+                            "title": "Archaeological Field Methods (lab)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02395",
+                            "title": "Anthropological Theory",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Upper level and capstone courses: 10 s.h.",
+                "ANTH 02450 - Anthropology Senior Seminar - WI Satisfies WI requirement Credits: 3"
+            ]
+        },
+        "Anthropology Electives: 12 sh": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02200",
+                            "title": "Introduction to Bioarcheology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02205",
+                            "title": "Mummies and Burial Practices of Ancient Cultures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02210",
+                            "title": "Natives of South America (Global Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02215",
+                            "title": "Medical Anthropology (Global Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02225",
+                            "title": "Arts and Medicine (Artistic Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02240",
+                            "title": "Food and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02245",
+                            "title": "Sport and Culture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02270",
+                            "title": "New World Archaeology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02275",
+                            "title": "Anthropology of Race and Ethnicity (Global Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02280",
+                            "title": "Old World Archeology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02290",
+                            "title": "Museum Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02301",
+                            "title": "Human Evolution (Scientific Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02305",
+                            "title": "Primatology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02310",
+                            "title": "Native North America (Global Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02311",
+                            "title": "People and Cultures of Africa (Humanistic Literacy)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02312",
+                            "title": "Anthropological Perspectives on Physical Growth and Development.",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02322",
+                            "title": "Sex and Sex Roles in a Cross Cultural Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02323",
+                            "title": "Anthropology of Magic and Religion",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02326",
+                            "title": "The Maya",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02335",
+                            "title": "Archaeology of Ancient Egypt",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02336",
+                            "title": "Visual Culture of Ancient Egypt",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02350",
+                            "title": "Comparative Cultures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02355",
+                            "title": "Global Health in Anthropological Perspective",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02359",
+                            "title": "Borders, Boundaries, and Frontiers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02371",
+                            "title": "Anthropological Approaches to Global Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02375",
+                            "title": "Anthropology of Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02376",
+                            "title": "Anthropology Through Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02378",
+                            "title": "Public Archaeology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02400",
+                            "title": "Field Methods in Egyptology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02420",
+                            "title": "Psychological Anthropology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02451",
+                            "title": "Language, Ideology, and Policy",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Anthropology Electives: 12 sh Students choose 4 courses from the following Anthropology Electives Bank; at least three must be upper level"
+            ]
+        },
+        "Free Electives: 56 s.h.": [
+            "Free Electives: 56 s.h. Students should choose Free Electives that satisfy any Rowan Core or Rowan Experience requirements that are not fulfilled by Major or Non-Program courses."
+        ],
+        "Available Concentrations:": [
+            "Available Concentrations: We encourage majors interested in pursuing a career and/or graduate studies in one of the fields below to take the concentration. Undergraduate Concentration in Archaeology & Cultural Resource Management Undergraduate Concentration in Forensic & Physical Anthropology Undergraduate Concentration in Medical Anthropology Undergraduate Concentration in Museum Studies & Public Culture"
+        ],
+        "Total Hours Required for Graduation: 120 sh": [
+            "Total Hours Required for Graduation: 120 sh Students must earn a minimum 2.0 G.P.A. in major courses. Letter grades only in Anthropology courses; up to 10% of overall credits may be P/NC. Only grades of C minus or above may apply to graduation requirements. Students must earn 30 credits in upper-level (300, 400, 500 level) courses, including 19 upper-level anthropology credits. No more than two courses can be repeated and each of these two can be repeated no more than twice.",
+            "Notes:"
+        ]
+    }
+}

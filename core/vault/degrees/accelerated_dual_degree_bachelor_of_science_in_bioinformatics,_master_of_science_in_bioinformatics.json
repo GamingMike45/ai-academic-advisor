@@ -1,0 +1,53 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Bioinformatics, Master of Science in Bioinformatics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7198&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Bioinformatics, Master of Science in Bioinformatics": [
+            "Accelerated Dual Degree: Bachelor of Science in Bioinformatics, Master of Science in Bioinformatics Overview This Accelerated Dual Degree program allows high-achieving Rowan Bioinformatics majors to obtain the BS and MS in a five-year period (rather than the traditional period of six years if both degrees were completed independently). By beginning graduate-level studies in their fourth year, highly talented and motivated students will be able to take 12 credits of graduate courses at the undergraduate rate during their senior year and thus complete both degrees on an accelerated timeline. The BS/MS dual degree program will enable students to obtain advanced graduate level training in bioinformatics which will prepare them for careers in industry or further graduate study"
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in the Bachelor of Science in Bioinformatics Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements"
+        ],
+        "Required MS Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "01541",
+                            "title": "Bioinformatics - Advanced Computational Aspects",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BINF",
+                            "course_number": "07595",
+                            "title": "Bioinformatics: Advanced Biochemical Applications",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MS Courses taken as an Undergraduate student: 12 s.h.",
+                "1 course in Graduate Restricted Electives Thesis track: Masters Research I"
+            ]
+        },
+        "Required MS Courses taken as a Graduate student: 18 s.h.": [
+            "Required MS Courses taken as a Graduate student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Science in Bioinformatics"
+        ],
+        "Total Required Credits for the Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 138 s.h. Requirements for Admission: By July 1, after your junior year, send an email to bioinformatics@rowan.edu. Include the following: intent to apply for the program, one-page essay describing your background and future goals in relation to this program. Also, have two Rowan faculty members send an email describing your suitability for this program. Applications will be reviewed by the Bioinformatics Program Admission Committee, chaired by the Graduate Program Coordinator. Students will be notified in about 2 weeks. The requirements for admission will be: Current undergraduate bioinformatics major Successful completion of at least 90 credits of course work Successful completion of the Introduction to Bioinformatics (BINF 07310) 3.25 GPA in the major and a 3.0 GPA overall On-track completion of Bioinformatics degree program requirements Requirements for Graduation To graduate from the accelerated BS/MS dual degree program in Bioinformatics, students must meet the following requirements: Completion of all requirements for the Accelerated BS in Bioinformatics Completion of all requirements for the Accelerated MS in Bioinformatics Maintain satisfactory progress through the program. Satisfactory progress will be defined as: completion of at least 3 graduate Bioinformatics courses at the end of fourth year of study; Earn at least a grade of B in all graduate courses taken during that period; Any student who fails to maintain satisfactory progress as described above will be dropped from the graduate program. If the student has not already earned the BS in Bioinformatics, he/she will be re-admitted into the BS subject to the requirements of that program; Students with extenuating circumstances may request an exception to this requirement by obtaining written approval of the Graduate Advisor and the Undergraduate Advisor, and other approvals if needed under University policy. Upon completion of the requirements above, the student will be granted both a Bachelor of Science and a Master of Science in Bioinformatics. Student Status: Students enrolled in the accelerated BS/MS Program will pay undergraduate fees for all courses until they have reached the required number of credits for the undergraduate degree (i.e.120 credits), whether the courses are taken at the undergraduate or graduate level. Beyond this, students will pay graduate credit for graduate courses. Under no circumstances will students be allowed to take more than 12 graduate credits at the undergraduate rate. Contingency for Students who do not Complete the MS program: Students who enter the accelerated MS program but do not maintain satisfactory progress or opt-out of the MS degree will be allowed to apply graduate coursework credits toward the Bioinformatics BS degree and any remaining credits to make up the required 120 credits for the undergraduate BS Bioinformatics degree will be taken using traditional coursework at the Glassboro campus.",
+                "Notes:"
+            ]
+        }
+    }
+}

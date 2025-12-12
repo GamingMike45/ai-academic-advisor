@@ -1,0 +1,182 @@
+{
+    "name": "Master of Translational Orthopedic Device Engineering",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7514&returnto=1028",
+    "content": {
+        "Master of Translational Orthopedic Device Engineering": [
+            "Master of Translational Orthopedic Device Engineering The Master of Translational Orthopedic Device Engineering (MTODE) program is an educational initiative tailored for engineering students who aspire to revolutionize the field of orthopedic devices. This pioneering program bridges the gap between engineering innovation and clinical application, focusing on the design, development, and commercialization of orthopedic devices that improve patient care. This program not only equips students with advanced engineering and design skills but also provides a deep understanding of the clinical applications and market dynamics of orthopedic devices, ensuring a holistic approach to device innovation. This program offers a comprehensive curriculum that covers biomechanics, materials science, device design, regulatory affairs, research, and clinical applications of devices, including surgical shadowing, hands-on practice on Sawbones and virtual reality, ensuring graduates are well-equipped to lead the next generation of orthopedic innovations. The hands-on experience gained through these opportunities not only enhances employability but also provides a direct pathway into the heart of the orthopedic device industry, making our graduates highly sought after in this specialized field. Graduates of this program will be prepared to pursue careers in various domains, including innovative design, research and development, quality assurance, regulatory affairs, and product management within the orthopedic industry. Companies ranging from startups to multinational corporations in the orthopedic technology field are in constant search for professionals who can bridge the gap between engineering design and clinical application."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 24 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "TODE",
+                            "course_number": "10501",
+                            "title": "Orthopedic Device Engineering-I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10502",
+                            "title": "Orthopedic Device Engineering-II",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10504",
+                            "title": "Orthopedic Device Technology Transfer",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10505",
+                            "title": "Orthopedic Clinical Immersion in Materials, Devices, and Surgical Technologies-I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10506",
+                            "title": "Orthopedic Clinical Immersion in Materials, Devices, and Surgical Technologies-II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10507",
+                            "title": "Applied Orthopedic Engineering-I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10508",
+                            "title": "Applied Orthopedic Engineering-II",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10509",
+                            "title": "Orthopedic Device Engineering Seminars-I",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "TODE",
+                            "course_number": "10510",
+                            "title": "Orthopedic Device Engineering Seminars-II",
+                            "credits": 1
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 24 s.h."
+            ]
+        },
+        "Elective Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BME",
+                            "course_number": "11550",
+                            "title": "Advanced Biocompatibility and Immunoengineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11590",
+                            "title": "Advanced Emerging Topics in Biomedical Engineering",
+                            "credits": "1 to 4"
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11551",
+                            "title": "Advanced Mechanobiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11554",
+                            "title": "Advanced Stem Cell Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11574",
+                            "title": "Advanced Topics in Controlled Release",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11556",
+                            "title": "Advanced Nanoparticle Design and Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10570",
+                            "title": "Principles in Biomechanics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11573",
+                            "title": "Biomaterials Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BME",
+                            "course_number": "11568",
+                            "title": "Advanced Phenomena in Biomaterials Science",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGR",
+                            "course_number": "01510",
+                            "title": "Finite Element Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHE",
+                            "course_number": "06578",
+                            "title": "Tissue Engineering",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02525",
+                            "title": "Design and Analysis of Experiments",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MIS",
+                            "course_number": "02526",
+                            "title": "Project Management for Engineers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ME",
+                            "course_number": "10561",
+                            "title": "Engineering Optimization",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 6 s.h. Choose 6 s.h. from the following list.",
+                "ME 10555 - Principles of Nanotechnology Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements All 30 credits of Master of Translational Orthopedic Device Engineering must be completed with equivalent grades of B- or higher. No thesis is required. Minimum Required Grades and Cumulative GPA The Master of Translational Orthopedic Device Engineering (MTODE) is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Hamid Hosseinzadeh MD Program Coordinator/Advisor Contact Information Engineering Hall, 225 hamid@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

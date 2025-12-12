@@ -1,0 +1,124 @@
+{
+    "name": "Master of Arts in Mathematics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7542&returnto=1028",
+    "content": {
+        "Master of Arts in Mathematics": [
+            "Master of Arts in Mathematics The Master of Arts in Mathematics program will provide an opportunity for individuals to pursue advanced study in mathematics and statistics as well as to develop skills that can lead to success in today’s technologically oriented society. Whether the goal involves applying mathematics and statistics to solve problems in business or industry, teaching in higher education, or preparing for further graduate study in mathematics or related fields, this program enables each student to pursue a course of study that is appropriate for their interests. The program requires students to complete 30 semester hours of work in one of the three concentrations: Pure Mathematics Applied Mathematics Statistics Each has its own course and graduation exit requirements, as outlined below. Rowan University undergraduates majoring in the Bachelor of Science in Mathematics can apply to the accelerated B.S./M.A. Advanced Dual Degree (4+1) program allowing them to earn both the Bachelor of Science and Master of Arts degrees in five years."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Core Courses for All Concentrations: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01533",
+                            "title": "Graduate Seminar in Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03612",
+                            "title": "Masters Thesis",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01502",
+                            "title": "Linear Algebra and Matrix Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01505",
+                            "title": "Probability and Mathematical Statistics I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Core Courses for All Concentrations: 9 s.h."
+            ]
+        },
+        "Concentrations": [
+            "Concentrations Graduate Concentration in Pure Mathematics: 21 s.h. Graduate Concentration in Applied Mathematics: 21 s.h. Graduate Concentration in Statistics: 21 s.h."
+        ],
+        "Free Elective Bank for All Concentrations": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01522",
+                            "title": "History of Mathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01503",
+                            "title": "Number Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03512",
+                            "title": "Operations Research II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01515",
+                            "title": "Engineering Applications of Analysis",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01603",
+                            "title": "Analytic Number Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03610",
+                            "title": "Applied Statistical Epidemiology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "03611",
+                            "title": "Special Topics in Biomathematics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02514",
+                            "title": "Decision Analysis",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Free Elective Bank for All Concentrations The required and restrictive elective courses in one concentration will be considered as free electives for the other concentrations. In addition to these, the following can also be taken as free electives:",
+                "MATH 01523 - Selected Topics in Mathematics Credits: 1 to 6"
+            ]
+        },
+        "Total Required Credits for the Program: 30 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 30 s.h. Foundation Courses Applicants are expected to have completed at least 16 semester credits at the undergraduate-level in Mathematics including subjects such as Calculus through Vector Analysis and Linear Algebra. Additionally, applicants interested in pursuing a concentration must complete the following: Pure Mathematics concentration: Applicants must have completed MATH 01231 - Ordinary Differential Equations in addition to upper-level undergraduate mathematics including MATH 01340 - Modern Algebra I and MATH 01330 - Introduction to Real Analysis I. Applied Mathematics concentration: Applicants must have completed MATH 01231 - Ordinary Differential Equations. Computer programming skills are highly recommended. Statistics concentration: Applicants must have completed a basic statistics course. Graduation/Exit, Benchmark, and/or Thesis Requirements All students must complete all course requirements for their respective Concentration. All students must pass a comprehensive examination or complete a thesis. Minimum Required Grades and Cumulative GPA The Master of Arts in Mathematics is a Category 2 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories Program Coordinator Contact Information Thanh Nguyen Robinson Hall 856.256.4500, ext.53858 nguyent@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "name": "Certificate of Undergraduate Study in Writing Studies for Educators",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7023&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Writing Studies for Educators": [
+            "Certificate of Undergraduate Study in Writing Studies for Educators The Certificate of Undergraduate Study (CUGS) in Writing Studies for Educators provides broad-based study and practice in a variety of writing forms, creative and expository, personal and public, that complement courses in Education. Students learn how writers compose in print and new media forms and how audiences react to their writing. In classroom workshops and peer response groups, through lecture and discussion, and by creating and composing multiple drafts and revisions, students develop sensitivity to rhetorical considerations of audience, purpose, and genre. This CUGS allows students who are interested to credential themselves within the field of Writing Studies without majoring or minoring in Writing Arts."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "The requirements include five courses:": [
+            "The requirements include five courses:"
+        ],
+        "Choose one introductory course:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01300",
+                            "title": "The Writer’s Mind - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07290",
+                            "title": "Creative Writing I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one introductory course:"
+            ]
+        },
+        "Choose one elective:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01250",
+                            "title": "Tutoring Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01201",
+                            "title": "How Writers Read",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01350",
+                            "title": "Rhetorics of Style-WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Choose one elective:"
+            ]
+        },
+        "Required writing pedagogy course:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01358",
+                            "title": "Teaching the Writer’s Workshop-WI (CWI or WCS or WM)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required writing pedagogy course:"
+            ]
+        },
+        "Required technology course:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01315",
+                            "title": "Writing with Technologies (COMP 01112, and 60 credits)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required technology course:"
+            ]
+        },
+        "Required capstone course:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01415",
+                            "title": "Situating Writing (COMP 01112, and 75 credits)",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required capstone course:"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. To be awarded the CUGS in Writing Studies for Educators, students must complete all courses required for the CUGS with at least a 2.0 average. Amy Woodworth Chair 260 Victoria Street 856.256.4847 woodworth@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

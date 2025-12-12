@@ -1,0 +1,422 @@
+{
+    "name": "Certificate of Undergraduate Study in Creative Industries Entrepreneurship",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7429&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Creative Industries Entrepreneurship": [
+            "Certificate of Undergraduate Study in Creative Industries Entrepreneurship The Certificate of Undergraduate Study (CUGS) in Creative Industries Entrepreneurship is designed to foster the combination of creative pursuits with entrepreneurial thinking and business know-how. As demonstrated by the thousands of students who have used Studio231 on campus to rapid prototype their ideas and explore how those could be made into products, and the launch of Creatives 230, there is a high interest among Rowan’s creative industries students (e.g., music, art, writing arts, theater, etc.) for more formalized training and micro-credentials where they can acquire entrepreneurial skills to leverage as they graduate and enter the workforce. Many creatives seek to avoid the ‘starving artist’ stigma, so this program seeks to offer students a hybrid-option where they can develop both entrepreneurial and creative skillsets and mindsets in just 4 courses (12 s.h.)."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Entrepreneurship Bank: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06110",
+                            "title": "Interdisciplinary Perspectives on Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06240",
+                            "title": "Entrepreneurship and Innovation",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Entrepreneurship Bank: 3 s.h. Choose one course."
+            ]
+        },
+        "Required Business/Industry Course Bank: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENT",
+                            "course_number": "06342",
+                            "title": "Financing and Legal Aspects of Entrepreneurship",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06312",
+                            "title": "Scaling New Ventures",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENT",
+                            "course_number": "06351",
+                            "title": "Entrepreneurship in the Cannabis Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09315",
+                            "title": "Personal Selling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03290",
+                            "title": "The Media Industries",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40315",
+                            "title": "Entrepreneurship in the Music Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04270",
+                            "title": "Persuasion and Social Influence",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04210",
+                            "title": "Mass Media and Their Influences",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "98242",
+                            "title": "Legal Environment of Business",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02335",
+                            "title": "Media Law",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04352",
+                            "title": "Advertising Strategies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04375",
+                            "title": "Advertising Copywriting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06355",
+                            "title": "Public Relations/Advertising Law and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02321",
+                            "title": "Digital Journalism I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40111",
+                            "title": "Business of Music I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40113",
+                            "title": "Business of Music II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "40212",
+                            "title": "Music Publishing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Business/Industry Course Bank: 3 s.h. Choose one course."
+            ]
+        },
+        "Creative Industries Course Bank: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CS",
+                            "course_number": "10430",
+                            "title": "Computing and Informatics Capstone Experience",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CS",
+                            "course_number": "04400",
+                            "title": "Computer Science - Senior Project",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "07309",
+                            "title": "Writing Children’s Stories",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04215",
+                            "title": "Fiction to Film",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04315",
+                            "title": "Digital Media Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02313",
+                            "title": "Magazine Article Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01356",
+                            "title": "Self Publishing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "THD",
+                            "course_number": "07365",
+                            "title": "Theatre Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03200",
+                            "title": "Podcasting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03201",
+                            "title": "Foundations of Media Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04360",
+                            "title": "Integrated Marketing Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04370",
+                            "title": "Essentials of Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "05318",
+                            "title": "Strategic Visual Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06309",
+                            "title": "Sports Branding and Fan Relations",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MUS",
+                            "course_number": "04363",
+                            "title": "Writing In Contemporary/Traditional Jazz Styles",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SPRT",
+                            "course_number": "09201",
+                            "title": "Foundations of Esports",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02365",
+                            "title": "Introduction to Entrepreneurial Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02100",
+                            "title": "Drawing I: Representational Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02105",
+                            "title": "Color and Design: Two Dimensional",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02220",
+                            "title": "Introduction to Painting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02240",
+                            "title": "Introduction to Sculpture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02260",
+                            "title": "Introduction to Printmaking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02327",
+                            "title": "Introduction to Watercolor",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09210",
+                            "title": "Introduction to Metals and Jewelry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09228",
+                            "title": "Introduction to Illustration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09240",
+                            "title": "Introduction to Ceramics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09253",
+                            "title": "Introduction to Digital 3D Modeling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09343",
+                            "title": "Introduction to Graphic Design I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09358",
+                            "title": "Web Design: Designing For The World Wide Web",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09360",
+                            "title": "Storyboarding & Animation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "09375",
+                            "title": "Video Art",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BMV",
+                            "course_number": "09453",
+                            "title": "Introduction to Game Media Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11251",
+                            "title": "Introduction to Film Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PHOT",
+                            "course_number": "11380",
+                            "title": "Digital Photography",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09324",
+                            "title": "Art and Environment Studio",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09346",
+                            "title": "Computer Aided Design (CAD): 3D Modeling for the Artist/Designer",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09365",
+                            "title": "Motion Graphics I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Creative Industries Course Bank: 6 s.h. Choose 2 courses.",
+                "Any second course from the business/industry course bank",
+                "Any other course teaching a creative skill as approved by a CUGS program director."
+            ]
+        },
+        "Total Required Credits for the Program: 12": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 Students enrolled in the following programs are not eligible to compete this CUGS: B.S. Entrepreneurship (BS517) B.S. Engineering Entrepreneurship (BS0912) Minor in Entrepreneurship (M517) Music Industry (BS1014; C119, C118) Interested in learning more? Contact Jenny Drumgoole (drumgoole@rowan.edu) or entdegrees@rowan.edu. To Declare the CUGS : Students who currently have a major declared in the College of Business should contact their assigned advisor . For students majoring outside of the College of Business, email entdegrees@rowan.edu for questions and to schedule an appointment with our ENT advising team.",
+                "Notes:"
+            ]
+        }
+    }
+}

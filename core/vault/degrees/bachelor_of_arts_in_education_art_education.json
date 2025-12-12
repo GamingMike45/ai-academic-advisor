@@ -1,0 +1,290 @@
+{
+    "name": "Bachelor of Arts in Education: Art Education",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6987&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Education: Art Education": [
+            "Bachelor of Arts in Education: Art Education Students enrolled in this dual-degree program satisfy the requirements for both a Bachelor of Arts in Art and a Bachelor of Arts in Education. Coursework prepares students to become Visual Art teachers by building a strong foundation in artistic knowledge and skills as artists and in the pedagogical practices needed to teach the Visual Arts to students in grades P-12. For more in-depth studio opportunities, students enrolled in this program may choose to apply for the Bachelor of Fine Arts degree program at the end of their sophomore year. Further information about this program can be obtained from the Department of Content Area Teacher Education at 856-265-5797 or the Department of Art at 856-256-4010."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Non-Program Courses: 35 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HLT",
+                            "course_number": "00103",
+                            "title": "Health and Wellness",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "01113",
+                            "title": "General Biology: Human Focus (Satisfies Scientific Literacy (SCIL) requirement)",
+                            "credits": 4
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SPED",
+                            "course_number": "08130",
+                            "title": "Disability as Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "READ",
+                            "course_number": "30319",
+                            "title": "Teaching Reading and Writing in the Content Area",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "33220",
+                            "title": "Educational Technology",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "EDUC",
+                            "course_number": "21230",
+                            "title": "Characteristics of Knowledge Acquisition",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09209",
+                            "title": "Child and Adolescent Development",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 35 s.h. Courses in this section cannot be in the major department.",
+                "FNDS 21150 - History of American Education (Satisfies Humanistic Literacy (HUML) requirement) Credits: 3",
+                "Any Artistic Literacy (ARTL) - Credits: 3 Any Broad-based Literature (LIT, WI) - Credits: 3 Any Global Literacy (GLBL) - Credits: 3 Any Mathematics (QNTL) - Credits: 3"
+            ]
+        },
+        "Education Major Requirements: 37 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09200",
+                            "title": "Theory and Analysis of Art Education",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "01282",
+                            "title": "Introduction to Instruction and Assessment in the Art Classroom",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "31350",
+                            "title": "Elementary Art Methods: Teaching and Learning Art A",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SECD",
+                            "course_number": "03330",
+                            "title": "Clinical Experience in Teaching and Learning A Art",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09201",
+                            "title": "Community Art Education for Elementary through Middle Grades",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "31360",
+                            "title": "Secondary Art Methods: Teaching and Learning Art B",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SECD",
+                            "course_number": "03332",
+                            "title": "Clinical Experience in Teaching & Learning B Art",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09202",
+                            "title": "Community Art Education for Secondary Grades",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "31351",
+                            "title": "Clinical Practice I: Elementary and Secondary Art Education",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "31450",
+                            "title": "Clinical Practice II: Elementary and Secondary Art",
+                            "credits": 10
+                        },
+                        {
+                            "subject": "SMED",
+                            "course_number": "31451",
+                            "title": "Clinical Practice II: Seminar for Art Education",
+                            "credits": 1
+                        },
+                        {
+                            "subject": "SELN",
+                            "course_number": "40477",
+                            "title": "Effective Inclusive Instruction in English, Social Studies, and World Language Classrooms",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Education Major Requirements: 37 s.h.",
+                "SECD 03350 - Teaching Students of Linguistic and Cultural Diversity Credits: 1"
+            ]
+        },
+        "Art Major Requirements: 39 s.h.": [
+            "Art Major Requirements: 39 s.h."
+        ],
+        "Foundation Core: (12 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "02100",
+                            "title": "Drawing I: Representational Drawing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02105",
+                            "title": "Color and Design: Two Dimensional",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02240",
+                            "title": "Introduction to Sculpture",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02200",
+                            "title": "Expressive Drawing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundation Core: (12 s.h.)"
+            ]
+        },
+        "Art History: (9 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03103",
+                            "title": "Art History Survey I: Prehistory to Medieval",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ARHS",
+                            "course_number": "03104",
+                            "title": "Art History Survey II: Renaissance to Modern",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Art History: (9 s.h.)",
+                "Art History Choice"
+            ]
+        },
+        "Studio: (18 s.h.)": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "02220",
+                            "title": "Introduction to Painting",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Studio: (18 s.h.)",
+                "Intro level Art Studio choice Intermediate/Advanced Studio Elective Intermediate/Advanced Studio Elective Intermediate/Advanced Studio Elective"
+            ]
+        },
+        "Review/Exhibition: 0 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ART",
+                            "course_number": "02222",
+                            "title": "Studio Core Portfolio Review",
+                            "credits": 0
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09401",
+                            "title": "Senior Show or Project",
+                            "credits": 0
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Review/Exhibition: 0 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Michalina Zelazny Advisor/Art, Education James Hall zelazny@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

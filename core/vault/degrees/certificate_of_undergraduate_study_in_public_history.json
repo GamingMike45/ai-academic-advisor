@@ -1,0 +1,140 @@
+{
+    "name": "Certificate of Undergraduate Study in Public History",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7307&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Public History": [
+            "Certificate of Undergraduate Study in Public History Public History is usually defined as history beyond the walls of a traditional classroom. Public Historians work as preservationists in archives and research libraries and as museum professionals. They may be curators, museum educators, exhibit producers, oral historians, and even community activists. The CUGS in Public History will interest students who hope to work in historical, natural history, or anthropological museums; historical societies; federal, state and local government; archival management; etc. The Certificate requires 15 s.h. of courses related to public history, including three core courses and two electives."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Core Courses:": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05495",
+                            "title": "Internship in History",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts (at a site approved by the coordinator)",
+                            "credits": "2 to 6"
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02290",
+                            "title": "Museum Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05387",
+                            "title": "Public History *",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Core Courses:"
+            ]
+        },
+        "Electives:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "HIST",
+                            "course_number": "05495",
+                            "title": "Internship in History (if not taken as a core course)",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CHSS",
+                            "course_number": "20399",
+                            "title": "Internship In Applied Liberal Arts (Another 3 s.h. at a site approved by the coordinator)",
+                            "credits": "2 to 6"
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05386",
+                            "title": "History of New Jersey",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02203",
+                            "title": "Introduction to Archeology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02270",
+                            "title": "New World Archaeology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02280",
+                            "title": "Old World Archeology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02310",
+                            "title": "Native North America",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ART",
+                            "course_number": "09301",
+                            "title": "Digital Media and Techniques",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01322",
+                            "title": "Writing for the Workplace-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MKT",
+                            "course_number": "09200",
+                            "title": "Principles of Marketing",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Electives: Any TWO of the following courses:",
+                "PR 06350 - Introduction to Public Relations (all students may take an online section; students who are not Public Relations majors may be signed into a regular section) Credits: 3",
+                "ADV 04330 - Introduction to Advertising (All students may take an online section; students who are not Advertising majors need to be signed in a regular section) Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 15 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 15 s.h. * Note: Composition II (COMP 01112) is a prerequisite, but students pursuing this CUGS who have completed Museum Studies (ANTH 02290) will be given a prerequisite waiver Coordinators Dr. Jennifer Janofsky History Department Robinson Hall lawrencej@rowan.edu Dr. Jane Hill Department of Sociology & Anthropology Robinson Hall hillj@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

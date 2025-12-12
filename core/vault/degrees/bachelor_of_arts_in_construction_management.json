@@ -1,0 +1,124 @@
+{
+    "name": "Bachelor of Arts in Construction Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7035&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Construction Management": [
+            "Bachelor of Arts in Construction Management Rowan University’s Bachelor of Arts in Construction Management degree completion program provides those with an Associate’s degree or at least 60 credits with the remaining credits necessary to complete a bachelor’s degree in this growing field while taking classes online. Applicants with less than 60 credits may work with an enrollment counselor to explore available options. This program is ideal for journeypersons and seasoned professionals in the construction industry as well as apprentices who are looking to develop leadership skills and advance their careers. The Bachelor of Arts in Construction Management degree prepares individuals to supervise, manage, and inspect construction sites, buildings, and associated facilities. Rowan University’s program has received the endorsement of the North America’s Building Trades Unions . Upon completion of the program students will supplement construction experience with the managerial skills required to: Propose, plan, and implement construction projects. Develop safe and ethical practices efficiently and profitably. Communicate effectively with construction teams and community members. Develop effective project management strategies and techniques. Manage construction projects with scheduling software. Estimate quantity take-offs and costs with computers. Address issues related to construction law and project management. Understand materials and methods listed in the construction specification institute’s Master Format."
+        ],
+        "Rowan Core: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Rowan Core: 9 s.h. All first-time Freshmen must complete the University Rowan Core Literacies. There are six literacies: Communicative Literacy (COML) - 9 s.h. Satisfied by taking the following three courses: COMP 01111 College Composition I COMP 01112 College Composition II CMS 04205 Public Speaking Note: Engineering Majors will take (11 s.h.) COMP 01111 College Composition I ENGR 01201 Sophomore Engineering Clinic I ENGR 01202 Sophomore Engineering Clinic II Artistic Literacy (ARTL) Global Literacy (GLBL) Humanistic Literacy (HUML) Quantitative Literacy (QNTL) Scientific Literacy (SCIL) Majors may suggest courses to fulfill the above literacies and will be applied elsewhere. A complete listing of courses that fulfill the above literacies can be found here Undergraduate Program Requirements."
+            ]
+        },
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements Rowan University requires the completion of 120 semester hours of approved general education and major coursework in order to graduate with a bachelor’s degree. The following courses make up the BA in Construction Management program."
+        ],
+        "Non-Program Courses: 39-41 s.h.": [
+            "Non-Program Courses: 39-41 s.h. Students are encouraged to take 12 credits of Business and Management courses in the Non-Program bank"
+        ],
+        "Required Courses: 36 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CM",
+                            "course_number": "01301",
+                            "title": "Fundamentals of the Construction Industry I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01302",
+                            "title": "Fundamentals of the Construction Industry II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01303",
+                            "title": "Project Building Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01304",
+                            "title": "Project Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01305",
+                            "title": "Construction Cost Estimating",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01306",
+                            "title": "Construction Project Planning and Scheduling",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01407",
+                            "title": "Advanced Leadership and Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01408",
+                            "title": "Industrial Relations in the Construction Industry",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01409",
+                            "title": "Building Energy Systems for Construction Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01410",
+                            "title": "Building Construction Systems and Codes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01411",
+                            "title": "Construction Safety and Loss Prevention",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CM",
+                            "course_number": "01412",
+                            "title": "Capstone Project - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 36 s.h."
+            ]
+        },
+        "Elective Courses: 34-36 s.h.": [
+            "Elective Courses: 34-36 s.h."
+        ],
+        "Credit for Prior Learning": [
+            "Credit for Prior Learning In addition to transfers from other accredited colleges and universities, credit toward the degree may be awarded for prior work and experience. Students can convert into credits part of their working experience through Prior Learning Assessment (PLA). Rowan University accepts assessments of credits by external agencies including College Level Examination Placement (CLEP), Advanced Placement (AP), and through the New Jersey Prior Learning Assessment Network agreement, Thomas Edison State College. Rowan University is an American Council on Education (ACE) member institution and participates in the Credit for Prior Learning (CPL) program. For students seeking degree completion, students are referred to an academic department advisor for concurrence and academic advisement."
+        ],
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h. Program Coordinator/Advisor Contact Information Steven Chin, Ph.D, P.E. Vice Dean Engineering Hall 856.256.5300 chin@rowan.edu Alejandro Rodriguez, D.Eng., PMP Associate Teaching Professor 954.299.7274 rodriguez1@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

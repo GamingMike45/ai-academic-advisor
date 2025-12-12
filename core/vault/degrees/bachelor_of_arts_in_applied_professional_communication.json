@@ -1,0 +1,126 @@
+{
+    "name": "Bachelor of Arts in Applied Professional Communication",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7013&returnto=1028",
+    "content": {
+        "Bachelor of Arts in Applied Professional Communication": [
+            "Bachelor of Arts in Applied Professional Communication The Bachelor of Arts in Applied Professional Communication extends opportunities for career preparation and interdisciplinary study. This multi-departmental major provides students with communication skills that support them in a range of professional settings with a focus on digital communication(s). The BA in Applied Professional Communication is offered exclusively as a 3+1 program on the Rowan College at Burlington County (RCBC) Mount Laurel campus and the Rowan College of South Jersey (RCSJ) Gloucester campus. It allows students to pursue a foundational curricular platform at a community college and complete their Rowan degree while remaining on the RCBC campus or the RCSJ campus. Rowan University requires the completion of 120 semester hours of approved general education and major coursework in order to graduate with a bachelor’s degree. The Bachelor of Arts in Applied Professional Communication is a full- or part-time program that provides students with 30 of the required semester hours when students transfer into Rowan University for the fourth year."
+        ],
+        "Rowan Experience": {
+            "requirements": [],
+            "notes": [
+                "Rowan Experience Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere. The attributes are as follows: Broad-Based Literature Attribute (LIT) Writing Intensive Attribute (WI) Rowan Seminar Attribute*(RS) Departments may recommend courses to fulfill these attributes. A complete listing of courses that satisfy these attributes can be found at Undergraduate Program Requirements. *The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "General Education and Elective Courses: 81 s.h.": [
+            "General Education and Elective Courses: 81 s.h. Courses in this area are transferred in and encompass General Education/Rowan Core requirements."
+        ],
+        "Major Requirements Required Applied Professional Communication Courses: 39 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "WA",
+                            "course_number": "01322",
+                            "title": "Writing for the Workplace-WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01302",
+                            "title": "Introduction to Technical Writing - WI",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PR",
+                            "course_number": "05350",
+                            "title": "Strategic Communication Overview",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ADV",
+                            "course_number": "04360",
+                            "title": "Integrated Marketing Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03394",
+                            "title": "New Media Production",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "JRN",
+                            "course_number": "02319",
+                            "title": "Media Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04315",
+                            "title": "Digital Media Processes",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04318",
+                            "title": "Leadership Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01406",
+                            "title": "Professional Practices and Partnerships I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01407",
+                            "title": "Professional Practices and Partnerships II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01301",
+                            "title": "Writing, Research and Technology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04208",
+                            "title": "Business and Professional Communication",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PR",
+                            "course_number": "06317",
+                            "title": "Publication Layout and Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "RTF",
+                            "course_number": "03295",
+                            "title": "Introduction to New Media",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Major Requirements Required Applied Professional Communication Courses: 39 s.h."
+            ]
+        },
+        "Total Hours Required for Graduation (with Gen Ed Courses): 120 s.h.": [
+            "Total Hours Required for Graduation (with Gen Ed Courses): 120 s.h. Students must earn a grade of at least a C minus in each course under Core Requirements, Concentrations and Related Electives. C minus or above is required in all prerequisites to other courses.",
+            "Notes:"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Graduate Study in Writing: Composition & Rhetoric",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7684&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Writing: Composition & Rhetoric": [
+            "Certificate of Graduate Study in Writing: Composition & Rhetoric The Writing, Composition & Rhetoric Certificate of Graduate Study (COGS) for teachers and other writing professionals improves students’ knowledge of contemporary theories, issues, and practices in writing and writing instruction. Students develop their writing abilities by analyzing their own writing and the writing of published professionals. Courses emphasize composition theory, writing assessment, and the role of technology in writing."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 9 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01549",
+                            "title": "Issues in Composition Studies",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01556",
+                            "title": "Assessment of Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAWR",
+                            "course_number": "01630",
+                            "title": "Writing Difference",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01547",
+                            "title": "Graduate Strategic Writing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MAPR",
+                            "course_number": "01561",
+                            "title": "Graduate Strategic Writing II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 9 s.h. Choose three (3) from the following options. Two courses (6 s.h.) must have the subject designation MAWR."
+            ]
+        },
+        "Total Required Credits for the Program: 9 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 9 s.h. Foundation Courses None Graduation/Exit, Benchmark, and Thesis Requirements None Minimum Required Grades and Cumulative GPA The Certificate of Graduate Study in Writing, Composition & Rhetoric is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories . Program Coordinator/Advisor Contact Information Katie Budris Victoria Hall, Room 405 856.256.4858 budris@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

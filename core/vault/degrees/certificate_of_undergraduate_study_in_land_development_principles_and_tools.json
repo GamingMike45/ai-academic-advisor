@@ -1,0 +1,128 @@
+{
+    "name": "Certificate of Undergraduate Study in Land Development Principles & Tools",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7495&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Land Development Principles & Tools": [
+            "Certificate of Undergraduate Study in Land Development Principles & Tools The Certificate of Undergraduate Study (CUGS) in Land Development Principles & Tools provides a sequence of courses that combines Planning, Geography, and Engineering topics enabling relevant to students interested in land development."
+        ],
+        "Required Course: 3 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31280",
+                            "title": "Introduction to City Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Course: 3 s.h."
+            ]
+        },
+        "Select a track for two courses: 6 s.h.": [
+            "Select a track for two courses: 6 s.h."
+        ],
+        "Track 1": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08102",
+                            "title": "Engineering Graphics",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Track 1 Geared Towards GPS Students: Students will complete both courses (6 s.h.) from the following list:"
+            ]
+        },
+        "Track 2": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CEE",
+                            "course_number": "08302",
+                            "title": "Applications of CAD in Site Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16160",
+                            "title": "Digital Earth: Mapping and Geographic Information Science",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Track 2 Geared Towards Civil Engineering Students: Students will complete both courses (6 s.h.) from the following list:"
+            ]
+        },
+        "Elective Courses: 3-4 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "GEOG",
+                            "course_number": "16260",
+                            "title": "Fundamentals of Geographic Information Systems (GIS)",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CEE",
+                            "course_number": "08302",
+                            "title": "Applications of CAD in Site Design",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31385",
+                            "title": "New Jersey Applied Planning Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31386",
+                            "title": "Land Use and Conservation",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PLAN",
+                            "course_number": "31389",
+                            "title": "Environmental / Sustainable Planning",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Elective Courses: 3-4 s.h.",
+                "Choose 1 course"
+            ]
+        },
+        "Total Required Credits for the Program: 12-13 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12-13 s.h. To be awarded the CUGS in Land Development Principles and Tools, students must complete all courses required for the CUGS in Land Development Principles and Tools with at least a 2.0 average. For information related to this program, please contact: Ashley York, Ph.D. 856.256.4811 yorka@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

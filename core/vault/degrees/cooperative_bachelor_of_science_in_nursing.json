@@ -1,0 +1,399 @@
+{
+    "name": "Cooperative Bachelor of Science in Nursing",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7715&returnto=1028",
+    "content": {
+        "Cooperative Bachelor of Science in Nursing": [
+            "Cooperative Bachelor of Science in Nursing"
+        ],
+        "Rowan University Graduation Requirements for all Majors/Degrees": [
+            "Rowan University Graduation Requirements for all Majors/Degrees Students must complete at least 120 semester hours (s.h.) of coursework that apply to their Rowan University degree. Students must have a cumulative GPA of at least 2.0 in Rowan University coursework. (Transfer courses/credit do not count toward the RU GPA.) A minimum of 30 s.h. of coursework must be completed at/through Rowan University. Only grades of “D-” or above may apply to graduation/degree requirements. (Some programs may set higher minimums.) Students must meet the Rowan Core and Rowan Experience Requirements. An individual course can potentially satisfy one Rowan Core literacy and/or multiple Rowan Experience attributes. Rowan Core & Rowan Experience designations are listed in course details in Section Tally (www.rowan.edu/registrar) and may also be searched on that site under “Attributes.” A list of Rowan Core courses is here: https://confluence.rowan.edu/display/AS/Rowan+Core+Course+List. Students must apply for graduation and should do so for the term in which they will complete all program requirements."
+        ],
+        "Program-Specific Graduation Requirements for this Major / Degree": [
+            "Program-Specific Graduation Requirements for this Major / Degree Students must have a GPA of 2.5 or higher and no grade lower than C for acceptance to the diploma phase of program Students must maintain a GPA of 2.5 or higher and minimum grade of C for all courses to remain in good standing in the program Students must complete the Nursing Diploma, pass NCLEX and receive their RN licensure before they can complete the RN-BSN phase of the program All courses listed below with an asterisk (*) must be completed before entering the diploma phase of the program"
+        ],
+        "Rowan Core Requirements": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07215",
+                            "title": "Experiencing Acting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02225",
+                            "title": "Arts and Medicine",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COMP",
+                            "course_number": "01111",
+                            "title": "College Composition I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COMP",
+                            "course_number": "01112",
+                            "title": "College Composition II",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04205",
+                            "title": "Public Speaking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05120",
+                            "title": "World History since 1500",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03404",
+                            "title": "Research Applications in Nursing Practice - WI",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Rowan Core Requirements Students must satisfy all six Rowan Core Literacies 1 . A minimum total of 3 s.h. of coursework is required to satisfy each Literacy. With the exception of the 9 s.h. counted here for Communicative Literacy, credits attached to the courses in this section will apply elsewhere.",
+                "(COML) Communicative Literacy: Must be met by the following three courses or their official equivalents:",
+                "(ARTL) Artistic Literacy - Recommendation from major:",
+                "(GLBL) Global Literacy - Recommendation from major",
+                "(HUML) Humanistic Literacy - Recommendation from major",
+                "(QNTL) Quantitative Literacy - Recommendation from major",
+                "(SCIL) Scientific Literacy - Recommendation from major"
+            ]
+        },
+        "Rowan Experience Requirements:": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02123",
+                            "title": "Topics in Literature",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03404",
+                            "title": "Research Applications in Nursing Practice - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COMP",
+                            "course_number": "01111",
+                            "title": "College Composition I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Rowan Experience Requirements: Students must satisfy all three Rowan Experience attributes. Credits attached to the courses in this section will apply elsewhere",
+                "(LIT) Broad-Based Literature Attribute Recommendation from major:",
+                "(WI) Writing Intensive Attribute Recommendation from major:",
+                "(RS) Rowan Seminar Attribute 2 Recommendation from major:"
+            ]
+        },
+        "Non-Program Courses: 21 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CMS",
+                            "course_number": "04205",
+                            "title": "Public Speaking",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CMS",
+                            "course_number": "04206",
+                            "title": "Digital Presentations",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "THD",
+                            "course_number": "07215",
+                            "title": "Experiencing Acting",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ANTH",
+                            "course_number": "02225",
+                            "title": "Arts and Medicine",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "COMP",
+                            "course_number": "01111",
+                            "title": "College Composition I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "COMP",
+                            "course_number": "01112",
+                            "title": "College Composition II *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "HIST",
+                            "course_number": "05120",
+                            "title": "World History since 1500 *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "01107",
+                            "title": "Essentials of Psychology *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "ENGL",
+                            "course_number": "02123",
+                            "title": "Topics in Literature",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Non-Program Courses: 21 s.h. Courses in this section cannot be in the major department.",
+                "1 The Rowan Core requirements are waived for transfer students with an earned A.A. or A.S. degree from a NJ community/county college. 2 The Rowan Seminar requirement is waived for all students transferring 24 or more approved credits into Rowan University at the time of initial entry."
+            ]
+        },
+        "Major Requirements: 99 s.h.": [
+            "Major Requirements: 99 s.h. Summary of Major Requirements 25 sh of Foundation Courses 37 sh of Diploma Courses 37 sh of Rowan RN-BSN and Holistic Nursing Courses"
+        ],
+        "Foundation Courses": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10210",
+                            "title": "Human Anatomy and Physiology I *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "BIOL",
+                            "course_number": "10212",
+                            "title": "Human Anatomy and Physiology II *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "CHEM",
+                            "course_number": "05105",
+                            "title": "General Organic and Biological Chemistry *",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "STAT",
+                            "course_number": "02260",
+                            "title": "Statistics I *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "PSY",
+                            "course_number": "09218",
+                            "title": "Lifespan Development *",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SOC",
+                            "course_number": "08220",
+                            "title": "Sociology of the Family",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Foundation Courses (Rowan courses required for entry to Our Lady of Lourdes Nursing Diploma program)",
+                "BIO XXXXX - Clinical Microbiology* Credits: 4"
+            ]
+        },
+        "Nursing Diploma Courses (Our Lady of Lourdes Nursing Diploma program courses): 37 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "OLOL",
+                            "course_number": "00110",
+                            "title": "Health Assessment",
+                            "credits": 2
+                        },
+                        {
+                            "subject": "OLOL",
+                            "course_number": "00102",
+                            "title": "Nursing I: Foundations of Practice and Mental Health Nursing",
+                            "credits": 8
+                        },
+                        {
+                            "subject": "OLOL",
+                            "course_number": "00111",
+                            "title": "Nursing II: Health Promotion and Illness Mgmt of Child-bearing Family and Adult w/ Chronic Illness",
+                            "credits": 8
+                        },
+                        {
+                            "subject": "OLOL",
+                            "course_number": "00202",
+                            "title": "Nursing III: Management of Acute and Chronic Health Issues Across the Lifespan",
+                            "credits": 8
+                        },
+                        {
+                            "subject": "OLOL",
+                            "course_number": "00211",
+                            "title": "Nursing IV: Management of Individuals and Groups with Complex Health Issues",
+                            "credits": 8
+                        },
+                        {
+                            "subject": "OLOL",
+                            "course_number": "00235",
+                            "title": "Transition to Practice",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Nursing Diploma Courses (Our Lady of Lourdes Nursing Diploma program courses): 37 s.h."
+            ]
+        },
+        "BSN Nursing Courses (Rowan University Courses; RN-BSN and Holistic Nursing): 37 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "03308",
+                            "title": "Pharmacology of Nursing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "05505",
+                            "title": "Advanced Pharmacology",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "NURS",
+                            "course_number": "03404",
+                            "title": "Research Applications in Nursing Practice - WI",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03405",
+                            "title": "Health Care Policy and Finance",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03303",
+                            "title": "Comprehensive Health Assessment",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03403",
+                            "title": "Nursing Care Delivery Systems",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03304",
+                            "title": "Nursing Informatics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03409",
+                            "title": "Holistic Therapeutic Healing and Cultural Diversity",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03400",
+                            "title": "Holistic Nursing Philosophy, Theories, and Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03300",
+                            "title": "Pathophysiology for Nursing",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03309",
+                            "title": "Topics In Health Care Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "NURS",
+                            "course_number": "03401",
+                            "title": "Community Health Nursing",
+                            "credits": 6
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "BSN Nursing Courses (Rowan University Courses; RN-BSN and Holistic Nursing): 37 s.h.",
+                "NURS 034XX - Professional Development Credits: 1"
+            ]
+        },
+        "Total Required Credits for the Program: 120 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 120 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Certificate of Graduate Study in Teaching in Urban & Diverse Settings",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7644&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Teaching in Urban & Diverse Settings": [
+            "Certificate of Graduate Study in Teaching in Urban & Diverse Settings Students who pursue this certificate will deepen their understanding about the complexities and contexts that inform urban educational settings. This knowledge is significant not only because the majority of students in states like New Jersey attend city schools, but also because students of color have since become the majority across all schools in the United States. As a result, there is a continuing need for educators who are better prepared to teach students of color in city schools in ways that are culturally sustaining, accessible, and socially just. Further, the US Department of Education’s Teacher Shortage areas report indicates that Newark, Trenton, Camden, Philadelphia, and Baltimore continue to face shortages in qualified teachers, due in part to teacher turnover that relates to a lack of proper preparation. The COGS in Teaching in Urban & Diverse settings is designed to provide the knowledge educators need to work in city schools in ways that can create equitable and culturally relevant learning environments through more just and dignified educational interactions."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "or",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90533",
+                            "title": "Critical Pedagogy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90532",
+                            "title": "Working with Families and Communities",
+                            "credits": 3
+                        }
+                    ]
+                },
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "CASE",
+                            "course_number": "90510",
+                            "title": "Power and Privilege: The Social Construction of Difference",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "CASE",
+                            "course_number": "90530",
+                            "title": "Curriculum Theories in Urban Education",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h.",
+                "CASE 90531 - Critical Consciousness: Sharing Power and Voice with Students Credits: 3"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements None Minimum Required Grades and Cumulative GPA The COGS in Teaching in Urban & Diverse Settings is a Category 1 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Walter Gershon, Ph.D. Herman D. James Hall 856.256.4798 gershon@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

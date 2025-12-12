@@ -1,0 +1,199 @@
+{
+    "name": "Master of Social Work",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7593&returnto=1028",
+    "content": {
+        "Master of Social Work": [
+            "Master of Social Work Rowan University’s Master of Social Work (M.S.W.) Program provides specialized practice in mental health, equity and wellbeing. Additional graduate certification (COGS) options further transdisciplinary learning and practice. The two-year program requires a minimum of 59 credits with 900 hours of field work experience."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "First Year Generalist Courses: 18 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SWK",
+                            "course_number": "01510",
+                            "title": "Research Methods in Social Work",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01515",
+                            "title": "Disparity, Systemic Inequality and Social Work Ethics",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01525",
+                            "title": "Introduction to Generalist Social Work Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01530",
+                            "title": "Social Policy, Advocacy and Practice",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01540",
+                            "title": "Mental Health Assessment Across the Lifespan",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01545",
+                            "title": "Advanced Social Work Practice",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "First Year Generalist Courses: 18 s.h."
+            ]
+        },
+        "First Year General Field Education: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SWK",
+                            "course_number": "01550",
+                            "title": "Generalist Field Work and Seminar in Social Work I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01551",
+                            "title": "Generalist Field Experience and Seminar II",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "First Year General Field Education: 6 s.h."
+            ]
+        },
+        "Second Year Advanced Standing Core Courses: 6 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SWK",
+                            "course_number": "01610",
+                            "title": "Advanced Social Work Research, Evaluation, Planning and Administration",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01620",
+                            "title": "Social Work Supervision and Leadership",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Second Year Advanced Standing Core Courses: 6 s.h."
+            ]
+        },
+        "Second Year Advanced Standing Specialization Courses: Mental Health, Equity and Well Being: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SWK",
+                            "course_number": "01630",
+                            "title": "Mental Health and Healthcare Policy",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01640",
+                            "title": "Impact and Intersections of Mental Health, Substance Abuse, and Trauma",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01660",
+                            "title": "Emerging Approaches to Integrative Health and Well Being",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01670",
+                            "title": "Transdisciplinary Social Work Practice and Integrated Care",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Second Year Advanced Standing Specialization Courses: Mental Health, Equity and Well Being: 12 s.h."
+            ]
+        },
+        "Second Year Advanced Standing Field Education: 8 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "SWK",
+                            "course_number": "01650",
+                            "title": "Advanced Field Work and Seminar in Social Work I",
+                            "credits": 4
+                        },
+                        {
+                            "subject": "SWK",
+                            "course_number": "01651",
+                            "title": "Advanced Field Work and Seminar in Social Work II",
+                            "credits": 4
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Second Year Advanced Standing Field Education: 8 s.h."
+            ]
+        },
+        "Electives: 9 s.h.": [
+            "Electives: 9 s.h. The MSW requires a minimum of 9 elective credits. To enhance transdisciplinary learning, electives can be fulfilled through social work or other approved Rowan graduate courses from the certificate programs listed below."
+        ],
+        "MSW Approved Graduate Certificates (COGS)": [
+            "MSW Approved Graduate Certificates (COGS) Electives are designed to further transdisciplinary learning and students are encouraged to explore partner graduate programs and/or related disciplines. Students have the option to apply elective credits towards a related certificate in graduate study (COGS). Certificates are not a requirement for MSW degree completion and oversite is provided by the department/program offering the certificate. Rowan certificate programs that can count towards MSW elective credit include: Diversity & Inclusion Holocaust & Genocide Education Public Health Preparedness & Emergency Medical Management Public Policy Wellness Coaching"
+        ],
+        "Certificate of Graduate Study in Diversity & Inclusion: 12 s.h.": [
+            "Certificate of Graduate Study in Diversity & Inclusion: 12 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Diversity & Inclusion"
+        ],
+        "Certificate of Graduate Study in Holocaust & Genocide Education: 12 s.h.": [
+            "Certificate of Graduate Study in Holocaust & Genocide Education: 12 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Holocaust & Genocide Education."
+        ],
+        "Certificate of Graduate Study in Public Health Preparedness & Emergency Medical Management: 12 s.h.": [
+            "Certificate of Graduate Study in Public Health Preparedness & Emergency Medical Management: 12 s.h. For inormation regarding the COGS please visit Certificate of Graduate Study in Public Health Preparedness & Emergency Medical Management"
+        ],
+        "Certificate of Graduate Study in Public Policy: 9 s.h.": [
+            "Certificate of Graduate Study in Public Policy: 9 s.h. For information regarding the COGS please visit Certificate of Graduate Study in Public Policy"
+        ],
+        "Certificate of Graduate Study in Wellness Coaching: 12 s.h.": [
+            "Certificate of Graduate Study in Wellness Coaching: 12 s.h. For information on the COGS please visit Certificate of Graduate Study in Wellness Coaching"
+        ],
+        "Note:": [
+            "Note: *Required Course Graduates are eligible for national certification from the National Board of Health and Wellness Coaches. Upon student request additional certificates (COGS) and/or graduate courses will be considered by the MSW Program Director on a case by case basis."
+        ],
+        "Total Required Credits for the Program: 59 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 59 s.h. Foundation Courses None Graduation/Exit, Benchmark, and/or Thesis Requirements Completion of 900 hours of field education Minimum Required Grades and Cumulative GPA The Master of Social Work is a Category 3 program. For details regarding satisfactory academic progress and graduation requirements, please visit Academic Program Policy Categories. Program Coordinator/Advisor Contact Information Mary K Tuohy, DSW Campbell Library, Fifth Floor Tuohy@rowan.edu Field Education Coordinator/Advisor Contact Information Staci Fattore, LCSW Campbell Library, Fifth Floor fattore@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

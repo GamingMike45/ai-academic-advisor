@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Graduate Study in Project Management",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7686&returnto=1028",
+    "content": {
+        "Certificate of Graduate Study in Project Management": [
+            "Certificate of Graduate Study in Project Management The Certificate of Graduate Study (COGS) in Project Management emphasizes engineering management from the engineering perspective. This program offers students a hands-on learning experience in engineering applications and practice.  Completion of this certificate will provide valued credentials and information to both students entering the workforce, or pursuing further graduate work. The courses in this certificate can be used to fulfill the degree requirements for the Master of Engineering Management."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "EM",
+                            "course_number": "01513",
+                            "title": "Engineering Decision Making",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "EM",
+                            "course_number": "01542",
+                            "title": "Facilities Management",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06666",
+                            "title": "Managing Engineering Teams",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06677",
+                            "title": "Management Skills for Engineers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h."
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h.",
+                "Notes:"
+            ]
+        }
+    }
+}

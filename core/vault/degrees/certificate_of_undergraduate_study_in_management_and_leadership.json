@@ -1,0 +1,55 @@
+{
+    "name": "Certificate of Undergraduate Study in Management & Leadership",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=6967&returnto=1028",
+    "content": {
+        "Certificate of Undergraduate Study in Management & Leadership": [
+            "Certificate of Undergraduate Study in Management & Leadership The Certificate of Undergraduate Study (CUGS) in Management & Leadership is open to students in any major other than Management and is designed to give students a working knowledge of the softer, qualitative, and behavioral aspects of management and will help their preparedness for entry into the workplace. The four courses below will enable students to: 1) understand how to communicate effectively in organizational/business settings; 2) understand theories about motivation and team building; 3) understand theories underlying the different types of leadership and 4) understand theories of organizational change and development."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Required Courses: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MGT",
+                            "course_number": "06300",
+                            "title": "Organizational Behavior",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06304",
+                            "title": "Organizational Change and Development",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MGT",
+                            "course_number": "06310",
+                            "title": "Leadership and Supervision for Managers",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "WA",
+                            "course_number": "01408",
+                            "title": "Writing as Managers",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required Courses: 12 s.h. The requirements include the following four courses:"
+            ]
+        },
+        "Total Required Credits for the Program: 12 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Program: 12 s.h. To be awarded the CUGS in Management & Leadership, students must complete all four courses required for the CUGS in Management & Leadership with at least a 2.0 GPA average. The above mentioned pre-requisites make this CUGS best suited for students who are sophomores, and have completed the writing/composition course sequence, and would like to develop an understanding of organizational management and leadership skills in their junior year and beyond. Dilip Mirchandani Advisor Business Hall 341 856.256.4048 mirchandani@rowan.edu",
+                "Notes:"
+            ]
+        }
+    }
+}

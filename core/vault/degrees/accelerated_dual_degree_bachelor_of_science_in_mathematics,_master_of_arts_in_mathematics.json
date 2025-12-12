@@ -1,0 +1,64 @@
+{
+    "name": "Accelerated Dual Degree: Bachelor of Science in Mathematics, Master of Arts in Mathematics",
+    "url": "https://catalog.rowan.edu/preview_degree_planner.php?catoid=13&poid=7235&returnto=1028",
+    "content": {
+        "Accelerated Dual Degree: Bachelor of Science in Mathematics, Master of Arts in Mathematics": [
+            "Accelerated Dual Degree: Bachelor of Science in Mathematics, Master of Arts in Mathematics The accelerated dual Bachelor of Science/Master of Arts in Mathematics program provides an opportunity for individuals to pursue advanced study in mathematics and to develop skills that can lead to success in today’s technologically oriented society. Whether the goal involves applying mathematics to solve problems in business and industry, teaching in higher education or preparing for further graduate study in mathematics or related fields, this program enables each student to pursue a course of study that is appropriate for his or her interests. The dual degree program is designed to be completed in five years.  Students will begin the first (freshman) year of the program through the third (junior) year fulfilling undergraduate B.S. in Mathematics course requirements and general education course requirements.  The fourth (senior) year marks the official start of the dual degree program.  In year four students will begin to take some graduate level courses and will complete any remaining undergraduate B.S. in Mathematics and general education course requirements.  Year five includes the remaining credits of M.A. in Mathematics courses to be taken as a graduate student."
+        ],
+        "Program Requirements": [
+            "Program Requirements"
+        ],
+        "Undergraduate Program Requirements: 120 s.h.": [
+            "Undergraduate Program Requirements: 120 s.h. As listed in Bachelor of Science in Mathematics Please consult with your advisor to ensure you have taken all prerequisite courses for the Master’s courses (12 s.h. of graduate courses taken as an undergraduate student)."
+        ],
+        "Accelerated Program Requirements": [
+            "Accelerated Program Requirements Students will complete a minimum of 30 semester hours of graduate credits in mathematics. Twelve semester hours will provide a core experience for all graduate students, including one course in linear algebra, one course in abstract algebra, and two courses in analysis.  Students will also complete 3-9 s.h. from Bank A, 6-12 s.h. from Bank B, and a minimum of 3 s.h. in Seminar and Research. Students should enroll in the required core courses first. The Mathematics Seminar is required and should be taken after most of the course work is completed. The comprehensive exam is usually taken during the Mathematics Seminar."
+        ],
+        "Required MA Courses taken as an Undergraduate student: 12 s.h.": {
+            "requirements": [
+                {
+                    "type": "and",
+                    "courses": [
+                        {
+                            "subject": "MATH",
+                            "course_number": "01502",
+                            "title": "Linear Algebra and Matrix Theory",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01510",
+                            "title": "Real Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01512",
+                            "title": "Complex Analysis I",
+                            "credits": 3
+                        },
+                        {
+                            "subject": "MATH",
+                            "course_number": "01524",
+                            "title": "Abstract Algebra I",
+                            "credits": 3
+                        }
+                    ]
+                }
+            ],
+            "notes": [
+                "Required MA Courses taken as an Undergraduate student: 12 s.h."
+            ]
+        },
+        "Required MA Courses taken as a Graduate student: 18 s.h.": [
+            "Required MA Courses taken as a Graduate student: 18 s.h. The Remaining Courses for the Master’s degree are as shown in Master of Arts in Mathematics"
+        ],
+        "Total Required Credits for the Entire ADD Program: 138 s.h.": {
+            "requirements": [],
+            "notes": [
+                "Total Required Credits for the Entire ADD Program: 138 s.h. Admissions Requirements The following is a list of items required to begin the application process for the ADD B.S./M.A. in Mathematics program. There may be additional action or materials required for admission to the program. Upon receipt of the materials below a representative from the Rowan Global Admissions Processing Office will contact you with confirmation or indicating any missing items. • One letter of recommendation from a faculty member in the Mathematics Department • Must be currently enrolled in the B.S. in Mathematics undergraduate degree program • Successfully completed a minimum of 24 credits of undergraduate Mathematics coursework • A minimum undergraduate Mathematics (major) GPA of 3.5 • Completion of the form Accelerated B.S./M.A. in Mathematics Dual Degree Program: Undergraduate student registering for a graduate course • Completion of the form All Accelerated  B.S.(B.A.)/M.S.(M.A.) Dual Degree Programs: transition into The Graduate School Contingency for Students who do not Complete the Master of Arts program: If the student “opts out” before 12 graduate credits have been completed, any remaining credits needed for 120 credits required for the undergraduate degree will be taken at the undergraduate level and selected through consultation between the advisor, the Mathematics department and the student.",
+                "Notes:"
+            ]
+        }
+    }
+}
