@@ -25,8 +25,6 @@ As project currently stands. Update as changes are made please.
 |
 |
 +-- sandbox/                # Testing and experimentation
-+-- data/                   # Processed data (JSON files)
-+-- raw_data/               # Raw data (PDFs from users)
 +-- main.py                 # CLI entry point for testing LLM
 +-- requirements.txt        # Dependencies (pip install -r requirements.txt)
 ```
@@ -50,7 +48,7 @@ In `main.py`, update the `LLMAgent` configuration to use your preferred model:
 ```python
 agent = LLMAgent(
     model_name="mistral-small:24b",                              # Model name
-    model_url="http://your-server:port/v1/chat/completions",  # OpenAI-compatible endpoint
+    model_url="http://your-server:port/api/chat",          # Ollama OpenAI-compatible endpoint
     display_thinking=True                                  # Set to False for production (Broken now) Output is still displaying correct
 )
 ```
@@ -90,9 +88,6 @@ Open your browser and go to `http://localhost:8000` to use the AI Advisor.
 > **Tip:** VS Code users can use the debugger (F5) with the preconfigured `launch.json` to start both servers simultaneously. (Tip from Michael)
 
 ## Change Log
-### 2025-12-04 (Edwin)
-
--Added export button that exports chat to a downloaded pdf
 
 ### 2025-12-10 (Tarosh)
 - fixed markdown rendering in chat.html
@@ -140,6 +135,8 @@ structured output from ollama was creating a bottleneck for the llms critical th
 - Changed output format from `: HEADER :` to `[ HEADER ]` for better readability
 - Added debug logging in `core/llm.py` to display full tool results in terminal
 
+### 2025-12-04 (Edwin)
+-Added export button that exports chat to a downloaded pdf
 
 ### 2025-12-04 (Tarosh)
 - The big merge moving from LM Studio to Ollama (Merge branch 'tarosh' into lmstudio-2-ollama)
